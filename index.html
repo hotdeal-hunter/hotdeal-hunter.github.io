@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#f3f1ed" />
+    <meta name="description" content="핫딜헌터가 직접 선별한 쿠팡·토스쇼핑 할인 상품을 모아보세요." />
+    <title>핫딜헌터 | 오늘의 실시간 특가</title>
+    <link rel="icon" href="assets/hotdeal-hunter-profile.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="ambient ambient-one"></div>
+    <div class="ambient ambient-two"></div>
+    <main class="shell">
+      <header class="hero">
+        <div class="brand-row">
+          <img class="brand-avatar" src="assets/hotdeal-hunter-profile.png" alt="핫딜헌터" />
+          <div>
+            <p class="eyebrow">오늘 가격이 떨어진 상품만</p>
+            <h1>오늘의 핫딜 모아보기</h1>
+          </div>
+          <span class="live"><i></i> LIVE</span>
+        </div>
+
+        <a class="alarm-cta" href="https://open.kakao.com/o/peoxMeJi" target="_blank" rel="noopener noreferrer">
+          <span class="cta-mark" aria-hidden="true"><span>TALK</span></span>
+          <span><strong>품절 전에 알림받기</strong><small>카카오톡 핫딜방 바로가기</small></span>
+          <span aria-hidden="true">→</span>
+        </a>
+
+        <aside class="notice notice-inline" aria-label="가격 및 제휴 안내">
+          <p>• 이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.</p>
+          <p>• 와우회원 카드할인/쿠폰적용가 기준입니다.</p>
+          <p>• 품절·가격 변동시 핫딜 종료! 실시간 알림 받고 놓치지 마세요!</p>
+        </aside>
+      </header>
+
+      <section class="controls" aria-label="상품 필터">
+        <label class="search">
+          <span aria-hidden="true">⌕</span>
+          <input id="deal-search" type="search" placeholder="상품명이나 브랜드를 검색하세요" autocomplete="off" aria-label="핫딜 상품 검색" />
+        </label>
+        <div class="tabs" role="tablist">
+          <button class="tab is-active" data-source="all" type="button">전체</button>
+          <button class="tab" data-source="coupang" type="button">쿠팡</button>
+          <button class="tab" data-source="toss" type="button">토스쇼핑</button>
+        </div>
+      </section>
+
+      <p id="updated-at" class="updated-at" aria-live="polite">가격 정보를 불러오는 중입니다.</p>
+
+      <section>
+        <div id="deal-list" class="deal-list"></div>
+        <div id="empty-state" class="empty" hidden>
+          <strong>조건에 맞는 상품이 없습니다.</strong>
+          <span>검색어나 쇼핑몰 필터를 바꿔보세요.</span>
+        </div>
+      </section>
+
+      <footer>
+        <img src="assets/hotdeal-hunter-profile.png" alt="" />
+        <div><strong>핫딜헌터</strong><span>가격이 내려가는 순간을 포착합니다.</span></div>
+      </footer>
+    </main>
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
