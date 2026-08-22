@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T11:20:18.321Z",
+  "updatedAt": "2026-08-22T15:29:19.481Z",
   "deals": [
     {
       "id": "toss:p:1066283785|n:하람떡방 쑥 인절미, 100g, 10개",
@@ -15,23 +15,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-22T11:20:03.696Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:158611991|n:상품",
-      "source": "toss",
-      "name": "상품",
-      "price": 27920,
-      "listPrice": null,
-      "observedAt": "2026-08-22T10:39:26.349Z",
-      "url": "https://toss.im/_m/NSoYKLr3",
-      "image": "assets/products/1c5d4924b3b6bd227aee.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 27920,
-          "observedAt": "2026-08-22T10:39:26.349Z"
         }
       ]
     },
@@ -61,25 +44,12 @@
       "observedAt": "2026-08-22T09:57:22.379Z",
       "url": "https://link.coupang.com/a/gqb203t7WC",
       "image": "assets/products/ae32cc1ff2961eb25f84.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 26660,
           "observedAt": "2026-08-22T09:57:22.379Z"
-        }
-      ]
-    },
-    {
-      "id": "p:35632925|i:25231819208|v:-",
-      "source": "coupang",
-      "name": "락토핏 골드 유산균 선물세트, 100g, 3개",
-      "price": 26660,
-      "listPrice": null,
-      "observedAt": "2026-08-22T09:28:01.048Z",
-      "url": "https://link.coupang.com/a/gp9WW9FtbE",
-      "image": "assets/products/45be73be91dd1ee83455.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
+        },
         {
           "price": 26660,
           "observedAt": "2026-08-22T09:28:01.048Z"
@@ -489,11 +459,19 @@
       "observedAt": "2026-08-22T02:03:14.910Z",
       "url": "https://toss.im/_m/xR8Chned",
       "image": "assets/products/5cfe4ece974213944cad.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
         {
           "price": 15900,
           "observedAt": "2026-08-22T02:03:14.910Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T01:34:00.904Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T00:49:32.283Z"
         }
       ]
     },
@@ -515,27 +493,6 @@
         {
           "price": 23490,
           "observedAt": "2026-08-22T01:53:26.161Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:139928601|n:바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
-      "source": "toss",
-      "name": "바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
-      "price": 15900,
-      "listPrice": 50000,
-      "observedAt": "2026-08-22T01:34:00.904Z",
-      "url": "https://toss.im/_m/xR8Chned",
-      "image": "assets/products/ef3ae1a73a56f4dc369c.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-08-22T01:34:00.904Z"
-        },
-        {
-          "price": 15900,
-          "observedAt": "2026-08-22T00:49:32.283Z"
         }
       ]
     },
@@ -1104,11 +1061,15 @@
       "observedAt": "2026-08-21T09:20:56.956Z",
       "url": "https://link.coupang.com/a/gouxwhZpXo",
       "image": null,
-      "insight": "2회 가격 기록",
+      "insight": "3회 가격 기록",
       "history": [
         {
           "price": 9580,
           "observedAt": "2026-08-21T09:20:56.956Z"
+        },
+        {
+          "price": 9580,
+          "observedAt": "2026-08-21T08:06:27.504Z"
         },
         {
           "price": 9580,
@@ -1176,23 +1137,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-21T08:17:55.264Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8497522258|i:24595441086|v:-",
-      "source": "coupang",
-      "name": "사푸토 스트링 치즈 냉장, 28g, 24개입, 1개",
-      "price": 9580,
-      "listPrice": null,
-      "observedAt": "2026-08-21T08:06:27.504Z",
-      "url": "https://link.coupang.com/a/gopdum5DOK",
-      "image": "assets/products/eb20030f36f4d7bcc806.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9580,
-          "observedAt": "2026-08-21T08:06:27.504Z"
         }
       ]
     },
@@ -1897,11 +1841,15 @@
       "observedAt": "2026-08-20T11:17:49.185Z",
       "url": "https://link.coupang.com/a/gmXZouKqLQ",
       "image": "assets/products/32b9d8ca6634d017f762.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 8240,
           "observedAt": "2026-08-20T11:17:49.185Z"
+        },
+        {
+          "price": 8240,
+          "observedAt": "2026-08-19T22:26:15.638Z"
         }
       ]
     },
@@ -2050,11 +1998,19 @@
       "observedAt": "2026-08-20T08:55:14.168Z",
       "url": "https://toss.im/_m/JXRGxDnm",
       "image": "assets/products/bbc5966f5b7dc829d7d7.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
         {
           "price": 15600,
           "observedAt": "2026-08-20T08:55:14.168Z"
+        },
+        {
+          "price": 26600,
+          "observedAt": "2026-08-20T00:53:34.332Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T00:53:34.040Z"
         }
       ]
     },
@@ -2067,7 +2023,7 @@
       "observedAt": "2026-08-20T08:36:32.752Z",
       "url": "https://toss.im/_m/lwdjjFp8",
       "image": "assets/products/5a739411792c67228c6a.png",
-      "insight": "3회 가격 기록",
+      "insight": "4회 가격 기록",
       "history": [
         {
           "price": 11050,
@@ -2080,6 +2036,10 @@
         {
           "price": 11050,
           "observedAt": "2026-08-19T04:54:21.047Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T03:47:12.659Z"
         }
       ]
     },
@@ -2330,11 +2290,15 @@
       "observedAt": "2026-08-20T04:41:02.219Z",
       "url": "https://toss.im/_m/hlgXume6",
       "image": "assets/products/a91e31f924f9bb01eb54.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 8700,
           "observedAt": "2026-08-20T04:41:02.219Z"
+        },
+        {
+          "price": 8700,
+          "observedAt": "2026-08-18T00:28:38.930Z"
         }
       ]
     },
@@ -2543,27 +2507,6 @@
       ]
     },
     {
-      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
-      "source": "toss",
-      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
-      "price": 26600,
-      "listPrice": null,
-      "observedAt": "2026-08-20T00:53:34.332Z",
-      "url": "https://toss.im/_m/JXRGxDnm",
-      "image": "assets/products/c1e96c786ad1c3944a01.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 26600,
-          "observedAt": "2026-08-20T00:53:34.332Z"
-        },
-        {
-          "price": 15600,
-          "observedAt": "2026-08-20T00:53:34.040Z"
-        }
-      ]
-    },
-    {
       "id": "p:7173279213|i:8309892210|v:75597778744",
       "source": "coupang",
       "name": "비비고 직화 참기름김, 54g, 1개, 54g × 1개",
@@ -2606,11 +2549,15 @@
       "observedAt": "2026-08-20T00:33:37.376Z",
       "url": "https://toss.im/_m/dwl38KH8",
       "image": "assets/products/e7659e1ccb0f45267624.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 7200,
           "observedAt": "2026-08-20T00:33:37.376Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-19T04:40:58.634Z"
         }
       ]
     },
@@ -2734,23 +2681,6 @@
         {
           "price": 8500,
           "observedAt": "2026-08-19T22:26:15.865Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9673144907|i:13660085713|v:72067118546",
-      "source": "coupang",
-      "name": "켈로그 아몬드 푸레이크 시리얼, 600g, 2개",
-      "price": 8240,
-      "listPrice": 9860,
-      "observedAt": "2026-08-19T22:26:15.638Z",
-      "url": "https://link.coupang.com/a/gl4QMw9tVA",
-      "image": "assets/products/23fa5692bd6ac43d6401.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8240,
-          "observedAt": "2026-08-19T22:26:15.638Z"
         }
       ]
     },
@@ -2890,11 +2820,15 @@
       "observedAt": "2026-08-19T12:44:38.330Z",
       "url": "https://link.coupang.com/a/glphUOj6bI",
       "image": "assets/products/6c7f09813b934f4185f8.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 13540,
           "observedAt": "2026-08-19T12:44:38.330Z"
+        },
+        {
+          "price": 13540,
+          "observedAt": "2026-08-19T04:01:23.048Z"
         }
       ]
     },
@@ -3412,23 +3346,6 @@
       ]
     },
     {
-      "id": "toss:p:56485011|n:더 빅토리아, 플레인, 500ml, 20개",
-      "source": "toss",
-      "name": "더 빅토리아, 플레인, 500ml, 20개",
-      "price": 7200,
-      "listPrice": null,
-      "observedAt": "2026-08-19T04:40:58.634Z",
-      "url": "https://toss.im/_m/dwl38KH8",
-      "image": "assets/products/459dccc1791d774e566b.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7200,
-          "observedAt": "2026-08-19T04:40:58.634Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:165269437|n:안국건강 아이원 루테인 지아잔틴 미니, 60캡슐, 3박스",
       "source": "toss",
       "name": "안국건강 아이원 루테인 지아잔틴 미니, 60캡슐, 3박스",
@@ -3442,40 +3359,6 @@
         {
           "price": 31400,
           "observedAt": "2026-08-19T04:23:51.211Z"
-        }
-      ]
-    },
-    {
-      "id": "p:46208003|i:18240724003|v:85387691552",
-      "source": "coupang",
-      "name": "메가도스 비타민C 3000mg, 180g, 1개",
-      "price": 13540,
-      "listPrice": null,
-      "observedAt": "2026-08-19T04:01:23.048Z",
-      "url": "https://link.coupang.com/a/gkNTDmH2Y0",
-      "image": "assets/products/dca8cadf9462b8529f07.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13540,
-          "observedAt": "2026-08-19T04:01:23.048Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
-      "source": "toss",
-      "name": "풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
-      "price": 11050,
-      "listPrice": null,
-      "observedAt": "2026-08-19T03:47:12.659Z",
-      "url": "https://toss.im/_m/lwdjjFp8",
-      "image": "assets/products/bfcfaebcd50a913d8f80.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T03:47:12.659Z"
         }
       ]
     },
@@ -4178,11 +4061,15 @@
       "observedAt": "2026-08-18T04:59:55.578Z",
       "url": "https://link.coupang.com/a/gjdaXwv1TU",
       "image": "assets/products/56ef68b00879f230893f.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 15000,
           "observedAt": "2026-08-18T04:59:55.578Z"
+        },
+        {
+          "price": 15000,
+          "observedAt": "2026-08-18T04:10:59.726Z"
         }
       ]
     },
@@ -4217,23 +4104,6 @@
         {
           "price": 6380,
           "observedAt": "2026-08-18T04:22:10.817Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8527551531|i:25015126266|v:-",
-      "source": "coupang",
-      "name": "아임리얼 100 고농축 블루베리, 120ml, 24개",
-      "price": 15000,
-      "listPrice": 20735,
-      "observedAt": "2026-08-18T04:10:59.726Z",
-      "url": "https://link.coupang.com/a/gi9Gayaw8G",
-      "image": "assets/products/7808483629b0af631c33.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15000,
-          "observedAt": "2026-08-18T04:10:59.726Z"
         }
       ]
     },
@@ -4471,23 +4341,6 @@
         {
           "price": 8600,
           "observedAt": "2026-08-18T00:28:39.011Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56322313|n:스파클 생수, 무라벨, 500ml, 80개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 500ml, 80개",
-      "price": 8700,
-      "listPrice": null,
-      "observedAt": "2026-08-18T00:28:38.930Z",
-      "url": "https://toss.im/_m/hlgXume6",
-      "image": "assets/products/6a74bdc8f071a276ca6d.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8700,
-          "observedAt": "2026-08-18T00:28:38.930Z"
         }
       ]
     },
