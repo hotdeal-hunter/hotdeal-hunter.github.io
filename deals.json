@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-22T15:29:19.481Z",
+  "updatedAt": "2026-08-22T22:06:13.053Z",
   "deals": [
+    {
+      "id": "p:9126304862|i:26857971206|v:93827691265",
+      "source": "coupang",
+      "name": "하인즈 토마토 어니언 파스타 소스, 350g, 3개",
+      "price": 7200,
+      "listPrice": 13440,
+      "observedAt": "2026-08-22T22:05:54.232Z",
+      "url": "https://link.coupang.com/a/gq16L5awlo",
+      "image": "assets/products/beacb35055b83a6e567c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7200,
+          "observedAt": "2026-08-22T22:05:54.232Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1066283785|n:하람떡방 쑥 인절미, 100g, 10개",
       "source": "toss",
