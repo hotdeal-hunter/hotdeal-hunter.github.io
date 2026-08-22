@@ -1,6 +1,2640 @@
 {
-  "updatedAt": "2026-08-19T23:30:28.255Z",
+  "updatedAt": "2026-08-22T11:20:18.321Z",
   "deals": [
+    {
+      "id": "toss:p:1066283785|n:하람떡방 쑥 인절미, 100g, 10개",
+      "source": "toss",
+      "name": "하람떡방 쑥 인절미, 100g, 10개",
+      "price": 9900,
+      "listPrice": 25900,
+      "observedAt": "2026-08-22T11:20:03.696Z",
+      "url": "https://toss.im/_m/DjreuZPz",
+      "image": "assets/products/c3787ca40adf8caab3e2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-22T11:20:03.696Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:158611991|n:상품",
+      "source": "toss",
+      "name": "상품",
+      "price": 27920,
+      "listPrice": null,
+      "observedAt": "2026-08-22T10:39:26.349Z",
+      "url": "https://toss.im/_m/NSoYKLr3",
+      "image": "assets/products/1c5d4924b3b6bd227aee.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27920,
+          "observedAt": "2026-08-22T10:39:26.349Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:158611991|n:매일유업 아몬드브리즈 언스위트, 190ml, 24개",
+      "source": "toss",
+      "name": "매일유업 아몬드브리즈 언스위트, 190ml, 24개",
+      "price": 14900,
+      "listPrice": 31200,
+      "observedAt": "2026-08-22T10:38:03.073Z",
+      "url": "https://toss.im/_m/NSoYKLr3",
+      "image": "assets/products/b771467d8b4b2578de06.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-22T10:38:03.073Z"
+        }
+      ]
+    },
+    {
+      "id": "p:35632925|i:25231819208|v:83397358106",
+      "source": "coupang",
+      "name": "락토핏 골드 유산균 선물세트, 100g, 3개",
+      "price": 26660,
+      "listPrice": null,
+      "observedAt": "2026-08-22T09:57:22.379Z",
+      "url": "https://link.coupang.com/a/gqb203t7WC",
+      "image": "assets/products/ae32cc1ff2961eb25f84.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26660,
+          "observedAt": "2026-08-22T09:57:22.379Z"
+        }
+      ]
+    },
+    {
+      "id": "p:35632925|i:25231819208|v:-",
+      "source": "coupang",
+      "name": "락토핏 골드 유산균 선물세트, 100g, 3개",
+      "price": 26660,
+      "listPrice": null,
+      "observedAt": "2026-08-22T09:28:01.048Z",
+      "url": "https://link.coupang.com/a/gp9WW9FtbE",
+      "image": "assets/products/45be73be91dd1ee83455.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26660,
+          "observedAt": "2026-08-22T09:28:01.048Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:138249443|n:떡편 초코 쌀케익, 35g, 18개",
+      "source": "toss",
+      "name": "떡편 초코 쌀케익, 35g, 18개",
+      "price": 10720,
+      "listPrice": null,
+      "observedAt": "2026-08-22T08:46:02.554Z",
+      "url": "https://toss.im/_m/tn9uaKTD",
+      "image": "assets/products/8856a07af279b61a7c2f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10720,
+          "observedAt": "2026-08-22T08:46:02.554Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:150811131|n:떡편 고구마 쌀케이크, 35g, 18개",
+      "source": "toss",
+      "name": "떡편 고구마 쌀케이크, 35g, 18개",
+      "price": 10400,
+      "listPrice": null,
+      "observedAt": "2026-08-22T08:46:02.277Z",
+      "url": "https://toss.im/_m/L3i4i5GC",
+      "image": "assets/products/08d41f1dc756ab83584c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10400,
+          "observedAt": "2026-08-22T08:46:02.277Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:155697921|n:햇반 윤기가득 쌀밥, 210g, 24개",
+      "source": "toss",
+      "name": "햇반 윤기가득 쌀밥, 210g, 24개",
+      "price": 24900,
+      "listPrice": 34900,
+      "observedAt": "2026-08-22T08:32:19.202Z",
+      "url": "https://toss.im/_m/7Pc57l81",
+      "image": "assets/products/75810c56bf0ee9c3c862.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-08-22T08:32:19.202Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1160787893|i:49479423|v:3077035193",
+      "source": "coupang",
+      "name": "오뚜기 컵누들 똠얌꿍 쌀국수, 44g, 15개",
+      "price": 11130,
+      "listPrice": 15428,
+      "observedAt": "2026-08-22T08:14:10.128Z",
+      "url": "https://link.coupang.com/a/gp4FLDTPSS",
+      "image": "assets/products/c0c50c0c02a9167f916c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11130,
+          "observedAt": "2026-08-22T08:14:10.128Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8313968468|i:24029947227|v:91184080612",
+      "source": "coupang",
+      "name": "바닐라코 하이드레이팅 립 오일, PK02 핑크 소르베 x 7.5ml x 1개",
+      "price": 5860,
+      "listPrice": null,
+      "observedAt": "2026-08-22T08:11:45.369Z",
+      "url": "https://link.coupang.com/a/gp4u5e1bRA",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5860,
+          "observedAt": "2026-08-22T08:11:45.369Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "배부른삼촌 구운란 대란, 30구, 1개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-22T07:51:30.137Z",
+      "url": "https://toss.im/_m/ZQPVVCqi",
+      "image": "assets/products/6c6cda3549c4432da881.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:51:30.137Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:40:01.736Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2597456191|n:순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
+      "source": "toss",
+      "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
+      "price": 9900,
+      "listPrice": 27900,
+      "observedAt": "2026-08-22T07:46:54.516Z",
+      "url": "https://toss.im/_m/DPgjXL88",
+      "image": "assets/products/105454f19b1563ba5525.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-22T07:46:54.516Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-08-19T23:01:57.161Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-08-18T23:01:14.769Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9658107108|i:28871056117|v:95804410972",
+      "source": "coupang",
+      "name": "농심 삼계탕 사발면 85g, 6개",
+      "price": 8980,
+      "listPrice": null,
+      "observedAt": "2026-08-22T07:09:31.381Z",
+      "url": "https://link.coupang.com/a/gpZ3muIZz3",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8980,
+          "observedAt": "2026-08-22T07:09:31.381Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:11506875|n:유한메디카 온가족 멀티비타민 미네랄 엔 탑 원데이 케어, 90정, 2개",
+      "source": "toss",
+      "name": "유한메디카 온가족 멀티비타민 미네랄 엔 탑 원데이 케어, 90정, 2개",
+      "price": 13150,
+      "listPrice": null,
+      "observedAt": "2026-08-22T07:00:19.453Z",
+      "url": "https://toss.im/_m/V0gnkm4c",
+      "image": "assets/products/6ab783a9f01e6529fbf8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13150,
+          "observedAt": "2026-08-22T07:00:19.453Z"
+        }
+      ]
+    },
+    {
+      "id": "p:326496469|i:19214622448|v:85068502694",
+      "source": "coupang",
+      "name": "양반 쇠고기죽, 420g, 2개",
+      "price": 4980,
+      "listPrice": null,
+      "observedAt": "2026-08-22T06:49:45.654Z",
+      "url": "https://link.coupang.com/a/gpYDN5qzvw",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-08-22T06:49:45.654Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9425013487|i:28016017228|v:94973327229",
+      "source": "coupang",
+      "name": "바자르 얼음결 3중직 냉감 밴딩 패드, 격자 화이트, SS, 쿨매트",
+      "price": 6960,
+      "listPrice": 27900,
+      "observedAt": "2026-08-22T06:08:29.899Z",
+      "url": "https://link.coupang.com/a/gpVGYTlCSW",
+      "image": "assets/products/3f13b27b9ea828375d39.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6960,
+          "observedAt": "2026-08-22T06:08:29.899Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:54630459|n:광천김 곱창김 도시락김, 5g, 27개",
+      "source": "toss",
+      "name": "광천김 곱창김 도시락김, 5g, 27개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-22T06:01:40.568Z",
+      "url": "https://toss.im/_m/5WztNDgc",
+      "image": "assets/products/3df2602bf8ec0cb7b41f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T06:01:40.568Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-21T23:52:59.348Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6522994589|i:14460131809|v:81703577888",
+      "source": "coupang",
+      "name": "프로그 파우더프리 3.0 니트릴장갑, 화이트, M, 2개",
+      "price": 11190,
+      "listPrice": 16915,
+      "observedAt": "2026-08-22T05:51:20.811Z",
+      "url": "https://link.coupang.com/a/gpUs0cFAom",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11190,
+          "observedAt": "2026-08-22T05:51:20.811Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:98800669|n:오케이식품 생와사비 고추냉이 가정용, 100g, 1팩",
+      "source": "toss",
+      "name": "오케이식품 생와사비 고추냉이 가정용, 100g, 1팩",
+      "price": 2280,
+      "listPrice": null,
+      "observedAt": "2026-08-22T05:23:43.664Z",
+      "url": "https://toss.im/_m/LKVLitmx",
+      "image": "assets/products/2b8e6f11b408373b824f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2280,
+          "observedAt": "2026-08-22T05:23:43.664Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9325482944|i:27652908157|v:94615321494",
+      "source": "coupang",
+      "name": "폰타나 스프레드 무화과 & 월넛 잼, 280g, 2개",
+      "price": 8970,
+      "listPrice": null,
+      "observedAt": "2026-08-22T04:30:13.927Z",
+      "url": "https://link.coupang.com/a/gpOFChy8HI",
+      "image": "assets/products/9b4cd2264132891f83d4.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8970,
+          "observedAt": "2026-08-22T04:30:13.927Z"
+        },
+        {
+          "price": 8970,
+          "observedAt": "2026-08-22T04:30:13.686Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:57988127|n:맥콜 제로, 250ml, 30개",
+      "source": "toss",
+      "name": "맥콜 제로, 250ml, 30개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-08-22T04:26:38.505Z",
+      "url": "https://toss.im/_m/bHDEKAc8",
+      "image": "assets/products/10ceea7b2cd0c1683d33.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-22T04:26:38.505Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9302559211|i:27558473293|v:94522566404",
+      "source": "coupang",
+      "name": "로보락 Qrevo Curv 2 Flow 커브2 로봇청소기, EWFD53HRR, 화이트",
+      "price": 776080,
+      "listPrice": 997449,
+      "observedAt": "2026-08-22T04:18:21.952Z",
+      "url": "https://link.coupang.com/a/gpNO3aIuaG",
+      "image": "assets/products/c2f266113700943f9c6d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 776080,
+          "observedAt": "2026-08-22T04:18:21.952Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7870006476|i:21496762241|v:88550565389",
+      "source": "coupang",
+      "name": "고급진 제주 흑돼지 백년초 왕구이용 (냉동), 1kg, 1개",
+      "price": 13990,
+      "listPrice": 22900,
+      "observedAt": "2026-08-22T04:04:15.479Z",
+      "url": "https://link.coupang.com/a/gpMOxgWX6W",
+      "image": "assets/products/73910ed5ed40c9fdff92.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13990,
+          "observedAt": "2026-08-22T04:04:15.479Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8814727597|i:24758471424|v:91186514360",
+      "source": "coupang",
+      "name": "다이쇼 다타키 오이 소스, 150ml, 3개",
+      "price": 6730,
+      "listPrice": 9363,
+      "observedAt": "2026-08-22T04:04:15.239Z",
+      "url": "https://link.coupang.com/a/gpMOwjSGu4",
+      "image": "assets/products/2646980b404b49cf98b5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6730,
+          "observedAt": "2026-08-22T04:04:15.239Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2024878663|n:사조 올리브유 참치, 100g, 8개",
+      "source": "toss",
+      "name": "사조 올리브유 참치, 100g, 8개",
+      "price": 15900,
+      "listPrice": 32000,
+      "observedAt": "2026-08-22T03:57:12.614Z",
+      "url": "https://toss.im/_m/JmFNe6js",
+      "image": "assets/products/fe6f4823ce8a1ddbc9df.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T03:57:12.614Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:68807121|n:달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
+      "source": "toss",
+      "name": "달콤쫀득 영동 상주 햇곶감, 500g, 3봉",
+      "price": 26900,
+      "listPrice": 69900,
+      "observedAt": "2026-08-22T03:07:15.665Z",
+      "url": "https://toss.im/_m/NZxMr4vd",
+      "image": "assets/products/b945904b9bb874ce8d04.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26900,
+          "observedAt": "2026-08-22T03:07:15.665Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2177124171|n:바세린 리프팅 리페어 로션, 1l, 2개",
+      "source": "toss",
+      "name": "바세린 리프팅 리페어 로션, 1L, 2개",
+      "price": 9900,
+      "listPrice": 19800,
+      "observedAt": "2026-08-22T02:12:51.207Z",
+      "url": "https://toss.im/_m/ddbanwt4",
+      "image": "assets/products/289491c221bc253a347f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-22T02:12:51.207Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:139928601|n:바리스타룰스 원데이 무라벨 디카페인 아메리카노, 350ml, 20개",
+      "source": "toss",
+      "name": "바리스타룰스 원데이 무라벨 디카페인 아메리카노, 350ml, 20개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-08-22T02:03:14.910Z",
+      "url": "https://toss.im/_m/xR8Chned",
+      "image": "assets/products/5cfe4ece974213944cad.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T02:03:14.910Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2519761803|n:고기중독 소고기 모듬 한판, 200g, 5개",
+      "source": "toss",
+      "name": "고기중독 소고기 모듬 한판, 200g, 5개",
+      "price": 23490,
+      "listPrice": 35000,
+      "observedAt": "2026-08-22T01:54:52.779Z",
+      "url": "https://toss.im/_m/D6lmtCf3",
+      "image": "assets/products/7303e31554aecefe72f0.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 23490,
+          "observedAt": "2026-08-22T01:54:52.779Z"
+        },
+        {
+          "price": 23490,
+          "observedAt": "2026-08-22T01:53:26.161Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:139928601|n:바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
+      "source": "toss",
+      "name": "바리스타룰스 원데이 무라벨, 디카페인 아메리카노, 350ml, 20개",
+      "price": 15900,
+      "listPrice": 50000,
+      "observedAt": "2026-08-22T01:34:00.904Z",
+      "url": "https://toss.im/_m/xR8Chned",
+      "image": "assets/products/ef3ae1a73a56f4dc369c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T01:34:00.904Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-08-22T00:49:32.283Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2317680173|n:고기중독 닭다리 북채, 1kg, 2팩",
+      "source": "toss",
+      "name": "고기중독 닭다리 북채, 1kg, 2팩",
+      "price": 12380,
+      "listPrice": null,
+      "observedAt": "2026-08-22T00:31:00.235Z",
+      "url": "https://toss.im/_m/zwqFaNR",
+      "image": "assets/products/e88bb9ce4898f43519d7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12380,
+          "observedAt": "2026-08-22T00:31:00.235Z"
+        }
+      ]
+    },
+    {
+      "id": "p:5837855919|i:17223583363|v:95952619833",
+      "source": "coupang",
+      "name": "다노클리닉 아쿠아 세럼 AS, 250ml, 2개",
+      "price": 16130,
+      "listPrice": 28000,
+      "observedAt": "2026-08-22T00:11:44.450Z",
+      "url": "https://link.coupang.com/a/gpwcm0nOA8",
+      "image": "assets/products/5a6b7dbb7b88d7bcde34.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16130,
+          "observedAt": "2026-08-22T00:11:44.450Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:101080007|n:페페브루노 엑스트라버진 올리브 오일, 1l, 1개",
+      "source": "toss",
+      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+      "price": 12500,
+      "listPrice": null,
+      "observedAt": "2026-08-21T23:58:53.652Z",
+      "url": "https://toss.im/_m/7oEgpXOp",
+      "image": "assets/products/f39db936dcc0b95e025b.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12500,
+          "observedAt": "2026-08-21T23:58:53.652Z"
+        },
+        {
+          "price": 12500,
+          "observedAt": "2026-08-21T23:58:53.574Z"
+        },
+        {
+          "price": 12500,
+          "observedAt": "2026-08-19T00:26:03.809Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9702262357|i:29024296785|v:89058209062",
+      "source": "coupang",
+      "name": "크리오 덴티메이트 뉴토탈케어 치약, 150g, 6개",
+      "price": 4720,
+      "listPrice": 9900,
+      "observedAt": "2026-08-21T23:42:22.058Z",
+      "url": "https://link.coupang.com/a/gpt6eiAUHA",
+      "image": "assets/products/166f0d6e3d818eb00926.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4720,
+          "observedAt": "2026-08-21T23:42:22.058Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8921845483|i:26072406641|v:93053432852",
+      "source": "coupang",
+      "name": "연세우유 소화가 잘되는 우유 고칼슘",
+      "price": 9860,
+      "listPrice": 13325,
+      "observedAt": "2026-08-21T23:11:47.233Z",
+      "url": "https://link.coupang.com/a/gprUKhlDie",
+      "image": "assets/products/7f080cf1ff2288f7b085.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9860,
+          "observedAt": "2026-08-21T23:11:47.233Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:281030707|n:도루코 퓨어라이트 애쉬블루 ih 인덕션 궁중팬, 28cm, 애쉬블루, 1개",
+      "source": "toss",
+      "name": "도루코 퓨어라이트 애쉬블루 IH 인덕션 궁중팬, 28cm, 애쉬블루, 1개",
+      "price": 1080,
+      "listPrice": null,
+      "observedAt": "2026-08-21T23:07:18.818Z",
+      "url": "https://toss.im/_m/vYK8kqwi",
+      "image": "assets/products/99d898d55ecc057b7c2b.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1080,
+          "observedAt": "2026-08-21T23:07:18.818Z"
+        },
+        {
+          "price": 1080,
+          "observedAt": "2026-08-21T23:05:39.883Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+      "price": 26900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T23:01:07.925Z",
+      "url": "https://toss.im/_m/niI4qcr9",
+      "image": "assets/products/966f4718d3cca7ccdeeb.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 26900,
+          "observedAt": "2026-08-21T23:01:07.925Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-20T23:01:47.079Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-19T23:04:19.818Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-18T23:01:15.128Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "source": "toss",
+      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "price": 14890,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:59:58.737Z",
+      "url": "https://toss.im/_m/50vaVJ8v",
+      "image": "assets/products/d8904ef247c49b0cba97.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14890,
+          "observedAt": "2026-08-21T22:59:58.737Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-20T01:24:30.992Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "source": "toss",
+      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "price": 6330,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:59:58.659Z",
+      "url": "https://toss.im/_m/p1mVdX9v",
+      "image": "assets/products/5b0cea34556142c2538f.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6330,
+          "observedAt": "2026-08-21T22:59:58.659Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-20T23:01:46.691Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-19T23:01:57.803Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-18T00:28:38.530Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "source": "toss",
+      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "price": 8180,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:59:58.571Z",
+      "url": "https://toss.im/_m/Htr0SOgr",
+      "image": "assets/products/ff4392a55ee46475c35e.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8180,
+          "observedAt": "2026-08-21T22:59:58.571Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-20T23:01:46.575Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-19T23:01:57.520Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "source": "toss",
+      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "price": 5420,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:59:58.495Z",
+      "url": "https://toss.im/_m/zbdu0wXt",
+      "image": "assets/products/bb4e05a3b79862ab2db2.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 5420,
+          "observedAt": "2026-08-21T22:59:58.495Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-20T23:01:46.494Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-19T23:01:57.432Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-18T00:28:38.848Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "source": "toss",
+      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "price": 7260,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:59:58.370Z",
+      "url": "https://toss.im/_m/FLunLFcA",
+      "image": "assets/products/f179ccd24887d0f4b19b.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7260,
+          "observedAt": "2026-08-21T22:59:58.370Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-20T23:01:46.359Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-19T23:01:57.354Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-18T00:28:38.768Z"
+        }
+      ]
+    },
+    {
+      "id": "p:218296701|i:675778723|v:4741593971",
+      "source": "coupang",
+      "name": "밀크앤허니 호두파이 대, 750g, 1개",
+      "price": 14000,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:56:19.281Z",
+      "url": "https://link.coupang.com/a/gpqOdTAdQO",
+      "image": "assets/products/57300864664b684c1bd7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14000,
+          "observedAt": "2026-08-21T22:56:19.281Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7216414621|i:18276183587|v:85422254648",
+      "source": "coupang",
+      "name": "르샤트라1802 인퓨전 초고농축 섬유유연제 뮤게 부케 본품, 5.7L, 1개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T22:25:51.115Z",
+      "url": "https://link.coupang.com/a/gpoDd4IVCS",
+      "image": "assets/products/07e61ca31386b0fd2d39.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-21T22:25:51.115Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8034447584|i:22475130593|v:89607429620",
+      "source": "coupang",
+      "name": "하이뮨 프로틴 밸런스 액티브 식물성 단백질 음료, 250ml, 18개",
+      "price": 23940,
+      "listPrice": 31072,
+      "observedAt": "2026-08-21T13:21:23.927Z",
+      "url": "https://link.coupang.com/a/goLIPEI3I4",
+      "image": "assets/products/d11e1ae59ebafcf6d812.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23940,
+          "observedAt": "2026-08-21T13:21:23.927Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2150475347|n:페스츄리 바비큐 오징어, 200g, 2개",
+      "source": "toss",
+      "name": "페스츄리 바비큐 오징어, 200g, 2개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T12:28:37.579Z",
+      "url": "https://toss.im/_m/bwXykL41",
+      "image": "assets/products/ea35829d35dd4096c444.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T12:28:37.579Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:841263669|n:캘빈클라인 스트레치 코튼 드로즈 u2662gxwb, 블랙, l, 3개",
+      "source": "toss",
+      "name": "캘빈클라인 스트레치 코튼 드로즈 U2662GXWB, 블랙, L, 3개",
+      "price": 24900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T12:28:37.384Z",
+      "url": "https://toss.im/_m/Rr7XD5ND",
+      "image": "assets/products/c50fbe2bb3129e061927.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-08-21T12:28:37.384Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:212548123|n:배터지는 소고기 한판 세트, 등심살 300g + 살치살 200g + 부채살 200g + 갈비살 200g + 우삼겹 300g, 1.2kg, 1세트",
+      "source": "toss",
+      "name": "배터지는 소고기 한판 세트, 등심살 300g + 살치살 200g + 부채살 200g + 갈비살 200g + 우삼겹 300g, 1.2kg, 1세트",
+      "price": 31900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T12:28:37.282Z",
+      "url": "https://toss.im/_m/Trf6rv7i",
+      "image": "assets/products/52044c189ffbe4775ef2.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 31900,
+          "observedAt": "2026-08-21T12:28:37.282Z"
+        },
+        {
+          "price": 31900,
+          "observedAt": "2026-08-21T03:57:12.425Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:573166155|n:비비드키친 저당 브리또, 치폴레 125g 2개 + 바베큐 125g 2개 + 숯불매콤 125g 2개, 6개",
+      "source": "toss",
+      "name": "비비드키친 저당 브리또, 치폴레 125g 2개 + 바베큐 125g 2개 + 숯불매콤 125g 2개, 6개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T12:28:37.112Z",
+      "url": "https://toss.im/_m/zGTs123A",
+      "image": "assets/products/7f12de0767370f6d80dc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-21T12:28:37.112Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2299202623|n:리퍼, 테팔 티타늄 1x 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
+      "source": "toss",
+      "name": "리퍼, 테팔 티타늄 1X 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
+      "price": 35900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T12:28:36.766Z",
+      "url": "https://toss.im/_m/rrbk12mw",
+      "image": "assets/products/199d949d48772a872efd.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-08-21T12:28:36.766Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6474536485|i:25789855384|v:86285153841",
+      "source": "coupang",
+      "name": "루나 프로 포토 피니셔 팩트파우더 8g, 2호블러파우더, 2개, 2호블러파우더 × 2개",
+      "price": 17200,
+      "listPrice": 56000,
+      "observedAt": "2026-08-21T12:13:39.497Z",
+      "url": "https://link.coupang.com/a/goGSIATqGi",
+      "image": "assets/products/1c4f0e518b65af505278.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17200,
+          "observedAt": "2026-08-21T12:13:39.497Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9678344877|i:28940185686|v:-",
+      "source": "coupang",
+      "name": "쿠크다스 쵸코케이크, 202g, 1개",
+      "price": 4500,
+      "listPrice": null,
+      "observedAt": "2026-08-21T11:51:00.543Z",
+      "url": "https://link.coupang.com/a/goFgmuKwDc",
+      "image": "assets/products/1cd4a4b50a4e67c985f1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-08-21T11:51:00.543Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:140920709|n:올바른 멀티 비타민 미네랄 액상 이뮨샷 맥스, 7개입, 4박스",
+      "source": "toss",
+      "name": "올바른 멀티 비타민 미네랄 액상 이뮨샷 맥스, 7개입, 4박스",
+      "price": 25947,
+      "listPrice": 59900,
+      "observedAt": "2026-08-21T11:47:14.714Z",
+      "url": "https://toss.im/_m/F4FQVhsd",
+      "image": "assets/products/56df5c9e4b0d5f9c13e8.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 25947,
+          "observedAt": "2026-08-21T11:47:14.714Z"
+        },
+        {
+          "price": 25947,
+          "observedAt": "2026-08-21T11:47:14.351Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9459528194|i:28311907153|v:95590104809",
+      "source": "coupang",
+      "name": "ROYAI ONE 차량 햇빛가리개 차량앞유리 햇빛가리개, 140*70cm, 2개, 티타늄 실버",
+      "price": 3200,
+      "listPrice": 7764,
+      "observedAt": "2026-08-21T11:12:08.096Z",
+      "url": "https://link.coupang.com/a/goCt74Ql2W",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3200,
+          "observedAt": "2026-08-21T11:12:08.096Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:561283217|n:지리산수 생수, 라벨랜덤, 2l, 18개",
+      "source": "toss",
+      "name": "지리산수 생수, 라벨랜덤, 2L, 18개",
+      "price": 9400,
+      "listPrice": 26400,
+      "observedAt": "2026-08-21T11:06:14.854Z",
+      "url": "https://toss.im/_m/5grqjtC4",
+      "image": "assets/products/cace0565703179f83b44.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9400,
+          "observedAt": "2026-08-21T11:06:14.854Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:84407993|n:바이탈플랜트 롤팬 뉴오리지널, 그레이, 1개",
+      "source": "toss",
+      "name": "바이탈플랜트 롤팬 뉴오리지널, 그레이, 1개",
+      "price": 99000,
+      "listPrice": null,
+      "observedAt": "2026-08-21T11:00:34.352Z",
+      "url": "https://toss.im/_m/b2QMPJNu",
+      "image": "assets/products/4ff76e9b496cbbf40976.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 99000,
+          "observedAt": "2026-08-21T11:00:34.352Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2028073909|n:가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
+      "source": "toss",
+      "name": "가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
+      "price": 4720,
+      "listPrice": null,
+      "observedAt": "2026-08-21T10:26:21.870Z",
+      "url": "https://toss.im/_m/h5yWAIR5",
+      "image": "assets/products/b924414ef26f6e7ce2cc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4720,
+          "observedAt": "2026-08-21T10:26:21.870Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2601640703|n:닭다리 통살 춘천닭갈비, 500g, 2개",
+      "source": "toss",
+      "name": "닭다리 통살 춘천닭갈비, 500g, 2개",
+      "price": 10900,
+      "listPrice": 33900,
+      "observedAt": "2026-08-21T09:24:17.809Z",
+      "url": "https://toss.im/_m/BTi4l43b",
+      "image": "assets/products/0e901514273c8a1e50d5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-21T09:24:17.809Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8497522258|i:24595441086|v:91607031775",
+      "source": "coupang",
+      "name": "사푸토 스트링 치즈 (냉장), 28g, 24개입, 1개",
+      "price": 9580,
+      "listPrice": null,
+      "observedAt": "2026-08-21T09:20:56.956Z",
+      "url": "https://link.coupang.com/a/gouxwhZpXo",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9580,
+          "observedAt": "2026-08-21T09:20:56.956Z"
+        },
+        {
+          "price": 9580,
+          "observedAt": "2026-08-21T07:24:45.278Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120340767|n:채선당 소고기 샤브샤브, 895g, 2개",
+      "source": "toss",
+      "name": "채선당 소고기 샤브샤브, 895g, 2개",
+      "price": 16100,
+      "listPrice": null,
+      "observedAt": "2026-08-21T09:04:37.041Z",
+      "url": "https://toss.im/_m/v3b4rR81",
+      "image": "assets/products/858cc43bc1e65aba74f5.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 16100,
+          "observedAt": "2026-08-21T09:04:37.041Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-21T09:04:36.890Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-19T07:22:41.556Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-18T07:20:51.263Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
+      "source": "toss",
+      "name": "맛팜 신 곱창볶음, 250g, 2개",
+      "price": 9950,
+      "listPrice": null,
+      "observedAt": "2026-08-21T09:01:49.394Z",
+      "url": "https://toss.im/_m/xlbkDScs",
+      "image": "assets/products/77f4fed315cd7aa21cd9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9950,
+          "observedAt": "2026-08-21T09:01:49.394Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-08-21T08:17:55.264Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8497522258|i:24595441086|v:-",
+      "source": "coupang",
+      "name": "사푸토 스트링 치즈 냉장, 28g, 24개입, 1개",
+      "price": 9580,
+      "listPrice": null,
+      "observedAt": "2026-08-21T08:06:27.504Z",
+      "url": "https://link.coupang.com/a/gopdum5DOK",
+      "image": "assets/products/eb20030f36f4d7bcc806.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9580,
+          "observedAt": "2026-08-21T08:06:27.504Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:14049227|n:초록 이량 와사비잎 추출물, 600mg, 120정, 2개",
+      "source": "toss",
+      "name": "초록 이량 와사비잎 추출물, 600mg, 120정, 2개",
+      "price": 39500,
+      "listPrice": 86000,
+      "observedAt": "2026-08-21T07:53:57.482Z",
+      "url": "https://toss.im/_m/730eJUQe",
+      "image": "assets/products/bf887b7811be61e86aae.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 39500,
+          "observedAt": "2026-08-21T07:53:57.482Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1194983393|n:노르디쿡 ih 무쇠팬 28cm, 무쇠팬, 뒤집개, 1개",
+      "source": "toss",
+      "name": "노르디쿡 IH 무쇠팬 28cm, 무쇠팬, 뒤집개, 1개",
+      "price": 11100,
+      "listPrice": null,
+      "observedAt": "2026-08-21T07:42:12.773Z",
+      "url": "https://toss.im/_m/rdDiuHmw",
+      "image": "assets/products/50c3b400c3968f3026cb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11100,
+          "observedAt": "2026-08-21T07:42:12.773Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9242914|i:28289169446|v:4322652672",
+      "source": "coupang",
+      "name": "오랄비 고탄력 초미세모 그린티 랜덤색상, 6개입, 2개",
+      "price": 9900,
+      "listPrice": 13176,
+      "observedAt": "2026-08-21T07:24:45.018Z",
+      "url": "https://link.coupang.com/a/gomeHyvvG0",
+      "image": "assets/products/6391e3683f4c370dbdf3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-21T07:24:45.018Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8739447038|i:19445277051|v:86556194668",
+      "source": "coupang",
+      "name": "오뚜기 양조 식초, 1.5L, 10개",
+      "price": 11940,
+      "listPrice": 17800,
+      "observedAt": "2026-08-21T07:19:00.864Z",
+      "url": "https://link.coupang.com/a/golPh830QC",
+      "image": "assets/products/9f077871f8a7f5701bdf.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11940,
+          "observedAt": "2026-08-21T07:19:00.864Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:33387085|n:락토필듀오 질유산균, 60정, 1개",
+      "source": "toss",
+      "name": "락토필듀오 질유산균, 60정, 1개",
+      "price": 36000,
+      "listPrice": null,
+      "observedAt": "2026-08-21T06:57:13.707Z",
+      "url": "https://toss.im/_m/v8h5xQgB",
+      "image": "assets/products/352dee2dc078ee119391.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 36000,
+          "observedAt": "2026-08-21T06:57:13.707Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7551301629|i:19873417368|v:86974086960",
+      "source": "coupang",
+      "name": "페브리즈 화장실용 강력탈취 플러스 비치형 다우니 클린코튼향 탈취제 본품, 18.9ml, 1개",
+      "price": 10500,
+      "listPrice": 17900,
+      "observedAt": "2026-08-21T06:05:20.904Z",
+      "url": "https://link.coupang.com/a/gogyUXLODY",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-21T06:05:20.904Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9257694089|i:23381978644|v:85861665946",
+      "source": "coupang",
+      "name": "후버 오렌지주스, 200ml, 60개",
+      "price": 33280,
+      "listPrice": 52000,
+      "observedAt": "2026-08-21T05:57:25.047Z",
+      "url": "https://link.coupang.com/a/gofZLV2Ctw",
+      "image": "assets/products/775bdc5b90f57945b6ca.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 33280,
+          "observedAt": "2026-08-21T05:57:25.047Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81505361|n:록키스 리얼 프레쉬 선 씨드 클렌징 오일, 300ml, 1개",
+      "source": "toss",
+      "name": "록키스 리얼 프레쉬 선 씨드 클렌징 오일, 300ml, 1개",
+      "price": 5400,
+      "listPrice": null,
+      "observedAt": "2026-08-21T05:54:41.464Z",
+      "url": "https://toss.im/_m/lyTtVGHx",
+      "image": "assets/products/4a037bae86881f64ae88.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5400,
+          "observedAt": "2026-08-21T05:54:41.464Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7856537331|i:21428012251|v:88484096171",
+      "source": "coupang",
+      "name": "더미식 김치콩나물국, 350g, 6개",
+      "price": 10500,
+      "listPrice": 15760,
+      "observedAt": "2026-08-21T05:45:22.588Z",
+      "url": "https://link.coupang.com/a/goe8qAfrnE",
+      "image": "assets/products/f5e231e473763148b53a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-21T05:45:22.588Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9498961688|i:26014337537|v:3003090997",
+      "source": "coupang",
+      "name": "샤워메이트 블루밍 바디워시 로즈 앤 체리블러썸, 900g, 2개",
+      "price": 6210,
+      "listPrice": 8723,
+      "observedAt": "2026-08-21T05:36:23.205Z",
+      "url": "https://link.coupang.com/a/goeuBnUtps",
+      "image": "assets/products/8a56e5e572a898585ab6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6210,
+          "observedAt": "2026-08-21T05:36:23.205Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:415148175|n:엠앤엠즈 미니 튜브, 35g, 24개",
+      "source": "toss",
+      "name": "엠앤엠즈 미니 튜브, 35g, 24개",
+      "price": 17400,
+      "listPrice": 43500,
+      "observedAt": "2026-08-21T05:07:16.531Z",
+      "url": "https://toss.im/_m/duXch9gm",
+      "image": "assets/products/7c9503cb1b6c9d84d736.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 17400,
+          "observedAt": "2026-08-21T05:07:16.531Z"
+        },
+        {
+          "price": 17400,
+          "observedAt": "2026-08-21T01:43:36.250Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7907854298|i:25003989303|v:90935774102",
+      "source": "coupang",
+      "name": "폰타나 시칠리아 페페론치노 아라비아따 파스타 토마토소스, 600g, 4개",
+      "price": 12080,
+      "listPrice": 39920,
+      "observedAt": "2026-08-21T04:23:34.939Z",
+      "url": "https://link.coupang.com/a/gn9h2duN3c",
+      "image": "assets/products/0ec376cf402efd180163.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12080,
+          "observedAt": "2026-08-21T04:23:34.939Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1132095035|n:논슬립 옷걸이 mb-148, 그레이, 40개",
+      "source": "toss",
+      "name": "논슬립 옷걸이 MB-148, 그레이, 40개",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-08-21T04:14:19.717Z",
+      "url": "https://toss.im/_m/5Bw5CoZA",
+      "image": "assets/products/fd4ecad38d6a759de279.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-08-21T04:14:19.717Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6715674951|i:19850397489|v:86951607229",
+      "source": "coupang",
+      "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 대(L), 6세트",
+      "price": 8220,
+      "listPrice": 26400,
+      "observedAt": "2026-08-21T04:01:48.664Z",
+      "url": "https://link.coupang.com/a/gn7JAvqqyG",
+      "image": "assets/products/1c7a828797e02f0bdbf6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8220,
+          "observedAt": "2026-08-21T04:01:48.664Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2054528183|n:반건조 민어, 특왕, 37cm급, 300g, 5팩",
+      "source": "toss",
+      "name": "반건조 민어, 특왕, 37cm급, 300g, 5팩",
+      "price": 31500,
+      "listPrice": 100000,
+      "observedAt": "2026-08-21T03:55:50.050Z",
+      "url": "https://toss.im/_m/vg0bkN7g",
+      "image": "assets/products/9b1522c3a719df3b521f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 31500,
+          "observedAt": "2026-08-21T03:55:50.050Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8187326904|i:23416154964|v:92141028091",
+      "source": "coupang",
+      "name": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
+      "price": 10530,
+      "listPrice": null,
+      "observedAt": "2026-08-21T03:52:21.334Z",
+      "url": "https://link.coupang.com/a/gn63Gr81Uy",
+      "image": "assets/products/a577975be47e65457b92.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10530,
+          "observedAt": "2026-08-21T03:52:21.334Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1662504927|n:오즈랜드 오트 초코칩쿠키, 480g, 2개",
+      "source": "toss",
+      "name": "오즈랜드 오트 초코칩쿠키, 480g, 2개",
+      "price": 9870,
+      "listPrice": null,
+      "observedAt": "2026-08-21T03:20:34.120Z",
+      "url": "https://toss.im/_m/pEkRWHSl",
+      "image": "assets/products/52071975224fa0cab656.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9870,
+          "observedAt": "2026-08-21T03:20:34.120Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8308528685|i:27308950254|v:91742261291",
+      "source": "coupang",
+      "name": "파워에이드 마운틴블라스트 무라벨, 355ml, 20개",
+      "price": 12820,
+      "listPrice": 16636,
+      "observedAt": "2026-08-21T02:55:52.190Z",
+      "url": "https://link.coupang.com/a/gn21qN41jo",
+      "image": "assets/products/c1066b1351a2227cd91f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12820,
+          "observedAt": "2026-08-21T02:55:52.190Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:730541229|n:한방 삼점 암 꽃게장, 2kg, 1개",
+      "source": "toss",
+      "name": "한방 삼점 암 꽃게장, 2kg, 1개",
+      "price": 8500,
+      "listPrice": null,
+      "observedAt": "2026-08-21T02:23:50.203Z",
+      "url": "https://toss.im/_m/lJClYq86",
+      "image": "assets/products/3e07dabc30bda643f111.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:23:50.203Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:10:58.616Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7124868|i:31535682|v:3046762288",
+      "source": "coupang",
+      "name": "도브초콜릿 밀크, 228g, 1개",
+      "price": 6110,
+      "listPrice": 8730,
+      "observedAt": "2026-08-21T01:43:33.328Z",
+      "url": "https://link.coupang.com/a/gnXQ2kk2kS",
+      "image": "assets/products/f455dd7f9139850c8e87.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6110,
+          "observedAt": "2026-08-21T01:43:33.328Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2027286349|n:밀바랩 제주 프루넬라 비건 콜라겐 주름 탄력 아이패치, 60매, 1개",
+      "source": "toss",
+      "name": "밀바랩 제주 프루넬라 비건 콜라겐 주름 탄력 아이패치, 60매, 1개",
+      "price": 8500,
+      "listPrice": 20900,
+      "observedAt": "2026-08-21T01:29:52.466Z",
+      "url": "https://toss.im/_m/DQIOX52B",
+      "image": "assets/products/a87a277f407cdfed1d05.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T01:29:52.466Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8287971621|i:23900602212|v:86421470806",
+      "source": "coupang",
+      "name": "닥터지 더모이스처 배리어디 인텐스 크림, 100ml, 1개",
+      "price": 11300,
+      "listPrice": 14740,
+      "observedAt": "2026-08-21T01:26:08.018Z",
+      "url": "https://link.coupang.com/a/gnWBQvXhNQ",
+      "image": "assets/products/53b6b4c6e349643ec85d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11300,
+          "observedAt": "2026-08-21T01:26:08.018Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2098666311|n:한미 완전두유 검은콩 검은참깨 고칼슘, 190ml, 48개",
+      "source": "toss",
+      "name": "한미 완전두유 검은콩 검은참깨 고칼슘, 190ml, 48개",
+      "price": 14200,
+      "listPrice": null,
+      "observedAt": "2026-08-21T01:10:10.056Z",
+      "url": "https://toss.im/_m/30BqDdO5",
+      "image": "assets/products/f3edfeb1d14d0cd662ef.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14200,
+          "observedAt": "2026-08-21T01:10:10.056Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8976561568|i:26277864433|v:93587205978",
+      "source": "coupang",
+      "name": "모던하우스 WOW 스퀘어 배스 매트 2p, 민트, 60 x 40 cm",
+      "price": 5000,
+      "listPrice": 10866,
+      "observedAt": "2026-08-21T00:54:16.045Z",
+      "url": "https://link.coupang.com/a/gnUkFoKDYq",
+      "image": "assets/products/bb58b4c77a3c8e7206ef.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5000,
+          "observedAt": "2026-08-21T00:54:16.045Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-08-21T00:54:15.722Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:186987203|n:푸드앳홈 양념명란젓 파지, 1kg, 1개",
+      "source": "toss",
+      "name": "푸드앳홈 양념명란젓 파지, 1kg, 1개",
+      "price": 12700,
+      "listPrice": 26900,
+      "observedAt": "2026-08-21T00:48:30.327Z",
+      "url": "https://toss.im/_m/lUDbL3Ty",
+      "image": "assets/products/63acdecd9603aebd906d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12700,
+          "observedAt": "2026-08-21T00:48:30.327Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56337581|n:풀무원샘물, 라벨랜덤, 500ml, 100개",
+      "source": "toss",
+      "name": "풀무원샘물, 라벨랜덤, 500ml, 100개",
+      "price": 14520,
+      "listPrice": null,
+      "observedAt": "2026-08-21T00:42:26.174Z",
+      "url": "https://toss.im/_m/zyxXMvch",
+      "image": "assets/products/caea09292b1466631ea5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14520,
+          "observedAt": "2026-08-21T00:42:26.174Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6408953895|i:18736774313|v:85917011421",
+      "source": "coupang",
+      "name": "몽쉘 생크림 케이크 오리지널, 408g, 3개",
+      "price": 10100,
+      "listPrice": 13470,
+      "observedAt": "2026-08-21T00:42:23.220Z",
+      "url": "https://link.coupang.com/a/gnTt14EJMq",
+      "image": "assets/products/55d5680a8d1f8c9a8f1f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10100,
+          "observedAt": "2026-08-21T00:42:23.220Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7838459795|i:14667299486|v:90678744033",
+      "source": "coupang",
+      "name": "스키틀즈 오리지날 펀사이즈 캔디, 345g, 1개",
+      "price": 5580,
+      "listPrice": 6980,
+      "observedAt": "2026-08-21T00:36:38.897Z",
+      "url": "https://link.coupang.com/a/gnS4BrZxsW",
+      "image": "assets/products/64203c3dd9c0e636e0e7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5580,
+          "observedAt": "2026-08-21T00:36:38.897Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:121250967|n:베라 무해력 4zero 클래식, 3겹, 30롤, 25m, 2팩",
+      "source": "toss",
+      "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
+      "price": 16040,
+      "listPrice": null,
+      "observedAt": "2026-08-20T23:46:08.767Z",
+      "url": "https://toss.im/_m/DQNvKOSj",
+      "image": "assets/products/91b41f357a1660af3e38.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16040,
+          "observedAt": "2026-08-20T23:46:08.767Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7460393188|i:12097794040|v:79369618935",
+      "source": "coupang",
+      "name": "불닭볶음면 로제 140g, 32개",
+      "price": 33600,
+      "listPrice": 47840,
+      "observedAt": "2026-08-20T23:44:36.199Z",
+      "url": "https://link.coupang.com/a/gnPl1oseei",
+      "image": "assets/products/9b319a9fdb05e9cb1cba.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 33600,
+          "observedAt": "2026-08-20T23:44:36.199Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:145180727|n:바프 파티박스 옐로우, 20g, 25봉, 1박스",
+      "source": "toss",
+      "name": "바프 파티박스 옐로우, 20g, 25봉, 1박스",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-08-20T23:28:24.701Z",
+      "url": "https://toss.im/_m/PsuLRVbA",
+      "image": "assets/products/8e792cf7dfa329b6e152.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-20T23:28:24.701Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8258520626|i:23880409773|v:91350241564",
+      "source": "coupang",
+      "name": "비비드키친 저칼로리 크레이지핫소스, 315g, 2개, 315g × 2개",
+      "price": 4200,
+      "listPrice": 6137,
+      "observedAt": "2026-08-20T23:16:31.463Z",
+      "url": "https://link.coupang.com/a/gnNlCsit2a",
+      "image": "assets/products/91c29302ca66cc1773ec.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4200,
+          "observedAt": "2026-08-20T23:16:31.463Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:397016955|n:머그바 안동식 순살찜닭, 800g, 2개",
+      "source": "toss",
+      "name": "머그바 안동식 순살찜닭, 800g, 2개",
+      "price": 8600,
+      "listPrice": null,
+      "observedAt": "2026-08-20T23:01:46.796Z",
+      "url": "https://toss.im/_m/3xdY89Y4",
+      "image": "assets/products/d4447aea9bbac0939a3b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8600,
+          "observedAt": "2026-08-20T23:01:46.796Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7038367739|i:19565482003|v:86673362774",
+      "source": "coupang",
+      "name": "육개장 사발면 86g, 12개",
+      "price": 8560,
+      "listPrice": null,
+      "observedAt": "2026-08-20T22:33:49.604Z",
+      "url": "https://link.coupang.com/a/gnKirtbKsm",
+      "image": "assets/products/4ba8b5882c7a8d89115e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8560,
+          "observedAt": "2026-08-20T22:33:49.604Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6307762640|i:13076361112|v:80338015770",
+      "source": "coupang",
+      "name": "키즈레시피 여아용 별 나그랑 원피스, 핑크, 13호",
+      "price": 3970,
+      "listPrice": 15900,
+      "observedAt": "2026-08-20T22:00:20.561Z",
+      "url": "https://link.coupang.com/a/gnHT56MFgb",
+      "image": "assets/products/87195d5ed12632ac18b1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3970,
+          "observedAt": "2026-08-20T22:00:20.561Z"
+        }
+      ]
+    },
+    {
+      "id": "p:4832842096|i:6238204448|v:73534019193",
+      "source": "coupang",
+      "name": "국내산 적양배추, 1통, 1개, 1통 × 1개",
+      "price": 1470,
+      "listPrice": 2906,
+      "observedAt": "2026-08-20T13:35:52.878Z",
+      "url": "https://link.coupang.com/a/gm7Q4QwrCe",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1470,
+          "observedAt": "2026-08-20T13:35:52.878Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:39263115|n:스테인리스 주방칼 6종 세트, 1세트",
+      "source": "toss",
+      "name": "스테인리스 주방칼 6종 세트, 1세트",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-08-20T12:28:11.710Z",
+      "url": "https://toss.im/_m/zkocgvbc",
+      "image": "assets/products/b81a8891c31b2d327f33.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-20T12:28:11.710Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7199019259|i:20498700657|v:76338931607",
+      "source": "coupang",
+      "name": "피죤 건조기용 시그니처 시트 섬유유연제 미스틱레인 본품, 130개입, 1개",
+      "price": 7930,
+      "listPrice": 10831,
+      "observedAt": "2026-08-20T12:14:25.169Z",
+      "url": "https://link.coupang.com/a/gm12aofa20",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7930,
+          "observedAt": "2026-08-20T12:14:25.169Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:78828149|n:외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
+      "source": "toss",
+      "name": "외갓집 송탄 서정리 부대찌개 550, 550g, 3개 + 오뚜기 라면사리, 110g, 1개, 1세트",
+      "price": 12990,
+      "listPrice": 27000,
+      "observedAt": "2026-08-20T12:07:25.627Z",
+      "url": "https://toss.im/_m/JD4ggjQk",
+      "image": "assets/products/0c470a41e39edd8c68f8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-08-20T12:07:25.627Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:108666349|n:웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+      "source": "toss",
+      "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+      "price": 9900,
+      "listPrice": 20000,
+      "observedAt": "2026-08-20T11:47:15.307Z",
+      "url": "https://toss.im/_m/9E4OUPY5",
+      "image": "assets/products/ecf982fc0d0fa4813909.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-20T11:47:15.307Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9673144907|i:13660085713|v:-",
+      "source": "coupang",
+      "name": "켈로그 아몬드 푸레이크 시리얼, 600g, 2개",
+      "price": 8240,
+      "listPrice": null,
+      "observedAt": "2026-08-20T11:17:49.185Z",
+      "url": "https://link.coupang.com/a/gmXZouKqLQ",
+      "image": "assets/products/32b9d8ca6634d017f762.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8240,
+          "observedAt": "2026-08-20T11:17:49.185Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6792297030|i:24325205179|v:91340904357",
+      "source": "coupang",
+      "name": "스탠리 퀜처 H2.0 플로우 스테이트 텀블러, 페리윙클쉬머, 887ml, 1개",
+      "price": 27590,
+      "listPrice": 44124,
+      "observedAt": "2026-08-20T10:50:54.243Z",
+      "url": "https://link.coupang.com/a/gmV38T4wyi",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27590,
+          "observedAt": "2026-08-20T10:50:54.243Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1356740413|n:맛장군 실비김치, 1kg, 1개",
+      "source": "toss",
+      "name": "맛장군 실비김치, 1kg, 1개",
+      "price": 4500,
+      "listPrice": null,
+      "observedAt": "2026-08-20T10:38:11.750Z",
+      "url": "https://toss.im/_m/ZeMZG3Hn",
+      "image": "assets/products/670085a55aa39c309ef4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-08-20T10:38:11.750Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1623809876|i:2770611982|v:70760451029",
+      "source": "coupang",
+      "name": "비트 스트롱 세븐 일반용 액상세제 본품, 3L, 1개",
+      "price": 6930,
+      "listPrice": 9840,
+      "observedAt": "2026-08-20T10:28:58.173Z",
+      "url": "https://link.coupang.com/a/gmUuXLR03g",
+      "image": "assets/products/50064f3c2f0df1e63985.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-08-20T10:28:58.173Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:174474457|n:에버튼하우스 에그쿠커, dihy-es38, 1개",
+      "source": "toss",
+      "name": "에버튼하우스 에그쿠커, DIHY-ES38, 1개",
+      "price": 8900,
+      "listPrice": 13900,
+      "observedAt": "2026-08-20T10:26:39.384Z",
+      "url": "https://toss.im/_m/n6HTPTTp",
+      "image": "assets/products/1f70235094839645e85a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-20T10:26:39.384Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:491278849|n:3대째 달인 광천김, 4g, 40봉",
+      "source": "toss",
+      "name": "3대째 달인 광천김, 4g, 40봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-20T10:06:07.366Z",
+      "url": "https://toss.im/_m/pf9mQcbl",
+      "image": "assets/products/b471c74d4b92b1f70186.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-20T10:06:07.366Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:101689773|n:맛장군 갓김치, 3kg, 1개",
+      "source": "toss",
+      "name": "맛장군 갓김치, 3kg, 1개",
+      "price": 11900,
+      "listPrice": 29900,
+      "observedAt": "2026-08-20T09:42:24.910Z",
+      "url": "https://toss.im/_m/vd3gsHod",
+      "image": "assets/products/122123382a28b30c1ae4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-20T09:42:24.910Z"
+        }
+      ]
+    },
+    {
+      "id": "p:4832648183|i:17149205247|v:85873800751",
+      "source": "coupang",
+      "name": "오로나민씨 탄산 드링크, 120ml, 20개",
+      "price": 9900,
+      "listPrice": 12771,
+      "observedAt": "2026-08-20T09:11:06.141Z",
+      "url": "https://link.coupang.com/a/gmOVYcfRhQ",
+      "image": "assets/products/a14adc22bedc9cef7455.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-20T09:11:06.141Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:115250123|n:애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
+      "source": "toss",
+      "name": "애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
+      "price": 26460,
+      "listPrice": null,
+      "observedAt": "2026-08-20T09:06:10.210Z",
+      "url": "https://toss.im/_m/De7ccPbC",
+      "image": "assets/products/1081b4b427cfaadda4c7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26460,
+          "observedAt": "2026-08-20T09:06:10.210Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 총 16개",
+      "source": "toss",
+      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 총 16개",
+      "price": 15600,
+      "listPrice": null,
+      "observedAt": "2026-08-20T08:55:14.168Z",
+      "url": "https://toss.im/_m/JXRGxDnm",
+      "image": "assets/products/bbc5966f5b7dc829d7d7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T08:55:14.168Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+      "source": "toss",
+      "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+      "price": 11050,
+      "listPrice": null,
+      "observedAt": "2026-08-20T08:36:32.752Z",
+      "url": "https://toss.im/_m/lwdjjFp8",
+      "image": "assets/products/5a739411792c67228c6a.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T08:36:32.752Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T07:18:14.196Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T04:54:21.047Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9265144268|i:14323406393|v:3000920522",
+      "source": "coupang",
+      "name": "롯데카스타드 오리지널, 230g, 3개",
+      "price": 9120,
+      "listPrice": 10625,
+      "observedAt": "2026-08-20T07:58:46.251Z",
+      "url": "https://link.coupang.com/a/gmJLvzCTAW",
+      "image": "assets/products/f568d9819b9c6687b265.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9120,
+          "observedAt": "2026-08-20T07:58:46.251Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8574506742|i:21636680191|v:82949272066",
+      "source": "coupang",
+      "name": "나랑드사이다 제로 파인애플, 350ml, 20개",
+      "price": 9900,
+      "listPrice": 14790,
+      "observedAt": "2026-08-20T07:29:54.710Z",
+      "url": "https://link.coupang.com/a/gmHHD5sYHA",
+      "image": "assets/products/17b458a736ea99a52198.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-20T07:29:54.710Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:117694883|n:목우촌 허브 갈릭 훈제오리 슬라이스, 210g, 6개",
+      "source": "toss",
+      "name": "목우촌 허브 갈릭 훈제오리 슬라이스, 210g, 6개",
+      "price": 23900,
+      "listPrice": 49900,
+      "observedAt": "2026-08-20T07:22:06.753Z",
+      "url": "https://toss.im/_m/F0acZFYj",
+      "image": "assets/products/c966f35ec792112704be.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23900,
+          "observedAt": "2026-08-20T07:22:06.753Z"
+        }
+      ]
+    },
+    {
+      "id": "p:129241540|i:19224586621|v:86341249448",
+      "source": "coupang",
+      "name": "동원에프앤비 비엔나소시지, 1kg, 2개",
+      "price": 15300,
+      "listPrice": 21734,
+      "observedAt": "2026-08-20T07:20:47.287Z",
+      "url": "https://link.coupang.com/a/gmG3dYxnXM",
+      "image": "assets/products/eaa367cd8a2c459ab5ec.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15300,
+          "observedAt": "2026-08-20T07:20:47.287Z"
+        }
+      ]
+    },
+    {
+      "id": "p:4842938988|i:6261001344|v:-",
+      "source": "coupang",
+      "name": "무항생제 신선한 대란",
+      "price": 8380,
+      "listPrice": null,
+      "observedAt": "2026-08-20T07:18:16.571Z",
+      "url": "https://link.coupang.com/a/gmGR6cChHM",
+      "image": "assets/products/a141aab7767631821981.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8380,
+          "observedAt": "2026-08-20T07:18:16.571Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:13644305|n:모나리자 미용티슈, 250매, 6개입, 2팩",
+      "source": "toss",
+      "name": "모나리자 미용티슈, 250매, 6개입, 2팩",
+      "price": 15900,
+      "listPrice": 42900,
+      "observedAt": "2026-08-20T07:00:14.853Z",
+      "url": "https://toss.im/_m/hFCaBaSy",
+      "image": "assets/products/557fe45b928d4414576e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-20T07:00:14.853Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1820300315|i:3097573113|v:71085373055",
+      "source": "coupang",
+      "name": "태블릿PC 3단 케이스, 갤럭시탭S6 10.5 2019 T865/T860/T866N, 블랙, 1개",
+      "price": 1550,
+      "listPrice": 8800,
+      "observedAt": "2026-08-20T06:56:38.786Z",
+      "url": "https://link.coupang.com/a/gmFkgBksay",
+      "image": "assets/products/b1c3354fcd0ffb2e9865.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1550,
+          "observedAt": "2026-08-20T06:56:38.786Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8596578866|i:24948937161|v:91786539157",
+      "source": "coupang",
+      "name": "롯데제로 연양갱 50g x 6p, 300g, 3개",
+      "price": 8640,
+      "listPrice": 12000,
+      "observedAt": "2026-08-20T06:30:25.448Z",
+      "url": "https://link.coupang.com/a/gmDr5pUkxM",
+      "image": "assets/products/8dff9ad74eeda01b1229.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8640,
+          "observedAt": "2026-08-20T06:30:25.448Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8482557452|i:27413840263|v:94379440521",
+      "source": "coupang",
+      "name": "팬틴 케라틴 열보호 노워시 트리트먼트, 140ml, 1개",
+      "price": 6900,
+      "listPrice": 9400,
+      "observedAt": "2026-08-20T06:24:53.569Z",
+      "url": "https://link.coupang.com/a/gmC3zISxfo",
+      "image": "assets/products/f0e28027befff9718fca.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-20T06:24:53.569Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8244158027|i:21019294050|v:90409334910",
+      "source": "coupang",
+      "name": "립톤 아이스티 믹스 복숭아맛, 14g, 150개입, 1개",
+      "price": 18490,
+      "listPrice": 24084,
+      "observedAt": "2026-08-20T06:16:36.905Z",
+      "url": "https://link.coupang.com/a/gmCsUm0lCS",
+      "image": "assets/products/4803447213656c456c57.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18490,
+          "observedAt": "2026-08-20T06:16:36.905Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6650747515|i:444795349|v:3000141825",
+      "source": "coupang",
+      "name": "홍초 음용식초 석류, 900ml, 1개",
+      "price": 5010,
+      "listPrice": 6517,
+      "observedAt": "2026-08-20T06:13:50.997Z",
+      "url": "https://link.coupang.com/a/gmCgEDwpXg",
+      "image": "assets/products/7d2e84be830eed39ac5b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5010,
+          "observedAt": "2026-08-20T06:13:50.997Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7308098821|i:20198481880|v:-",
+      "source": "coupang",
+      "name": "뷰카 센트 클래식 대용량 디퓨저 선물세트 2개",
+      "price": 8430,
+      "listPrice": null,
+      "observedAt": "2026-08-20T05:57:21.046Z",
+      "url": "https://link.coupang.com/a/gmA5yoZdZs",
+      "image": "assets/products/f272c1323f6bf07fcc15.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8430,
+          "observedAt": "2026-08-20T05:57:21.046Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:140837371|n:푸드앳홈 한입 바삭 마늘 바게트, 40g, 10개",
+      "source": "toss",
+      "name": "푸드앳홈 한입 바삭 마늘 바게트, 40g, 10개",
+      "price": 6500,
+      "listPrice": 14900,
+      "observedAt": "2026-08-20T05:57:15.888Z",
+      "url": "https://toss.im/_m/Dj4Q9ZQq",
+      "image": "assets/products/e63b48e3beb43bcafec3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-08-20T05:57:15.888Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8539414784|i:24753364442|v:91761826890",
+      "source": "coupang",
+      "name": "LARSA 버터, 250g, 2개",
+      "price": 7120,
+      "listPrice": 10652,
+      "observedAt": "2026-08-20T05:31:44.763Z",
+      "url": "https://link.coupang.com/a/gmzf7nEP2i",
+      "image": "assets/products/940825cb6a7c3d8dd69c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7120,
+          "observedAt": "2026-08-20T05:31:44.763Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56322313|n:스파클 생수 무라벨, 500ml, 80개",
+      "source": "toss",
+      "name": "스파클 생수 무라벨, 500ml, 80개",
+      "price": 8700,
+      "listPrice": null,
+      "observedAt": "2026-08-20T04:41:02.219Z",
+      "url": "https://toss.im/_m/hlgXume6",
+      "image": "assets/products/a91e31f924f9bb01eb54.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8700,
+          "observedAt": "2026-08-20T04:41:02.219Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1349946103|n:센토 프라임 바이브 딥클린 듀얼 초미세 탄력모 칫솔, 20개입, 1개",
+      "source": "toss",
+      "name": "센토 프라임 바이브 딥클린 듀얼 초미세 탄력모 칫솔, 20개입, 1개",
+      "price": 7730,
+      "listPrice": null,
+      "observedAt": "2026-08-20T04:36:16.183Z",
+      "url": "https://toss.im/_m/vbaEIU9x",
+      "image": "assets/products/39d8726abb5d2b654327.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7730,
+          "observedAt": "2026-08-20T04:36:16.183Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6496319420|i:14282624644|v:3000080394",
+      "source": "coupang",
+      "name": "해표 해바라기유, 900ml, 1개",
+      "price": 3990,
+      "listPrice": 6160,
+      "observedAt": "2026-08-20T04:35:01.374Z",
+      "url": "https://link.coupang.com/a/gmvcNTTkY0",
+      "image": "assets/products/b73b8d793791408687e4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-08-20T04:35:01.374Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177782517|n:고궁 통참깨 참기름, 350ml, 4개",
+      "source": "toss",
+      "name": "고궁 통참깨 참기름, 350ml, 4개",
+      "price": 20900,
+      "listPrice": 60000,
+      "observedAt": "2026-08-20T04:26:40.750Z",
+      "url": "https://toss.im/_m/PCutZjS4",
+      "image": "assets/products/ddf3efd37cc0ce1c3e8d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20900,
+          "observedAt": "2026-08-20T04:26:40.750Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7739378261|i:26916575774|v:93885915287",
+      "source": "coupang",
+      "name": "비오레 스킨케어 세안료 리치 모이스처, 130g, 2개",
+      "price": 8800,
+      "listPrice": 17270,
+      "observedAt": "2026-08-20T04:06:32.068Z",
+      "url": "https://link.coupang.com/a/gmtaAsNODY",
+      "image": "assets/products/c6d22337efdb0b0b7406.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-08-20T04:06:32.068Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9519715946|i:28377470933|v:95566644183",
+      "source": "coupang",
+      "name": "연화삼월 여름 시원한 패드 차가운 침대패드 냉감패드 냉감 쿨매트, JT 화이트, 슈퍼싱글 110x200",
+      "price": 6960,
+      "listPrice": 11960,
+      "observedAt": "2026-08-20T04:04:11.121Z",
+      "url": "https://link.coupang.com/a/gms0aQyl1E",
+      "image": "assets/products/74fb8de2fc71f69d6e79.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6960,
+          "observedAt": "2026-08-20T04:04:11.121Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8640236446|i:27806784667|v:94766676442",
+      "source": "coupang",
+      "name": "스탠리 아이스플로우 플립 스트로 2.0 텀블러, 피치 로즈, 887ml, 1개",
+      "price": 27590,
+      "listPrice": 49000,
+      "observedAt": "2026-08-20T03:47:36.267Z",
+      "url": "https://link.coupang.com/a/gmrOIiUAUK",
+      "image": "assets/products/c55e6c7e523052b3a559.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27590,
+          "observedAt": "2026-08-20T03:47:36.267Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7802188484|i:21133591625|v:3379405850",
+      "source": "coupang",
+      "name": "연세우유 마카다미아 초코우유, 190ml, 24개",
+      "price": 10590,
+      "listPrice": 14030,
+      "observedAt": "2026-08-20T03:07:38.132Z",
+      "url": "https://link.coupang.com/a/gmoXDccgQm",
+      "image": "assets/products/7c978970aba2e3eb956f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10590,
+          "observedAt": "2026-08-20T03:07:38.132Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8821592139|i:13447261191|v:3000100413",
+      "source": "coupang",
+      "name": "짜파게티 140g, 5개",
+      "price": 4500,
+      "listPrice": 5153,
+      "observedAt": "2026-08-20T02:22:24.322Z",
+      "url": "https://link.coupang.com/a/gmlJg5azkG",
+      "image": "assets/products/87af177d8412203ff908.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-08-20T02:22:24.322Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6480542873|i:24898174354|v:-",
+      "source": "coupang",
+      "name": "스팸 25% 라이트 노캡, 5캔 × 2세트 총 10개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-08-20T02:03:48.299Z",
+      "url": "https://link.coupang.com/a/gmkoCdc45Y",
+      "image": "assets/products/50e50489b225abc0a139.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-20T02:03:48.299Z"
+        }
+      ]
+    },
+    {
+      "id": "p:32087607|i:517936650|v:3244343255",
+      "source": "coupang",
+      "name": "덴티본조르노 구취 치약, 100g, 3개",
+      "price": 7220,
+      "listPrice": 8639,
+      "observedAt": "2026-08-20T01:44:42.548Z",
+      "url": "https://link.coupang.com/a/gmi10EkAEe",
+      "image": "assets/products/3bee7f9ef5572dfbe721.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7220,
+          "observedAt": "2026-08-20T01:44:42.548Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8609013279|i:25050832627|v:3034627820",
+      "source": "coupang",
+      "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
+      "price": 5650,
+      "listPrice": 8212,
+      "observedAt": "2026-08-20T01:19:32.048Z",
+      "url": "https://link.coupang.com/a/gmhes5Brhs",
+      "image": "assets/products/937b1a2015914622033b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5650,
+          "observedAt": "2026-08-20T01:19:32.048Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1231447637|n:바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
+      "source": "toss",
+      "name": "바이탈포션 슈퍼 글루타씨온 앰플, 18ml, 1개",
+      "price": 7700,
+      "listPrice": 25000,
+      "observedAt": "2026-08-20T01:02:55.372Z",
+      "url": "https://toss.im/_m/lSe9Xr4b",
+      "image": "assets/products/67970e7ac13f8d099f8e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-08-20T01:02:55.372Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
+      "source": "toss",
+      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
+      "price": 26600,
+      "listPrice": null,
+      "observedAt": "2026-08-20T00:53:34.332Z",
+      "url": "https://toss.im/_m/JXRGxDnm",
+      "image": "assets/products/c1e96c786ad1c3944a01.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 26600,
+          "observedAt": "2026-08-20T00:53:34.332Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T00:53:34.040Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7173279213|i:8309892210|v:75597778744",
+      "source": "coupang",
+      "name": "비비고 직화 참기름김, 54g, 1개, 54g × 1개",
+      "price": 4800,
+      "listPrice": 6480,
+      "observedAt": "2026-08-20T00:41:47.369Z",
+      "url": "https://link.coupang.com/a/gmexe7urAG",
+      "image": "assets/products/1bec80a0d757e54e7853.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4800,
+          "observedAt": "2026-08-20T00:41:47.369Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80836103|n:농가살리기 전통 호박 인절미, 20g, 75개",
+      "source": "toss",
+      "name": "농가살리기 전통 호박 인절미, 20g, 75개",
+      "price": 12900,
+      "listPrice": 25900,
+      "observedAt": "2026-08-20T00:34:42.479Z",
+      "url": "https://toss.im/_m/r5eEWVX9",
+      "image": "assets/products/7d0ac6a8acd42bd88069.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-20T00:34:42.479Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56485011|n:더 빅토리아 플레인, 500ml, 20개",
+      "source": "toss",
+      "name": "더 빅토리아 플레인, 500ml, 20개",
+      "price": 7200,
+      "listPrice": null,
+      "observedAt": "2026-08-20T00:33:37.376Z",
+      "url": "https://toss.im/_m/dwl38KH8",
+      "image": "assets/products/e7659e1ccb0f45267624.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7200,
+          "observedAt": "2026-08-20T00:33:37.376Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:179124543|n:스탠리 퀜처 h2.0 플로우스테이트 텀블러 뱀의 해 에디션, 블루, 887ml, 1개",
+      "source": "toss",
+      "name": "스탠리 퀜처 H2.0 플로우스테이트 텀블러 뱀의 해 에디션, 블루, 887ml, 1개",
+      "price": 53900,
+      "listPrice": 53900,
+      "observedAt": "2026-08-19T23:40:30.909Z",
+      "url": "https://toss.im/_m/T3OVSOn8",
+      "image": "assets/products/b1325caf84f3344da328.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 53900,
+          "observedAt": "2026-08-19T23:40:30.909Z"
+        },
+        {
+          "price": 26950,
+          "observedAt": "2026-08-19T23:38:28.684Z"
+        }
+      ]
+    },
     {
       "id": "p:6155464582|i:11912148793|v:79185057285",
       "source": "coupang",
@@ -9,7 +2643,7 @@
       "listPrice": 45050,
       "observedAt": "2026-08-19T23:29:18.050Z",
       "url": "https://link.coupang.com/a/gl9l45EzF6",
-      "image": null,
+      "image": "assets/products/571cda656b62ee405584.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -32,128 +2666,6 @@
         {
           "price": 23900,
           "observedAt": "2026-08-19T23:16:50.088Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
-      "source": "toss",
-      "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
-      "price": 26900,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:04:19.818Z",
-      "url": "https://toss.im/_m/niI4qcr9",
-      "image": "assets/products/966f4718d3cca7ccdeeb.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 26900,
-          "observedAt": "2026-08-19T23:04:19.818Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-18T23:01:15.128Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "source": "toss",
-      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "price": 6330,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:01:57.803Z",
-      "url": "https://toss.im/_m/p1mVdX9v",
-      "image": "assets/products/5b0cea34556142c2538f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6330,
-          "observedAt": "2026-08-19T23:01:57.803Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-18T00:28:38.530Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "source": "toss",
-      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "price": 8180,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:01:57.520Z",
-      "url": "https://toss.im/_m/Htr0SOgr",
-      "image": "assets/products/ff4392a55ee46475c35e.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8180,
-          "observedAt": "2026-08-19T23:01:57.520Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "source": "toss",
-      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "price": 5420,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:01:57.432Z",
-      "url": "https://toss.im/_m/zbdu0wXt",
-      "image": "assets/products/bb4e05a3b79862ab2db2.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 5420,
-          "observedAt": "2026-08-19T23:01:57.432Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-18T00:28:38.848Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "source": "toss",
-      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "price": 7260,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:01:57.354Z",
-      "url": "https://toss.im/_m/FLunLFcA",
-      "image": "assets/products/f179ccd24887d0f4b19b.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7260,
-          "observedAt": "2026-08-19T23:01:57.354Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-18T00:28:38.768Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2597456191|n:순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
-      "source": "toss",
-      "name": "순수공감 프라임 물티슈, 캡형, 70gsm, 72매, 10팩",
-      "price": 5900,
-      "listPrice": null,
-      "observedAt": "2026-08-19T23:01:57.161Z",
-      "url": "https://toss.im/_m/DPgjXL88",
-      "image": "assets/products/105454f19b1563ba5525.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 5900,
-          "observedAt": "2026-08-19T23:01:57.161Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-08-18T23:01:14.769Z"
         }
       ]
     },
@@ -182,7 +2694,7 @@
       "listPrice": 9216,
       "observedAt": "2026-08-19T22:39:03.142Z",
       "url": "https://link.coupang.com/a/gl5LscZ7eu",
-      "image": null,
+      "image": "assets/products/f9cbb60a1c5501c1fe95.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -716,33 +3228,12 @@
       "listPrice": 9901,
       "observedAt": "2026-08-19T07:30:36.024Z",
       "url": "https://link.coupang.com/a/gk2QyySOKi",
-      "image": null,
+      "image": "assets/products/8f732425dd3d0ffe0961.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
           "price": 6990,
           "observedAt": "2026-08-19T07:30:36.024Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120340767|n:채선당 소고기 샤브샤브, 895g, 2개",
-      "source": "toss",
-      "name": "채선당 소고기 샤브샤브, 895g, 2개",
-      "price": 16100,
-      "listPrice": null,
-      "observedAt": "2026-08-19T07:22:41.556Z",
-      "url": "https://toss.im/_m/v3b4rR81",
-      "image": "assets/products/858cc43bc1e65aba74f5.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 16100,
-          "observedAt": "2026-08-19T07:22:41.556Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-18T07:20:51.263Z"
         }
       ]
     },
@@ -900,23 +3391,6 @@
         {
           "price": 8455,
           "observedAt": "2026-08-19T05:04:32.086Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
-      "source": "toss",
-      "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
-      "price": 11050,
-      "listPrice": null,
-      "observedAt": "2026-08-19T04:54:21.047Z",
-      "url": "https://toss.im/_m/lwdjjFp8",
-      "image": "assets/products/5a739411792c67228c6a.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T04:54:21.047Z"
         }
       ]
     },
@@ -1243,23 +3717,6 @@
         {
           "price": 6690,
           "observedAt": "2026-08-19T00:39:10.578Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:101080007|n:페페브루노 엑스트라버진 올리브 오일, 1l, 1개",
-      "source": "toss",
-      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
-      "price": 12500,
-      "listPrice": null,
-      "observedAt": "2026-08-19T00:26:03.809Z",
-      "url": "https://toss.im/_m/7oEgpXOp",
-      "image": "assets/products/f39db936dcc0b95e025b.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12500,
-          "observedAt": "2026-08-19T00:26:03.809Z"
         }
       ]
     },
