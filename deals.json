@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-22T22:06:13.053Z",
+  "updatedAt": "2026-08-22T22:34:19.111Z",
   "deals": [
+    {
+      "id": "p:7673161101|i:20486829915|v:87804964172",
+      "source": "coupang",
+      "name": "닥터유 에너지바 투바이트, 468g, 1개",
+      "price": 9370,
+      "listPrice": null,
+      "observedAt": "2026-08-22T22:34:07.081Z",
+      "url": "https://link.coupang.com/a/gq37MppNAG",
+      "image": "assets/products/440f9e1299174c0d442b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9370,
+          "observedAt": "2026-08-22T22:34:07.081Z"
+        }
+      ]
+    },
     {
       "id": "p:9126304862|i:26857971206|v:93827691265",
       "source": "coupang",
