@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T03:47:02.908Z",
+  "updatedAt": "2026-08-23T04:23:14.123Z",
   "deals": [
+    {
+      "id": "toss:p:431785089|n:슈퍼딥큐 캡슐세제, 포레스트향, 8g, 100개입, 1개",
+      "source": "toss",
+      "name": "슈퍼딥큐 캡슐세제, 포레스트향, 8g, 100개입, 1개",
+      "price": 6900,
+      "listPrice": 21900,
+      "observedAt": "2026-08-23T04:21:49.476Z",
+      "url": "https://toss.im/_m/p3i6o1Ho",
+      "image": "assets/products/27c5878c7ba3a53aae58.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-23T04:21:49.476Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1184009969|n:연세두유 고단백 아몬드&잣, 190ml, 32팩",
       "source": "toss",
