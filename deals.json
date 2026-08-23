@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T08:49:44.705Z",
+  "updatedAt": "2026-08-23T08:52:22.014Z",
   "deals": [
+    {
+      "id": "toss:p:591758721|n:심플쿡 냉동밥 전자레인지 용기, 인디핑크, 400ml, 8개, 2세트",
+      "source": "toss",
+      "name": "심플쿡 냉동밥 전자레인지 용기, 인디핑크, 400ml, 8개, 2세트",
+      "price": 6500,
+      "listPrice": 25900,
+      "observedAt": "2026-08-23T08:50:53.866Z",
+      "url": "https://toss.im/_m/hNUGysMp",
+      "image": "assets/products/2a1187bc07853691b641.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-08-23T08:50:53.866Z"
+        }
+      ]
+    },
     {
       "id": "p:9278908794|i:18540031192|v:86576354179",
       "source": "coupang",
