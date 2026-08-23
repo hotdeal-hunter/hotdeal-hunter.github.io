@@ -1,6 +1,172 @@
 {
-  "updatedAt": "2026-08-23T22:49:42.971Z",
+  "updatedAt": "2026-08-23T23:02:31.429Z",
   "deals": [
+    {
+      "id": "p:8288956292|i:21259800466|v:88320169568",
+      "source": "coupang",
+      "name": "엠앤엠즈 밀크 초콜릿 펀사이즈, 175.5g, 2개",
+      "price": 7830,
+      "listPrice": 11708,
+      "observedAt": "2026-08-23T23:02:20.418Z",
+      "url": "https://link.coupang.com/a/gsK2VqUKjs",
+      "image": "assets/products/65e630be5ec98b9bd389.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7830,
+          "observedAt": "2026-08-23T23:02:20.418Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
+      "source": "toss",
+      "name": "바른 돼지국밥, 500g, 5개",
+      "price": 11380,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:01:15.139Z",
+      "url": "https://toss.im/_m/phUo33E3",
+      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:01:15.139Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:93865493|n:리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+      "source": "toss",
+      "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+      "price": 6170,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:01:15.040Z",
+      "url": "https://toss.im/_m/zCwwrTY9",
+      "image": "assets/products/5f98664274f4369d377f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6170,
+          "observedAt": "2026-08-23T23:01:15.040Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-19T01:34:16.403Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-17T13:16:23.894Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "source": "toss",
+      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "price": 6330,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:01:14.959Z",
+      "url": "https://toss.im/_m/p1mVdX9v",
+      "image": "assets/products/5b0cea34556142c2538f.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:01:14.959Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-22T23:01:06.222Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-21T22:59:58.659Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-20T23:01:46.691Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-19T23:01:57.803Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-18T00:28:38.530Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "source": "toss",
+      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "price": 7260,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:01:14.848Z",
+      "url": "https://toss.im/_m/FLunLFcA",
+      "image": "assets/products/f179ccd24887d0f4b19b.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 7260,
+          "observedAt": "2026-08-23T23:01:14.848Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-22T23:01:06.077Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-21T22:59:58.370Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-20T23:01:46.359Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-19T23:01:57.354Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-18T00:28:38.768Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "source": "toss",
+      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "price": 8180,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:01:14.717Z",
+      "url": "https://toss.im/_m/Htr0SOgr",
+      "image": "assets/products/ff4392a55ee46475c35e.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:01:14.717Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-22T23:01:06.341Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-21T22:59:58.571Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-20T23:01:46.575Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-19T23:01:57.520Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
       "source": "toss",
@@ -781,101 +947,6 @@
         {
           "price": 11830,
           "observedAt": "2026-08-22T23:01:06.428Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "source": "toss",
-      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "price": 8180,
-      "listPrice": null,
-      "observedAt": "2026-08-22T23:01:06.341Z",
-      "url": "https://toss.im/_m/Htr0SOgr",
-      "image": "assets/products/ff4392a55ee46475c35e.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 8180,
-          "observedAt": "2026-08-22T23:01:06.341Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-21T22:59:58.571Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-20T23:01:46.575Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-19T23:01:57.520Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "source": "toss",
-      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "price": 6330,
-      "listPrice": null,
-      "observedAt": "2026-08-22T23:01:06.222Z",
-      "url": "https://toss.im/_m/p1mVdX9v",
-      "image": "assets/products/5b0cea34556142c2538f.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 6330,
-          "observedAt": "2026-08-22T23:01:06.222Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-21T22:59:58.659Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-20T23:01:46.691Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-19T23:01:57.803Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-18T00:28:38.530Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "source": "toss",
-      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "price": 7260,
-      "listPrice": null,
-      "observedAt": "2026-08-22T23:01:06.077Z",
-      "url": "https://toss.im/_m/FLunLFcA",
-      "image": "assets/products/f179ccd24887d0f4b19b.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7260,
-          "observedAt": "2026-08-22T23:01:06.077Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-21T22:59:58.370Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-20T23:01:46.359Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-19T23:01:57.354Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-18T00:28:38.768Z"
         }
       ]
     },
@@ -4286,27 +4357,6 @@
         {
           "price": 8000,
           "observedAt": "2026-08-18T06:33:24.379Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:93865493|n:리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
-      "source": "toss",
-      "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
-      "price": 6170,
-      "listPrice": 23900,
-      "observedAt": "2026-08-19T01:34:16.403Z",
-      "url": "https://toss.im/_m/zCwwrTY9",
-      "image": "assets/products/5f98664274f4369d377f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6170,
-          "observedAt": "2026-08-19T01:34:16.403Z"
-        },
-        {
-          "price": 6170,
-          "observedAt": "2026-08-17T13:16:23.894Z"
         }
       ]
     },
