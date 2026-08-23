@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T08:54:59.531Z",
+  "updatedAt": "2026-08-23T09:03:06.126Z",
   "deals": [
+    {
+      "id": "p:10440915|i:25691262530|v:92680444814",
+      "source": "coupang",
+      "name": "세타필 베이비 데일리 로션, 400ml, 1개",
+      "price": 9750,
+      "listPrice": 11631,
+      "observedAt": "2026-08-23T09:01:44.599Z",
+      "url": "https://link.coupang.com/a/grMYFhtcRw",
+      "image": "assets/products/d594a5dd91cab7df9b22.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9750,
+          "observedAt": "2026-08-23T09:01:44.599Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:591758721|n:심플쿡 냉동밥 전자레인지 용기, 인디핑크, 400ml, 8개, 2세트",
       "source": "toss",
