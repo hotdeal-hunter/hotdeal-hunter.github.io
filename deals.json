@@ -1,6 +1,154 @@
 {
-  "updatedAt": "2026-08-23T11:36:06.252Z",
+  "updatedAt": "2026-08-23T13:02:33.605Z",
   "deals": [
+    {
+      "id": "p:7166913299|i:19665432925|v:86771111312",
+      "source": "coupang",
+      "name": "더마팩토리 나이아신아마이드 20% 세럼, 30ml, 2개",
+      "price": 8400,
+      "listPrice": 11185,
+      "observedAt": "2026-08-23T13:01:08.024Z",
+      "url": "https://link.coupang.com/a/gr35hqGLgy",
+      "image": "assets/products/d32c968f40a9374dffd7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8400,
+          "observedAt": "2026-08-23T13:01:08.024Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1424705069|n:푸르밀 플레인 요거트, 2kg, 1개",
+      "source": "toss",
+      "name": "푸르밀 플레인 요거트, 2kg, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-23T12:53:09.581Z",
+      "url": "https://toss.im/_m/XKbQEVCn",
+      "image": "assets/products/b1c0033a7c953077ab92.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-23T12:53:09.581Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-08-23T09:11:05.418Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2508022773|n:동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "source": "toss",
+      "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-08-23T12:53:09.395Z",
+      "url": "https://toss.im/_m/TiOarCVu",
+      "image": "assets/products/7876f1cdb92fa01a3b3c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-23T12:53:09.395Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2617993851|n:전라도 배추김치 겉절이, 국내산, 2kg, 1박스",
+      "source": "toss",
+      "name": "전라도 배추김치 겉절이, 국내산, 2kg, 1박스",
+      "price": 8950,
+      "listPrice": null,
+      "observedAt": "2026-08-23T12:53:09.184Z",
+      "url": "https://toss.im/_m/5SfnmKfs",
+      "image": "assets/products/f626f62db70b9b1b3358.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8950,
+          "observedAt": "2026-08-23T12:53:09.184Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:140932623|n:군산 메밀 소바 간장, 7인분, 175g, 1개",
+      "source": "toss",
+      "name": "군산 메밀 소바 간장, 7인분, 175g, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-23T12:53:08.907Z",
+      "url": "https://toss.im/_m/V4bB0kbr",
+      "image": "assets/products/fb5163139a1a81a0f3e9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-23T12:53:08.907Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82437429|n:파벡스 오븐형 에어프라이어 fx-231a, 18l, 아이보리, 1개",
+      "source": "toss",
+      "name": "파벡스 오븐형 에어프라이어 FX-231A, 18L, 아이보리, 1개",
+      "price": 52500,
+      "listPrice": null,
+      "observedAt": "2026-08-23T12:53:08.823Z",
+      "url": "https://toss.im/_m/nA6Dltv9",
+      "image": "assets/products/efd1f81c571f77eeee02.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 52500,
+          "observedAt": "2026-08-23T12:53:08.823Z"
+        },
+        {
+          "price": 52500,
+          "observedAt": "2026-08-23T11:14:04.780Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:136206723|n:할리스 카페 라떼, 15g, 30개입, 2개",
+      "source": "toss",
+      "name": "할리스 카페 라떼, 15g, 30개입, 2개",
+      "price": 13500,
+      "listPrice": null,
+      "observedAt": "2026-08-23T11:36:18.180Z",
+      "url": "https://toss.im/_m/hcv8sNUo",
+      "image": "assets/products/4a22e6c424fd5821b4b8.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-08-23T11:36:18.180Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-08-17T07:51:12.069Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:181071683|n:코나 마일드로스트 아이스, 100개입",
+      "source": "toss",
+      "name": "코나 마일드로스트 아이스, 100개입",
+      "price": 7870,
+      "listPrice": null,
+      "observedAt": "2026-08-23T11:36:18.003Z",
+      "url": "https://toss.im/_m/VBZqFodg",
+      "image": "assets/products/64962c99869c2895a725.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7870,
+          "observedAt": "2026-08-23T11:36:18.003Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:278897403|n:통통 찰순대, 500g, 2팩",
       "source": "toss",
@@ -15,23 +163,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-23T11:34:44.235Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82437429|n:파벡스 오븐형 에어프라이어 fx-231a, 18l, 아이보리 , 1개",
-      "source": "toss",
-      "name": "파벡스 오븐형 에어프라이어 FX-231A, 18L, 아이보리 , 1개",
-      "price": 52500,
-      "listPrice": 139000,
-      "observedAt": "2026-08-23T11:14:04.780Z",
-      "url": "https://toss.im/_m/nA6Dltv9",
-      "image": "assets/products/93534cdb6675c15dc312.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 52500,
-          "observedAt": "2026-08-23T11:14:04.780Z"
         }
       ]
     },
@@ -134,23 +265,6 @@
         {
           "price": 11590,
           "observedAt": "2026-08-23T10:28:50.718Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1424705069|n:푸르밀 플레인 요거트, 2kg, 1개",
-      "source": "toss",
-      "name": "푸르밀 플레인 요거트, 2kg, 1개",
-      "price": 8900,
-      "listPrice": 15900,
-      "observedAt": "2026-08-23T09:11:05.418Z",
-      "url": "https://toss.im/_m/XKbQEVCn",
-      "image": "assets/products/b1c0033a7c953077ab92.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-08-23T09:11:05.418Z"
         }
       ]
     },
@@ -5316,23 +5430,6 @@
         {
           "price": 29900,
           "observedAt": "2026-08-17T08:22:11.595Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:136206723|n:할리스 카페 라떼, 15g, 30개입, 2개",
-      "source": "toss",
-      "name": "할리스 카페 라떼, 15g, 30개입, 2개",
-      "price": 13500,
-      "listPrice": null,
-      "observedAt": "2026-08-17T07:51:12.069Z",
-      "url": "https://toss.im/_m/hcv8sNUo",
-      "image": "assets/products/4a22e6c424fd5821b4b8.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13500,
-          "observedAt": "2026-08-17T07:51:12.069Z"
         }
       ]
     },
