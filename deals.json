@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T06:51:20.377Z",
+  "updatedAt": "2026-08-23T06:56:12.599Z",
   "deals": [
+    {
+      "id": "p:9278908794|i:18540031192|v:86576354179",
+      "source": "coupang",
+      "name": "더미식 비빔면 138g, 8개",
+      "price": 6000,
+      "listPrice": 7317,
+      "observedAt": "2026-08-23T06:54:51.206Z",
+      "url": "https://link.coupang.com/a/grDUigQHka",
+      "image": "assets/products/73e6d58f4a9be37a8631.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6000,
+          "observedAt": "2026-08-23T06:54:51.206Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1166372691|n:씨제이 유기농 맛밤, 42g, 21개",
       "source": "toss",
