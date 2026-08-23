@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T11:15:27.513Z",
+  "updatedAt": "2026-08-23T11:36:06.252Z",
   "deals": [
+    {
+      "id": "toss:p:278897403|n:통통 찰순대, 500g, 2팩",
+      "source": "toss",
+      "name": "통통 찰순대, 500g, 2팩",
+      "price": 9900,
+      "listPrice": 13900,
+      "observedAt": "2026-08-23T11:34:44.235Z",
+      "url": "https://toss.im/_m/R2B3FiUl",
+      "image": "assets/products/ba1ac761bb20a5ce11ca.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-23T11:34:44.235Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82437429|n:파벡스 오븐형 에어프라이어 fx-231a, 18l, 아이보리 , 1개",
       "source": "toss",
