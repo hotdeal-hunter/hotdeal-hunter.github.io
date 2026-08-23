@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-08-22T23:59:51.634Z",
+  "updatedAt": "2026-08-23T00:36:09.395Z",
   "deals": [
+    {
+      "id": "p:9611076956|i:28694390662|v:95635634559",
+      "source": "coupang",
+      "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
+      "price": 3360,
+      "listPrice": 4918,
+      "observedAt": "2026-08-23T00:35:55.242Z",
+      "url": "https://link.coupang.com/a/grcPqbdEbs",
+      "image": "assets/products/2fb86fb1fc61552568ee.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3360,
+          "observedAt": "2026-08-23T00:35:55.242Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2495982045|n:홀리데이즈 바이탈 비타민c 3000, 3000mg, 100포, 2개",
       "source": "toss",
       "name": "홀리데이즈 바이탈 비타민C 3000, 3000mg, 100포, 2개",
       "price": 15900,
       "listPrice": null,
-      "observedAt": "2026-08-22T23:59:30.114Z",
+      "observedAt": "2026-08-23T00:28:05.300Z",
       "url": "https://toss.im/_m/zID11nqD",
       "image": "assets/products/2858aea87d740a4ce168.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-23T00:28:05.300Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-08-23T00:13:26.020Z"
+        },
         {
           "price": 15900,
           "observedAt": "2026-08-22T23:59:30.114Z"
