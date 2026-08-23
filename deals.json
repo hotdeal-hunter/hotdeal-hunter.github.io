@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T22:11:20.758Z",
+  "updatedAt": "2026-08-23T22:37:44.139Z",
   "deals": [
+    {
+      "id": "toss:p:83815917|n:데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "source": "toss",
+      "name": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "price": 4900,
+      "listPrice": null,
+      "observedAt": "2026-08-23T22:36:24.018Z",
+      "url": "https://toss.im/_m/DdOFzZAD",
+      "image": "assets/products/6062e0f7717492e6ec99.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-08-23T22:36:24.018Z"
+        }
+      ]
+    },
     {
       "id": "p:6495414742|i:14278468490|v:75602912113",
       "source": "coupang",
