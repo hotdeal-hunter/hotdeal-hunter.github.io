@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T00:36:09.395Z",
+  "updatedAt": "2026-08-23T00:49:48.927Z",
   "deals": [
+    {
+      "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "source": "toss",
+      "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "price": 11900,
+      "listPrice": 25000,
+      "observedAt": "2026-08-23T00:49:34.790Z",
+      "url": "https://toss.im/_m/BOjITXzi",
+      "image": "assets/products/7e62ce6ce176a8c930cd.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-23T00:49:34.790Z"
+        }
+      ]
+    },
     {
       "id": "p:9611076956|i:28694390662|v:95635634559",
       "source": "coupang",
