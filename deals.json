@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-23T02:08:41.956Z",
+  "updatedAt": "2026-08-23T02:11:42.230Z",
   "deals": [
+    {
+      "id": "toss:p:144423737|n:40000km 스포츠 커버 양말, 화이트, 20켤레",
+      "source": "toss",
+      "name": "40000KM 스포츠 커버 양말, 화이트, 20켤레",
+      "price": 690,
+      "listPrice": null,
+      "observedAt": "2026-08-23T02:11:23.755Z",
+      "url": "https://toss.im/_m/fMu60bvs",
+      "image": "assets/products/a07415b7d15b7aff42f4.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 690,
+          "observedAt": "2026-08-23T02:11:23.755Z"
+        },
+        {
+          "price": 13800,
+          "observedAt": "2026-08-23T02:08:55.923Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:116214905|n:애슐리 시그니처 살치 스테이크, 소스포함, 200g, 4팩",
       "source": "toss",
