@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T00:49:48.927Z",
+  "updatedAt": "2026-08-23T02:00:27.225Z",
   "deals": [
+    {
+      "id": "p:8464788459|i:24490724301|v:92788092718",
+      "source": "coupang",
+      "name": "허브앤리빙 홈 디퓨저, 시그니처우디, 520ml, 2개",
+      "price": 15660,
+      "listPrice": 35000,
+      "observedAt": "2026-08-23T01:59:02.753Z",
+      "url": "https://link.coupang.com/a/griLHNwOgm",
+      "image": "assets/products/e922e84f95a12aceb76e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15660,
+          "observedAt": "2026-08-23T01:59:02.753Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
       "source": "toss",
