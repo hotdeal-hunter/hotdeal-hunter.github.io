@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T10:59:08.421Z",
+  "updatedAt": "2026-08-23T11:01:29.748Z",
   "deals": [
+    {
+      "id": "p:1463018080|i:17474619515|v:85168073197",
+      "source": "coupang",
+      "name": "사조 참치액, 2.1kg, 1개",
+      "price": 8840,
+      "listPrice": 10736,
+      "observedAt": "2026-08-23T11:00:19.174Z",
+      "url": "https://link.coupang.com/a/grVr0LpTQi",
+      "image": "assets/products/c109664f45f294eae093.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8840,
+          "observedAt": "2026-08-23T11:00:19.174Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:158457143|n:예진원 국내산 abc주스, 80ml, 100포, 1개",
       "source": "toss",
