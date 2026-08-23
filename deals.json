@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T11:01:29.748Z",
+  "updatedAt": "2026-08-23T11:15:27.513Z",
   "deals": [
+    {
+      "id": "toss:p:82437429|n:파벡스 오븐형 에어프라이어 fx-231a, 18l, 아이보리 , 1개",
+      "source": "toss",
+      "name": "파벡스 오븐형 에어프라이어 FX-231A, 18L, 아이보리 , 1개",
+      "price": 52500,
+      "listPrice": 139000,
+      "observedAt": "2026-08-23T11:14:04.780Z",
+      "url": "https://toss.im/_m/nA6Dltv9",
+      "image": "assets/products/93534cdb6675c15dc312.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 52500,
+          "observedAt": "2026-08-23T11:14:04.780Z"
+        }
+      ]
+    },
     {
       "id": "p:1463018080|i:17474619515|v:85168073197",
       "source": "coupang",
