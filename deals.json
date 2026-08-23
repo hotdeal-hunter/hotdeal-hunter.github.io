@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T09:12:26.924Z",
+  "updatedAt": "2026-08-23T10:30:13.886Z",
   "deals": [
+    {
+      "id": "p:7282209095|i:18594602213|v:85730784252",
+      "source": "coupang",
+      "name": "알찬해 바로바로 낙새우 볶음 (냉동), 450g, 1개",
+      "price": 11590,
+      "listPrice": 12601,
+      "observedAt": "2026-08-23T10:28:50.718Z",
+      "url": "https://link.coupang.com/a/grTcy3kGQ0",
+      "image": "assets/products/36c4fcba1b02a08b80c0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11590,
+          "observedAt": "2026-08-23T10:28:50.718Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1424705069|n:푸르밀 플레인 요거트, 2kg, 1개",
       "source": "toss",
