@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-23T10:30:13.886Z",
+  "updatedAt": "2026-08-23T10:33:14.285Z",
   "deals": [
+    {
+      "id": "toss:p:109930009|n:코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
+      "source": "toss",
+      "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
+      "price": 14560,
+      "listPrice": null,
+      "observedAt": "2026-08-23T10:30:28.723Z",
+      "url": "https://toss.im/_m/bXcVvJEp",
+      "image": "assets/products/9f935f2d533fee4735bf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14560,
+          "observedAt": "2026-08-23T10:30:28.723Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8834650869|i:25744870390|v:93004733718",
+      "source": "coupang",
+      "name": "카카오프렌즈 CS 칫솔살균기, CSTS-04, 핑크",
+      "price": 16650,
+      "listPrice": 26900,
+      "observedAt": "2026-08-23T10:30:23.836Z",
+      "url": "https://link.coupang.com/a/grTjrBAKPc",
+      "image": "assets/products/e502718c83bfb45a7028.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16650,
+          "observedAt": "2026-08-23T10:30:23.836Z"
+        }
+      ]
+    },
     {
       "id": "p:7282209095|i:18594602213|v:85730784252",
       "source": "coupang",
