@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-23T05:09:23.506Z",
+  "updatedAt": "2026-08-23T05:33:17.257Z",
   "deals": [
+    {
+      "id": "toss:p:1996599957|n:고기중독 3초 대패 삼겹살, 500g, 4개",
+      "source": "toss",
+      "name": "고기중독 3초 대패 삼겹살, 500g, 4개",
+      "price": 20380,
+      "listPrice": null,
+      "observedAt": "2026-08-23T05:33:12.535Z",
+      "url": "https://toss.im/_m/TvuCEhA4",
+      "image": "assets/products/6aa394ef24ea5ffc5621.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20380,
+          "observedAt": "2026-08-23T05:33:12.535Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:569928231|n:쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
       "source": "toss",
       "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
       "price": 7080,
       "listPrice": null,
-      "observedAt": "2026-08-23T05:07:50.821Z",
+      "observedAt": "2026-08-23T05:09:35.455Z",
       "url": "https://toss.im/_m/vVSo4OLu",
       "image": "assets/products/79b17ee8fb4e4361cdea.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 7080,
+          "observedAt": "2026-08-23T05:09:35.455Z"
+        },
         {
           "price": 7080,
           "observedAt": "2026-08-23T05:07:50.821Z"
