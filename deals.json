@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T10:56:08.452Z",
+  "updatedAt": "2026-08-23T10:59:08.421Z",
   "deals": [
+    {
+      "id": "toss:p:158457143|n:예진원 국내산 abc주스, 80ml, 100포, 1개",
+      "source": "toss",
+      "name": "예진원 국내산 ABC주스, 80ml, 100포, 1개",
+      "price": 18130,
+      "listPrice": null,
+      "observedAt": "2026-08-23T10:56:20.806Z",
+      "url": "https://toss.im/_m/PJ0ce2kh",
+      "image": "assets/products/04a12bad5a68a8044b80.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18130,
+          "observedAt": "2026-08-23T10:56:20.806Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:12704517|n:경남제약 맥주효모 비오틴셀렌, 60정, 2개",
       "source": "toss",
