@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T04:37:02.623Z",
+  "updatedAt": "2026-08-23T05:00:57.307Z",
   "deals": [
+    {
+      "id": "p:5872318881|i:10277738115|v:77560110873",
+      "source": "coupang",
+      "name": "만나다 미국산 씨없는 청포도, 1.8kg, 1개",
+      "price": 19340,
+      "listPrice": 24340,
+      "observedAt": "2026-08-23T04:59:34.789Z",
+      "url": "https://link.coupang.com/a/grvFzOEriC",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19340,
+          "observedAt": "2026-08-23T04:59:34.789Z"
+        }
+      ]
+    },
     {
       "id": "p:7168704316|i:15509101|v:90861125615",
       "source": "coupang",
