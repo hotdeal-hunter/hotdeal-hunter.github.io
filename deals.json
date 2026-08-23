@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-08-23T23:02:31.429Z",
+  "updatedAt": "2026-08-23T23:09:51.950Z",
   "deals": [
+    {
+      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
+      "price": 31200,
+      "listPrice": null,
+      "observedAt": "2026-08-23T23:08:20.916Z",
+      "url": "https://toss.im/_m/niI4qcr9",
+      "image": "assets/products/be43f04cc0e88c23e58e.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T23:08:20.916Z"
+        },
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T22:48:12.015Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-21T23:01:07.925Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-20T23:01:47.079Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-19T23:04:19.818Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-18T23:01:15.128Z"
+        }
+      ]
+    },
     {
       "id": "p:8288956292|i:21259800466|v:88320169568",
       "source": "coupang",
@@ -164,39 +201,6 @@
         {
           "price": 8180,
           "observedAt": "2026-08-19T23:01:57.520Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "source": "toss",
-      "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "price": 31200,
-      "listPrice": null,
-      "observedAt": "2026-08-23T22:48:12.015Z",
-      "url": "https://toss.im/_m/niI4qcr9",
-      "image": "assets/products/be43f04cc0e88c23e58e.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 31200,
-          "observedAt": "2026-08-23T22:48:12.015Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-21T23:01:07.925Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-20T23:01:47.079Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-19T23:04:19.818Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-18T23:01:15.128Z"
         }
       ]
     },
