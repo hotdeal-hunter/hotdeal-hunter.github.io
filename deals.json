@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T02:14:01.516Z",
+  "updatedAt": "2026-08-23T02:22:14.533Z",
   "deals": [
+    {
+      "id": "toss:p:1912469513|n:아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
+      "source": "toss",
+      "name": "아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
+      "price": 6900,
+      "listPrice": 20000,
+      "observedAt": "2026-08-23T02:20:52.990Z",
+      "url": "https://toss.im/_m/ZW0pEfLD",
+      "image": "assets/products/8ba261ddd52843b6aae5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-23T02:20:52.990Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:144423737|n:40000km 스포츠 커버 양말, 화이트, 20켤레",
       "source": "toss",
@@ -413,7 +430,7 @@
       "listPrice": null,
       "observedAt": "2026-08-22T08:11:45.369Z",
       "url": "https://link.coupang.com/a/gp4u5e1bRA",
-      "image": null,
+      "image": "assets/products/c12b5c3c9d01a0af093a.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -476,7 +493,7 @@
       "listPrice": null,
       "observedAt": "2026-08-22T07:09:31.381Z",
       "url": "https://link.coupang.com/a/gpZ3muIZz3",
-      "image": null,
+      "image": "assets/products/a8e6b9e1a218e270533d.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -510,7 +527,7 @@
       "listPrice": null,
       "observedAt": "2026-08-22T06:49:45.654Z",
       "url": "https://link.coupang.com/a/gpYDN5qzvw",
-      "image": null,
+      "image": "assets/products/5e76b0834f1f5253a5c1.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -565,7 +582,7 @@
       "listPrice": 16915,
       "observedAt": "2026-08-22T05:51:20.811Z",
       "url": "https://link.coupang.com/a/gpUs0cFAom",
-      "image": null,
+      "image": "assets/products/8959b8d6ad513e1ddbb1.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1173,7 +1190,7 @@
       "listPrice": 7764,
       "observedAt": "2026-08-21T11:12:08.096Z",
       "url": "https://link.coupang.com/a/goCt74Ql2W",
-      "image": null,
+      "image": "assets/products/8632c814b70346e257ee.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
