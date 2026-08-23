@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T02:22:14.533Z",
+  "updatedAt": "2026-08-23T03:00:46.736Z",
   "deals": [
+    {
+      "id": "toss:p:161135975|n:올바른 두뇌 인지력엔 포스파티딜세린 ps 300, 300mg, 30포, 3개",
+      "source": "toss",
+      "name": "올바른 두뇌 인지력엔 포스파티딜세린 PS 300, 300mg, 30포, 3개",
+      "price": 21800,
+      "listPrice": 79900,
+      "observedAt": "2026-08-23T02:59:24.083Z",
+      "url": "https://toss.im/_m/BlRBivNy",
+      "image": "assets/products/ed72a34fc691ff7dd4e5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21800,
+          "observedAt": "2026-08-23T02:59:24.083Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1912469513|n:아스파시아 모이스트 업 페이스 미스트 알로에, 150ml, 2개",
       "source": "toss",
