@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T23:09:51.950Z",
+  "updatedAt": "2026-08-23T23:12:27.624Z",
   "deals": [
+    {
+      "id": "p:9412426214|i:27968015207|v:94379708356",
+      "source": "coupang",
+      "name": "조네츠 참깨 마늘 후리카케, 100g, 2개, 100g × 2개",
+      "price": 10820,
+      "listPrice": 17406,
+      "observedAt": "2026-08-23T23:12:17.031Z",
+      "url": "https://link.coupang.com/a/gsLKYVrru8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10820,
+          "observedAt": "2026-08-23T23:12:17.031Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
       "source": "toss",
