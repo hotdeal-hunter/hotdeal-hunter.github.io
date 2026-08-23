@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T02:00:27.225Z",
+  "updatedAt": "2026-08-23T02:08:41.956Z",
   "deals": [
+    {
+      "id": "toss:p:116214905|n:애슐리 시그니처 살치 스테이크, 소스포함, 200g, 4팩",
+      "source": "toss",
+      "name": "애슐리 시그니처 살치 스테이크, 소스포함, 200g, 4팩",
+      "price": 29990,
+      "listPrice": null,
+      "observedAt": "2026-08-23T02:07:22.312Z",
+      "url": "https://toss.im/_m/nLzTctNy",
+      "image": "assets/products/079d61d328ad30a571ca.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29990,
+          "observedAt": "2026-08-23T02:07:22.312Z"
+        }
+      ]
+    },
     {
       "id": "p:8464788459|i:24490724301|v:92788092718",
       "source": "coupang",
