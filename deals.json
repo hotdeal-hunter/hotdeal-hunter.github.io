@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T09:03:06.126Z",
+  "updatedAt": "2026-08-23T09:12:26.924Z",
   "deals": [
+    {
+      "id": "toss:p:1424705069|n:푸르밀 플레인 요거트, 2kg, 1개",
+      "source": "toss",
+      "name": "푸르밀 플레인 요거트, 2kg, 1개",
+      "price": 8900,
+      "listPrice": 15900,
+      "observedAt": "2026-08-23T09:11:05.418Z",
+      "url": "https://toss.im/_m/XKbQEVCn",
+      "image": "assets/products/b1c0033a7c953077ab92.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-23T09:11:05.418Z"
+        }
+      ]
+    },
     {
       "id": "p:10440915|i:25691262530|v:92680444814",
       "source": "coupang",
