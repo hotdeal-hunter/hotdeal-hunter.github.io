@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T23:23:14.829Z",
+  "updatedAt": "2026-08-23T23:47:30.505Z",
   "deals": [
+    {
+      "id": "p:8750589813|i:25468108821|v:92460611996",
+      "source": "coupang",
+      "name": "뿌요 팔도 코코뿌요 제로 애플망고, 280ml, 24개",
+      "price": 12230,
+      "listPrice": 18425,
+      "observedAt": "2026-08-23T23:47:20.332Z",
+      "url": "https://link.coupang.com/a/gsOghXOiES",
+      "image": "assets/products/7c68b8fe4625d7bf7923.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12230,
+          "observedAt": "2026-08-23T23:47:20.332Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
       "source": "toss",
