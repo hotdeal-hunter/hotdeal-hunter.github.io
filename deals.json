@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T05:45:57.762Z",
+  "updatedAt": "2026-08-23T06:51:20.377Z",
   "deals": [
+    {
+      "id": "toss:p:1166372691|n:씨제이 유기농 맛밤, 42g, 21개",
+      "source": "toss",
+      "name": "씨제이 유기농 맛밤, 42g, 21개",
+      "price": 21980,
+      "listPrice": 45000,
+      "observedAt": "2026-08-23T06:49:56.695Z",
+      "url": "https://toss.im/_m/5XNEsbJe",
+      "image": "assets/products/1f615b8167f7bfaf54d6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21980,
+          "observedAt": "2026-08-23T06:49:56.695Z"
+        }
+      ]
+    },
     {
       "id": "p:8695645881|i:25248624778|v:92244571261",
       "source": "coupang",
