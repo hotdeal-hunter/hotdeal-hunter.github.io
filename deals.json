@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T04:23:14.123Z",
+  "updatedAt": "2026-08-23T04:37:02.623Z",
   "deals": [
+    {
+      "id": "p:7168704316|i:15509101|v:90861125615",
+      "source": "coupang",
+      "name": "파워에이드 제로, 600ml, 20개",
+      "price": 14530,
+      "listPrice": 18413,
+      "observedAt": "2026-08-23T04:35:41.224Z",
+      "url": "https://link.coupang.com/a/grtXHXzdy8",
+      "image": "assets/products/7fb32706069785814958.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14530,
+          "observedAt": "2026-08-23T04:35:41.224Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:431785089|n:슈퍼딥큐 캡슐세제, 포레스트향, 8g, 100개입, 1개",
       "source": "toss",
