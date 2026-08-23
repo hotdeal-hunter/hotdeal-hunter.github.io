@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T13:02:33.605Z",
+  "updatedAt": "2026-08-23T22:04:10.327Z",
   "deals": [
+    {
+      "id": "p:8869051478|i:26268310922|v:93246507408",
+      "source": "coupang",
+      "name": "르샤트라1802 초고농축 섬유유연제 쁘띠피치, 800ml, 1개",
+      "price": 5500,
+      "listPrice": 7500,
+      "observedAt": "2026-08-23T22:02:48.098Z",
+      "url": "https://link.coupang.com/a/gsGM8DVVdY",
+      "image": "assets/products/5e00daf0294d6c6a00b6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-08-23T22:02:48.098Z"
+        }
+      ]
+    },
     {
       "id": "p:7166913299|i:19665432925|v:86771111312",
       "source": "coupang",
