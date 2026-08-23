@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T05:33:17.257Z",
+  "updatedAt": "2026-08-23T05:45:57.762Z",
   "deals": [
+    {
+      "id": "p:8695645881|i:25248624778|v:92244571261",
+      "source": "coupang",
+      "name": "호무로 쿨네스트 냉감이불, 화이트, Q",
+      "price": 22540,
+      "listPrice": 52810,
+      "observedAt": "2026-08-23T05:44:33.893Z",
+      "url": "https://link.coupang.com/a/grySThywo0",
+      "image": "assets/products/d5f281ee0490ca0227c6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22540,
+          "observedAt": "2026-08-23T05:44:33.893Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1996599957|n:고기중독 3초 대패 삼겹살, 500g, 4개",
       "source": "toss",
