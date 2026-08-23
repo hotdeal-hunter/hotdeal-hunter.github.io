@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T03:00:46.736Z",
+  "updatedAt": "2026-08-23T03:47:02.908Z",
   "deals": [
+    {
+      "id": "toss:p:1184009969|n:연세두유 고단백 아몬드&잣, 190ml, 32팩",
+      "source": "toss",
+      "name": "연세두유 고단백 아몬드&잣, 190ml, 32팩",
+      "price": 18900,
+      "listPrice": 39800,
+      "observedAt": "2026-08-23T03:45:40.289Z",
+      "url": "https://toss.im/_m/lHeh56Y5",
+      "image": "assets/products/6e5fc2d9dab6d4bbd53f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-08-23T03:45:40.289Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:161135975|n:올바른 두뇌 인지력엔 포스파티딜세린 ps 300, 300mg, 30포, 3개",
       "source": "toss",
