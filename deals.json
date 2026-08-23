@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-23T07:45:14.715Z",
+  "updatedAt": "2026-08-23T08:49:44.705Z",
   "deals": [
+    {
+      "id": "p:9278908794|i:18540031192|v:86576354179",
+      "source": "coupang",
+      "name": "더미식 비빔면 138g, 8개 - 비빔라면",
+      "price": 2353,
+      "listPrice": null,
+      "observedAt": "2026-08-23T08:48:05.239Z",
+      "url": "https://link.coupang.com/a/grLZ9tt85k",
+      "image": "assets/products/73e6d58f4a9be37a8631.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 2353,
+          "observedAt": "2026-08-23T08:48:05.239Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-08-23T06:54:51.206Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
+      "source": "toss",
+      "name": "초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",
+      "price": 9410,
+      "listPrice": null,
+      "observedAt": "2026-08-23T08:48:04.930Z",
+      "url": "https://toss.im/_m/VdJbxles",
+      "image": "assets/products/4347407cf314edb3185f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9410,
+          "observedAt": "2026-08-23T08:48:04.930Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:98833231|n:싱하소다워터, 325ml, 24개",
       "source": "toss",
@@ -32,23 +70,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-23T07:37:46.015Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9278908794|i:18540031192|v:86576354179",
-      "source": "coupang",
-      "name": "더미식 비빔면 138g, 8개",
-      "price": 6000,
-      "listPrice": 7317,
-      "observedAt": "2026-08-23T06:54:51.206Z",
-      "url": "https://link.coupang.com/a/grDUigQHka",
-      "image": "assets/products/73e6d58f4a9be37a8631.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6000,
-          "observedAt": "2026-08-23T06:54:51.206Z"
         }
       ]
     },
