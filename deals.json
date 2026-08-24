@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T12:52:00.758Z",
+  "updatedAt": "2026-08-24T22:25:48.268Z",
   "deals": [
+    {
+      "id": "p:8019609059|i:22407789113|v:81998646806",
+      "source": "coupang",
+      "name": "베지밀 고단백두유 검은콩, 190ml, 16개",
+      "price": 8800,
+      "listPrice": null,
+      "observedAt": "2026-08-24T22:24:28.832Z",
+      "url": "https://link.coupang.com/a/gunfekHI0i",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-08-24T22:24:28.832Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1983315353|n:바로먹는 발효곤약 4종 세트, 냉메밀 350g 1개 + 라면 350g 1개 + 우동 350g 1개 + 어묵탕 360g 1개, 1세트",
       "source": "toss",
