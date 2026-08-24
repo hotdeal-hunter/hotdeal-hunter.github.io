@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-24T22:37:56.133Z",
+  "updatedAt": "2026-08-24T22:56:36.908Z",
   "deals": [
+    {
+      "id": "toss:p:141638399|n:황쉐프 무 동치미, 5kg, 1개",
+      "source": "toss",
+      "name": "황쉐프 무 동치미, 5kg, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T22:55:19.852Z",
+      "url": "https://toss.im/_m/xD2Ux1rw",
+      "image": "assets/products/295f30c203b1ea97c1a5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-24T22:55:19.852Z"
+        }
+      ]
+    },
     {
       "id": "p:7961386819|i:25126789380|v:90859138058",
       "source": "coupang",
       "name": "토레타 제로 이온음료, 500ml, 24개",
       "price": 13870,
-      "listPrice": null,
-      "observedAt": "2026-08-24T22:36:36.735Z",
-      "url": "https://link.coupang.com/a/gun6YBAh64",
+      "listPrice": 17939,
+      "observedAt": "2026-08-24T22:47:11.587Z",
+      "url": "https://link.coupang.com/a/guoRQS3XWu",
       "image": "assets/products/0c6aaa6f987a0002ca91.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 13870,
+          "observedAt": "2026-08-24T22:47:11.587Z"
+        },
         {
           "price": 13870,
           "observedAt": "2026-08-24T22:36:36.735Z"
