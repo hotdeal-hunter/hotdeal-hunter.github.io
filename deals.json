@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-24T04:22:41.548Z",
+  "updatedAt": "2026-08-24T04:27:26.634Z",
   "deals": [
+    {
+      "id": "p:2242545443|i:14244388356|v:81489586628",
+      "source": "coupang",
+      "name": "케라시스 어드밴스드 10X 리페어 앰플 헤어팩, 1L, 1개",
+      "price": 6750,
+      "listPrice": 11052,
+      "observedAt": "2026-08-24T04:27:16.403Z",
+      "url": "https://link.coupang.com/a/gs8gx4kgiO",
+      "image": "assets/products/6140a4136463c2731aa5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6750,
+          "observedAt": "2026-08-24T04:27:16.403Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
+      "source": "toss",
+      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
+      "price": 33900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T04:26:10.707Z",
+      "url": "https://toss.im/_m/XZTvtIBd",
+      "image": "assets/products/f69f2130002c1bf19010.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T04:26:10.707Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T02:58:01.321Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T01:32:49.057Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1073957433|n:한울 촉촉 고구마스틱, 20g, 15개",
+      "source": "toss",
+      "name": "한울 촉촉 고구마스틱, 20g, 15개",
+      "price": 10450,
+      "listPrice": null,
+      "observedAt": "2026-08-24T04:26:10.464Z",
+      "url": "https://toss.im/_m/xSqx5mGn",
+      "image": "assets/products/34549a755aa4464fd7a8.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10450,
+          "observedAt": "2026-08-24T04:26:10.464Z"
+        },
+        {
+          "price": 10450,
+          "observedAt": "2026-08-24T00:54:26.922Z"
+        }
+      ]
+    },
     {
       "id": "p:8618212227|i:28913172898|v:95845035299",
       "source": "coupang",
@@ -49,27 +112,6 @@
         {
           "price": 23900,
           "observedAt": "2026-08-24T04:12:29.668Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "source": "toss",
-      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "price": 33900,
-      "listPrice": null,
-      "observedAt": "2026-08-24T02:58:01.321Z",
-      "url": "https://toss.im/_m/XZTvtIBd",
-      "image": "assets/products/f69f2130002c1bf19010.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T02:58:01.321Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T01:32:49.057Z"
         }
       ]
     },
@@ -180,23 +222,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-17T09:55:48.859Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1073957433|n:한울 촉촉 고구마스틱, 20g, 15개",
-      "source": "toss",
-      "name": "한울 촉촉 고구마스틱, 20g, 15개",
-      "price": 10450,
-      "listPrice": null,
-      "observedAt": "2026-08-24T00:54:26.922Z",
-      "url": "https://toss.im/_m/xSqx5mGn",
-      "image": "assets/products/34549a755aa4464fd7a8.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10450,
-          "observedAt": "2026-08-24T00:54:26.922Z"
         }
       ]
     },
