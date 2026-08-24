@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T09:32:38.017Z",
+  "updatedAt": "2026-08-24T09:51:08.915Z",
   "deals": [
+    {
+      "id": "toss:p:17337|n:광동제약 타우린 2000, 120ml, 20개",
+      "source": "toss",
+      "name": "광동제약 타우린 2000, 120ml, 20개",
+      "price": 9900,
+      "listPrice": 17900,
+      "observedAt": "2026-08-24T09:49:46.832Z",
+      "url": "https://toss.im/_m/HqBgXe27",
+      "image": "assets/products/03ddefc5ce9722a737b6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-24T09:49:46.832Z"
+        }
+      ]
+    },
     {
       "id": "p:9496373676|i:28287529589|v:94950430382",
       "source": "coupang",
