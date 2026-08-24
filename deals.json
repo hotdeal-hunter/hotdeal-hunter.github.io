@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-24T05:33:24.809Z",
+  "updatedAt": "2026-08-24T05:53:05.740Z",
   "deals": [
+    {
+      "id": "p:9579377940|i:28617520208|v:-",
+      "source": "coupang",
+      "name": "사세 매콤달콤 닭강정 (냉동), 440g, 2개 - 닭강정",
+      "price": 5750,
+      "listPrice": null,
+      "observedAt": "2026-08-24T05:51:49.035Z",
+      "url": "https://link.coupang.com/a/gtei6KlQ8O",
+      "image": "assets/products/572d1a47adf276a9b6d7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5750,
+          "observedAt": "2026-08-24T05:51:49.035Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-08-24T05:51:48.825Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
       "source": "toss",
