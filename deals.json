@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-08-24T11:17:56.712Z",
+  "updatedAt": "2026-08-24T11:50:19.376Z",
   "deals": [
+    {
+      "id": "toss:p:2347609015|n:고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
+      "source": "toss",
+      "name": "고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
+      "price": 7970,
+      "listPrice": null,
+      "observedAt": "2026-08-24T11:48:59.118Z",
+      "url": "https://toss.im/_m/v3pG1vDz",
+      "image": "assets/products/debb119f34e4214a9311.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7970,
+          "observedAt": "2026-08-24T11:48:59.118Z"
+        },
+        {
+          "price": 7970,
+          "observedAt": "2026-08-24T11:48:58.837Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:803874283|n:으뜸한돈 으뜸 머릿고기 편육, 250g, 4팩",
       "source": "toss",
       "name": "으뜸한돈 으뜸 머릿고기 편육, 250g, 4팩",
       "price": 14370,
       "listPrice": null,
-      "observedAt": "2026-08-24T11:16:37.255Z",
+      "observedAt": "2026-08-24T11:18:07.910Z",
       "url": "https://toss.im/_m/dljJlTHe",
       "image": "assets/products/5d2df28eefe152375916.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 14370,
+          "observedAt": "2026-08-24T11:18:07.910Z"
+        },
         {
           "price": 14370,
           "observedAt": "2026-08-24T11:16:37.255Z"
