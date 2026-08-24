@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T00:53:06.716Z",
+  "updatedAt": "2026-08-24T00:56:08.681Z",
   "deals": [
+    {
+      "id": "toss:p:1073957433|n:한울 촉촉 고구마스틱, 20g, 15개",
+      "source": "toss",
+      "name": "한울 촉촉 고구마스틱, 20g, 15개",
+      "price": 10450,
+      "listPrice": null,
+      "observedAt": "2026-08-24T00:54:26.922Z",
+      "url": "https://toss.im/_m/xSqx5mGn",
+      "image": "assets/products/34549a755aa4464fd7a8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10450,
+          "observedAt": "2026-08-24T00:54:26.922Z"
+        }
+      ]
+    },
     {
       "id": "p:9099480070|i:26748211747|v:93719329608",
       "source": "coupang",
