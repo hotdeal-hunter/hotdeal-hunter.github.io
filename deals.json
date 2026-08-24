@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-24T05:55:50.717Z",
+  "updatedAt": "2026-08-24T06:34:41.740Z",
   "deals": [
+    {
+      "id": "toss:p:984122095|n:이브네 코트니 생리대, 대형, 14매입, 4팩",
+      "source": "toss",
+      "name": "이브네 코트니 생리대, 대형, 14매입, 4팩",
+      "price": 1580,
+      "listPrice": null,
+      "observedAt": "2026-08-24T06:33:22.520Z",
+      "url": "https://toss.im/_m/XsHJmF6B",
+      "image": "assets/products/56009986370163518442.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1580,
+          "observedAt": "2026-08-24T06:33:22.520Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-24T06:33:22.228Z"
+        }
+      ]
+    },
     {
       "id": "p:9579377940|i:28617520208|v:-",
       "source": "coupang",
