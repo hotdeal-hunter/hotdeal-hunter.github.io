@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T23:35:34.694Z",
+  "updatedAt": "2026-08-24T23:46:09.474Z",
   "deals": [
+    {
+      "id": "p:4343134537|i:19166816524|v:86285153295",
+      "source": "coupang",
+      "name": "아리얼 스트레스 릴리빙 퓨어풀 클렌징 티슈, 80매입, 2개",
+      "price": 5170,
+      "listPrice": 6805,
+      "observedAt": "2026-08-24T23:44:47.309Z",
+      "url": "https://link.coupang.com/a/gusY1FwULY",
+      "image": "assets/products/8fbfd45d1eaeff9ffad0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5170,
+          "observedAt": "2026-08-24T23:44:47.309Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:524458311|n:전통압착 통참기름, 350ml, 4개",
       "source": "toss",
