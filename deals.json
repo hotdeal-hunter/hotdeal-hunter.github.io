@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T00:10:39.491Z",
+  "updatedAt": "2026-08-24T00:22:33.715Z",
   "deals": [
+    {
+      "id": "p:9072476856|i:24374352015|v:93628294142",
+      "source": "coupang",
+      "name": "비비드키친 저당 닭가슴살 브리또 숯불매콤 (냉동), 125g, 4개, 1개입",
+      "price": 8580,
+      "listPrice": 13260,
+      "observedAt": "2026-08-24T00:21:10.191Z",
+      "url": "https://link.coupang.com/a/gsQGbgO7zg",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8580,
+          "observedAt": "2026-08-24T00:21:10.191Z"
+        }
+      ]
+    },
     {
       "id": "p:9459074102|i:28155221542|v:95110437321",
       "source": "coupang",
