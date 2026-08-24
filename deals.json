@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:04:34.560Z",
+  "updatedAt": "2026-08-24T08:10:36.513Z",
   "deals": [
+    {
+      "id": "toss:p:2535086183|n:에쏘브로 콜드브루 원액, 1kg, 2개",
+      "source": "toss",
+      "name": "에쏘브로 콜드브루 원액, 1kg, 2개",
+      "price": 8800,
+      "listPrice": null,
+      "observedAt": "2026-08-24T08:09:19.464Z",
+      "url": "https://toss.im/_m/7uUFUgAn",
+      "image": "assets/products/502bbf8a433b5b2bddb4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-08-24T08:09:19.464Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:115147819|n:오쿡 소스 닭가슴살볼, 매콤까르보나라맛 100g 2개 + 크림치즈맛 100g 2개 + 핫치즈맛 100g 2개 + 바베큐맛 100g 2개, 8개입",
       "source": "toss",
