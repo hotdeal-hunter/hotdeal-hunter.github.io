@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T00:22:33.715Z",
+  "updatedAt": "2026-08-24T00:37:49.894Z",
   "deals": [
+    {
+      "id": "toss:p:78829603|n:광천김 바삭바삭 모둠 광천 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 바삭바삭 모둠 광천 김자반, 40g, 10봉",
+      "price": 10900,
+      "listPrice": 21800,
+      "observedAt": "2026-08-24T00:36:27.166Z",
+      "url": "https://toss.im/_m/ZZcECCHu",
+      "image": "assets/products/206daccc03aa5a3f9e84.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-24T00:36:27.166Z"
+        }
+      ]
+    },
     {
       "id": "p:9072476856|i:24374352015|v:93628294142",
       "source": "coupang",
