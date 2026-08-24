@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T05:01:10.395Z",
+  "updatedAt": "2026-08-24T05:33:24.809Z",
   "deals": [
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 11780,
+      "listPrice": 26000,
+      "observedAt": "2026-08-24T05:32:01.644Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "p:8997551928|i:23950640320|v:95385194292",
       "source": "coupang",
