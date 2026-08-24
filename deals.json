@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T01:58:38.594Z",
+  "updatedAt": "2026-08-24T02:08:36.987Z",
   "deals": [
+    {
+      "id": "toss:p:1985151433|n:이디야커피 스페셜 골드블렌드 리치크레마 커피믹스, 11g, 200개입, 1개",
+      "source": "toss",
+      "name": "이디야커피 스페셜 골드블렌드 리치크레마 커피믹스, 11g, 200개입, 1개",
+      "price": 22000,
+      "listPrice": 33500,
+      "observedAt": "2026-08-24T02:06:52.162Z",
+      "url": "https://toss.im/_m/1KmcMWt8",
+      "image": "assets/products/7d2c8220a3577af5f80d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22000,
+          "observedAt": "2026-08-24T02:06:52.162Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:169883207|n:아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
       "source": "toss",
