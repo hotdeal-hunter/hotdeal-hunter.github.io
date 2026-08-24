@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T09:51:08.915Z",
+  "updatedAt": "2026-08-24T10:36:55.839Z",
   "deals": [
+    {
+      "id": "p:9555751633|i:28513347998|v:95462027603",
+      "source": "coupang",
+      "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
+      "price": 8920,
+      "listPrice": 11314,
+      "observedAt": "2026-08-24T10:35:33.497Z",
+      "url": "https://link.coupang.com/a/gtyAlHps96",
+      "image": "assets/products/aab7834592bd3fac5fe7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8920,
+          "observedAt": "2026-08-24T10:35:33.497Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:17337|n:광동제약 타우린 2000, 120ml, 20개",
       "source": "toss",
