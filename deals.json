@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T04:13:52.324Z",
+  "updatedAt": "2026-08-24T04:19:55.169Z",
   "deals": [
+    {
+      "id": "toss:p:1064989165|n:당연구소 귀리뻥, 40g, 10봉",
+      "source": "toss",
+      "name": "당연구소 귀리뻥, 40g, 10봉",
+      "price": 8900,
+      "listPrice": 40000,
+      "observedAt": "2026-08-24T04:18:32.846Z",
+      "url": "https://toss.im/_m/jiGh5oAs",
+      "image": "assets/products/7664e2c3b8fa66bf3e3c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-24T04:18:32.846Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:93619301|n:모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
       "source": "toss",
