@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T06:37:26.699Z",
+  "updatedAt": "2026-08-24T07:02:44.082Z",
   "deals": [
+    {
+      "id": "p:6795616610|i:16022999529|v:70888467077",
+      "source": "coupang",
+      "name": "광천김 핑크퐁 아기상어 무조미 키즈김, 무조미김, 15g, 2개",
+      "price": 6600,
+      "listPrice": 9768,
+      "observedAt": "2026-08-24T07:01:20.070Z",
+      "url": "https://link.coupang.com/a/gtjheuUdwq",
+      "image": "assets/products/2dea4f15e33aa6cf9559.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-08-24T07:01:20.070Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:984122095|n:이브네 코트니 생리대, 대형, 14매입, 4팩",
       "source": "toss",
