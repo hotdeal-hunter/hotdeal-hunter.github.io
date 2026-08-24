@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T04:54:00.204Z",
+  "updatedAt": "2026-08-24T05:01:10.395Z",
   "deals": [
+    {
+      "id": "p:8997551928|i:23950640320|v:95385194292",
+      "source": "coupang",
+      "name": "터블 이지클린 텀블러 발포 세정제 클리너 대용량 100p, 800g, 1개",
+      "price": 16590,
+      "listPrice": 22040,
+      "observedAt": "2026-08-24T04:59:48.119Z",
+      "url": "https://link.coupang.com/a/gtaAEVeDqC",
+      "image": "assets/products/a1783044718eb5121f69.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16590,
+          "observedAt": "2026-08-24T04:59:48.119Z"
+        }
+      ]
+    },
     {
       "id": "p:1540272|i:5029844|v:3006240363",
       "source": "coupang",
