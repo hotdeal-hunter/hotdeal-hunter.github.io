@@ -1,6 +1,91 @@
 {
-  "updatedAt": "2026-08-24T12:40:08.964Z",
+  "updatedAt": "2026-08-24T12:52:00.758Z",
   "deals": [
+    {
+      "id": "toss:p:1983315353|n:바로먹는 발효곤약 4종 세트, 냉메밀 350g 1개 + 라면 350g 1개 + 우동 350g 1개 + 어묵탕 360g 1개, 1세트",
+      "source": "toss",
+      "name": "바로먹는 발효곤약 4종 세트, 냉메밀 350g 1개 + 라면 350g 1개 + 우동 350g 1개 + 어묵탕 360g 1개, 1세트",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:50:40.988Z",
+      "url": "https://toss.im/_m/Fc7JfVO4",
+      "image": "assets/products/32a675be3b41bc422c69.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-08-24T12:50:40.988Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104628943|n:베네베딩 잠보드레 베개솜, 화이트, 40x60cm, 2개",
+      "source": "toss",
+      "name": "베네베딩 잠보드레 베개솜, 화이트, 40x60cm, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:50:40.749Z",
+      "url": "https://toss.im/_m/hb7XPEt3",
+      "image": "assets/products/140ad37bc47c565d5f9d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-24T12:50:40.749Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1524975709|n:수박, 4kg, 1박스",
+      "source": "toss",
+      "name": "수박, 4kg, 1박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:50:40.524Z",
+      "url": "https://toss.im/_m/XHEy0r92",
+      "image": "assets/products/756df00f9e0aa407a777.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-24T12:50:40.524Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120755917|n:대한우리 경주 황리단길 모짜렐라 크림치즈 십원빵, 120g, 6개",
+      "source": "toss",
+      "name": "대한우리 경주 황리단길 모짜렐라 크림치즈 십원빵, 120g, 6개",
+      "price": 11890,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:50:40.327Z",
+      "url": "https://toss.im/_m/TzOtxnjB",
+      "image": "assets/products/c89dd50eee11a16ee06b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11890,
+          "observedAt": "2026-08-24T12:50:40.327Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1190284773|n:순살 양념 목살구이, 600g, 3개",
+      "source": "toss",
+      "name": "순살 양념 목살구이, 600g, 3개",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:50:40.048Z",
+      "url": "https://toss.im/_m/ZC14DW3A",
+      "image": "assets/products/689c6d632ecdce70b84a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-08-24T12:50:40.048Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:181128657|n:라운드랩 1025 독도 토너, 500ml 1개 + 100ml 1개",
       "source": "toss",
