@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T00:37:49.894Z",
+  "updatedAt": "2026-08-24T00:53:06.716Z",
   "deals": [
+    {
+      "id": "p:9099480070|i:26748211747|v:93719329608",
+      "source": "coupang",
+      "name": "오뗄 추억의 카스테라 핫도그 라이트 (냉동), 50g, 1개, 25개입",
+      "price": 9900,
+      "listPrice": 13500,
+      "observedAt": "2026-08-24T00:51:43.577Z",
+      "url": "https://link.coupang.com/a/gsSRyKB8dU",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-24T00:51:43.577Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78829603|n:광천김 바삭바삭 모둠 광천 김자반, 40g, 10봉",
       "source": "toss",
