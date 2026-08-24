@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T07:17:47.724Z",
+  "updatedAt": "2026-08-24T07:30:35.313Z",
   "deals": [
+    {
+      "id": "p:8424867137|i:24372873945|v:91388063056",
+      "source": "coupang",
+      "name": "돌돌말이 대패삼겹살 바로구이 (냉동), 1kg, 1개",
+      "price": 7190,
+      "listPrice": 10990,
+      "observedAt": "2026-08-24T07:29:13.362Z",
+      "url": "https://link.coupang.com/a/gtlgMXPhW8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7190,
+          "observedAt": "2026-08-24T07:29:13.362Z"
+        }
+      ]
+    },
     {
       "id": "p:8370925806|i:24196294653|v:91213945038",
       "source": "coupang",
