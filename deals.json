@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T11:08:27.940Z",
+  "updatedAt": "2026-08-24T11:17:56.712Z",
   "deals": [
+    {
+      "id": "toss:p:803874283|n:으뜸한돈 으뜸 머릿고기 편육, 250g, 4팩",
+      "source": "toss",
+      "name": "으뜸한돈 으뜸 머릿고기 편육, 250g, 4팩",
+      "price": 14370,
+      "listPrice": null,
+      "observedAt": "2026-08-24T11:16:37.255Z",
+      "url": "https://toss.im/_m/dljJlTHe",
+      "image": "assets/products/5d2df28eefe152375916.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14370,
+          "observedAt": "2026-08-24T11:16:37.255Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1466192609|n:과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
       "source": "toss",
