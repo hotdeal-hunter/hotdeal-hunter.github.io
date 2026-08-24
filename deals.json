@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-24T01:34:38.660Z",
+  "updatedAt": "2026-08-24T01:41:53.552Z",
   "deals": [
+    {
+      "id": "p:8165713116|i:22203096903|v:89249238105",
+      "source": "coupang",
+      "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
+      "price": 8850,
+      "listPrice": 11889,
+      "observedAt": "2026-08-24T01:41:40.307Z",
+      "url": "https://link.coupang.com/a/gsWqQhfKEL",
+      "image": "assets/products/42d32780423ac287d29a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8850,
+          "observedAt": "2026-08-24T01:41:40.307Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:114777967|n:추추 추어탕, 500g, 4개",
+      "source": "toss",
+      "name": "추추 추어탕, 500g, 4개",
+      "price": 9400,
+      "listPrice": null,
+      "observedAt": "2026-08-24T01:38:15.150Z",
+      "url": "https://toss.im/_m/TQkLaatm",
+      "image": "assets/products/20d257982c1b862afd37.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9400,
+          "observedAt": "2026-08-24T01:38:15.150Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-22T23:01:06.675Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-17T09:55:48.859Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
       "source": "toss",
@@ -1069,27 +1111,6 @@
         {
           "price": 15900,
           "observedAt": "2026-08-22T23:59:30.114Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:114777967|n:추추 추어탕, 500g, 4개",
-      "source": "toss",
-      "name": "추추 추어탕, 500g, 4개",
-      "price": 9400,
-      "listPrice": null,
-      "observedAt": "2026-08-22T23:01:06.675Z",
-      "url": "https://toss.im/_m/TQkLaatm",
-      "image": "assets/products/20d257982c1b862afd37.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9400,
-          "observedAt": "2026-08-22T23:01:06.675Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-17T09:55:48.859Z"
         }
       ]
     },
