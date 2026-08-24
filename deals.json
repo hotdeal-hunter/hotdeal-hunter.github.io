@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T22:25:48.268Z",
+  "updatedAt": "2026-08-24T22:28:34.973Z",
   "deals": [
+    {
+      "id": "p:9059695936|i:21729816141|v:82056095678",
+      "source": "coupang",
+      "name": "웰라쥬 리얼 히알루로닉 블루 100 앰플 100ml + 75ml 세트, 1개",
+      "price": 24710,
+      "listPrice": 34100,
+      "observedAt": "2026-08-24T22:27:04.529Z",
+      "url": "https://link.coupang.com/a/gunqI0JY04",
+      "image": "assets/products/d214a987e7b82c9d3ce0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24710,
+          "observedAt": "2026-08-24T22:27:04.529Z"
+        }
+      ]
+    },
     {
       "id": "p:8019609059|i:22407789113|v:81998646806",
       "source": "coupang",
