@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:14:22.870Z",
+  "updatedAt": "2026-08-24T08:26:07.393Z",
   "deals": [
+    {
+      "id": "p:8715715990|i:25313990307|v:92418111148",
+      "source": "coupang",
+      "name": "노멀라이프 15엽 리모컨 스탠드 선풍기 퓨어 화이트, NL-25EF04WH",
+      "price": 25900,
+      "listPrice": 44697,
+      "observedAt": "2026-08-24T08:24:44.539Z",
+      "url": "https://link.coupang.com/a/gtpeMj6vYq",
+      "image": "assets/products/8a3751dc84265c129a2c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25900,
+          "observedAt": "2026-08-24T08:24:44.539Z"
+        }
+      ]
+    },
     {
       "id": "p:7518061003|i:19712745398|v:91015354473",
       "source": "coupang",
