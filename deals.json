@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:10:36.513Z",
+  "updatedAt": "2026-08-24T08:14:22.870Z",
   "deals": [
+    {
+      "id": "p:7518061003|i:19712745398|v:91015354473",
+      "source": "coupang",
+      "name": "돌돌말이 대패 삼겹살 (냉동), 1kg, 1개, 1kg × 1개",
+      "price": 7190,
+      "listPrice": 12279,
+      "observedAt": "2026-08-24T08:13:00.679Z",
+      "url": "https://link.coupang.com/a/gtooNmgocC",
+      "image": "assets/products/c7d0a39e8d0d5e834977.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7190,
+          "observedAt": "2026-08-24T08:13:00.679Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2535086183|n:에쏘브로 콜드브루 원액, 1kg, 2개",
       "source": "toss",
