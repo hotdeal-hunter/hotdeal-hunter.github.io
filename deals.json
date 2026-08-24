@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T12:31:47.108Z",
+  "updatedAt": "2026-08-24T12:40:08.964Z",
   "deals": [
+    {
+      "id": "toss:p:181128657|n:라운드랩 1025 독도 토너, 500ml 1개 + 100ml 1개",
+      "source": "toss",
+      "name": "라운드랩 1025 독도 토너, 500ml 1개 + 100ml 1개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T12:38:51.927Z",
+      "url": "https://toss.im/_m/Jq9aMBw4",
+      "image": "assets/products/ab8cab6f8c624d541fb7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-24T12:38:51.927Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:210842731|n:일양약품 일양 비타민c&d 1000, 100정, 1개",
       "source": "toss",
