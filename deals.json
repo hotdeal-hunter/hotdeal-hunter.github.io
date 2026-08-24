@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-08-24T07:30:35.313Z",
+  "updatedAt": "2026-08-24T07:34:20.941Z",
   "deals": [
+    {
+      "id": "toss:p:91517543|n:풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
+      "source": "toss",
+      "name": "풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
+      "price": 23465,
+      "listPrice": null,
+      "observedAt": "2026-08-24T07:33:01.782Z",
+      "url": "https://toss.im/_m/7Gf3OPJ",
+      "image": "assets/products/451b376cc8d41bd509da.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 23465,
+          "observedAt": "2026-08-24T07:33:01.782Z"
+        },
+        {
+          "price": 23465,
+          "observedAt": "2026-08-24T07:33:01.589Z"
+        },
+        {
+          "price": 23465,
+          "observedAt": "2026-08-19T13:04:53.207Z"
+        },
+        {
+          "price": 23465,
+          "observedAt": "2026-08-18T05:23:44.077Z"
+        }
+      ]
+    },
+    {
+      "id": "p:343900909|i:21759492954|v:88808473468",
+      "source": "coupang",
+      "name": "곰곰 돌돌말이 대패삼겹살 (냉동), 1.5kg, 1개, 1.5kg × 1개",
+      "price": 10780,
+      "listPrice": 17041,
+      "observedAt": "2026-08-24T07:32:58.299Z",
+      "url": "https://link.coupang.com/a/gtlxoWbyrk",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10780,
+          "observedAt": "2026-08-24T07:32:58.299Z"
+        }
+      ]
+    },
     {
       "id": "p:8424867137|i:24372873945|v:91388063056",
       "source": "coupang",
@@ -4131,27 +4177,6 @@
         {
           "price": 12990,
           "observedAt": "2026-08-19T13:14:19.587Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91517543|n:풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
-      "source": "toss",
-      "name": "풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
-      "price": 23465,
-      "listPrice": null,
-      "observedAt": "2026-08-19T13:04:53.207Z",
-      "url": "https://toss.im/_m/7Gf3OPJ",
-      "image": "assets/products/451b376cc8d41bd509da.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 23465,
-          "observedAt": "2026-08-19T13:04:53.207Z"
-        },
-        {
-          "price": 23465,
-          "observedAt": "2026-08-18T05:23:44.077Z"
         }
       ]
     },
