@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-24T08:26:07.393Z",
+  "updatedAt": "2026-08-24T08:34:26.312Z",
   "deals": [
+    {
+      "id": "toss:p:154543465|n:애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
+      "source": "toss",
+      "name": "애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
+      "price": 1241,
+      "listPrice": null,
+      "observedAt": "2026-08-24T08:33:07.065Z",
+      "url": "https://toss.im/_m/fig9cBdd",
+      "image": "assets/products/317dfb7695b6ff2d3016.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1241,
+          "observedAt": "2026-08-24T08:33:07.065Z"
+        },
+        {
+          "price": 12410,
+          "observedAt": "2026-08-24T08:33:06.801Z"
+        }
+      ]
+    },
     {
       "id": "p:8715715990|i:25313990307|v:92418111148",
       "source": "coupang",
