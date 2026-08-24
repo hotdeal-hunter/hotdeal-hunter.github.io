@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T07:02:44.082Z",
+  "updatedAt": "2026-08-24T07:17:47.724Z",
   "deals": [
+    {
+      "id": "p:8370925806|i:24196294653|v:91213945038",
+      "source": "coupang",
+      "name": "하우스푸즈 와사비, 43g, 6개",
+      "price": 10920,
+      "listPrice": 14322,
+      "observedAt": "2026-08-24T07:16:25.735Z",
+      "url": "https://link.coupang.com/a/gtkl6ycySi",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10920,
+          "observedAt": "2026-08-24T07:16:25.735Z"
+        }
+      ]
+    },
     {
       "id": "p:6795616610|i:16022999529|v:70888467077",
       "source": "coupang",
