@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T22:28:34.973Z",
+  "updatedAt": "2026-08-24T22:37:56.133Z",
   "deals": [
+    {
+      "id": "p:7961386819|i:25126789380|v:90859138058",
+      "source": "coupang",
+      "name": "토레타 제로 이온음료, 500ml, 24개",
+      "price": 13870,
+      "listPrice": null,
+      "observedAt": "2026-08-24T22:36:36.735Z",
+      "url": "https://link.coupang.com/a/gun6YBAh64",
+      "image": "assets/products/0c6aaa6f987a0002ca91.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13870,
+          "observedAt": "2026-08-24T22:36:36.735Z"
+        }
+      ]
+    },
     {
       "id": "p:9059695936|i:21729816141|v:82056095678",
       "source": "coupang",
