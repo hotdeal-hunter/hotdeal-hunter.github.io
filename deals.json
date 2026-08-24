@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T09:11:50.727Z",
+  "updatedAt": "2026-08-24T09:32:38.017Z",
   "deals": [
+    {
+      "id": "p:9496373676|i:28287529589|v:94950430382",
+      "source": "coupang",
+      "name": "스텐 다용도 사각볼 4종세트 304 스테인리스 채칼 세척볼 채반, 1세트, 4종",
+      "price": 9900,
+      "listPrice": 16975,
+      "observedAt": "2026-08-24T09:31:16.052Z",
+      "url": "https://link.coupang.com/a/gttZvwgsmb",
+      "image": "assets/products/7a42e2f388b8539b4e0f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-24T09:31:16.052Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1732424475|n:코코에르 뽀송 에어 바디 드라이어, jnsb-bd238h, 화이트, 1개",
       "source": "toss",
@@ -212,7 +229,7 @@
       "listPrice": 14322,
       "observedAt": "2026-08-24T07:16:25.735Z",
       "url": "https://link.coupang.com/a/gtkl6ycySi",
-      "image": null,
+      "image": "assets/products/4d181825356ba1adcf80.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
