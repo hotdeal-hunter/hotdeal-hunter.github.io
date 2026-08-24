@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T04:19:55.169Z",
+  "updatedAt": "2026-08-24T04:22:41.548Z",
   "deals": [
+    {
+      "id": "p:8618212227|i:28913172898|v:95845035299",
+      "source": "coupang",
+      "name": "마더케이 휴대용 프리미엄 아기 물티슈 캡형, 75g, 20매, 12개",
+      "price": 8250,
+      "listPrice": 17900,
+      "observedAt": "2026-08-24T04:20:02.900Z",
+      "url": "https://link.coupang.com/a/gs7KxDK7SC",
+      "image": "assets/products/dd44b664b83aac264d5a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8250,
+          "observedAt": "2026-08-24T04:20:02.900Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1064989165|n:당연구소 귀리뻥, 40g, 10봉",
       "source": "toss",
@@ -191,7 +208,7 @@
       "listPrice": 13500,
       "observedAt": "2026-08-24T00:51:43.577Z",
       "url": "https://link.coupang.com/a/gsSRyKB8dU",
-      "image": null,
+      "image": "assets/products/a2c314dc049dbd47451e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -225,7 +242,7 @@
       "listPrice": 13260,
       "observedAt": "2026-08-24T00:21:10.191Z",
       "url": "https://link.coupang.com/a/gsQGbgO7zg",
-      "image": null,
+      "image": "assets/products/04c6fdbdbc8a6bcf04a9.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -445,7 +462,7 @@
       "listPrice": 17406,
       "observedAt": "2026-08-23T23:12:17.031Z",
       "url": "https://link.coupang.com/a/gsLKYVrru8",
-      "image": null,
+      "image": "assets/products/980f9778c02191aa87f1.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -533,7 +550,7 @@
       "listPrice": 10685,
       "observedAt": "2026-08-23T22:09:58.289Z",
       "url": "https://link.coupang.com/a/gsHiTWzOrQ",
-      "image": null,
+      "image": "assets/products/88b66a6eefc75d1ff408.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
