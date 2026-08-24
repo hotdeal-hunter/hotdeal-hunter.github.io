@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:37:11.708Z",
+  "updatedAt": "2026-08-24T08:52:11.288Z",
   "deals": [
+    {
+      "id": "toss:p:181242027|n:서울우유 커피타운 아메리카노, 350ml, 20개",
+      "source": "toss",
+      "name": "서울우유 커피타운 아메리카노, 350ml, 20개",
+      "price": 16900,
+      "listPrice": 40000,
+      "observedAt": "2026-08-24T08:50:48.997Z",
+      "url": "https://toss.im/_m/dwGIdIyx",
+      "image": "assets/products/9f0f192f0d8b21d3f249.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-08-24T08:50:48.997Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154543465|n:애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
       "source": "toss",
