@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T01:41:53.552Z",
+  "updatedAt": "2026-08-24T01:58:38.594Z",
   "deals": [
+    {
+      "id": "toss:p:169883207|n:아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
+      "source": "toss",
+      "name": "아스파시아 퍼퓸 샤워 코롱 돌체베르, 150ml, 2개",
+      "price": 9500,
+      "listPrice": 50000,
+      "observedAt": "2026-08-24T01:57:15.718Z",
+      "url": "https://toss.im/_m/jytejE42",
+      "image": "assets/products/7007b381742e5087535c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9500,
+          "observedAt": "2026-08-24T01:57:15.718Z"
+        }
+      ]
+    },
     {
       "id": "p:8165713116|i:22203096903|v:89249238105",
       "source": "coupang",
