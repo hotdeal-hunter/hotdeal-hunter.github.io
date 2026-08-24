@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T08:52:11.288Z",
+  "updatedAt": "2026-08-24T09:11:50.727Z",
   "deals": [
+    {
+      "id": "toss:p:1732424475|n:코코에르 뽀송 에어 바디 드라이어, jnsb-bd238h, 화이트, 1개",
+      "source": "toss",
+      "name": "코코에르 뽀송 에어 바디 드라이어, JNSB-BD238H, 화이트, 1개",
+      "price": 27920,
+      "listPrice": 199000,
+      "observedAt": "2026-08-24T09:10:27.929Z",
+      "url": "https://toss.im/_m/HgHnNhu9",
+      "image": "assets/products/cbf0c3e3fcca7e636a80.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27920,
+          "observedAt": "2026-08-24T09:10:27.929Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:181242027|n:서울우유 커피타운 아메리카노, 350ml, 20개",
       "source": "toss",
