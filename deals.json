@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-23T23:47:30.505Z",
+  "updatedAt": "2026-08-24T00:10:39.491Z",
   "deals": [
+    {
+      "id": "p:9459074102|i:28155221542|v:95110437321",
+      "source": "coupang",
+      "name": "오뚜기 오즈키친 골든 후라이드 치킨 (냉동), 550g, 2개",
+      "price": 9770,
+      "listPrice": null,
+      "observedAt": "2026-08-24T00:09:19.305Z",
+      "url": "https://link.coupang.com/a/gsPPG7ayru",
+      "image": "assets/products/c503ae8850ba4210ba5c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9770,
+          "observedAt": "2026-08-24T00:09:19.305Z"
+        }
+      ]
+    },
     {
       "id": "p:8750589813|i:25468108821|v:92460611996",
       "source": "coupang",
@@ -4146,7 +4163,7 @@
       "listPrice": 12540,
       "observedAt": "2026-08-19T06:55:23.760Z",
       "url": "https://link.coupang.com/a/gk0kAgM5Wm",
-      "image": null,
+      "image": "assets/products/0a160d69cac988fdbc2e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
