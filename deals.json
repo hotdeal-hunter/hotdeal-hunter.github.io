@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T04:27:26.634Z",
+  "updatedAt": "2026-08-24T04:54:00.204Z",
   "deals": [
+    {
+      "id": "p:1540272|i:5029844|v:3006240363",
+      "source": "coupang",
+      "name": "스노우키즈 감성물감 색감교육용 핑거페인트, 250ml, 6색",
+      "price": 18180,
+      "listPrice": 28880,
+      "observedAt": "2026-08-24T04:52:36.977Z",
+      "url": "https://link.coupang.com/a/gs94Plj9rM",
+      "image": "assets/products/2d783fc48039234ac7c5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18180,
+          "observedAt": "2026-08-24T04:52:36.977Z"
+        }
+      ]
+    },
     {
       "id": "p:2242545443|i:14244388356|v:81489586628",
       "source": "coupang",
