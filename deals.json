@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T02:08:36.987Z",
+  "updatedAt": "2026-08-24T02:55:30.336Z",
   "deals": [
+    {
+      "id": "p:6903873562|i:1088946|v:3001047907",
+      "source": "coupang",
+      "name": "바이탈프로그램 비타민C 1000mg, 200정, 1개",
+      "price": 8920,
+      "listPrice": 11601,
+      "observedAt": "2026-08-24T02:54:06.720Z",
+      "url": "https://link.coupang.com/a/gs1BMUa20W",
+      "image": "assets/products/df991572bee051208d68.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8920,
+          "observedAt": "2026-08-24T02:54:06.720Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1985151433|n:이디야커피 스페셜 골드블렌드 리치크레마 커피믹스, 11g, 200개입, 1개",
       "source": "toss",
