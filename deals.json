@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T02:59:18.482Z",
+  "updatedAt": "2026-08-24T04:13:52.324Z",
   "deals": [
+    {
+      "id": "toss:p:93619301|n:모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "모나리자 보타닉포레 소프트 화장지, 3겹, 30m, 30롤, 2팩",
+      "price": 23900,
+      "listPrice": 61900,
+      "observedAt": "2026-08-24T04:12:29.668Z",
+      "url": "https://toss.im/_m/x5l4yRDk",
+      "image": "assets/products/42d5bab2f578e1a07779.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23900,
+          "observedAt": "2026-08-24T04:12:29.668Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
       "source": "toss",
