@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-24T02:55:30.336Z",
+  "updatedAt": "2026-08-24T02:59:18.482Z",
   "deals": [
+    {
+      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
+      "source": "toss",
+      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
+      "price": 33900,
+      "listPrice": null,
+      "observedAt": "2026-08-24T02:58:01.321Z",
+      "url": "https://toss.im/_m/XZTvtIBd",
+      "image": "assets/products/f69f2130002c1bf19010.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T02:58:01.321Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T01:32:49.057Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8986990486|i:26319444889|v:93296864070",
+      "source": "coupang",
+      "name": "네파키즈 HYPE 23 운동화 KLGEC60, 다크그린, 200",
+      "price": 26930,
+      "listPrice": 73600,
+      "observedAt": "2026-08-24T02:57:55.164Z",
+      "url": "https://link.coupang.com/a/gs1SFmpl9M",
+      "image": "assets/products/e5dd860d1a5b7f5c7d97.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26930,
+          "observedAt": "2026-08-24T02:57:55.164Z"
+        }
+      ]
+    },
     {
       "id": "p:6903873562|i:1088946|v:3001047907",
       "source": "coupang",
@@ -91,23 +129,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-17T09:55:48.859Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "source": "toss",
-      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "price": 33900,
-      "listPrice": null,
-      "observedAt": "2026-08-24T01:32:49.057Z",
-      "url": "https://toss.im/_m/XZTvtIBd",
-      "image": "assets/products/f69f2130002c1bf19010.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T01:32:49.057Z"
         }
       ]
     },
