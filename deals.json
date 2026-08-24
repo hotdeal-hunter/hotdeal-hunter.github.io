@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T11:50:19.376Z",
+  "updatedAt": "2026-08-24T12:31:47.108Z",
   "deals": [
+    {
+      "id": "toss:p:210842731|n:일양약품 일양 비타민c&d 1000, 100정, 1개",
+      "source": "toss",
+      "name": "일양약품 일양 비타민C&D 1000, 100정, 1개",
+      "price": 7900,
+      "listPrice": 13000,
+      "observedAt": "2026-08-24T12:30:24.643Z",
+      "url": "https://toss.im/_m/JKQWNon9",
+      "image": "assets/products/1a85857acb205d754dc0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-24T12:30:24.643Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2347609015|n:고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
       "source": "toss",
