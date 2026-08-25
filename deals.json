@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-25T02:02:36.849Z",
+  "updatedAt": "2026-08-25T02:05:23.123Z",
   "deals": [
+    {
+      "id": "p:7716650234|i:20698319557|v:85895876423",
+      "source": "coupang",
+      "name": "그릭데이 크런치 리얼카카오 그래놀라 시리얼, 150g, 2개",
+      "price": 9900,
+      "listPrice": 15400,
+      "observedAt": "2026-08-25T02:05:13.449Z",
+      "url": "https://link.coupang.com/a/guC1enw3vU",
+      "image": "assets/products/ae26673482fb901a1393.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T02:05:13.449Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7762203957|i:23861421787|v:90884628388",
+      "source": "coupang",
+      "name": "몽크슈 액상 위드 알룰로스, 1.3kg, 1개",
+      "price": 9240,
+      "listPrice": 15129,
+      "observedAt": "2026-08-25T02:03:52.693Z",
+      "url": "https://link.coupang.com/a/guCVgKVmeq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9240,
+          "observedAt": "2026-08-25T02:03:52.693Z"
+        }
+      ]
+    },
     {
       "id": "p:7757677843|i:21148010641|v:83129587255",
       "source": "coupang",
