@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T12:46:33.317Z",
+  "updatedAt": "2026-08-25T12:50:39.947Z",
   "deals": [
+    {
+      "id": "toss:p:7715717|n:일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
+      "source": "toss",
+      "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
+      "price": 6310,
+      "listPrice": null,
+      "observedAt": "2026-08-25T12:49:05.816Z",
+      "url": "https://toss.im/_m/dlymh5Bu",
+      "image": "assets/products/2b5cdd17c422326b87f6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6310,
+          "observedAt": "2026-08-25T12:49:05.816Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:224087539|n:쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
       "source": "toss",
