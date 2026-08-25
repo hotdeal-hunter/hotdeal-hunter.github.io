@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T22:59:49.722Z",
+  "updatedAt": "2026-08-25T23:10:49.378Z",
   "deals": [
     {
       "id": "toss:p:2299202623|n:리퍼 테팔 티타늄 1x 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
@@ -7,11 +7,15 @@
       "name": "리퍼 테팔 티타늄 1X 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
       "price": 35900,
       "listPrice": null,
-      "observedAt": "2026-08-25T22:59:26.169Z",
+      "observedAt": "2026-08-25T23:10:37.604Z",
       "url": "https://toss.im/_m/rrbk12mw",
       "image": "assets/products/c9d07c6632301923927d.png",
-      "insight": "3회 가격 기록",
+      "insight": "4회 가격 기록",
       "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-08-25T23:10:37.604Z"
+        },
         {
           "price": 35900,
           "observedAt": "2026-08-25T22:59:26.169Z"
@@ -32,11 +36,15 @@
       "name": "한방 삼점 암 꽃게장, 2kg, 1개",
       "price": 8500,
       "listPrice": null,
-      "observedAt": "2026-08-25T22:59:26.069Z",
+      "observedAt": "2026-08-25T23:10:37.497Z",
       "url": "https://toss.im/_m/lJClYq86",
       "image": "assets/products/3e07dabc30bda643f111.png",
-      "insight": "4회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T23:10:37.497Z"
+        },
         {
           "price": 8500,
           "observedAt": "2026-08-25T22:59:26.069Z"
@@ -61,11 +69,15 @@
       "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
       "price": 31500,
       "listPrice": null,
-      "observedAt": "2026-08-25T22:59:25.976Z",
+      "observedAt": "2026-08-25T23:10:37.405Z",
       "url": "https://toss.im/_m/niI4qcr9",
       "image": "assets/products/be43f04cc0e88c23e58e.png",
-      "insight": "8회 가격 기록",
+      "insight": "9회 가격 기록",
       "history": [
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T23:10:37.405Z"
+        },
         {
           "price": 31500,
           "observedAt": "2026-08-25T22:59:25.976Z"
@@ -97,6 +109,212 @@
         {
           "price": 26900,
           "observedAt": "2026-08-18T23:01:15.128Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2637695311|n:이롬 국산콩 호두아몬드 두유, 190ml, 20개",
+      "source": "toss",
+      "name": "이롬 국산콩 호두아몬드 두유, 190ml, 20개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:10:34.415Z",
+      "url": "https://toss.im/_m/rcErcQ5g",
+      "image": "assets/products/e7a08c80f30cb68dabdf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T23:10:34.415Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56485011|n:더 빅토리아, 플레인, 500ml, 20개",
+      "source": "toss",
+      "name": "더 빅토리아, 플레인, 500ml, 20개",
+      "price": 7200,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:01:08.760Z",
+      "url": "https://toss.im/_m/dwl38KH8",
+      "image": "assets/products/459dccc1791d774e566b.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7200,
+          "observedAt": "2026-08-25T23:01:08.760Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-20T00:33:37.376Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-19T04:40:58.634Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
+      "price": 4590,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:01:08.663Z",
+      "url": "https://toss.im/_m/R3iKgdir",
+      "image": "assets/products/0a841bfcd52cf5873c1b.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4590,
+          "observedAt": "2026-08-25T23:01:08.663Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-24T07:42:24.734Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "source": "toss",
+      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "price": 6330,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:01:08.400Z",
+      "url": "https://toss.im/_m/p1mVdX9v",
+      "image": "assets/products/5b0cea34556142c2538f.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 6330,
+          "observedAt": "2026-08-25T23:01:08.400Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-24T23:01:23.197Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:21:40.640Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:01:14.959Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-22T23:01:06.222Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-21T22:59:58.659Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-20T23:01:46.691Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-19T23:01:57.803Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-18T00:28:38.530Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "source": "toss",
+      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "price": 7260,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:01:08.307Z",
+      "url": "https://toss.im/_m/FLunLFcA",
+      "image": "assets/products/f179ccd24887d0f4b19b.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 7260,
+          "observedAt": "2026-08-25T23:01:08.307Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-24T23:01:23.111Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-23T23:21:40.561Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-23T23:01:14.848Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-22T23:01:06.077Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-21T22:59:58.370Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-20T23:01:46.359Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-19T23:01:57.354Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-18T00:28:38.768Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "source": "toss",
+      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "price": 8180,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:01:08.177Z",
+      "url": "https://toss.im/_m/Htr0SOgr",
+      "image": "assets/products/ff4392a55ee46475c35e.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 8180,
+          "observedAt": "2026-08-25T23:01:08.177Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-24T23:01:22.983Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:21:40.472Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:01:14.717Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-22T23:01:06.341Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-21T22:59:58.571Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-20T23:01:46.575Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-19T23:01:57.520Z"
         }
       ]
     },
@@ -964,137 +1182,6 @@
       ]
     },
     {
-      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "source": "toss",
-      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "price": 6330,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:01:23.197Z",
-      "url": "https://toss.im/_m/p1mVdX9v",
-      "image": "assets/products/5b0cea34556142c2538f.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 6330,
-          "observedAt": "2026-08-24T23:01:23.197Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:21:40.640Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:01:14.959Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-22T23:01:06.222Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-21T22:59:58.659Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-20T23:01:46.691Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-19T23:01:57.803Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-18T00:28:38.530Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "source": "toss",
-      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "price": 7260,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:01:23.111Z",
-      "url": "https://toss.im/_m/FLunLFcA",
-      "image": "assets/products/f179ccd24887d0f4b19b.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 7260,
-          "observedAt": "2026-08-24T23:01:23.111Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-23T23:21:40.561Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-23T23:01:14.848Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-22T23:01:06.077Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-21T22:59:58.370Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-20T23:01:46.359Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-19T23:01:57.354Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-18T00:28:38.768Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "source": "toss",
-      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "price": 8180,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:01:22.983Z",
-      "url": "https://toss.im/_m/Htr0SOgr",
-      "image": "assets/products/ff4392a55ee46475c35e.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 8180,
-          "observedAt": "2026-08-24T23:01:22.983Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:21:40.472Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:01:14.717Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-22T23:01:06.341Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-21T22:59:58.571Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-20T23:01:46.575Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-19T23:01:57.520Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:141638399|n:황쉐프 무 동치미, 5kg, 1개",
       "source": "toss",
       "name": "황쉐프 무 동치미, 5kg, 1개",
@@ -1540,23 +1627,6 @@
         {
           "price": 9800,
           "observedAt": "2026-08-24T08:03:12.497Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
-      "price": 4590,
-      "listPrice": 39600,
-      "observedAt": "2026-08-24T07:42:24.734Z",
-      "url": "https://toss.im/_m/R3iKgdir",
-      "image": "assets/products/0a841bfcd52cf5873c1b.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4590,
-          "observedAt": "2026-08-24T07:42:24.734Z"
         }
       ]
     },
@@ -5258,27 +5328,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-20T00:34:42.479Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56485011|n:더 빅토리아 플레인, 500ml, 20개",
-      "source": "toss",
-      "name": "더 빅토리아 플레인, 500ml, 20개",
-      "price": 7200,
-      "listPrice": null,
-      "observedAt": "2026-08-20T00:33:37.376Z",
-      "url": "https://toss.im/_m/dwl38KH8",
-      "image": "assets/products/e7659e1ccb0f45267624.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7200,
-          "observedAt": "2026-08-20T00:33:37.376Z"
-        },
-        {
-          "price": 7200,
-          "observedAt": "2026-08-19T04:40:58.634Z"
         }
       ]
     },
