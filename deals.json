@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-25T07:06:56.957Z",
+  "updatedAt": "2026-08-25T07:22:19.365Z",
   "deals": [
+    {
+      "id": "p:6601497920|i:14935341888|v:82162615792",
+      "source": "coupang",
+      "name": "그린핑거 촉촉한 자연보습 베이비 로션, 500ml, 1개",
+      "price": 12900,
+      "listPrice": 33500,
+      "observedAt": "2026-08-25T07:20:56.285Z",
+      "url": "https://link.coupang.com/a/guZz7LBJ8u",
+      "image": "assets/products/61692dbb7131d9f06d6a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-25T07:20:56.285Z"
+        }
+      ]
+    },
     {
       "id": "p:8289313119|i:3756044249|v:86203572961",
       "source": "coupang",
-      "name": "고래밥 볶음양념맛, 46g, 4개",
-      "price": 2620,
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 8990,
       "listPrice": null,
-      "observedAt": "2026-08-25T07:04:28.018Z",
-      "url": "https://link.coupang.com/a/guYo9jkzoy",
+      "observedAt": "2026-08-25T07:07:08.502Z",
+      "url": "https://link.coupang.com/a/guYAZTtfBk",
       "image": "assets/products/bc1058d24434cf135e1f.png",
-      "insight": "3회 가격 기록",
+      "insight": "4회 가격 기록",
       "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T07:07:08.502Z"
+        },
         {
           "price": 2620,
           "observedAt": "2026-08-25T07:04:28.018Z"
