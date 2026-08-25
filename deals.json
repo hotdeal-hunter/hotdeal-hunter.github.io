@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T12:17:26.458Z",
+  "updatedAt": "2026-08-25T12:46:33.317Z",
   "deals": [
+    {
+      "id": "toss:p:224087539|n:쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
+      "source": "toss",
+      "name": "쉬블림로브 멀티 지퍼 나일론 크로스백, 블랙, 1개",
+      "price": 8900,
+      "listPrice": 32900,
+      "observedAt": "2026-08-25T12:45:10.356Z",
+      "url": "https://toss.im/_m/FdzfShu3",
+      "image": "assets/products/64ef2d3597c6608b3da3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T12:45:10.356Z"
+        }
+      ]
+    },
     {
       "id": "p:8853057382|i:25810905814|v:92798095345",
       "source": "coupang",
