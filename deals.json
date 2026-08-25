@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-25T10:34:45.006Z",
+  "updatedAt": "2026-08-25T10:39:46.758Z",
   "deals": [
+    {
+      "id": "p:9024167604|i:26462330372|v:93437609809",
+      "source": "coupang",
+      "name": "Apple 아이폰 17 Pro Max 자급제, 실버, 256GB",
+      "price": 1778770,
+      "listPrice": 1969653,
+      "observedAt": "2026-08-25T10:38:23.232Z",
+      "url": "https://link.coupang.com/a/gvdGVnbwrI",
+      "image": "assets/products/5acdd68004013cc518c5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1778770,
+          "observedAt": "2026-08-25T10:38:23.232Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1054843657|n:푸드센터 소갈비살, 200g, 5팩",
       "source": "toss",
       "name": "푸드센터 소갈비살, 200g, 5팩",
       "price": 27900,
       "listPrice": null,
-      "observedAt": "2026-08-25T10:33:24.515Z",
+      "observedAt": "2026-08-25T10:34:58.559Z",
       "url": "https://toss.im/_m/ZvtrQ4aC",
       "image": "assets/products/571abf05ee282c7e96b6.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-08-25T10:34:58.559Z"
+        },
         {
           "price": 27900,
           "observedAt": "2026-08-25T10:33:24.515Z"
