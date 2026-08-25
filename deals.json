@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T00:24:34.783Z",
+  "updatedAt": "2026-08-25T00:29:30.611Z",
   "deals": [
+    {
+      "id": "p:8279420904|i:23868698425|v:90891789211",
+      "source": "coupang",
+      "name": "지엔씨푸드 오사카식 타코야끼 문어 18% 50입 (냉동), 1kg, 2개",
+      "price": 11400,
+      "listPrice": 15000,
+      "observedAt": "2026-08-25T00:28:08.295Z",
+      "url": "https://link.coupang.com/a/guv45EVnC8",
+      "image": "assets/products/0d1723106596d5072bed.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11400,
+          "observedAt": "2026-08-25T00:28:08.295Z"
+        }
+      ]
+    },
     {
       "id": "p:6597977765|i:19598494380|v:86705695115",
       "source": "coupang",
