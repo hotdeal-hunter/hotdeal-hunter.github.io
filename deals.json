@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T00:56:30.585Z",
+  "updatedAt": "2026-08-25T01:12:52.778Z",
   "deals": [
+    {
+      "id": "toss:p:83856041|n:대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+      "source": "toss",
+      "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+      "price": 8900,
+      "listPrice": 29900,
+      "observedAt": "2026-08-25T01:11:30.498Z",
+      "url": "https://toss.im/_m/5gebLAFj",
+      "image": "assets/products/81132c04076307e95300.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T01:11:30.498Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2641279353|n:하운드투스 대용량 체크 수납함 옷이불 정리용, 150l, 화이트, 4팩",
       "source": "toss",
