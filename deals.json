@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T07:35:25.222Z",
+  "updatedAt": "2026-08-25T07:40:25.614Z",
   "deals": [
+    {
+      "id": "toss:p:56388931|n:에브리워터 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "에브리워터 무라벨, 2L, 24개",
+      "price": 10990,
+      "listPrice": 24000,
+      "observedAt": "2026-08-25T07:39:02.800Z",
+      "url": "https://toss.im/_m/zXf22Y9d",
+      "image": "assets/products/778b26920c223c870ad8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-08-25T07:39:02.800Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:297331403|n:해신수산 완도활전복, 대, 12-14미, 1kg, 1개",
       "source": "toss",
