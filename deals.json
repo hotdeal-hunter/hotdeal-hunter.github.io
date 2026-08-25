@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T06:09:45.277Z",
+  "updatedAt": "2026-08-25T07:03:03.884Z",
   "deals": [
+    {
+      "id": "toss:p:148254537|n:제스타 습기제거제, 라벤더향, 250g, 18개",
+      "source": "toss",
+      "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
+      "price": 13500,
+      "listPrice": 23000,
+      "observedAt": "2026-08-25T07:01:40.158Z",
+      "url": "https://toss.im/_m/tulJIVG9",
+      "image": "assets/products/1ef56422c3093547f6a7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-08-25T07:01:40.158Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
