@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T07:22:19.365Z",
+  "updatedAt": "2026-08-25T07:35:25.222Z",
   "deals": [
+    {
+      "id": "toss:p:297331403|n:해신수산 완도활전복, 대, 12-14미, 1kg, 1개",
+      "source": "toss",
+      "name": "해신수산 완도활전복, 대, 12-14미, 1kg, 1개",
+      "price": 16310,
+      "listPrice": null,
+      "observedAt": "2026-08-25T07:34:05.147Z",
+      "url": "https://toss.im/_m/vtrDRVJp",
+      "image": "assets/products/d8d0f303ec9ee52fc439.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16310,
+          "observedAt": "2026-08-25T07:34:05.147Z"
+        }
+      ]
+    },
     {
       "id": "p:6601497920|i:14935341888|v:82162615792",
       "source": "coupang",
