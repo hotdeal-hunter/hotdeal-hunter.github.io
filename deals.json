@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T09:55:11.469Z",
+  "updatedAt": "2026-08-25T10:34:45.006Z",
   "deals": [
+    {
+      "id": "toss:p:1054843657|n:푸드센터 소갈비살, 200g, 5팩",
+      "source": "toss",
+      "name": "푸드센터 소갈비살, 200g, 5팩",
+      "price": 27900,
+      "listPrice": null,
+      "observedAt": "2026-08-25T10:33:24.515Z",
+      "url": "https://toss.im/_m/ZvtrQ4aC",
+      "image": "assets/products/571abf05ee282c7e96b6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-08-25T10:33:24.515Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:119748083|n:이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
       "source": "toss",
