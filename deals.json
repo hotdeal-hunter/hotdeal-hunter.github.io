@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T04:36:17.580Z",
+  "updatedAt": "2026-08-25T04:59:33.604Z",
   "deals": [
+    {
+      "id": "toss:p:1237214945|n:모카씨엔티 모카 카페마일드 커피믹스, 12g, 330개입, 1개",
+      "source": "toss",
+      "name": "모카씨엔티 모카 카페마일드 커피믹스, 12g, 330개입, 1개",
+      "price": 21940,
+      "listPrice": null,
+      "observedAt": "2026-08-25T04:58:13.860Z",
+      "url": "https://toss.im/_m/nZvuT336",
+      "image": "assets/products/1148132c2eeaca606868.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21940,
+          "observedAt": "2026-08-25T04:58:13.860Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1045081871|n:샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
       "source": "toss",
