@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-25T09:46:42.533Z",
+  "updatedAt": "2026-08-25T09:55:11.469Z",
   "deals": [
+    {
+      "id": "toss:p:119748083|n:이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
+      "source": "toss",
+      "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
+      "price": 5190,
+      "listPrice": 6900,
+      "observedAt": "2026-08-25T09:53:48.227Z",
+      "url": "https://toss.im/_m/b5TGy1aA",
+      "image": "assets/products/94dc2437a12316272adc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5190,
+          "observedAt": "2026-08-25T09:53:48.227Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:462437687|n:코코에르 웨이브 홈세트 14p, 화이트, 1세트",
       "source": "toss",
       "name": "코코에르 웨이브 홈세트 14P, 화이트, 1세트",
       "price": 10320,
       "listPrice": null,
-      "observedAt": "2026-08-25T09:45:21.460Z",
+      "observedAt": "2026-08-25T09:46:55.971Z",
       "url": "https://toss.im/_m/R9g5VqA9",
       "image": "assets/products/219c31dfa830466b4951.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 10320,
+          "observedAt": "2026-08-25T09:46:55.971Z"
+        },
         {
           "price": 10320,
           "observedAt": "2026-08-25T09:45:21.460Z"
