@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T04:05:15.211Z",
+  "updatedAt": "2026-08-25T04:15:53.330Z",
   "deals": [
+    {
+      "id": "toss:p:162811945|n:취영루 담백 물만두, 165g, 10개",
+      "source": "toss",
+      "name": "취영루 담백 물만두, 165g, 10개",
+      "price": 22400,
+      "listPrice": 45000,
+      "observedAt": "2026-08-25T04:14:30.259Z",
+      "url": "https://toss.im/_m/JlFXbn5q",
+      "image": "assets/products/f9a97876166c2b338769.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22400,
+          "observedAt": "2026-08-25T04:14:30.259Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2621486549|n:셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 1통",
       "source": "toss",
