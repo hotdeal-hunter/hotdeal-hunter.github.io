@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T12:03:09.688Z",
+  "updatedAt": "2026-08-25T12:17:26.458Z",
   "deals": [
+    {
+      "id": "p:8853057382|i:25810905814|v:92798095345",
+      "source": "coupang",
+      "name": "클리덴트 치아교정기 세정폼, 150ml, 1개",
+      "price": 7990,
+      "listPrice": 18000,
+      "observedAt": "2026-08-25T12:16:03.329Z",
+      "url": "https://link.coupang.com/a/gvkFD0lRQG",
+      "image": "assets/products/b844591111541a837ce8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-08-25T12:16:03.329Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
       "source": "toss",
