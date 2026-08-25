@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T01:12:52.778Z",
+  "updatedAt": "2026-08-25T01:39:25.603Z",
   "deals": [
+    {
+      "id": "toss:p:1404489237|n:닥터지 메디 uv 울트라 선 선크림, 50ml, 2개",
+      "source": "toss",
+      "name": "닥터지 메디 UV 울트라 선 선크림, 50ml, 2개",
+      "price": 13180,
+      "listPrice": 35000,
+      "observedAt": "2026-08-25T01:38:03.472Z",
+      "url": "https://toss.im/_m/nN2B1l5w",
+      "image": "assets/products/af25794d45fc1e5f5d9d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13180,
+          "observedAt": "2026-08-25T01:38:03.472Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83856041|n:대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
       "source": "toss",
