@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T08:45:21.365Z",
+  "updatedAt": "2026-08-25T08:57:12.436Z",
   "deals": [
+    {
+      "id": "p:8508622987|i:19082023274|v:74914647836",
+      "source": "coupang",
+      "name": "아디다스피트니스 에센셜 벨크로 헬스장갑, 화이트, L (14.5 x 9 x 2.5 cm), 1개",
+      "price": 14400,
+      "listPrice": 28000,
+      "observedAt": "2026-08-25T08:55:49.665Z",
+      "url": "https://link.coupang.com/a/gu6mwUiB0C",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14400,
+          "observedAt": "2026-08-25T08:55:49.665Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2527295535|n:양념 치마살, 300g, 2개",
       "source": "toss",
