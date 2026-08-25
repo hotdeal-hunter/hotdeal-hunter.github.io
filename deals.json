@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T04:18:42.939Z",
+  "updatedAt": "2026-08-25T04:36:17.580Z",
   "deals": [
+    {
+      "id": "toss:p:1045081871|n:샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
+      "source": "toss",
+      "name": "샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
+      "price": 9900,
+      "listPrice": 20000,
+      "observedAt": "2026-08-25T04:34:54.719Z",
+      "url": "https://toss.im/_m/TjAxl3Vu",
+      "image": "assets/products/410570d26acb55de908d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T04:34:54.719Z"
+        }
+      ]
+    },
     {
       "id": "p:7217061177|i:18279164955|v:80911381013",
       "source": "coupang",
