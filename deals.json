@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T00:00:13.738Z",
+  "updatedAt": "2026-08-25T00:24:34.783Z",
   "deals": [
+    {
+      "id": "p:6597977765|i:19598494380|v:86705695115",
+      "source": "coupang",
+      "name": "비비수산 깔끔하고 간편한 해물모둠 (냉동), 2개, 600g",
+      "price": 8900,
+      "listPrice": 14656,
+      "observedAt": "2026-08-25T00:23:12.174Z",
+      "url": "https://link.coupang.com/a/guvJd7513s",
+      "image": "assets/products/8a916f064c5d7a19f835.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T00:23:12.174Z"
+        }
+      ]
+    },
     {
       "id": "p:6444374892|i:13961586052|v:5356459890",
       "source": "coupang",
