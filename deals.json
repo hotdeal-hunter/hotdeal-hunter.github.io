@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-25T11:08:12.897Z",
+  "updatedAt": "2026-08-25T11:20:07.372Z",
   "deals": [
+    {
+      "id": "toss:p:2044666971|n:샘표 연두링 코인육수 멸치디포리, 80g, 1개 + 다시마표고야채, 80g, 1개 + 사골과한우, 80g, 1개",
+      "source": "toss",
+      "name": "샘표 연두링 코인육수 멸치디포리, 80g, 1개 + 다시마표고야채, 80g, 1개 + 사골과한우, 80g, 1개",
+      "price": 9820,
+      "listPrice": null,
+      "observedAt": "2026-08-25T11:18:47.430Z",
+      "url": "https://toss.im/_m/xGDlnmUb",
+      "image": "assets/products/8439e9b0caa78367bba0.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9820,
+          "observedAt": "2026-08-25T11:18:47.430Z"
+        },
+        {
+          "price": 9820,
+          "observedAt": "2026-08-25T11:18:47.176Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:827994525|n:별미촌 알타리 총각김치, 2kg, 1박스",
       "source": "toss",
