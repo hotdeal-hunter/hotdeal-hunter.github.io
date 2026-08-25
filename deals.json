@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T02:57:08.402Z",
+  "updatedAt": "2026-08-25T04:05:15.211Z",
   "deals": [
+    {
+      "id": "toss:p:2621486549|n:셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 1통",
+      "source": "toss",
+      "name": "셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 1통",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-25T04:04:58.997Z",
+      "url": "https://toss.im/_m/H96LYwL5",
+      "image": "assets/products/b8e9143fee594dabddd4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T04:04:58.997Z"
+        }
+      ]
+    },
     {
       "id": "p:8289313119|i:3756044249|v:-",
       "source": "coupang",
