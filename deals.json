@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T10:56:18.229Z",
+  "updatedAt": "2026-08-25T11:08:12.897Z",
   "deals": [
+    {
+      "id": "toss:p:827994525|n:별미촌 알타리 총각김치, 2kg, 1박스",
+      "source": "toss",
+      "name": "별미촌 알타리 총각김치, 2kg, 1박스",
+      "price": 9900,
+      "listPrice": 18900,
+      "observedAt": "2026-08-25T11:06:49.835Z",
+      "url": "https://toss.im/_m/tgUYSune",
+      "image": "assets/products/3bf0cc468458bf70fb7a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T11:06:49.835Z"
+        }
+      ]
+    },
     {
       "id": "p:6597977765|i:19598494380|v:-",
       "source": "coupang",
