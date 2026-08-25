@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T08:35:46.986Z",
+  "updatedAt": "2026-08-25T08:45:21.365Z",
   "deals": [
+    {
+      "id": "toss:p:2527295535|n:양념 치마살, 300g, 2개",
+      "source": "toss",
+      "name": "양념 치마살, 300g, 2개",
+      "price": 6450,
+      "listPrice": null,
+      "observedAt": "2026-08-25T08:44:01.723Z",
+      "url": "https://toss.im/_m/fbkO9F4q",
+      "image": "assets/products/fa34ae44bbe1e1e7ca79.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6450,
+          "observedAt": "2026-08-25T08:44:01.723Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:7744999|n:퍼니트 리얼 밀크씨슬, 90정, 1병",
       "source": "toss",
