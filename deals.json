@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-25T02:08:00.809Z",
+  "updatedAt": "2026-08-25T02:41:13.266Z",
   "deals": [
+    {
+      "id": "toss:p:194904639|n:쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+      "source": "toss",
+      "name": "쉬젤 아티 내열유리 혼합 10종 세트, 320ml 3개 + 400ml 3개 + 520ml 2개 + 640ml 2개, 1세트",
+      "price": 1988,
+      "listPrice": null,
+      "observedAt": "2026-08-25T02:39:54.265Z",
+      "url": "https://toss.im/_m/ZOwxFXal",
+      "image": "assets/products/ebb4a14cfee70fb9b4cc.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1988,
+          "observedAt": "2026-08-25T02:39:54.265Z"
+        },
+        {
+          "price": 19880,
+          "observedAt": "2026-08-25T02:39:53.972Z"
+        }
+      ]
+    },
     {
       "id": "p:7716650234|i:20698319557|v:85895876423",
       "source": "coupang",
