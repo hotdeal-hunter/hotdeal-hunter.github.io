@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T00:29:30.611Z",
+  "updatedAt": "2026-08-25T00:43:35.858Z",
   "deals": [
+    {
+      "id": "toss:p:153146381|n:백년건강 두번 구운 파래김, 40매, 65g, 1봉",
+      "source": "toss",
+      "name": "백년건강 두번 구운 파래김, 40매, 65g, 1봉",
+      "price": 4650,
+      "listPrice": null,
+      "observedAt": "2026-08-25T00:42:14.937Z",
+      "url": "https://toss.im/_m/pirB8Re1",
+      "image": "assets/products/def2e484a2484dac235b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4650,
+          "observedAt": "2026-08-25T00:42:14.937Z"
+        }
+      ]
+    },
     {
       "id": "p:8279420904|i:23868698425|v:90891789211",
       "source": "coupang",
