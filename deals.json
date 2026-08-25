@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T08:09:05.852Z",
+  "updatedAt": "2026-08-25T08:35:46.986Z",
   "deals": [
+    {
+      "id": "toss:p:7744999|n:퍼니트 리얼 밀크씨슬, 90정, 1병",
+      "source": "toss",
+      "name": "퍼니트 리얼 밀크씨슬, 90정, 1병",
+      "price": 9900,
+      "listPrice": 19900,
+      "observedAt": "2026-08-25T08:34:24.155Z",
+      "url": "https://toss.im/_m/tdR0dlzC",
+      "image": "assets/products/e0192256eb1d017fe103.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T08:34:24.155Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
       "source": "toss",
