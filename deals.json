@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-25T23:10:49.378Z",
+  "updatedAt": "2026-08-25T23:46:15.011Z",
   "deals": [
+    {
+      "id": "p:6625030243|i:15078633649|v:82300826517",
+      "source": "coupang",
+      "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
+      "price": 7290,
+      "listPrice": 14900,
+      "observedAt": "2026-08-25T23:45:57.845Z",
+      "url": "https://link.coupang.com/a/gv7YiI4BUq",
+      "image": "assets/products/e48115027c11f54b6a33.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7290,
+          "observedAt": "2026-08-25T23:45:57.845Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2637695311|n:이롬 국산콩 호두아몬드 두유, 190ml, 20개",
+      "source": "toss",
+      "name": "이롬 국산콩 호두아몬드 두유, 190ml, 20개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-25T23:12:04.745Z",
+      "url": "https://toss.im/_m/rcErcQ5g",
+      "image": "assets/products/e7a08c80f30cb68dabdf.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T23:12:04.745Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T23:10:34.415Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2299202623|n:리퍼 테팔 티타늄 1x 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
       "source": "toss",
@@ -109,23 +147,6 @@
         {
           "price": 26900,
           "observedAt": "2026-08-18T23:01:15.128Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637695311|n:이롬 국산콩 호두아몬드 두유, 190ml, 20개",
-      "source": "toss",
-      "name": "이롬 국산콩 호두아몬드 두유, 190ml, 20개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:10:34.415Z",
-      "url": "https://toss.im/_m/rcErcQ5g",
-      "image": "assets/products/e7a08c80f30cb68dabdf.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-08-25T23:10:34.415Z"
         }
       ]
     },
@@ -326,7 +347,7 @@
       "listPrice": 25000,
       "observedAt": "2026-08-25T13:53:00.653Z",
       "url": "https://link.coupang.com/a/gvrBcsRxCu",
-      "image": null,
+      "image": "assets/products/901559cf21d8ad06d35e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -605,7 +626,7 @@
       "listPrice": 28000,
       "observedAt": "2026-08-25T08:55:49.665Z",
       "url": "https://link.coupang.com/a/gu6mwUiB0C",
-      "image": null,
+      "image": "assets/products/b72d5f961aaae72f2694.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -824,7 +845,7 @@
       "listPrice": 37780,
       "observedAt": "2026-08-25T05:41:16.515Z",
       "url": "https://link.coupang.com/a/guSsrzqW5c",
-      "image": null,
+      "image": "assets/products/18b032d224f7c5c1988a.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
