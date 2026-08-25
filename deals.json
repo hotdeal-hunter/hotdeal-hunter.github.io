@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-25T05:42:41.260Z",
+  "updatedAt": "2026-08-25T06:09:45.277Z",
   "deals": [
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-08-25T06:08:24.637Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:524458311|n:전통압착 통참기름, 350ml, 4개",
+      "source": "toss",
+      "name": "전통압착 통참기름, 350ml, 4개",
+      "price": 3980,
+      "listPrice": null,
+      "observedAt": "2026-08-25T05:55:42.966Z",
+      "url": "https://toss.im/_m/NcojtVJz",
+      "image": "assets/products/e625ff6fde0ce10c3012.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 3980,
+          "observedAt": "2026-08-25T05:55:42.966Z"
+        },
+        {
+          "price": 15920,
+          "observedAt": "2026-08-25T05:55:42.771Z"
+        },
+        {
+          "price": 3980,
+          "observedAt": "2026-08-24T23:31:26.394Z"
+        },
+        {
+          "price": 15920,
+          "observedAt": "2026-08-24T23:31:26.163Z"
+        }
+      ]
+    },
     {
       "id": "p:1354272731|i:18321582111|v:70378337137",
       "source": "coupang",
@@ -359,27 +409,6 @@
         {
           "price": 5170,
           "observedAt": "2026-08-24T23:44:47.309Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:524458311|n:전통압착 통참기름, 350ml, 4개",
-      "source": "toss",
-      "name": "전통압착 통참기름, 350ml, 4개",
-      "price": 3980,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:31:26.394Z",
-      "url": "https://toss.im/_m/NcojtVJz",
-      "image": "assets/products/e625ff6fde0ce10c3012.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3980,
-          "observedAt": "2026-08-24T23:31:26.394Z"
-        },
-        {
-          "price": 15920,
-          "observedAt": "2026-08-24T23:31:26.163Z"
         }
       ]
     },
