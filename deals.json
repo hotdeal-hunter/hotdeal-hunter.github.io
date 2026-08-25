@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T11:20:07.372Z",
+  "updatedAt": "2026-08-25T12:03:09.688Z",
   "deals": [
+    {
+      "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "source": "toss",
+      "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "price": 13570,
+      "listPrice": null,
+      "observedAt": "2026-08-25T12:01:51.706Z",
+      "url": "https://toss.im/_m/9eDuzpY1",
+      "image": "assets/products/b6ecc495994c233cd287.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13570,
+          "observedAt": "2026-08-25T12:01:51.706Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2044666971|n:샘표 연두링 코인육수 멸치디포리, 80g, 1개 + 다시마표고야채, 80g, 1개 + 사골과한우, 80g, 1개",
       "source": "toss",
