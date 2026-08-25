@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T04:59:33.604Z",
+  "updatedAt": "2026-08-25T05:08:04.852Z",
   "deals": [
+    {
+      "id": "p:290174474|i:21700619715|v:-",
+      "source": "coupang",
+      "name": "하림 용가리 치킨 냉동, 1kg, 2개",
+      "price": 20579,
+      "listPrice": null,
+      "observedAt": "2026-08-25T05:07:49.506Z",
+      "url": "https://link.coupang.com/a/guP4fHc6rA",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20579,
+          "observedAt": "2026-08-25T05:07:49.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1237214945|n:모카씨엔티 모카 카페마일드 커피믹스, 12g, 330개입, 1개",
       "source": "toss",
