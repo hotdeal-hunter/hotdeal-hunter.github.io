@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T00:43:35.858Z",
+  "updatedAt": "2026-08-25T00:56:30.585Z",
   "deals": [
+    {
+      "id": "toss:p:2641279353|n:하운드투스 대용량 체크 수납함 옷이불 정리용, 150l, 화이트, 4팩",
+      "source": "toss",
+      "name": "하운드투스 대용량 체크 수납함 옷이불 정리용, 150L, 화이트, 4팩",
+      "price": 8720,
+      "listPrice": null,
+      "observedAt": "2026-08-25T00:55:13.510Z",
+      "url": "https://toss.im/_m/NTVPPH9r",
+      "image": "assets/products/9f9cde08d44645765673.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8720,
+          "observedAt": "2026-08-25T00:55:13.510Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:153146381|n:백년건강 두번 구운 파래김, 40매, 65g, 1봉",
       "source": "toss",
