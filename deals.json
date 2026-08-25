@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T01:39:25.603Z",
+  "updatedAt": "2026-08-25T02:02:36.849Z",
   "deals": [
+    {
+      "id": "p:7757677843|i:21148010641|v:83129587255",
+      "source": "coupang",
+      "name": "르샤트라1802 인퓨전 드라이시트 섬유유연제 뮤게부케 본품, 140개입, 1개",
+      "price": 8800,
+      "listPrice": 30500,
+      "observedAt": "2026-08-25T02:01:14.399Z",
+      "url": "https://link.coupang.com/a/guCJz9ROIm",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-08-25T02:01:14.399Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1404489237|n:닥터지 메디 uv 울트라 선 선크림, 50ml, 2개",
       "source": "toss",
