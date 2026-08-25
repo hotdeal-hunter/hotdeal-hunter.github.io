@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T04:15:53.330Z",
+  "updatedAt": "2026-08-25T04:18:42.939Z",
   "deals": [
+    {
+      "id": "p:7217061177|i:18279164955|v:80911381013",
+      "source": "coupang",
+      "name": "BRUNO 스탠드 선풍기 BSF-2119W + 더스트백",
+      "price": 19900,
+      "listPrice": 44900,
+      "observedAt": "2026-08-25T04:16:01.930Z",
+      "url": "https://link.coupang.com/a/guMmL8CvAG",
+      "image": "assets/products/7753ffa57d53c0a30479.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-08-25T04:16:01.930Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:162811945|n:취영루 담백 물만두, 165g, 10개",
       "source": "toss",
