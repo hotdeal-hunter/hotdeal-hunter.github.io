@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-24T23:46:09.474Z",
+  "updatedAt": "2026-08-25T00:00:13.738Z",
   "deals": [
+    {
+      "id": "p:6444374892|i:13961586052|v:5356459890",
+      "source": "coupang",
+      "name": "트윅스 미니스 초코바, 990g, 1개",
+      "price": 13770,
+      "listPrice": 17061,
+      "observedAt": "2026-08-24T23:58:51.059Z",
+      "url": "https://link.coupang.com/a/gutZkULwmi",
+      "image": "assets/products/a102811c68636666e28f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13770,
+          "observedAt": "2026-08-24T23:58:51.059Z"
+        }
+      ]
+    },
     {
       "id": "p:4343134537|i:19166816524|v:86285153295",
       "source": "coupang",
