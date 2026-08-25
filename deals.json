@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T13:45:31.028Z",
+  "updatedAt": "2026-08-25T13:53:23.967Z",
   "deals": [
+    {
+      "id": "p:4567751809|i:20914099436|v:87981018274",
+      "source": "coupang",
+      "name": "하림 치킨너겟 2 (냉동), 1kg, 2개",
+      "price": 15989,
+      "listPrice": 25000,
+      "observedAt": "2026-08-25T13:53:00.653Z",
+      "url": "https://link.coupang.com/a/gvrBcsRxCu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15989,
+          "observedAt": "2026-08-25T13:53:00.653Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2028073909|n:가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
       "source": "toss",
