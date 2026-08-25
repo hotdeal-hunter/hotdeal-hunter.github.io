@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-08-25T13:53:23.967Z",
+  "updatedAt": "2026-08-25T22:59:49.722Z",
   "deals": [
+    {
+      "id": "toss:p:2299202623|n:리퍼 테팔 티타늄 1x 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
+      "source": "toss",
+      "name": "리퍼 테팔 티타늄 1X 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
+      "price": 35900,
+      "listPrice": null,
+      "observedAt": "2026-08-25T22:59:26.169Z",
+      "url": "https://toss.im/_m/rrbk12mw",
+      "image": "assets/products/c9d07c6632301923927d.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-08-25T22:59:26.169Z"
+        },
+        {
+          "price": 35900,
+          "observedAt": "2026-08-25T22:59:25.880Z"
+        },
+        {
+          "price": 35900,
+          "observedAt": "2026-08-21T12:28:36.766Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:730541229|n:한방 삼점 암 꽃게장, 2kg, 1개",
+      "source": "toss",
+      "name": "한방 삼점 암 꽃게장, 2kg, 1개",
+      "price": 8500,
+      "listPrice": null,
+      "observedAt": "2026-08-25T22:59:26.069Z",
+      "url": "https://toss.im/_m/lJClYq86",
+      "image": "assets/products/3e07dabc30bda643f111.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T22:59:26.069Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T22:59:25.799Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:23:50.203Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:10:58.616Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
+      "price": 31500,
+      "listPrice": null,
+      "observedAt": "2026-08-25T22:59:25.976Z",
+      "url": "https://toss.im/_m/niI4qcr9",
+      "image": "assets/products/be43f04cc0e88c23e58e.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T22:59:25.976Z"
+        },
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T22:59:25.586Z"
+        },
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T23:08:20.916Z"
+        },
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T22:48:12.015Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-21T23:01:07.925Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-20T23:01:47.079Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-19T23:04:19.818Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-18T23:01:15.128Z"
+        }
+      ]
+    },
     {
       "id": "p:4567751809|i:20914099436|v:87981018274",
       "source": "coupang",
@@ -2011,43 +2110,6 @@
       ]
     },
     {
-      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "source": "toss",
-      "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "price": 31200,
-      "listPrice": null,
-      "observedAt": "2026-08-23T23:08:20.916Z",
-      "url": "https://toss.im/_m/niI4qcr9",
-      "image": "assets/products/be43f04cc0e88c23e58e.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 31200,
-          "observedAt": "2026-08-23T23:08:20.916Z"
-        },
-        {
-          "price": 31200,
-          "observedAt": "2026-08-23T22:48:12.015Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-21T23:01:07.925Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-20T23:01:47.079Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-19T23:04:19.818Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-18T23:01:15.128Z"
-        }
-      ]
-    },
-    {
       "id": "p:8288956292|i:21259800466|v:88320169568",
       "source": "coupang",
       "name": "엠앤엠즈 밀크 초콜릿 펀사이즈, 175.5g, 2개",
@@ -3610,23 +3672,6 @@
       ]
     },
     {
-      "id": "toss:p:2299202623|n:리퍼, 테팔 티타늄 1x 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
-      "source": "toss",
-      "name": "리퍼, 테팔 티타늄 1X 래디언트 3종, 프라이팬 24cm + 볶음팬 24cm + 유리뚜껑 24cm, 1세트",
-      "price": 35900,
-      "listPrice": null,
-      "observedAt": "2026-08-21T12:28:36.766Z",
-      "url": "https://toss.im/_m/rrbk12mw",
-      "image": "assets/products/199d949d48772a872efd.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 35900,
-          "observedAt": "2026-08-21T12:28:36.766Z"
-        }
-      ]
-    },
-    {
       "id": "p:6474536485|i:25789855384|v:86285153841",
       "source": "coupang",
       "name": "루나 프로 포토 피니셔 팩트파우더 8g, 2호블러파우더, 2개, 2호블러파우더 × 2개",
@@ -4144,27 +4189,6 @@
         {
           "price": 12820,
           "observedAt": "2026-08-21T02:55:52.190Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:730541229|n:한방 삼점 암 꽃게장, 2kg, 1개",
-      "source": "toss",
-      "name": "한방 삼점 암 꽃게장, 2kg, 1개",
-      "price": 8500,
-      "listPrice": null,
-      "observedAt": "2026-08-21T02:23:50.203Z",
-      "url": "https://toss.im/_m/lJClYq86",
-      "image": "assets/products/3e07dabc30bda643f111.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8500,
-          "observedAt": "2026-08-21T02:23:50.203Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-08-21T02:10:58.616Z"
         }
       ]
     },
