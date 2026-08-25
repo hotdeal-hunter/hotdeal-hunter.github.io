@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-08-25T12:50:39.947Z",
+  "updatedAt": "2026-08-25T13:45:31.028Z",
   "deals": [
+    {
+      "id": "toss:p:2028073909|n:가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
+      "source": "toss",
+      "name": "가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
+      "price": 295,
+      "listPrice": null,
+      "observedAt": "2026-08-25T13:45:25.768Z",
+      "url": "https://toss.im/_m/h5yWAIR5",
+      "image": "assets/products/b924414ef26f6e7ce2cc.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 295,
+          "observedAt": "2026-08-25T13:45:25.768Z"
+        },
+        {
+          "price": 4720,
+          "observedAt": "2026-08-21T10:26:21.870Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:7715717|n:일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
       "source": "toss",
       "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 2박스",
       "price": 6310,
       "listPrice": null,
-      "observedAt": "2026-08-25T12:49:05.816Z",
+      "observedAt": "2026-08-25T12:50:53.427Z",
       "url": "https://toss.im/_m/dlymh5Bu",
       "image": "assets/products/2b5cdd17c422326b87f6.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 6310,
+          "observedAt": "2026-08-25T12:50:53.427Z"
+        },
         {
           "price": 6310,
           "observedAt": "2026-08-25T12:49:05.816Z"
@@ -482,7 +507,7 @@
       "listPrice": null,
       "observedAt": "2026-08-25T05:07:49.506Z",
       "url": "https://link.coupang.com/a/guP4fHc6rA",
-      "image": null,
+      "image": "assets/products/aaeec10f8efb286abc00.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3687,23 +3712,6 @@
         {
           "price": 99000,
           "observedAt": "2026-08-21T11:00:34.352Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2028073909|n:가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
-      "source": "toss",
-      "name": "가그린 스탠다드 컴팩트 미세모 칫솔, 16개입, 1팩",
-      "price": 4720,
-      "listPrice": null,
-      "observedAt": "2026-08-21T10:26:21.870Z",
-      "url": "https://toss.im/_m/h5yWAIR5",
-      "image": "assets/products/b924414ef26f6e7ce2cc.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4720,
-          "observedAt": "2026-08-21T10:26:21.870Z"
         }
       ]
     },
