@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-25T02:47:36.540Z",
+  "updatedAt": "2026-08-25T02:57:08.402Z",
   "deals": [
+    {
+      "id": "p:8289313119|i:3756044249|v:-",
+      "source": "coupang",
+      "name": "고래밥 볶음양념맛, 46g, 4개",
+      "price": 2620,
+      "listPrice": null,
+      "observedAt": "2026-08-25T02:55:50.152Z",
+      "url": "https://link.coupang.com/a/guGDtcExs4",
+      "image": "assets/products/5e0defbefcf0ce7aadf4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2620,
+          "observedAt": "2026-08-25T02:55:50.152Z"
+        }
+      ]
+    },
     {
       "id": "p:8587711812|i:24897433877|v:91903978244",
       "source": "coupang",
