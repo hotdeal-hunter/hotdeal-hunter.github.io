@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T10:04:25.363Z",
+  "updatedAt": "2026-08-26T10:20:01.068Z",
   "deals": [
+    {
+      "id": "p:9402357527|i:27930007498|v:-",
+      "source": "coupang",
+      "name": "건강하닭 천하장사 더 건강하닭 바질 블랙페퍼",
+      "price": 5000,
+      "listPrice": null,
+      "observedAt": "2026-08-26T10:19:55.713Z",
+      "url": "https://link.coupang.com/a/gwRhbpRa20",
+      "image": "assets/products/a11f80c21aca5a02b732.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5000,
+          "observedAt": "2026-08-26T10:19:55.713Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82511299|n:자이글 파티쿠커 골든 우드 에디션, 1개",
       "source": "toss",
@@ -179,7 +196,7 @@
       "listPrice": null,
       "observedAt": "2026-08-26T08:07:51.750Z",
       "url": "https://link.coupang.com/a/gwHP3SBxS0",
-      "image": null,
+      "image": "assets/products/ce2c265864dc4647cc25.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
