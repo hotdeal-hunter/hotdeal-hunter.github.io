@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T08:03:04.683Z",
+  "updatedAt": "2026-08-26T08:08:05.281Z",
   "deals": [
+    {
+      "id": "p:8276935584|i:24815903516|v:91823345626",
+      "source": "coupang",
+      "name": "다우니 초고농축 호텔 컬렉션 섬유유연제 미스티크 리필, 4.1L, 2개",
+      "price": 32640,
+      "listPrice": null,
+      "observedAt": "2026-08-26T08:07:51.750Z",
+      "url": "https://link.coupang.com/a/gwHP3SBxS0",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 32640,
+          "observedAt": "2026-08-26T08:07:51.750Z"
+        }
+      ]
+    },
     {
       "id": "p:8312005887|i:24263309563|v:91280000243",
       "source": "coupang",
