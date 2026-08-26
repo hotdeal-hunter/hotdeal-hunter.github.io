@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-26T11:39:19.579Z",
+  "updatedAt": "2026-08-26T12:04:06.734Z",
   "deals": [
+    {
+      "id": "toss:p:1468493821|n:베라 무해력 4zero 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
+      "source": "toss",
+      "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
+      "price": 9690,
+      "listPrice": null,
+      "observedAt": "2026-08-26T12:03:52.485Z",
+      "url": "https://toss.im/_m/n3VMWEpr",
+      "image": "assets/products/0e3ff60b2de7d4b1c37e.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9690,
+          "observedAt": "2026-08-26T12:03:52.485Z"
+        },
+        {
+          "price": 9690,
+          "observedAt": "2026-08-17T13:16:23.757Z"
+        }
+      ]
+    },
     {
       "id": "p:7525648896|i:19747570159|v:-",
       "source": "coupang",
@@ -7848,23 +7869,6 @@
         {
           "price": 7900,
           "observedAt": "2026-08-17T13:16:23.966Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1468493821|n:베라 무해력 4zero 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
-      "source": "toss",
-      "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
-      "price": 9690,
-      "listPrice": null,
-      "observedAt": "2026-08-17T13:16:23.757Z",
-      "url": "https://toss.im/_m/n3VMWEpr",
-      "image": "assets/products/0e3ff60b2de7d4b1c37e.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9690,
-          "observedAt": "2026-08-17T13:16:23.757Z"
         }
       ]
     },
