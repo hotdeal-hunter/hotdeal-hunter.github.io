@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T08:21:47.874Z",
+  "updatedAt": "2026-08-26T08:24:17.408Z",
   "deals": [
+    {
+      "id": "p:5172234502|i:19233413623|v:86349876717",
+      "source": "coupang",
+      "name": "풀무원 들기름 메밀막국수 2인분, 391.4g, 3개",
+      "price": 7170,
+      "listPrice": 22440,
+      "observedAt": "2026-08-26T08:22:58.787Z",
+      "url": "https://link.coupang.com/a/gwIU2Pz54e",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7170,
+          "observedAt": "2026-08-26T08:22:58.787Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2194443679|n:김삼두장인 두부야채어묵바, 150g, 5봉",
       "source": "toss",
