@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-26T07:19:22.851Z",
+  "updatedAt": "2026-08-26T07:44:07.341Z",
   "deals": [
+    {
+      "id": "p:1354114623|i:2382677793|v:-",
+      "source": "coupang",
+      "name": "글라스락 렌지쿡 촉촉한 햇밥용기 정사각, 무드브릭, 1세트",
+      "price": 10440,
+      "listPrice": null,
+      "observedAt": "2026-08-26T07:43:56.727Z",
+      "url": "https://link.coupang.com/a/gwF75XKtBA",
+      "image": "assets/products/657891d6eb1228e78d1a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10440,
+          "observedAt": "2026-08-26T07:43:56.727Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1354114623|i:18243273904|v:-",
+      "source": "coupang",
+      "name": "글라스락 렌지쿡 촉촉한 햇밥용기 정사각, 코코넛밀크, 1세트",
+      "price": 10440,
+      "listPrice": null,
+      "observedAt": "2026-08-26T07:43:56.443Z",
+      "url": "https://link.coupang.com/a/gwF74OWI6S",
+      "image": "assets/products/062af934a594790c8273.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10440,
+          "observedAt": "2026-08-26T07:43:56.443Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:112014959|n:칠성시장궁중떡집 사색 꿀떡, 1kg, 2개",
       "source": "toss",
