@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T03:02:20.917Z",
+  "updatedAt": "2026-08-26T03:23:33.341Z",
   "deals": [
+    {
+      "id": "p:7677080490|i:21419921270|v:3000245577",
+      "source": "coupang",
+      "name": "포스트 콘푸라이트 시리얼, 1.1kg, 1개",
+      "price": 6970,
+      "listPrice": 8157,
+      "observedAt": "2026-08-26T03:23:16.615Z",
+      "url": "https://link.coupang.com/a/gwnu5xutJk",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6970,
+          "observedAt": "2026-08-26T03:23:16.615Z"
+        }
+      ]
+    },
     {
       "id": "p:7608434663|i:19933711664|v:87561494606",
       "source": "coupang",
