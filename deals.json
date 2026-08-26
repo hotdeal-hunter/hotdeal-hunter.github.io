@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-26T13:01:44.500Z",
+  "updatedAt": "2026-08-26T13:45:09.803Z",
   "deals": [
+    {
+      "id": "p:5463302597|i:19225407409|v:86342056221",
+      "source": "coupang",
+      "name": "풀무원 동치미 물냉면 2인 + 함흥 비빔냉면 2인, 1.306kg, 2개",
+      "price": 9680,
+      "listPrice": 14762,
+      "observedAt": "2026-08-26T13:43:44.702Z",
+      "url": "https://link.coupang.com/a/gw5QbvNdPo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9680,
+          "observedAt": "2026-08-26T13:43:44.702Z"
+        }
+      ]
+    },
+    {
+      "id": "p:5829376555|i:28457936431|v:-",
+      "source": "coupang",
+      "name": "양반 100밥 현미밥, 130g, 24개",
+      "price": 18500,
+      "listPrice": null,
+      "observedAt": "2026-08-26T13:22:50.506Z",
+      "url": "https://link.coupang.com/a/gw4lzSgzka",
+      "image": "assets/products/de7f8d5f66058b0541e2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18500,
+          "observedAt": "2026-08-26T13:22:50.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:325531021|n:마포나루터 돼지목살왕구이, 500g, 3팩",
       "source": "toss",
