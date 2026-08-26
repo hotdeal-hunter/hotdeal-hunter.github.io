@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-26T06:55:32.246Z",
+  "updatedAt": "2026-08-26T07:19:22.851Z",
   "deals": [
+    {
+      "id": "toss:p:112014959|n:칠성시장궁중떡집 사색 꿀떡, 1kg, 2개",
+      "source": "toss",
+      "name": "칠성시장궁중떡집 사색 꿀떡, 1kg, 2개",
+      "price": 9560,
+      "listPrice": null,
+      "observedAt": "2026-08-26T07:19:08.720Z",
+      "url": "https://toss.im/_m/Zd5gb1o2",
+      "image": "assets/products/e91f3f7241871bba4d11.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9560,
+          "observedAt": "2026-08-26T07:19:08.720Z"
+        },
+        {
+          "price": 9560,
+          "observedAt": "2026-08-26T07:19:08.510Z"
+        }
+      ]
+    },
     {
       "id": "p:7596180022|i:36640638|v:95515681370",
       "source": "coupang",
