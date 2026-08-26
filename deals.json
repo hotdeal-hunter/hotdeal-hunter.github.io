@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T08:17:41.772Z",
+  "updatedAt": "2026-08-26T08:21:47.874Z",
   "deals": [
+    {
+      "id": "toss:p:2194443679|n:김삼두장인 두부야채어묵바, 150g, 5봉",
+      "source": "toss",
+      "name": "김삼두장인 두부야채어묵바, 150g, 5봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-26T08:21:19.742Z",
+      "url": "https://toss.im/_m/V1XksG26",
+      "image": "assets/products/50ca0b627cc339e413cc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-26T08:21:19.742Z"
+        }
+      ]
+    },
     {
       "id": "p:8243622763|i:10823929193|v:78104017828",
       "source": "coupang",
