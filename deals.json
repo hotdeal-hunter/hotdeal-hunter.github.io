@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-25T23:46:15.011Z",
+  "updatedAt": "2026-08-26T00:10:55.098Z",
   "deals": [
+    {
+      "id": "toss:p:429672099|n:참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+      "source": "toss",
+      "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+      "price": 8730,
+      "listPrice": null,
+      "observedAt": "2026-08-26T00:10:43.171Z",
+      "url": "https://toss.im/_m/huzUqqUA",
+      "image": "assets/products/85d7f998006ac95c3b3f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8730,
+          "observedAt": "2026-08-26T00:10:43.171Z"
+        },
+        {
+          "price": 8730,
+          "observedAt": "2026-08-24T23:01:23.304Z"
+        }
+      ]
+    },
     {
       "id": "p:6625030243|i:15078633649|v:82300826517",
       "source": "coupang",
@@ -1182,23 +1203,6 @@
         {
           "price": 15320,
           "observedAt": "2026-08-17T10:39:50.885Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:429672099|n:참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
-      "source": "toss",
-      "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
-      "price": 8730,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:01:23.304Z",
-      "url": "https://toss.im/_m/huzUqqUA",
-      "image": "assets/products/85d7f998006ac95c3b3f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8730,
-          "observedAt": "2026-08-24T23:01:23.304Z"
         }
       ]
     },
