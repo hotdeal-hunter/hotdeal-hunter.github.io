@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T08:08:05.281Z",
+  "updatedAt": "2026-08-26T08:17:41.772Z",
   "deals": [
+    {
+      "id": "p:8243622763|i:10823929193|v:78104017828",
+      "source": "coupang",
+      "name": "바다원 바베큐 조미 오징어, 300g, 1개",
+      "price": 9980,
+      "listPrice": 12980,
+      "observedAt": "2026-08-26T08:17:24.858Z",
+      "url": "https://link.coupang.com/a/gwIwnOIWCO",
+      "image": "assets/products/2427ea1d6495b95bd971.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9980,
+          "observedAt": "2026-08-26T08:17:24.858Z"
+        }
+      ]
+    },
     {
       "id": "p:8276935584|i:24815903516|v:91823345626",
       "source": "coupang",
