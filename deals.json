@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T11:09:42.520Z",
+  "updatedAt": "2026-08-26T11:27:25.531Z",
   "deals": [
+    {
+      "id": "p:7353339051|i:23804197823|v:85574305199",
+      "source": "coupang",
+      "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
+      "price": 7950,
+      "listPrice": 17900,
+      "observedAt": "2026-08-26T11:27:08.912Z",
+      "url": "https://link.coupang.com/a/gwV40oOTSe",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7950,
+          "observedAt": "2026-08-26T11:27:08.912Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2473276087|n:할리스 블랙 아리아 아메리카노, 550ml, 24개",
       "source": "toss",
