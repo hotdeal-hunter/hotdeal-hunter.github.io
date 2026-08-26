@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T10:58:42.673Z",
+  "updatedAt": "2026-08-26T11:09:42.520Z",
   "deals": [
+    {
+      "id": "toss:p:2473276087|n:할리스 블랙 아리아 아메리카노, 550ml, 24개",
+      "source": "toss",
+      "name": "할리스 블랙 아리아 아메리카노, 550ml, 24개",
+      "price": 19640,
+      "listPrice": null,
+      "observedAt": "2026-08-26T11:09:15.952Z",
+      "url": "https://toss.im/_m/RjX89I1r",
+      "image": "assets/products/e1a8fc0b7e2b2c49163d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19640,
+          "observedAt": "2026-08-26T11:09:15.952Z"
+        }
+      ]
+    },
     {
       "id": "p:317713654|i:19735673615|v:86839492929",
       "source": "coupang",
