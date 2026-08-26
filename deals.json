@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T23:37:00.157Z",
+  "updatedAt": "2026-08-26T23:45:37.823Z",
   "deals": [
+    {
+      "id": "toss:p:2569148107|n:산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
+      "source": "toss",
+      "name": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
+      "price": 12990,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:45:29.157Z",
+      "url": "https://toss.im/_m/9YpwTfI3",
+      "image": "assets/products/de81112ac4541a61689e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-08-26T23:45:29.157Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:91517543|n:풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
       "source": "toss",
