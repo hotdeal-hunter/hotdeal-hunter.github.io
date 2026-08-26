@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T06:35:17.125Z",
+  "updatedAt": "2026-08-26T06:53:01.360Z",
   "deals": [
+    {
+      "id": "toss:p:208518667|n:신발 세탁망, 그레이, 19x39cm, 2개",
+      "source": "toss",
+      "name": "신발 세탁망, 그레이, 19x39cm, 2개",
+      "price": 6900,
+      "listPrice": 10220,
+      "observedAt": "2026-08-26T06:52:44.525Z",
+      "url": "https://toss.im/_m/rEIx7hdg",
+      "image": "assets/products/7afb99e1b688ef8327c3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-26T06:52:44.525Z"
+        }
+      ]
+    },
     {
       "id": "p:7218679514|i:22103368543|v:91996123284",
       "source": "coupang",
