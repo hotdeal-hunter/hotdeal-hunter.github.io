@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T08:24:17.408Z",
+  "updatedAt": "2026-08-26T09:00:52.441Z",
   "deals": [
+    {
+      "id": "toss:p:636955733|n:바다모아 김자반 돌자반볶음, 500g, 1개",
+      "source": "toss",
+      "name": "바다모아 김자반 돌자반볶음, 500g, 1개",
+      "price": 8900,
+      "listPrice": 14900,
+      "observedAt": "2026-08-26T09:00:35.135Z",
+      "url": "https://toss.im/_m/V2jP1OEd",
+      "image": "assets/products/00c276773a363c4ce1db.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-26T09:00:35.135Z"
+        }
+      ]
+    },
     {
       "id": "p:5172234502|i:19233413623|v:86349876717",
       "source": "coupang",
