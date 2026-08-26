@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T09:00:52.441Z",
+  "updatedAt": "2026-08-26T09:20:59.989Z",
   "deals": [
+    {
+      "id": "toss:p:8086829|n:모노플랫 대왕 칫솔, 10개입, 1팩",
+      "source": "toss",
+      "name": "모노플랫 대왕 칫솔, 10개입, 1팩",
+      "price": 7900,
+      "listPrice": 12900,
+      "observedAt": "2026-08-26T09:20:42.896Z",
+      "url": "https://toss.im/_m/zVrK5L7C",
+      "image": "assets/products/d352eaeb86ff57eb75e2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-26T09:20:42.896Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:636955733|n:바다모아 김자반 돌자반볶음, 500g, 1개",
       "source": "toss",
