@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T05:31:40.139Z",
+  "updatedAt": "2026-08-26T05:37:52.648Z",
   "deals": [
+    {
+      "id": "toss:p:202209073|n:집밥에 나주곰탕, 600g, 5팩",
+      "source": "toss",
+      "name": "집밥에 나주곰탕, 600g, 5팩",
+      "price": 17900,
+      "listPrice": 39500,
+      "observedAt": "2026-08-26T05:37:36.154Z",
+      "url": "https://toss.im/_m/9kWFXCrB",
+      "image": "assets/products/c693c3e0e3252b77d792.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-08-26T05:37:36.154Z"
+        }
+      ]
+    },
     {
       "id": "p:8776075928|i:25531765275|v:95250959997",
       "source": "coupang",
