@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T12:54:30.824Z",
+  "updatedAt": "2026-08-26T13:01:44.500Z",
   "deals": [
+    {
+      "id": "toss:p:325531021|n:마포나루터 돼지목살왕구이, 500g, 3팩",
+      "source": "toss",
+      "name": "마포나루터 돼지목살왕구이, 500g, 3팩",
+      "price": 13900,
+      "listPrice": 50000,
+      "observedAt": "2026-08-26T13:00:19.895Z",
+      "url": "https://toss.im/_m/5svlo8Wl",
+      "image": "assets/products/633653f3f47f48abbe4b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-08-26T13:00:19.895Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80022981|n:슈가로로 애사비 에이드 사과, 410ml, 24병",
       "source": "toss",
