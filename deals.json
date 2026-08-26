@@ -1,6 +1,232 @@
 {
-  "updatedAt": "2026-08-26T22:55:57.278Z",
+  "updatedAt": "2026-08-26T23:11:40.428Z",
   "deals": [
+    {
+      "id": "toss:p:455897377|n:선비찬 사골부대찌개, 얼큰고소 사골육수, 600g, 3개, 라면사리 1봉 증정",
+      "source": "toss",
+      "name": "선비찬 사골부대찌개, 얼큰고소 사골육수, 600g, 3개, 라면사리 1봉 증정",
+      "price": 9170,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:10:19.476Z",
+      "url": "https://toss.im/_m/rRkNHoPo",
+      "image": "assets/products/c2906f07ca4465a38094.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9170,
+          "observedAt": "2026-08-26T23:10:19.476Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:101080007|n:페페브루노 엑스트라버진 올리브 오일, 1l, 1개",
+      "source": "toss",
+      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
+      "price": 12500,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:00:55.424Z",
+      "url": "https://toss.im/_m/7oEgpXOp",
+      "image": "assets/products/f39db936dcc0b95e025b.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12500,
+          "observedAt": "2026-08-26T23:00:55.424Z"
+        },
+        {
+          "price": 12500,
+          "observedAt": "2026-08-21T23:58:53.652Z"
+        },
+        {
+          "price": 12500,
+          "observedAt": "2026-08-21T23:58:53.574Z"
+        },
+        {
+          "price": 12500,
+          "observedAt": "2026-08-19T00:26:03.809Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:429672099|n:참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+      "source": "toss",
+      "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
+      "price": 8730,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:00:55.326Z",
+      "url": "https://toss.im/_m/huzUqqUA",
+      "image": "assets/products/85d7f998006ac95c3b3f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8730,
+          "observedAt": "2026-08-26T23:00:55.326Z"
+        },
+        {
+          "price": 8730,
+          "observedAt": "2026-08-26T00:10:43.171Z"
+        },
+        {
+          "price": 8730,
+          "observedAt": "2026-08-24T23:01:23.304Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "source": "toss",
+      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "price": 6330,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:00:55.230Z",
+      "url": "https://toss.im/_m/p1mVdX9v",
+      "image": "assets/products/5b0cea34556142c2538f.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 6330,
+          "observedAt": "2026-08-26T23:00:55.230Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-25T23:01:08.400Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-24T23:01:23.197Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:21:40.640Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:01:14.959Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-22T23:01:06.222Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-21T22:59:58.659Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-20T23:01:46.691Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-19T23:01:57.803Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-18T00:28:38.530Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "source": "toss",
+      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
+      "price": 7260,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:00:55.122Z",
+      "url": "https://toss.im/_m/FLunLFcA",
+      "image": "assets/products/f179ccd24887d0f4b19b.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 7260,
+          "observedAt": "2026-08-26T23:00:55.122Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-25T23:01:08.307Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-24T23:01:23.111Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-23T23:21:40.561Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-23T23:01:14.848Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-22T23:01:06.077Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-21T22:59:58.370Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-20T23:01:46.359Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-19T23:01:57.354Z"
+        },
+        {
+          "price": 7260,
+          "observedAt": "2026-08-18T00:28:38.768Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "source": "toss",
+      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "price": 8180,
+      "listPrice": null,
+      "observedAt": "2026-08-26T23:00:54.790Z",
+      "url": "https://toss.im/_m/Htr0SOgr",
+      "image": "assets/products/ff4392a55ee46475c35e.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 8180,
+          "observedAt": "2026-08-26T23:00:54.790Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-25T23:01:08.177Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-24T23:01:22.983Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:21:40.472Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:01:14.717Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-22T23:01:06.341Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-21T22:59:58.571Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-20T23:01:46.575Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-19T23:01:57.520Z"
+        }
+      ]
+    },
     {
       "id": "p:6764200323|i:18880361328|v:85762458224",
       "source": "coupang",
@@ -894,27 +1120,6 @@
       ]
     },
     {
-      "id": "toss:p:429672099|n:참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
-      "source": "toss",
-      "name": "참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
-      "price": 8730,
-      "listPrice": null,
-      "observedAt": "2026-08-26T00:10:43.171Z",
-      "url": "https://toss.im/_m/huzUqqUA",
-      "image": "assets/products/85d7f998006ac95c3b3f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8730,
-          "observedAt": "2026-08-26T00:10:43.171Z"
-        },
-        {
-          "price": 8730,
-          "observedAt": "2026-08-24T23:01:23.304Z"
-        }
-      ]
-    },
-    {
       "id": "p:6625030243|i:15078633649|v:82300826517",
       "source": "coupang",
       "name": "다향 무항생제 인증 우리땅 오리 다리살 슬라이스 (냉장), 500g, 1개",
@@ -1057,149 +1262,6 @@
         {
           "price": 4590,
           "observedAt": "2026-08-24T07:42:24.734Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "source": "toss",
-      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "price": 6330,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:01:08.400Z",
-      "url": "https://toss.im/_m/p1mVdX9v",
-      "image": "assets/products/5b0cea34556142c2538f.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 6330,
-          "observedAt": "2026-08-25T23:01:08.400Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-24T23:01:23.197Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:21:40.640Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:01:14.959Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-22T23:01:06.222Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-21T22:59:58.659Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-20T23:01:46.691Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-19T23:01:57.803Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-18T00:28:38.530Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2337333283|n:농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "source": "toss",
-      "name": "농부의 정육점 한돈 뒷고기, 500g, 2개",
-      "price": 7260,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:01:08.307Z",
-      "url": "https://toss.im/_m/FLunLFcA",
-      "image": "assets/products/f179ccd24887d0f4b19b.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 7260,
-          "observedAt": "2026-08-25T23:01:08.307Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-24T23:01:23.111Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-23T23:21:40.561Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-23T23:01:14.848Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-22T23:01:06.077Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-21T22:59:58.370Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-20T23:01:46.359Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-19T23:01:57.354Z"
-        },
-        {
-          "price": 7260,
-          "observedAt": "2026-08-18T00:28:38.768Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "source": "toss",
-      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "price": 8180,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:01:08.177Z",
-      "url": "https://toss.im/_m/Htr0SOgr",
-      "image": "assets/products/ff4392a55ee46475c35e.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 8180,
-          "observedAt": "2026-08-25T23:01:08.177Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-24T23:01:22.983Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:21:40.472Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:01:14.717Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-22T23:01:06.341Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-21T22:59:58.571Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-20T23:01:46.575Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-19T23:01:57.520Z"
         }
       ]
     },
@@ -4319,31 +4381,6 @@
         {
           "price": 16130,
           "observedAt": "2026-08-22T00:11:44.450Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:101080007|n:페페브루노 엑스트라버진 올리브 오일, 1l, 1개",
-      "source": "toss",
-      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
-      "price": 12500,
-      "listPrice": null,
-      "observedAt": "2026-08-21T23:58:53.652Z",
-      "url": "https://toss.im/_m/7oEgpXOp",
-      "image": "assets/products/f39db936dcc0b95e025b.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 12500,
-          "observedAt": "2026-08-21T23:58:53.652Z"
-        },
-        {
-          "price": 12500,
-          "observedAt": "2026-08-21T23:58:53.574Z"
-        },
-        {
-          "price": 12500,
-          "observedAt": "2026-08-19T00:26:03.809Z"
         }
       ]
     },
