@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T01:37:29.449Z",
+  "updatedAt": "2026-08-26T02:34:40.149Z",
   "deals": [
+    {
+      "id": "p:8564372154|i:24805023346|v:91812665774",
+      "source": "coupang",
+      "name": "그린팜 칠레산 블루베리 (냉동), 1kg, 1개",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-08-26T02:34:24.995Z",
+      "url": "https://link.coupang.com/a/gwj0B6qQTY",
+      "image": "assets/products/3290689c42c30e6aad22.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-08-26T02:34:24.995Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:149938367|n:자동 변기세정제 맥스, 320g, 4개",
       "source": "toss",
