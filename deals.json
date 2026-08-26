@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-26T01:17:54.559Z",
+  "updatedAt": "2026-08-26T01:21:43.160Z",
   "deals": [
+    {
+      "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "source": "toss",
+      "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "price": 271,
+      "listPrice": null,
+      "observedAt": "2026-08-26T01:21:29.826Z",
+      "url": "https://toss.im/_m/9eDuzpY1",
+      "image": "assets/products/b6ecc495994c233cd287.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 271,
+          "observedAt": "2026-08-26T01:21:29.826Z"
+        },
+        {
+          "price": 13570,
+          "observedAt": "2026-08-26T01:21:29.687Z"
+        },
+        {
+          "price": 13570,
+          "observedAt": "2026-08-25T12:01:51.706Z"
+        }
+      ]
+    },
     {
       "id": "p:2140167813|i:3634663228|v:71620215807",
       "source": "coupang",
@@ -501,23 +526,6 @@
         {
           "price": 7990,
           "observedAt": "2026-08-25T12:16:03.329Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
-      "source": "toss",
-      "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
-      "price": 13570,
-      "listPrice": null,
-      "observedAt": "2026-08-25T12:01:51.706Z",
-      "url": "https://toss.im/_m/9eDuzpY1",
-      "image": "assets/products/b6ecc495994c233cd287.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13570,
-          "observedAt": "2026-08-25T12:01:51.706Z"
         }
       ]
     },
