@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T07:44:07.341Z",
+  "updatedAt": "2026-08-26T08:03:04.683Z",
   "deals": [
+    {
+      "id": "p:8312005887|i:24263309563|v:91280000243",
+      "source": "coupang",
+      "name": "샘표 조선 국산100% 고추장, 1kg, 1개",
+      "price": 12180,
+      "listPrice": 32890,
+      "observedAt": "2026-08-26T08:02:47.552Z",
+      "url": "https://link.coupang.com/a/gwHtB0xew0",
+      "image": "assets/products/ba075b1472563df23654.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12180,
+          "observedAt": "2026-08-26T08:02:47.552Z"
+        }
+      ]
+    },
     {
       "id": "p:1354114623|i:2382677793|v:-",
       "source": "coupang",
