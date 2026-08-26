@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T02:49:16.118Z",
+  "updatedAt": "2026-08-26T03:02:20.917Z",
   "deals": [
+    {
+      "id": "p:7608434663|i:19933711664|v:87561494606",
+      "source": "coupang",
+      "name": "세스코마이랩 기름때세정제 파워, 500ml, 1개",
+      "price": 6270,
+      "listPrice": 11400,
+      "observedAt": "2026-08-26T03:02:04.687Z",
+      "url": "https://link.coupang.com/a/gwlY90UGAe",
+      "image": "assets/products/eea143bda20576997c3e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6270,
+          "observedAt": "2026-08-26T03:02:04.687Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:204630379|n:외갓집 진심 부대찌개, 700g, 2팩",
       "source": "toss",
