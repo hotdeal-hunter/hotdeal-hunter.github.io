@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T09:55:09.256Z",
+  "updatedAt": "2026-08-26T09:58:57.949Z",
   "deals": [
+    {
+      "id": "p:1960288299|i:3331628015|v:71299526201",
+      "source": "coupang",
+      "name": "화이트샌즈 뉴 라자르 라피아 블랙밴드 썬캡, 코코아, FREE(55~60cm)",
+      "price": 26740,
+      "listPrice": 51697,
+      "observedAt": "2026-08-26T09:57:30.589Z",
+      "url": "https://link.coupang.com/a/gwPFQXLGBo",
+      "image": "assets/products/9c88b25a9f80d5971657.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26740,
+          "observedAt": "2026-08-26T09:57:30.589Z"
+        }
+      ]
+    },
     {
       "id": "p:7105319153|i:17746821758|v:3929983154",
       "source": "coupang",
