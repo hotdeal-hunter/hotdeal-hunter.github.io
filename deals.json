@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T12:06:36.315Z",
+  "updatedAt": "2026-08-26T12:30:28.324Z",
   "deals": [
+    {
+      "id": "toss:p:1333835493|n:지민푸드 통통왕족발, 1kg 내외, 1팩",
+      "source": "toss",
+      "name": "지민푸드 통통왕족발, 1kg 내외, 1팩",
+      "price": 9600,
+      "listPrice": 17100,
+      "observedAt": "2026-08-26T12:30:06.054Z",
+      "url": "https://toss.im/_m/DCaYyDy9",
+      "image": "assets/products/57153ee7dae03b383dae.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9600,
+          "observedAt": "2026-08-26T12:30:06.054Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1468493821|n:베라 무해력 4zero 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
       "source": "toss",
