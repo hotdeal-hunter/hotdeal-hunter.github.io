@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T09:20:59.989Z",
+  "updatedAt": "2026-08-26T09:42:26.898Z",
   "deals": [
+    {
+      "id": "p:6875972346|i:18852288623|v:85981555069",
+      "source": "coupang",
+      "name": "뻥이요 골드, 60g, 4개",
+      "price": 3860,
+      "listPrice": null,
+      "observedAt": "2026-08-26T09:41:05.246Z",
+      "url": "https://link.coupang.com/a/gwOu5JGfp6",
+      "image": "assets/products/9cffed41446613a57150.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3860,
+          "observedAt": "2026-08-26T09:41:05.246Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:8086829|n:모노플랫 대왕 칫솔, 10개입, 1팩",
       "source": "toss",
