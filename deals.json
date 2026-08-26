@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-26T12:30:28.324Z",
+  "updatedAt": "2026-08-26T12:51:37.259Z",
   "deals": [
+    {
+      "id": "toss:p:80022981|n:슈가로로 애사비 에이드 사과, 410ml, 24병",
+      "source": "toss",
+      "name": "슈가로로 애사비 에이드 사과, 410ml, 24병",
+      "price": 454,
+      "listPrice": null,
+      "observedAt": "2026-08-26T12:50:16.342Z",
+      "url": "https://toss.im/_m/zQORVL6m",
+      "image": "assets/products/4d6d5d643a7ed82437f7.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 454,
+          "observedAt": "2026-08-26T12:50:16.342Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-26T12:50:16.013Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1333835493|n:지민푸드 통통왕족발, 1kg 내외, 1팩",
       "source": "toss",
