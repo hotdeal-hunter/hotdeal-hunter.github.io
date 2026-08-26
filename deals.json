@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T01:21:43.160Z",
+  "updatedAt": "2026-08-26T01:33:39.587Z",
   "deals": [
+    {
+      "id": "p:9333595634|i:27621278649|v:94584259028",
+      "source": "coupang",
+      "name": "농심 라뽁구리 큰사발면 105g, 3개",
+      "price": 3660,
+      "listPrice": null,
+      "observedAt": "2026-08-26T01:33:22.808Z",
+      "url": "https://link.coupang.com/a/gwfEccY788",
+      "image": "assets/products/e1cdbdd35b15cee8e3c1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3660,
+          "observedAt": "2026-08-26T01:33:22.808Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
       "source": "toss",
