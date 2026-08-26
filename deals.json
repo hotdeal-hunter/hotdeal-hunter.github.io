@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T10:20:01.068Z",
+  "updatedAt": "2026-08-26T10:58:42.673Z",
   "deals": [
+    {
+      "id": "p:317713654|i:19735673615|v:86839492929",
+      "source": "coupang",
+      "name": "개성 왕만두 (냉동), 1.2kg, 1개",
+      "price": 7980,
+      "listPrice": null,
+      "observedAt": "2026-08-26T10:58:23.795Z",
+      "url": "https://link.coupang.com/a/gwT1B0lVee",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7980,
+          "observedAt": "2026-08-26T10:58:23.795Z"
+        }
+      ]
+    },
     {
       "id": "p:9402357527|i:27930007498|v:-",
       "source": "coupang",
