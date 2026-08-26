@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T13:45:09.803Z",
+  "updatedAt": "2026-08-26T22:21:48.649Z",
   "deals": [
+    {
+      "id": "p:201018970|i:585458969|v:4532240569",
+      "source": "coupang",
+      "name": "스카치 쓰리엠 원터치 테이프 디스펜서 + 매직테이프 리필 2롤, 핑크, 1세트",
+      "price": 11830,
+      "listPrice": 16584,
+      "observedAt": "2026-08-26T22:20:23.719Z",
+      "url": "https://link.coupang.com/a/gxGLdbauWG",
+      "image": "assets/products/967ca12bd0bd960fe5ea.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11830,
+          "observedAt": "2026-08-26T22:20:23.719Z"
+        }
+      ]
+    },
     {
       "id": "p:5463302597|i:19225407409|v:86342056221",
       "source": "coupang",
