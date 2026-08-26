@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T06:27:59.841Z",
+  "updatedAt": "2026-08-26T06:35:17.125Z",
   "deals": [
+    {
+      "id": "p:7218679514|i:22103368543|v:91996123284",
+      "source": "coupang",
+      "name": "팔도 진국 설렁탕면 100g, 32개",
+      "price": 19570,
+      "listPrice": 30400,
+      "observedAt": "2026-08-26T06:35:00.143Z",
+      "url": "https://link.coupang.com/a/gwBcDWtDpI",
+      "image": "assets/products/135b79a381fe35e75fbe.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19570,
+          "observedAt": "2026-08-26T06:35:00.143Z"
+        }
+      ]
+    },
     {
       "id": "p:9671972162|i:28918790237|v:95850467229",
       "source": "coupang",
