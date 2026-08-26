@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-26T02:34:40.149Z",
+  "updatedAt": "2026-08-26T02:46:36.807Z",
   "deals": [
+    {
+      "id": "toss:p:204630379|n:외갓집 진심 부대찌개, 700g, 2팩",
+      "source": "toss",
+      "name": "외갓집 진심 부대찌개, 700g, 2팩",
+      "price": 4490,
+      "listPrice": null,
+      "observedAt": "2026-08-26T02:46:23.983Z",
+      "url": "https://toss.im/_m/NmDA7YYq",
+      "image": "assets/products/abfa67d76ba018735e13.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4490,
+          "observedAt": "2026-08-26T02:46:23.983Z"
+        },
+        {
+          "price": 8980,
+          "observedAt": "2026-08-26T02:46:23.640Z"
+        }
+      ]
+    },
     {
       "id": "p:8564372154|i:24805023346|v:91812665774",
       "source": "coupang",
