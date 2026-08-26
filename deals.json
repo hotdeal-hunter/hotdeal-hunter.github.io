@@ -1,6 +1,118 @@
 {
-  "updatedAt": "2026-08-26T03:23:33.341Z",
+  "updatedAt": "2026-08-26T05:31:40.139Z",
   "deals": [
+    {
+      "id": "p:8776075928|i:25531765275|v:95250959997",
+      "source": "coupang",
+      "name": "에브리봇 침구 로봇청소기, 화이트, X1",
+      "price": 199000,
+      "listPrice": 255155,
+      "observedAt": "2026-08-26T05:31:22.424Z",
+      "url": "https://link.coupang.com/a/gwwECD762m",
+      "image": "assets/products/3e93ea28550d813e69fb.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 199000,
+          "observedAt": "2026-08-26T05:31:22.424Z"
+        }
+      ]
+    },
+    {
+      "id": "p:2140167813|i:3634663228|v:71620215807",
+      "source": "coupang",
+      "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
+      "price": 5990,
+      "listPrice": 16900,
+      "observedAt": "2026-08-26T04:57:27.660Z",
+      "url": "https://link.coupang.com/a/gwuemUoFkO",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-08-26T04:57:27.660Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-26T01:17:40.907Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "농협안심 새청무 탄탄대로 쌀, 상등급, 10kg, 1개",
+      "price": 31500,
+      "listPrice": 56000,
+      "observedAt": "2026-08-26T04:38:55.237Z",
+      "url": "https://toss.im/_m/niI4qcr9",
+      "image": "assets/products/966f4718d3cca7ccdeeb.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 31500,
+          "observedAt": "2026-08-26T04:38:55.237Z"
+        },
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T23:10:37.405Z"
+        },
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T22:59:25.976Z"
+        },
+        {
+          "price": 31500,
+          "observedAt": "2026-08-25T22:59:25.586Z"
+        },
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T23:08:20.916Z"
+        },
+        {
+          "price": 31200,
+          "observedAt": "2026-08-23T22:48:12.015Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-21T23:01:07.925Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-20T23:01:47.079Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-19T23:04:19.818Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-18T23:01:15.128Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:109930009|n:코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
+      "source": "toss",
+      "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
+      "price": 14560,
+      "listPrice": null,
+      "observedAt": "2026-08-26T03:39:54.990Z",
+      "url": "https://toss.im/_m/bXcVvJEp",
+      "image": "assets/products/9f935f2d533fee4735bf.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14560,
+          "observedAt": "2026-08-26T03:39:54.990Z"
+        },
+        {
+          "price": 14560,
+          "observedAt": "2026-08-23T10:30:28.723Z"
+        }
+      ]
+    },
     {
       "id": "p:7677080490|i:21419921270|v:3000245577",
       "source": "coupang",
@@ -129,23 +241,6 @@
         {
           "price": 13570,
           "observedAt": "2026-08-25T12:01:51.706Z"
-        }
-      ]
-    },
-    {
-      "id": "p:2140167813|i:3634663228|v:71620215807",
-      "source": "coupang",
-      "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입 x 1개",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-08-26T01:17:40.907Z",
-      "url": "https://link.coupang.com/a/gwewDC2kO4",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-08-26T01:17:40.907Z"
         }
       ]
     },
@@ -301,55 +396,6 @@
         {
           "price": 8500,
           "observedAt": "2026-08-21T02:10:58.616Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83919817|n:농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "source": "toss",
-      "name": "농협안심 새청무 탄탄대로 쌀 상등급, 10kg, 1개",
-      "price": 31500,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:10:37.405Z",
-      "url": "https://toss.im/_m/niI4qcr9",
-      "image": "assets/products/be43f04cc0e88c23e58e.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 31500,
-          "observedAt": "2026-08-25T23:10:37.405Z"
-        },
-        {
-          "price": 31500,
-          "observedAt": "2026-08-25T22:59:25.976Z"
-        },
-        {
-          "price": 31500,
-          "observedAt": "2026-08-25T22:59:25.586Z"
-        },
-        {
-          "price": 31200,
-          "observedAt": "2026-08-23T23:08:20.916Z"
-        },
-        {
-          "price": 31200,
-          "observedAt": "2026-08-23T22:48:12.015Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-21T23:01:07.925Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-20T23:01:47.079Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-19T23:04:19.818Z"
-        },
-        {
-          "price": 26900,
-          "observedAt": "2026-08-18T23:01:15.128Z"
         }
       ]
     },
@@ -2650,23 +2696,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-23T10:54:46.501Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:109930009|n:코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
-      "source": "toss",
-      "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
-      "price": 14560,
-      "listPrice": null,
-      "observedAt": "2026-08-23T10:30:28.723Z",
-      "url": "https://toss.im/_m/bXcVvJEp",
-      "image": "assets/products/9f935f2d533fee4735bf.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14560,
-          "observedAt": "2026-08-23T10:30:28.723Z"
         }
       ]
     },
