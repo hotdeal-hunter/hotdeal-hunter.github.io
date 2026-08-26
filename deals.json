@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T11:27:25.531Z",
+  "updatedAt": "2026-08-26T11:39:19.579Z",
   "deals": [
+    {
+      "id": "p:7525648896|i:19747570159|v:-",
+      "source": "coupang",
+      "name": "해태제과 고향만두 냉동, 1.8kg, 1개",
+      "price": 10990,
+      "listPrice": null,
+      "observedAt": "2026-08-26T11:39:08.826Z",
+      "url": "https://link.coupang.com/a/gwWV9RyTa8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-08-26T11:39:08.826Z"
+        }
+      ]
+    },
     {
       "id": "p:7353339051|i:23804197823|v:85574305199",
       "source": "coupang",
