@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T06:11:20.720Z",
+  "updatedAt": "2026-08-26T06:27:59.841Z",
   "deals": [
+    {
+      "id": "p:9671972162|i:28918790237|v:95850467229",
+      "source": "coupang",
+      "name": "[물 섞지 않은 무설탕] 당 0% 알룰로스 함유 제로 생강청 생강차, 1개, 1개입, 590g",
+      "price": 9400,
+      "listPrice": 13344,
+      "observedAt": "2026-08-26T06:27:42.749Z",
+      "url": "https://link.coupang.com/a/gwAGefv51E",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9400,
+          "observedAt": "2026-08-26T06:27:42.749Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:157360759|n:널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
       "source": "toss",
