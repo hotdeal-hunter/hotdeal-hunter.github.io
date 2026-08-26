@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T01:33:39.587Z",
+  "updatedAt": "2026-08-26T01:37:29.449Z",
   "deals": [
+    {
+      "id": "toss:p:149938367|n:자동 변기세정제 맥스, 320g, 4개",
+      "source": "toss",
+      "name": "자동 변기세정제 맥스, 320g, 4개",
+      "price": 6990,
+      "listPrice": 14900,
+      "observedAt": "2026-08-26T01:37:12.418Z",
+      "url": "https://toss.im/_m/bUgR6xKy",
+      "image": "assets/products/7ab9e64aa80a7055d059.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-08-26T01:37:12.418Z"
+        }
+      ]
+    },
     {
       "id": "p:9333595634|i:27621278649|v:94584259028",
       "source": "coupang",
