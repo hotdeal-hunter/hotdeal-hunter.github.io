@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T06:53:01.360Z",
+  "updatedAt": "2026-08-26T06:55:32.246Z",
   "deals": [
+    {
+      "id": "p:7596180022|i:36640638|v:95515681370",
+      "source": "coupang",
+      "name": "센소다인 멀티케어 치약, 100g, 3개",
+      "price": 9960,
+      "listPrice": null,
+      "observedAt": "2026-08-26T06:54:17.735Z",
+      "url": "https://link.coupang.com/a/gwCz7Q7ovk",
+      "image": "assets/products/f5c9c9a7a1682421e56f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9960,
+          "observedAt": "2026-08-26T06:54:17.735Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:208518667|n:신발 세탁망, 그레이, 19x39cm, 2개",
       "source": "toss",
