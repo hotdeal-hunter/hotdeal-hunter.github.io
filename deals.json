@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T22:21:48.649Z",
+  "updatedAt": "2026-08-26T22:55:57.278Z",
   "deals": [
+    {
+      "id": "p:6764200323|i:18880361328|v:85762458224",
+      "source": "coupang",
+      "name": "팔도비빔면 컵 115g, 48개",
+      "price": 31660,
+      "listPrice": 43139,
+      "observedAt": "2026-08-26T22:54:32.647Z",
+      "url": "https://link.coupang.com/a/gxJcvg74YC",
+      "image": "assets/products/e5c8c5d8df1a3026598f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 31660,
+          "observedAt": "2026-08-26T22:54:32.647Z"
+        }
+      ]
+    },
     {
       "id": "p:201018970|i:585458969|v:4532240569",
       "source": "coupang",
