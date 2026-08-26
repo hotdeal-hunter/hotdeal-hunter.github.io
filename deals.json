@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T09:58:57.949Z",
+  "updatedAt": "2026-08-26T10:04:25.363Z",
   "deals": [
+    {
+      "id": "toss:p:82511299|n:자이글 파티쿠커 골든 우드 에디션, 1개",
+      "source": "toss",
+      "name": "자이글 파티쿠커 골든 우드 에디션, 1개",
+      "price": 23900,
+      "listPrice": null,
+      "observedAt": "2026-08-26T10:02:49.140Z",
+      "url": "https://toss.im/_m/lmI8Rsd3",
+      "image": "assets/products/ae63d336a489a93c46a0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23900,
+          "observedAt": "2026-08-26T10:02:49.140Z"
+        }
+      ]
+    },
     {
       "id": "p:1960288299|i:3331628015|v:71299526201",
       "source": "coupang",
