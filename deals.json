@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-26T00:10:55.098Z",
+  "updatedAt": "2026-08-26T00:13:32.992Z",
   "deals": [
+    {
+      "id": "p:8750734398|i:25438909147|v:92431815871",
+      "source": "coupang",
+      "name": "로보락 로봇청소기, Q8+, 화이트",
+      "price": 279000,
+      "listPrice": 799000,
+      "observedAt": "2026-08-26T00:13:16.418Z",
+      "url": "https://link.coupang.com/a/gv9VgTolK8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 279000,
+          "observedAt": "2026-08-26T00:13:16.418Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:429672099|n:참도깨비 어묵장인 박경도 한끼어묵탕, 220g, 5봉",
       "source": "toss",
