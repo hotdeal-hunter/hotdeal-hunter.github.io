@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-26T05:37:52.648Z",
+  "updatedAt": "2026-08-26T05:53:31.288Z",
   "deals": [
+    {
+      "id": "toss:p:1265166001|n:아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+      "source": "toss",
+      "name": "아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
+      "price": 19250,
+      "listPrice": null,
+      "observedAt": "2026-08-26T05:53:20.256Z",
+      "url": "https://toss.im/_m/HLyHpyBe",
+      "image": "assets/products/d9cd1decbb237407e612.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19250,
+          "observedAt": "2026-08-26T05:53:20.256Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9333595634|i:27621278649|v:94584259028",
+      "source": "coupang",
+      "name": "농심 라뽁구리 큰사발면 105g, 3개",
+      "price": 3660,
+      "listPrice": null,
+      "observedAt": "2026-08-26T05:40:19.997Z",
+      "url": "https://link.coupang.com/a/gwxii8dZy8",
+      "image": "assets/products/e1cdbdd35b15cee8e3c1.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3660,
+          "observedAt": "2026-08-26T05:40:19.997Z"
+        },
+        {
+          "price": 3660,
+          "observedAt": "2026-08-26T01:33:22.808Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:202209073|n:집밥에 나주곰탕, 600g, 5팩",
       "source": "toss",
@@ -216,23 +254,6 @@
         {
           "price": 6990,
           "observedAt": "2026-08-26T01:37:12.418Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9333595634|i:27621278649|v:94584259028",
-      "source": "coupang",
-      "name": "농심 라뽁구리 큰사발면 105g, 3개",
-      "price": 3660,
-      "listPrice": null,
-      "observedAt": "2026-08-26T01:33:22.808Z",
-      "url": "https://link.coupang.com/a/gwfEccY788",
-      "image": "assets/products/e1cdbdd35b15cee8e3c1.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3660,
-          "observedAt": "2026-08-26T01:33:22.808Z"
         }
       ]
     },
