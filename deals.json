@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T02:08:03.598Z",
+  "updatedAt": "2026-08-27T02:19:09.456Z",
   "deals": [
+    {
+      "id": "toss:p:1627583335|n:스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
+      "source": "toss",
+      "name": "스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
+      "price": 12900,
+      "listPrice": 45000,
+      "observedAt": "2026-08-27T02:17:42.929Z",
+      "url": "https://toss.im/_m/b5N9CqTD",
+      "image": "assets/products/86720dee76a929def50b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-27T02:17:42.929Z"
+        }
+      ]
+    },
     {
       "id": "p:1387906866|i:2423485843|v:70417585877",
       "source": "coupang",
