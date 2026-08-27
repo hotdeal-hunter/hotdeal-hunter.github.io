@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T01:18:10.258Z",
+  "updatedAt": "2026-08-27T01:27:59.845Z",
   "deals": [
+    {
+      "id": "p:8347916748|i:24114079566|v:91133337815",
+      "source": "coupang",
+      "name": "시샘 스텐 사각 트레이, 24 x 19.5 x 5.5 cm, 트레이 + 커버, 2개",
+      "price": 9200,
+      "listPrice": 12900,
+      "observedAt": "2026-08-27T01:26:34.959Z",
+      "url": "https://link.coupang.com/a/gxT36V0qES",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9200,
+          "observedAt": "2026-08-27T01:26:34.959Z"
+        }
+      ]
+    },
     {
       "id": "p:9262510295|i:27449138852|v:94414519280",
       "source": "coupang",
