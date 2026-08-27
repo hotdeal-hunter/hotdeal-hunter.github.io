@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T11:55:44.161Z",
+  "updatedAt": "2026-08-27T12:00:49.781Z",
   "deals": [
+    {
+      "id": "p:9680746659|i:28337200172|v:95289482448",
+      "source": "coupang",
+      "name": "해태제과 구운감자, 24g, 2개",
+      "price": 670,
+      "listPrice": null,
+      "observedAt": "2026-08-27T11:59:25.486Z",
+      "url": "https://link.coupang.com/a/gyDh2uzl9w",
+      "image": "assets/products/dab6cff2941231c961f4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 670,
+          "observedAt": "2026-08-27T11:59:25.486Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:569506069|n:페이보잇 치즈폭탄 스파게티 미트토마토, 340g, 4개",
       "source": "toss",
