@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T09:19:59.419Z",
+  "updatedAt": "2026-08-27T09:38:02.795Z",
   "deals": [
+    {
+      "id": "p:8812509839|i:27033826333|v:94002339232",
+      "source": "coupang",
+      "name": "라이프란스 3중쿠션 면 층간소음 무소음 거실화, 블루, 핑크, 270mm, 250mm, 1세트",
+      "price": 10280,
+      "listPrice": 21300,
+      "observedAt": "2026-08-27T09:36:38.157Z",
+      "url": "https://link.coupang.com/a/gys5pKZ6qW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10280,
+          "observedAt": "2026-08-27T09:36:38.157Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78671135|n:교동 사골곰탕, 500g, 18개",
       "source": "toss",
@@ -26,7 +43,7 @@
       "listPrice": 22800,
       "observedAt": "2026-08-27T09:09:30.000Z",
       "url": "https://link.coupang.com/a/gxWj5pjnC8",
-      "image": "assets/products/bono-corn-soup-57g-10-live.jpg",
+      "image": "assets/products/a6d6c4f731925b6d32d5.png",
       "insight": "2회 가격 기록",
       "history": [
         {
