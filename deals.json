@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-27T01:12:13.937Z",
+  "updatedAt": "2026-08-27T01:15:19.972Z",
   "deals": [
+    {
+      "id": "toss:p:2461067937|n:란센 휴대용 미니 실링기, bpl-02, 1개",
+      "source": "toss",
+      "name": "란센 휴대용 미니 실링기, BPL-02, 1개",
+      "price": 7870,
+      "listPrice": null,
+      "observedAt": "2026-08-27T01:15:11.744Z",
+      "url": "https://toss.im/_m/djTUjvki",
+      "image": "assets/products/972ba031b7f77fe9e5d5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7870,
+          "observedAt": "2026-08-27T01:15:11.744Z"
+        },
+        {
+          "price": 7870,
+          "observedAt": "2026-08-27T01:13:44.860Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:10321923|n:갓튀겨나온 곱빼기 한돈 왕떡갈비, 160g, 5봉",
       "source": "toss",
