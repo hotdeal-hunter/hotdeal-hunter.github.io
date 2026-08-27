@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T04:28:53.338Z",
+  "updatedAt": "2026-08-27T04:31:25.686Z",
   "deals": [
+    {
+      "id": "p:19167582|i:17963872613|v:85320840287",
+      "source": "coupang",
+      "name": "햇살담은 염도 낮춘 발효 다시마 간장, 1.7L, 3개",
+      "price": 19270,
+      "listPrice": 44700,
+      "observedAt": "2026-08-27T04:29:03.831Z",
+      "url": "https://link.coupang.com/a/gx66AQUiVo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19270,
+          "observedAt": "2026-08-27T04:29:03.831Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637084645|n:콘제디 엑스트라버진 올리브오일 레제로, 500ml, 2개",
       "source": "toss",
