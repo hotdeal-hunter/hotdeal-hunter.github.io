@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T02:19:09.456Z",
+  "updatedAt": "2026-08-27T02:23:26.473Z",
   "deals": [
+    {
+      "id": "toss:p:81684895|n:닥터방기원 랩 샴푸, 1l, 2개",
+      "source": "toss",
+      "name": "닥터방기원 랩 샴푸, 1L, 2개",
+      "price": 12460,
+      "listPrice": null,
+      "observedAt": "2026-08-27T02:21:46.721Z",
+      "url": "https://toss.im/_m/XsK4Fgel",
+      "image": "assets/products/237fb778ee2d5fc55de0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12460,
+          "observedAt": "2026-08-27T02:21:46.721Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1627583335|n:스킨구하리 리바이브 테라피 엔에프 앰플, 30ml, 1개",
       "source": "toss",
