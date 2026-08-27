@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-08-27T06:01:30.599Z",
+  "updatedAt": "2026-08-27T06:24:23.176Z",
   "deals": [
     {
-      "id": "p:8202544905|i:21495940194|v:70754922673",
+      "id": "p:8202544905|i:21495940194|v:-",
       "source": "coupang",
-      "name": "이금기 팬더 굴소스 파우치, 2kg, 1개, 2kg × 1개",
+      "name": "이금기 팬더 굴소스 파우치, 2kg, 1개",
       "price": 6100,
-      "listPrice": 11015,
-      "observedAt": "2026-08-27T06:00:05.478Z",
-      "url": "https://link.coupang.com/a/gydBSZZ6Sy",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
+      "listPrice": null,
+      "observedAt": "2026-08-27T06:22:58.245Z",
+      "url": "https://link.coupang.com/a/gyffgPUwcm",
+      "image": "assets/products/07cd131760ad50993ed0.jpg",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 6100,
+          "observedAt": "2026-08-27T06:22:58.245Z"
+        },
         {
           "price": 6100,
           "observedAt": "2026-08-27T06:00:05.478Z"
