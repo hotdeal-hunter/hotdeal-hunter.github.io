@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-27T00:08:18.147Z",
+  "updatedAt": "2026-08-27T00:30:02.560Z",
   "deals": [
+    {
+      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "source": "toss",
+      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "price": 5420,
+      "listPrice": null,
+      "observedAt": "2026-08-27T00:28:38.534Z",
+      "url": "https://toss.im/_m/zbdu0wXt",
+      "image": "assets/products/bb4e05a3b79862ab2db2.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:28:38.534Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-21T22:59:58.495Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-20T23:01:46.494Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-19T23:01:57.432Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-18T00:28:38.848Z"
+        }
+      ]
+    },
     {
       "id": "p:8288996457|i:12729686769|v:3286216286",
       "source": "coupang",
@@ -4499,35 +4532,6 @@
         {
           "price": 14890,
           "observedAt": "2026-08-20T01:24:30.992Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "source": "toss",
-      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "price": 5420,
-      "listPrice": null,
-      "observedAt": "2026-08-21T22:59:58.495Z",
-      "url": "https://toss.im/_m/zbdu0wXt",
-      "image": "assets/products/bb4e05a3b79862ab2db2.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 5420,
-          "observedAt": "2026-08-21T22:59:58.495Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-20T23:01:46.494Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-19T23:01:57.432Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-18T00:28:38.848Z"
         }
       ]
     },
