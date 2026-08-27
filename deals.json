@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-27T03:57:26.731Z",
+  "updatedAt": "2026-08-27T04:23:33.058Z",
   "deals": [
+    {
+      "id": "p:1257264889|i:95931653|v:95436559421",
+      "source": "coupang",
+      "name": "홈스타 락스와 세제 후로랄파인, 750ml, 6개",
+      "price": 10890,
+      "listPrice": 14477,
+      "observedAt": "2026-08-27T04:22:07.914Z",
+      "url": "https://link.coupang.com/a/gx6BSAowUu",
+      "image": "assets/products/f015405d71582bb376ea.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10890,
+          "observedAt": "2026-08-27T04:22:07.914Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1356740413|n:맛장군 실비김치, 1kg, 1개",
+      "source": "toss",
+      "name": "맛장군 실비김치, 1kg, 1개",
+      "price": 4500,
+      "listPrice": null,
+      "observedAt": "2026-08-27T04:17:31.111Z",
+      "url": "https://toss.im/_m/ZeMZG3Hn",
+      "image": "assets/products/670085a55aa39c309ef4.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-08-27T04:17:31.111Z"
+        },
+        {
+          "price": 4500,
+          "observedAt": "2026-08-20T10:38:11.750Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2335791225|n:고깃집왕건 고추장 제육볶음, 1kg, 1개",
       "source": "toss",
@@ -5824,23 +5862,6 @@
         {
           "price": 27590,
           "observedAt": "2026-08-20T10:50:54.243Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1356740413|n:맛장군 실비김치, 1kg, 1개",
-      "source": "toss",
-      "name": "맛장군 실비김치, 1kg, 1개",
-      "price": 4500,
-      "listPrice": null,
-      "observedAt": "2026-08-20T10:38:11.750Z",
-      "url": "https://toss.im/_m/ZeMZG3Hn",
-      "image": "assets/products/670085a55aa39c309ef4.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4500,
-          "observedAt": "2026-08-20T10:38:11.750Z"
         }
       ]
     },
