@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T04:23:33.058Z",
+  "updatedAt": "2026-08-27T04:28:53.338Z",
   "deals": [
+    {
+      "id": "toss:p:2637084645|n:콘제디 엑스트라버진 올리브오일 레제로, 500ml, 2개",
+      "source": "toss",
+      "name": "콘제디 엑스트라버진 올리브오일 레제로, 500ml, 2개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T04:27:20.146Z",
+      "url": "https://toss.im/_m/nl4a8WNz",
+      "image": "assets/products/9189d2d37c7a2fa6000d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-27T04:27:20.146Z"
+        }
+      ]
+    },
     {
       "id": "p:1257264889|i:95931653|v:95436559421",
       "source": "coupang",
