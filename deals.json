@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T06:24:23.176Z",
+  "updatedAt": "2026-08-27T06:36:54.856Z",
   "deals": [
+    {
+      "id": "toss:p:2004366011|n:코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
+      "source": "toss",
+      "name": "코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T06:35:19.780Z",
+      "url": "https://toss.im/_m/XzIqKIV9",
+      "image": "assets/products/425df02dbed00655403c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-27T06:35:19.780Z"
+        }
+      ]
+    },
     {
       "id": "p:8202544905|i:21495940194|v:-",
       "source": "coupang",
