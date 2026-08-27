@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T22:19:44.959Z",
+  "updatedAt": "2026-08-27T23:13:25.368Z",
   "deals": [
+    {
+      "id": "p:216228024|i:663578407|v:4717119973",
+      "source": "coupang",
+      "name": "다르다팝콘 시네마 믹스, 30g, 15개",
+      "price": 9720,
+      "listPrice": 13029,
+      "observedAt": "2026-08-27T23:13:08.214Z",
+      "url": "https://link.coupang.com/a/gzpqVutrEW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9720,
+          "observedAt": "2026-08-27T23:13:08.214Z"
+        }
+      ]
+    },
     {
       "id": "p:8642306397|i:27492870598|v:94457987107",
       "source": "coupang",
