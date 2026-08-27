@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T08:08:13.521Z",
+  "updatedAt": "2026-08-27T08:11:09.390Z",
   "deals": [
+    {
+      "id": "toss:p:849836677|n:떴닭 로스트 치킨, 1kg, 2개",
+      "source": "toss",
+      "name": "떴닭 로스트 치킨, 1kg, 2개",
+      "price": 12540,
+      "listPrice": 20900,
+      "observedAt": "2026-08-27T08:08:25.024Z",
+      "url": "https://toss.im/_m/Bq1BBLSz",
+      "image": "assets/products/dd376ee876532f97bfc8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12540,
+          "observedAt": "2026-08-27T08:08:25.024Z"
+        }
+      ]
+    },
     {
       "id": "p:9304113948|i:5142597143|v:78448583672",
       "source": "coupang",
