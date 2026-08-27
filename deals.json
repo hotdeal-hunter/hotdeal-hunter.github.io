@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T12:35:40.389Z",
+  "updatedAt": "2026-08-27T12:57:00.770Z",
   "deals": [
+    {
+      "id": "toss:p:2290672615|n:트루나 군고구마빠, 50g, 10팩",
+      "source": "toss",
+      "name": "트루나 군고구마빠, 50g, 10팩",
+      "price": 9640,
+      "listPrice": null,
+      "observedAt": "2026-08-27T12:55:42.717Z",
+      "url": "https://toss.im/_m/dMFHmRgx",
+      "image": "assets/products/c454e32ec14041ad6f27.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9640,
+          "observedAt": "2026-08-27T12:55:42.717Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78903433|n:반야월할매 당면만두, 420g, 4개",
       "source": "toss",
