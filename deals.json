@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T23:13:25.368Z",
+  "updatedAt": "2026-08-27T23:18:22.623Z",
   "deals": [
+    {
+      "id": "toss:p:2617519747|n:경기미 백진주, 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "경기미 백진주, 상등급, 10kg, 1개",
+      "price": 29900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T23:18:08.015Z",
+      "url": "https://toss.im/_m/jDcNuEwC",
+      "image": "assets/products/eacf92894d4fce18e122.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29900,
+          "observedAt": "2026-08-27T23:18:08.015Z"
+        }
+      ]
+    },
     {
       "id": "p:216228024|i:663578407|v:4717119973",
       "source": "coupang",
