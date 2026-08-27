@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-27T02:23:26.473Z",
+  "updatedAt": "2026-08-27T03:18:38.106Z",
   "deals": [
+    {
+      "id": "p:8799168390|i:25619456794|v:92609780384",
+      "source": "coupang",
+      "name": "메종오브제 시에르 딜라잇 커트러리 샤틴 4인 수저세트, 실버, 숟가락 + 젓가락, 4세트",
+      "price": 7360,
+      "listPrice": 12182,
+      "observedAt": "2026-08-27T03:18:25.246Z",
+      "url": "https://link.coupang.com/a/gx13B6A37Q",
+      "image": "assets/products/a371ff16f02c87556be9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7360,
+          "observedAt": "2026-08-27T03:18:25.246Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "배부른삼촌 구운란 대란, 30구, 1개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T02:41:15.309Z",
+      "url": "https://toss.im/_m/ZQPVVCqi",
+      "image": "assets/products/6c6cda3549c4432da881.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-27T02:41:15.309Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:51:30.137Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:40:01.736Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81684895|n:닥터방기원 랩 샴푸, 1l, 2개",
       "source": "toss",
@@ -60,7 +102,7 @@
       "listPrice": 22734,
       "observedAt": "2026-08-27T01:58:10.506Z",
       "url": "https://link.coupang.com/a/gxWj5pjnC8",
-      "image": null,
+      "image": "assets/products/a6d6c4f731925b6d32d5.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -4274,27 +4316,6 @@
         {
           "price": 5860,
           "observedAt": "2026-08-22T08:11:45.369Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
-      "source": "toss",
-      "name": "배부른삼촌 구운란 대란, 30구, 1개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-22T07:51:30.137Z",
-      "url": "https://toss.im/_m/ZQPVVCqi",
-      "image": "assets/products/6c6cda3549c4432da881.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:51:30.137Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:40:01.736Z"
         }
       ]
     },
