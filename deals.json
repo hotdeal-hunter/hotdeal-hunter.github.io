@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T00:58:54.400Z",
+  "updatedAt": "2026-08-27T01:12:13.937Z",
   "deals": [
+    {
+      "id": "toss:p:10321923|n:갓튀겨나온 곱빼기 한돈 왕떡갈비, 160g, 5봉",
+      "source": "toss",
+      "name": "갓튀겨나온 곱빼기 한돈 왕떡갈비, 160g, 5봉",
+      "price": 8740,
+      "listPrice": null,
+      "observedAt": "2026-08-27T01:10:52.678Z",
+      "url": "https://toss.im/_m/DruYHADx",
+      "image": "assets/products/2b0424555349b6209cd8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T01:10:52.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
       "source": "toss",
