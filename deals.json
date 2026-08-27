@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-27T09:52:18.489Z",
+  "updatedAt": "2026-08-27T10:05:30.044Z",
   "deals": [
+    {
+      "id": "toss:p:81187207|n:블랙앵거스 흑우 등심 구이&스테이크용, 500g, 2팩",
+      "source": "toss",
+      "name": "블랙앵거스 흑우 등심 구이&스테이크용, 500g, 2팩",
+      "price": 32650,
+      "listPrice": 76900,
+      "observedAt": "2026-08-27T10:05:18.221Z",
+      "url": "https://toss.im/_m/fEvNROGD",
+      "image": "assets/products/a7db0b41b0d00aa9aeb0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 32650,
+          "observedAt": "2026-08-27T10:05:18.221Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
+      "source": "toss",
+      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
+      "price": 14540,
+      "listPrice": null,
+      "observedAt": "2026-08-27T09:57:14.993Z",
+      "url": "https://toss.im/_m/HV1R1pRf",
+      "image": "assets/products/98ee864c379426a1c1e9.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T09:57:14.993Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T08:27:36.866Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2641279353|n:하운드투스 대용량 체크 수납함, 옷이불 정리용, 150l, 화이트, 4팩",
       "source": "toss",
@@ -78,23 +116,6 @@
         {
           "price": 15220,
           "observedAt": "2026-08-27T01:58:10.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
-      "source": "toss",
-      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
-      "price": 14540,
-      "listPrice": null,
-      "observedAt": "2026-08-27T08:27:36.866Z",
-      "url": "https://toss.im/_m/HV1R1pRf",
-      "image": "assets/products/98ee864c379426a1c1e9.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14540,
-          "observedAt": "2026-08-27T08:27:36.866Z"
         }
       ]
     },
