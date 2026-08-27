@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T01:43:51.401Z",
+  "updatedAt": "2026-08-27T01:58:21.787Z",
   "deals": [
+    {
+      "id": "p:2038492934|i:12830701870|v:3011835276",
+      "source": "coupang",
+      "name": "보노 콘스프, 57g, 10개, 57g × 10개",
+      "price": 15220,
+      "listPrice": 22734,
+      "observedAt": "2026-08-27T01:58:10.506Z",
+      "url": "https://link.coupang.com/a/gxWj5pjnC8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15220,
+          "observedAt": "2026-08-27T01:58:10.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1265166001|n:아임닭 맛있는 닭가슴살 볶음밥, 5종, 200g, 20개",
       "source": "toss",
@@ -1325,6 +1342,23 @@
         {
           "price": 13570,
           "observedAt": "2026-08-25T12:01:51.706Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1278632529|n:아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+      "source": "toss",
+      "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+      "price": 27900,
+      "listPrice": 70000,
+      "observedAt": "2026-08-26T01:05:37.397Z",
+      "url": "https://toss.im/_m/f1N7riBi",
+      "image": "assets/products/39277782d65cc376c4d2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-08-26T01:05:37.397Z"
         }
       ]
     },
