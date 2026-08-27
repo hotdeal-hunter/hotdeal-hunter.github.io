@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T10:05:30.044Z",
+  "updatedAt": "2026-08-27T10:12:55.559Z",
   "deals": [
+    {
+      "id": "p:9494324107|i:27154371100|v:95242438642",
+      "source": "coupang",
+      "name": "샤오미 Xiaomi 67W 케이블 일체형 보조 배터리 20000mAh C타입, PB2067, 스카이블루",
+      "price": 29200,
+      "listPrice": 45889,
+      "observedAt": "2026-08-27T10:11:30.622Z",
+      "url": "https://link.coupang.com/a/gyvzVxRL3I",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29200,
+          "observedAt": "2026-08-27T10:11:30.622Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81187207|n:블랙앵거스 흑우 등심 구이&스테이크용, 500g, 2팩",
       "source": "toss",
