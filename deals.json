@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-27T11:34:58.575Z",
+  "updatedAt": "2026-08-27T11:41:15.181Z",
   "deals": [
+    {
+      "id": "toss:p:56337581|n:풀무원샘물 라벨랜덤, 500ml, 100개",
+      "source": "toss",
+      "name": "풀무원샘물 라벨랜덤, 500ml, 100개",
+      "price": 14530,
+      "listPrice": null,
+      "observedAt": "2026-08-27T11:39:57.211Z",
+      "url": "https://toss.im/_m/zyxXMvch",
+      "image": "assets/products/f6ee47ccb542d0ee64b7.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14530,
+          "observedAt": "2026-08-27T11:39:57.211Z"
+        },
+        {
+          "price": 14520,
+          "observedAt": "2026-08-21T00:42:26.174Z"
+        }
+      ]
+    },
     {
       "id": "p:9395708044|i:27904109929|v:94842575984",
       "source": "coupang",
@@ -5923,23 +5944,6 @@
         {
           "price": 12700,
           "observedAt": "2026-08-21T00:48:30.327Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56337581|n:풀무원샘물, 라벨랜덤, 500ml, 100개",
-      "source": "toss",
-      "name": "풀무원샘물, 라벨랜덤, 500ml, 100개",
-      "price": 14520,
-      "listPrice": null,
-      "observedAt": "2026-08-21T00:42:26.174Z",
-      "url": "https://toss.im/_m/zyxXMvch",
-      "image": "assets/products/caea09292b1466631ea5.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14520,
-          "observedAt": "2026-08-21T00:42:26.174Z"
         }
       ]
     },
