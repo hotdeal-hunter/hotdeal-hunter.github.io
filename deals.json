@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T11:41:15.181Z",
+  "updatedAt": "2026-08-27T11:55:44.161Z",
   "deals": [
+    {
+      "id": "toss:p:569506069|n:페이보잇 치즈폭탄 스파게티 미트토마토, 340g, 4개",
+      "source": "toss",
+      "name": "페이보잇 치즈폭탄 스파게티 미트토마토, 340g, 4개",
+      "price": 19900,
+      "listPrice": 39500,
+      "observedAt": "2026-08-27T11:54:19.642Z",
+      "url": "https://toss.im/_m/JvLCpCSl",
+      "image": "assets/products/91b974f5be1698926264.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-08-27T11:54:19.642Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56337581|n:풀무원샘물 라벨랜덤, 500ml, 100개",
       "source": "toss",
