@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-27T12:24:47.162Z",
+  "updatedAt": "2026-08-27T12:35:40.389Z",
   "deals": [
+    {
+      "id": "toss:p:78903433|n:반야월할매 당면만두, 420g, 4개",
+      "source": "toss",
+      "name": "반야월할매 당면만두, 420g, 4개",
+      "price": 11480,
+      "listPrice": 17000,
+      "observedAt": "2026-08-27T12:35:28.937Z",
+      "url": "https://toss.im/_m/RiBuMGwy",
+      "image": "assets/products/be1ed6e647c217ead0f4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11480,
+          "observedAt": "2026-08-27T12:35:28.937Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:442337103|n:인사이디 듀얼 무선 전동 미니 마사지건, img-200, 화이트, 1개",
       "source": "toss",
       "name": "인사이디 듀얼 무선 전동 미니 마사지건, IMG-200, 화이트, 1개",
       "price": 9970,
       "listPrice": null,
-      "observedAt": "2026-08-27T12:23:11.424Z",
+      "observedAt": "2026-08-27T12:25:02.032Z",
       "url": "https://toss.im/_m/1azdEBf8",
       "image": "assets/products/11da9688e06f72b54f29.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 9970,
+          "observedAt": "2026-08-27T12:25:02.032Z"
+        },
         {
           "price": 9970,
           "observedAt": "2026-08-27T12:23:11.424Z"
