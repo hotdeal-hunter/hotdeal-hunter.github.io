@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T06:56:12.413Z",
+  "updatedAt": "2026-08-27T07:09:40.273Z",
   "deals": [
+    {
+      "id": "toss:p:223035627|n:알프레미오 여행용 캐리어, 블랙, 315x220x510mm",
+      "source": "toss",
+      "name": "알프레미오 여행용 캐리어, 블랙, 315x220x510mm",
+      "price": 17850,
+      "listPrice": null,
+      "observedAt": "2026-08-27T07:07:59.544Z",
+      "url": "https://toss.im/_m/rSO8Nhne",
+      "image": "assets/products/3feff18ffa9e3f21405f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17850,
+          "observedAt": "2026-08-27T07:07:59.544Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2377520517|n:몸보신 문어 해신탕, 2kg, 1개",
       "source": "toss",
