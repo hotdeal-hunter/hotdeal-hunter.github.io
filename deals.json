@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T01:27:59.845Z",
+  "updatedAt": "2026-08-27T01:33:26.541Z",
   "deals": [
+    {
+      "id": "p:6667212706|i:18172820410|v:85322111607",
+      "source": "coupang",
+      "name": "삼립 초코블랑 쿠키, 14g, 60개",
+      "price": 10980,
+      "listPrice": 16104,
+      "observedAt": "2026-08-27T01:31:38.464Z",
+      "url": "https://link.coupang.com/a/gxUqwBHEtg",
+      "image": "assets/products/063a3503ae3c6e226ab3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10980,
+          "observedAt": "2026-08-27T01:31:38.464Z"
+        }
+      ]
+    },
     {
       "id": "p:8347916748|i:24114079566|v:91133337815",
       "source": "coupang",
