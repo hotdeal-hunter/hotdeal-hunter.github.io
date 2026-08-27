@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T01:58:21.787Z",
+  "updatedAt": "2026-08-27T02:08:03.598Z",
   "deals": [
+    {
+      "id": "p:1387906866|i:2423485843|v:70417585877",
+      "source": "coupang",
+      "name": "가쯔 심플쿡 냉동밥 전자레인지 용기 인디핑크, 400ml, 16개",
+      "price": 4420,
+      "listPrice": 6400,
+      "observedAt": "2026-08-27T02:06:37.847Z",
+      "url": "https://link.coupang.com/a/gxWVxCKMdU",
+      "image": "assets/products/b904256134ffbffeeeb2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4420,
+          "observedAt": "2026-08-27T02:06:37.847Z"
+        }
+      ]
+    },
     {
       "id": "p:2038492934|i:12830701870|v:3011835276",
       "source": "coupang",
