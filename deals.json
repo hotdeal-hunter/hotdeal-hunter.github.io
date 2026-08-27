@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T09:48:01.710Z",
+  "updatedAt": "2026-08-27T09:52:18.489Z",
   "deals": [
     {
       "id": "toss:p:2641279353|n:하운드투스 대용량 체크 수납함, 옷이불 정리용, 150l, 화이트, 4팩",
@@ -7,11 +7,15 @@
       "name": "하운드투스 대용량 체크 수납함, 옷이불 정리용, 150L, 화이트, 4팩",
       "price": 8458,
       "listPrice": null,
-      "observedAt": "2026-08-27T09:46:26.210Z",
+      "observedAt": "2026-08-27T09:48:16.079Z",
       "url": "https://toss.im/_m/NTVPPH9r",
       "image": "assets/products/442671575785270e272c.jpg",
-      "insight": "2회 가격 기록",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 8458,
+          "observedAt": "2026-08-27T09:48:16.079Z"
+        },
         {
           "price": 8458,
           "observedAt": "2026-08-27T09:46:26.210Z"
