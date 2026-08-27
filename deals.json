@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-08-27T06:36:54.856Z",
+  "updatedAt": "2026-08-27T06:56:12.413Z",
   "deals": [
+    {
+      "id": "toss:p:2377520517|n:몸보신 문어 해신탕, 2kg, 1개",
+      "source": "toss",
+      "name": "몸보신 문어 해신탕, 2kg, 1개",
+      "price": 23590,
+      "listPrice": 39900,
+      "observedAt": "2026-08-27T06:56:00.507Z",
+      "url": "https://toss.im/_m/zJ6dJ3V5",
+      "image": "assets/products/e1b586f450861e9f4825.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23590,
+          "observedAt": "2026-08-27T06:56:00.507Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "배부른삼촌 구운란 대란, 30구, 1개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T06:41:59.484Z",
+      "url": "https://toss.im/_m/ZQPVVCqi",
+      "image": "assets/products/6c6cda3549c4432da881.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-27T06:41:59.484Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-27T02:41:15.309Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:51:30.137Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:40:01.736Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2004366011|n:코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
       "source": "toss",
@@ -267,31 +313,6 @@
         {
           "price": 7360,
           "observedAt": "2026-08-27T03:18:25.246Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
-      "source": "toss",
-      "name": "배부른삼촌 구운란 대란, 30구, 1개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-27T02:41:15.309Z",
-      "url": "https://toss.im/_m/ZQPVVCqi",
-      "image": "assets/products/6c6cda3549c4432da881.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-27T02:41:15.309Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:51:30.137Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:40:01.736Z"
         }
       ]
     },
