@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T01:15:19.972Z",
+  "updatedAt": "2026-08-27T01:18:10.258Z",
   "deals": [
+    {
+      "id": "p:9262510295|i:27449138852|v:94414519280",
+      "source": "coupang",
+      "name": "비비고 닭가슴살 김치만두 (냉동), 168g, 3개",
+      "price": 8790,
+      "listPrice": 20940,
+      "observedAt": "2026-08-27T01:16:32.126Z",
+      "url": "https://link.coupang.com/a/gxTlAQOMai",
+      "image": "assets/products/e19ce3feaab433e3e1b7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8790,
+          "observedAt": "2026-08-27T01:16:32.126Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2461067937|n:란센 휴대용 미니 실링기, bpl-02, 1개",
       "source": "toss",
