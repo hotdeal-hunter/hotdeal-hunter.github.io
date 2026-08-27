@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T12:00:49.781Z",
+  "updatedAt": "2026-08-27T12:24:47.162Z",
   "deals": [
+    {
+      "id": "toss:p:442337103|n:인사이디 듀얼 무선 전동 미니 마사지건, img-200, 화이트, 1개",
+      "source": "toss",
+      "name": "인사이디 듀얼 무선 전동 미니 마사지건, IMG-200, 화이트, 1개",
+      "price": 9970,
+      "listPrice": null,
+      "observedAt": "2026-08-27T12:23:11.424Z",
+      "url": "https://toss.im/_m/1azdEBf8",
+      "image": "assets/products/11da9688e06f72b54f29.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9970,
+          "observedAt": "2026-08-27T12:23:11.424Z"
+        }
+      ]
+    },
     {
       "id": "p:9680746659|i:28337200172|v:95289482448",
       "source": "coupang",
