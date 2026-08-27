@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T08:11:09.390Z",
+  "updatedAt": "2026-08-27T08:29:13.124Z",
   "deals": [
+    {
+      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
+      "source": "toss",
+      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
+      "price": 14540,
+      "listPrice": null,
+      "observedAt": "2026-08-27T08:27:36.866Z",
+      "url": "https://toss.im/_m/HV1R1pRf",
+      "image": "assets/products/98ee864c379426a1c1e9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T08:27:36.866Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:849836677|n:떴닭 로스트 치킨, 1kg, 2개",
       "source": "toss",
