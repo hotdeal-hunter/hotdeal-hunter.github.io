@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T00:52:37.408Z",
+  "updatedAt": "2026-08-27T00:58:54.400Z",
   "deals": [
+    {
+      "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "source": "toss",
+      "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "price": 18900,
+      "listPrice": 24900,
+      "observedAt": "2026-08-27T00:57:28.746Z",
+      "url": "https://toss.im/_m/LRHITabg",
+      "image": "assets/products/bba5525df9e1e37a3099.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-08-27T00:57:28.746Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2360495685|n:미생물 배수구 냄새 제거제 하수구 세정제, 1000ml, 1개",
       "source": "toss",
