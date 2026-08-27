@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-27T08:29:13.124Z",
+  "updatedAt": "2026-08-27T09:19:59.419Z",
   "deals": [
+    {
+      "id": "toss:p:78671135|n:교동 사골곰탕, 500g, 18개",
+      "source": "toss",
+      "name": "교동 사골곰탕, 500g, 18개",
+      "price": 14240,
+      "listPrice": 54000,
+      "observedAt": "2026-08-27T09:19:44.336Z",
+      "url": "https://toss.im/_m/le9of5Vl",
+      "image": "assets/products/b96875ad35c575ff477c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14240,
+          "observedAt": "2026-08-27T09:19:44.336Z"
+        }
+      ]
+    },
+    {
+      "id": "p:2038492934|i:12830701870|v:3011835276",
+      "source": "coupang",
+      "name": "보노 콘스프, 57g, 10개",
+      "price": 21710,
+      "listPrice": 22800,
+      "observedAt": "2026-08-27T09:09:30.000Z",
+      "url": "https://link.coupang.com/a/gxWj5pjnC8",
+      "image": "assets/products/a6d6c4f731925b6d32d5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 21710,
+          "observedAt": "2026-08-27T09:09:30.000Z"
+        },
+        {
+          "price": 15220,
+          "observedAt": "2026-08-27T01:58:10.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
       "source": "toss",
@@ -470,23 +508,6 @@
         {
           "price": 4420,
           "observedAt": "2026-08-27T02:06:37.847Z"
-        }
-      ]
-    },
-    {
-      "id": "p:2038492934|i:12830701870|v:3011835276",
-      "source": "coupang",
-      "name": "보노 콘스프, 57g, 10개, 57g × 10개",
-      "price": 15220,
-      "listPrice": 22734,
-      "observedAt": "2026-08-27T01:58:10.506Z",
-      "url": "https://link.coupang.com/a/gxWj5pjnC8",
-      "image": "assets/products/a6d6c4f731925b6d32d5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15220,
-          "observedAt": "2026-08-27T01:58:10.506Z"
         }
       ]
     },
