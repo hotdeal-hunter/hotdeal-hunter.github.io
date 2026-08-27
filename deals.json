@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T07:39:48.498Z",
+  "updatedAt": "2026-08-27T08:08:13.521Z",
   "deals": [
+    {
+      "id": "p:9304113948|i:5142597143|v:78448583672",
+      "source": "coupang",
+      "name": "에뛰드 수분 가득 콜라겐 스킨케어 2종 세트, 1세트",
+      "price": 15370,
+      "listPrice": 25913,
+      "observedAt": "2026-08-27T08:06:47.404Z",
+      "url": "https://link.coupang.com/a/gymFme0Roq",
+      "image": "assets/products/4a8ac58db58efa0c8bb1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15370,
+          "observedAt": "2026-08-27T08:06:47.404Z"
+        }
+      ]
+    },
     {
       "id": "p:9206726798|i:27144904042|v:94112773331",
       "source": "coupang",
