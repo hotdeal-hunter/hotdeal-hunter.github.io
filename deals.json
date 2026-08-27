@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-27T07:09:40.273Z",
+  "updatedAt": "2026-08-27T07:37:14.552Z",
   "deals": [
+    {
+      "id": "toss:p:137185009|n:로보락 아쿠아청소기 f25 ace, 블랙, 1개 [리퍼]",
+      "source": "toss",
+      "name": "로보락 아쿠아청소기 F25 ACE, 블랙, 1개 [리퍼]",
+      "price": 399000,
+      "listPrice": null,
+      "observedAt": "2026-08-27T07:35:38.818Z",
+      "url": "https://toss.im/_m/x0EHJXJ8",
+      "image": "assets/products/79da360115cc28760546.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 399000,
+          "observedAt": "2026-08-27T07:35:38.818Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2004366011|n:코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
+      "source": "toss",
+      "name": "코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-08-27T07:22:53.329Z",
+      "url": "https://toss.im/_m/XzIqKIV9",
+      "image": "assets/products/425df02dbed00655403c.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-27T07:22:53.329Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-27T06:35:19.780Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:223035627|n:알프레미오 여행용 캐리어, 블랙, 315x220x510mm",
       "source": "toss",
@@ -61,23 +99,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-22T07:40:01.736Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2004366011|n:코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
-      "source": "toss",
-      "name": "코주부 징기스칸 콰트로 치즈육포, 30g, 10개",
-      "price": 11900,
-      "listPrice": null,
-      "observedAt": "2026-08-27T06:35:19.780Z",
-      "url": "https://toss.im/_m/XzIqKIV9",
-      "image": "assets/products/425df02dbed00655403c.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-08-27T06:35:19.780Z"
         }
       ]
     },
