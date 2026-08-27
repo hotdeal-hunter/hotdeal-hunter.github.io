@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-26T23:45:37.823Z",
+  "updatedAt": "2026-08-27T00:08:18.147Z",
   "deals": [
+    {
+      "id": "p:8288996457|i:12729686769|v:3286216286",
+      "source": "coupang",
+      "name": "머슬팜 컴뱃 크런치 스포츠 프로틴 바 초콜릿 케이크 12개입, 684g, 1개",
+      "price": 24880,
+      "listPrice": 43844,
+      "observedAt": "2026-08-27T00:06:52.673Z",
+      "url": "https://link.coupang.com/a/gxOmYQ9kAu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24880,
+          "observedAt": "2026-08-27T00:06:52.673Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2569148107|n:산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
       "source": "toss",
       "name": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
       "price": 12990,
       "listPrice": null,
-      "observedAt": "2026-08-26T23:45:29.157Z",
+      "observedAt": "2026-08-26T23:46:54.838Z",
       "url": "https://toss.im/_m/9YpwTfI3",
       "image": "assets/products/de81112ac4541a61689e.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-08-26T23:46:54.838Z"
+        },
         {
           "price": 12990,
           "observedAt": "2026-08-26T23:45:29.157Z"
