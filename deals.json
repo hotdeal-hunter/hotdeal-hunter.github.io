@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-27T07:37:14.552Z",
+  "updatedAt": "2026-08-27T07:39:48.498Z",
   "deals": [
+    {
+      "id": "p:9206726798|i:27144904042|v:94112773331",
+      "source": "coupang",
+      "name": "조이펫 강아지 야채와 과일 동결건조 간식, 오리고기, 30g, 4개",
+      "price": 7720,
+      "listPrice": 14000,
+      "observedAt": "2026-08-27T07:38:36.037Z",
+      "url": "https://link.coupang.com/a/gykEsKlzga",
+      "image": "assets/products/55dc7dc1c72b93261415.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7720,
+          "observedAt": "2026-08-27T07:38:36.037Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:137185009|n:로보락 아쿠아청소기 f25 ace, 블랙, 1개 [리퍼]",
       "source": "toss",
