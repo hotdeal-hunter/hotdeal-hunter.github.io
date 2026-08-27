@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-27T10:12:55.559Z",
+  "updatedAt": "2026-08-27T11:34:58.575Z",
   "deals": [
+    {
+      "id": "p:9395708044|i:27904109929|v:94842575984",
+      "source": "coupang",
+      "name": "배홍동 막국수 114g, 12개",
+      "price": 9000,
+      "listPrice": 11909,
+      "observedAt": "2026-08-27T11:33:33.260Z",
+      "url": "https://link.coupang.com/a/gyBrqoaKhE",
+      "image": "assets/products/e20e2979c610ad815896.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-08-27T11:33:33.260Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2317680173|n:고기중독 닭다리 북채, 1kg, 2팩",
+      "source": "toss",
+      "name": "고기중독 닭다리 북채, 1kg, 2팩",
+      "price": 12380,
+      "listPrice": null,
+      "observedAt": "2026-08-27T10:56:13.861Z",
+      "url": "https://toss.im/_m/zwqFaNR",
+      "image": "assets/products/e88bb9ce4898f43519d7.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12380,
+          "observedAt": "2026-08-27T10:56:13.861Z"
+        },
+        {
+          "price": 12380,
+          "observedAt": "2026-08-22T00:31:00.235Z"
+        }
+      ]
+    },
     {
       "id": "p:9494324107|i:27154371100|v:95242438642",
       "source": "coupang",
@@ -5071,23 +5109,6 @@
         {
           "price": 23490,
           "observedAt": "2026-08-22T01:53:26.161Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2317680173|n:고기중독 닭다리 북채, 1kg, 2팩",
-      "source": "toss",
-      "name": "고기중독 닭다리 북채, 1kg, 2팩",
-      "price": 12380,
-      "listPrice": null,
-      "observedAt": "2026-08-22T00:31:00.235Z",
-      "url": "https://toss.im/_m/zwqFaNR",
-      "image": "assets/products/e88bb9ce4898f43519d7.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12380,
-          "observedAt": "2026-08-22T00:31:00.235Z"
         }
       ]
     },
