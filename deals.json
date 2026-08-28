@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T05:07:20.138Z",
+  "updatedAt": "2026-08-28T05:18:27.593Z",
   "deals": [
+    {
+      "id": "toss:p:117392925|n:메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼, 4p + 젓가락, 4p",
+      "source": "toss",
+      "name": "메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼, 4P + 젓가락, 4P",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T05:17:58.741Z",
+      "url": "https://toss.im/_m/tj31LCpo",
+      "image": "assets/products/7e747edc207ec09c88be.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-28T05:17:58.741Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154393455|n:뉴트리포유 듀얼 이뮨 멀티비타민 미네랄 선물형, 30병입, 1개",
       "source": "toss",
