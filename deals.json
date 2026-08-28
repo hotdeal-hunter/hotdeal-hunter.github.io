@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-27T23:18:22.623Z",
+  "updatedAt": "2026-08-28T00:17:46.576Z",
   "deals": [
+    {
+      "id": "toss:p:161015941|n:영주 햇살듬뿍 사과즙, 100ml, 100개",
+      "source": "toss",
+      "name": "영주 햇살듬뿍 사과즙, 100ml, 100개",
+      "price": 20900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T00:17:34.453Z",
+      "url": "https://toss.im/_m/5UVCqx42",
+      "image": "assets/products/2695664fb2adcbd2fe6a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20900,
+          "observedAt": "2026-08-28T00:17:34.453Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8595571865|i:28518710690|v:84507938350",
+      "source": "coupang",
+      "name": "띵크유어도그티 강아지 딩고껌 중형 6P, 치킨, 240g, 2개",
+      "price": 3700,
+      "listPrice": 10600,
+      "observedAt": "2026-08-28T00:17:27.375Z",
+      "url": "https://link.coupang.com/a/gzt1TenoGq",
+      "image": "assets/products/4faca47cef920a9d1a92.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3700,
+          "observedAt": "2026-08-28T00:17:27.375Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2617519747|n:경기미 백진주, 상등급, 10kg, 1개",
       "source": "toss",
