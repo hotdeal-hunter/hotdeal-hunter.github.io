@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-28T11:32:55.193Z",
+  "updatedAt": "2026-08-28T12:05:02.367Z",
   "deals": [
+    {
+      "id": "toss:p:117392925|n:메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼 4p + 젓가락 4p",
+      "source": "toss",
+      "name": "메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼 4P + 젓가락 4P",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T12:03:29.149Z",
+      "url": "https://toss.im/_m/tj31LCpo",
+      "image": "assets/products/e373328ec609b84ba82e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-28T12:03:29.149Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-28T05:17:58.741Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187060431|n:부산포차 꼬치어묵, 400g, 3봉",
       "source": "toss",
@@ -445,23 +466,6 @@
         {
           "price": 7930,
           "observedAt": "2026-08-28T05:23:13.659Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:117392925|n:메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼, 4p + 젓가락, 4p",
-      "source": "toss",
-      "name": "메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼, 4P + 젓가락, 4P",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-08-28T05:17:58.741Z",
-      "url": "https://toss.im/_m/tj31LCpo",
-      "image": "assets/products/7e747edc207ec09c88be.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-28T05:17:58.741Z"
         }
       ]
     },
