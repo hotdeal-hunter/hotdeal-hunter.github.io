@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T10:50:50.624Z",
+  "updatedAt": "2026-08-28T11:01:48.596Z",
   "deals": [
+    {
+      "id": "toss:p:2126721959|n:가쯔 싱크대 밀착 304 스테인레스 도마 기역자형, 중형, 1개",
+      "source": "toss",
+      "name": "가쯔 싱크대 밀착 304 스테인레스 도마 기역자형, 중형, 1개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T11:00:25.896Z",
+      "url": "https://toss.im/_m/zoSPSgM",
+      "image": "assets/products/70fe0734aefa4160e51a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-28T11:00:25.896Z"
+        }
+      ]
+    },
     {
       "id": "p:8487204911|i:24595999697|v:91607577591",
       "source": "coupang",
