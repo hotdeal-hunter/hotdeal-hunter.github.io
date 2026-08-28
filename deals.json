@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-08-28T02:47:07.952Z",
+  "updatedAt": "2026-08-28T03:48:27.502Z",
   "deals": [
+    {
+      "id": "toss:p:93865493|n:리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+      "source": "toss",
+      "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
+      "price": 6170,
+      "listPrice": null,
+      "observedAt": "2026-08-28T03:47:57.182Z",
+      "url": "https://toss.im/_m/zCwwrTY9",
+      "image": "assets/products/5f98664274f4369d377f.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 6170,
+          "observedAt": "2026-08-28T03:47:57.182Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-28T03:47:57.087Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-23T23:21:40.724Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-23T23:01:15.040Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-19T01:34:16.403Z"
+        },
+        {
+          "price": 6170,
+          "observedAt": "2026-08-17T13:16:23.894Z"
+        }
+      ]
+    },
     {
       "id": "p:8048968497|i:22567340228|v:89609217641",
       "source": "coupang",
@@ -26,7 +63,7 @@
       "listPrice": 1990000,
       "observedAt": "2026-08-28T02:42:46.569Z",
       "url": "https://link.coupang.com/a/gzEpJar0Eu",
-      "image": null,
+      "image": "assets/products/c154d63d27e6be8f97a1.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -4106,35 +4143,6 @@
         {
           "price": 11380,
           "observedAt": "2026-08-23T23:01:15.139Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:93865493|n:리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
-      "source": "toss",
-      "name": "리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
-      "price": 6170,
-      "listPrice": null,
-      "observedAt": "2026-08-23T23:21:40.724Z",
-      "url": "https://toss.im/_m/zCwwrTY9",
-      "image": "assets/products/5f98664274f4369d377f.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 6170,
-          "observedAt": "2026-08-23T23:21:40.724Z"
-        },
-        {
-          "price": 6170,
-          "observedAt": "2026-08-23T23:01:15.040Z"
-        },
-        {
-          "price": 6170,
-          "observedAt": "2026-08-19T01:34:16.403Z"
-        },
-        {
-          "price": 6170,
-          "observedAt": "2026-08-17T13:16:23.894Z"
         }
       ]
     },
