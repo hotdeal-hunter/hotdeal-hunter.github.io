@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T05:18:27.593Z",
+  "updatedAt": "2026-08-28T05:23:30.756Z",
   "deals": [
+    {
+      "id": "p:9456946819|i:28114510349|v:95070432681",
+      "source": "coupang",
+      "name": "굿데이 강아지 건강한 육포",
+      "price": 7930,
+      "listPrice": 14800,
+      "observedAt": "2026-08-28T05:23:13.659Z",
+      "url": "https://link.coupang.com/a/gzPSBHpMlg",
+      "image": "assets/products/358376b82c5fcf908ac3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7930,
+          "observedAt": "2026-08-28T05:23:13.659Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:117392925|n:메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼, 4p + 젓가락, 4p",
       "source": "toss",
