@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-28T06:14:35.969Z",
+  "updatedAt": "2026-08-28T06:25:42.217Z",
   "deals": [
+    {
+      "id": "toss:p:1980516141|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
+      "source": "toss",
+      "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
+      "price": 229000,
+      "listPrice": null,
+      "observedAt": "2026-08-28T06:25:14.806Z",
+      "url": "https://toss.im/_m/3jpfIPZp",
+      "image": "assets/products/34dd8f761efefd26330d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 229000,
+          "observedAt": "2026-08-28T06:25:14.806Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2508022773|n:동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "source": "toss",
+      "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T06:15:56.100Z",
+      "url": "https://toss.im/_m/TiOarCVu",
+      "image": "assets/products/7876f1cdb92fa01a3b3c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-28T06:15:56.100Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-28T04:55:58.104Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-23T12:53:09.395Z"
+        }
+      ]
+    },
     {
       "id": "p:9442964068|i:28295311902|v:95248165966",
       "source": "coupang",
@@ -87,27 +129,6 @@
         {
           "price": 38900,
           "observedAt": "2026-08-28T01:26:14.733Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2508022773|n:동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
-      "source": "toss",
-      "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-08-28T04:55:58.104Z",
-      "url": "https://toss.im/_m/TiOarCVu",
-      "image": "assets/products/7876f1cdb92fa01a3b3c.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-08-28T04:55:58.104Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-08-23T12:53:09.395Z"
         }
       ]
     },
