@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T09:40:15.466Z",
+  "updatedAt": "2026-08-28T09:47:35.337Z",
   "deals": [
+    {
+      "id": "p:9395708044|i:27904109931|v:94842575850",
+      "source": "coupang",
+      "name": "배홍동 막국수 114g, 8개",
+      "price": 5500,
+      "listPrice": null,
+      "observedAt": "2026-08-28T09:47:21.199Z",
+      "url": "https://link.coupang.com/a/gz8KV2xoHc",
+      "image": "assets/products/9722183b52b11fabfa3a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-08-28T09:47:21.199Z"
+        }
+      ]
+    },
     {
       "id": "p:7956597813|i:21984035416|v:88742350776",
       "source": "coupang",
