@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T13:06:12.699Z",
+  "updatedAt": "2026-08-28T13:09:23.551Z",
   "deals": [
+    {
+      "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "source": "toss",
+      "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T13:07:38.497Z",
+      "url": "https://toss.im/_m/PpEXD15c",
+      "image": "assets/products/22bf18cc4dfcec812a65.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-28T13:07:38.497Z"
+        }
+      ]
+    },
     {
       "id": "p:8291819029|i:23913755362|v:90936089337",
       "source": "coupang",
