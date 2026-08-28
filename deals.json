@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T13:09:23.551Z",
+  "updatedAt": "2026-08-28T22:10:15.140Z",
   "deals": [
+    {
+      "id": "p:7885033708|i:1046803019|v:86041307087",
+      "source": "coupang",
+      "name": "호올스 멘토립터스 멘톨향 캔디, 27.9g, 20개",
+      "price": 8900,
+      "listPrice": 12100,
+      "observedAt": "2026-08-28T22:08:48.764Z",
+      "url": "https://link.coupang.com/a/gAZJYyyEx2",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-28T22:08:48.764Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
       "source": "toss",
