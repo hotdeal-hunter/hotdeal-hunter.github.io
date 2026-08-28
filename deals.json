@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T01:27:37.699Z",
+  "updatedAt": "2026-08-28T02:44:12.418Z",
   "deals": [
+    {
+      "id": "p:7047286046|i:17443178366|v:84611815237",
+      "source": "coupang",
+      "name": "쿠쿠 레스티노 안마의자 방문설치, CMS-D10SLGB, 그레이브라운 + 골드",
+      "price": 799000,
+      "listPrice": 1990000,
+      "observedAt": "2026-08-28T02:42:46.569Z",
+      "url": "https://link.coupang.com/a/gzEpJar0Eu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 799000,
+          "observedAt": "2026-08-28T02:42:46.569Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154393455|n:뉴트리포유 듀얼 이뮨 멀티비타민 미네랄, 선물형, 30병입, 1개",
       "source": "toss",
