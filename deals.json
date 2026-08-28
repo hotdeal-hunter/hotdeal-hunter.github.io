@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T12:05:02.367Z",
+  "updatedAt": "2026-08-28T12:37:00.008Z",
   "deals": [
+    {
+      "id": "toss:p:152944945|n:대한민국농수산 우거지 뼈해장국, 1kg, 1개",
+      "source": "toss",
+      "name": "대한민국농수산 우거지 뼈해장국, 1kg, 1개",
+      "price": 6400,
+      "listPrice": null,
+      "observedAt": "2026-08-28T12:36:49.063Z",
+      "url": "https://toss.im/_m/NTwTyyi3",
+      "image": "assets/products/9d87f9bec786fd32f293.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6400,
+          "observedAt": "2026-08-28T12:36:49.063Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:117392925|n:메종오브제 딜라잇 샤틴 실버 수저세트, 디너 스푼 4p + 젓가락 4p",
       "source": "toss",
