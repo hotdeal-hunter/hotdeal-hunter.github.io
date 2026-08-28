@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T03:48:27.502Z",
+  "updatedAt": "2026-08-28T03:55:49.728Z",
   "deals": [
+    {
+      "id": "p:96727001|i:18320038990|v:85464821837",
+      "source": "coupang",
+      "name": "케라시스 히트 액티브 극손상 바르는 트리트먼트, 220ml, 3개",
+      "price": 10470,
+      "listPrice": 15620,
+      "observedAt": "2026-08-28T03:55:31.642Z",
+      "url": "https://link.coupang.com/a/gzJB3o1d3k",
+      "image": "assets/products/4c40c59138d114cea2f9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10470,
+          "observedAt": "2026-08-28T03:55:31.642Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:93865493|n:리벤스 오리지널 플러스 대용량 엠보싱 캡형 물티슈, 100매, 10팩",
       "source": "toss",
