@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T03:55:49.728Z",
+  "updatedAt": "2026-08-28T04:23:10.246Z",
   "deals": [
+    {
+      "id": "toss:p:804941081|n:레쓰비 마일드 커피, 175ml, 30개",
+      "source": "toss",
+      "name": "레쓰비 마일드 커피, 175ml, 30개",
+      "price": 11000,
+      "listPrice": null,
+      "observedAt": "2026-08-28T04:22:42.247Z",
+      "url": "https://toss.im/_m/9SbRMoYp",
+      "image": "assets/products/a7dbbb50628a9aa2dd2e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11000,
+          "observedAt": "2026-08-28T04:22:42.247Z"
+        }
+      ]
+    },
     {
       "id": "p:96727001|i:18320038990|v:85464821837",
       "source": "coupang",
