@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T01:08:34.092Z",
+  "updatedAt": "2026-08-28T01:27:37.699Z",
   "deals": [
+    {
+      "id": "toss:p:154393455|n:뉴트리포유 듀얼 이뮨 멀티비타민 미네랄, 선물형, 30병입, 1개",
+      "source": "toss",
+      "name": "뉴트리포유 듀얼 이뮨 멀티비타민 미네랄, 선물형, 30병입, 1개",
+      "price": 38900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T01:26:14.733Z",
+      "url": "https://toss.im/_m/pYpawf02",
+      "image": "assets/products/d068d27480e7ab6eed4b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 38900,
+          "observedAt": "2026-08-28T01:26:14.733Z"
+        }
+      ]
+    },
     {
       "id": "p:9392378613|i:12932887739|v:70393847077",
       "source": "coupang",
