@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T01:03:38.272Z",
+  "updatedAt": "2026-08-28T01:08:34.092Z",
   "deals": [
+    {
+      "id": "p:9392378613|i:12932887739|v:70393847077",
+      "source": "coupang",
+      "name": "나우푸드 울트라 오메가 3 500 EPA 250 DHA 소프트젤, 180정, 1개",
+      "price": 27880,
+      "listPrice": 38700,
+      "observedAt": "2026-08-28T01:07:09.836Z",
+      "url": "https://link.coupang.com/a/gzxz7TRzhs",
+      "image": "assets/products/d86156ec42a395ed11a9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27880,
+          "observedAt": "2026-08-28T01:07:09.836Z"
+        }
+      ]
+    },
     {
       "id": "p:1156685996|i:2132530026|v:70131050447",
       "source": "coupang",
