@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T10:47:02.878Z",
+  "updatedAt": "2026-08-28T10:50:50.624Z",
   "deals": [
+    {
+      "id": "p:8487204911|i:24595999697|v:91607577591",
+      "source": "coupang",
+      "name": "청정원 호밍스 대게와 랍스터 볶음밥 (냉동), 210g, 12개",
+      "price": 16420,
+      "listPrice": null,
+      "observedAt": "2026-08-28T10:49:29.012Z",
+      "url": "https://link.coupang.com/a/gAdccSJRTg",
+      "image": "assets/products/3342a44a2fcad852e215.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16420,
+          "observedAt": "2026-08-28T10:49:29.012Z"
+        }
+      ]
+    },
     {
       "id": "p:317713654|i:19840741159|v:86942274739",
       "source": "coupang",
