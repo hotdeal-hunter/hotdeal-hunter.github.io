@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T08:04:39.917Z",
+  "updatedAt": "2026-08-28T08:08:31.589Z",
   "deals": [
+    {
+      "id": "toss:p:2540338317|n:수입 대패삼겹, 1kg, 2팩",
+      "source": "toss",
+      "name": "수입 대패삼겹, 1kg, 2팩",
+      "price": 15040,
+      "listPrice": 40000,
+      "observedAt": "2026-08-28T08:08:14.598Z",
+      "url": "https://toss.im/_m/dYKkHz3q",
+      "image": "assets/products/fde7332b4a6d1ad5f957.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15040,
+          "observedAt": "2026-08-28T08:08:14.598Z"
+        }
+      ]
+    },
     {
       "id": "p:5503144074|i:8554997130|v:-",
       "source": "coupang",
