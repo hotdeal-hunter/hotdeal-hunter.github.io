@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T05:26:02.557Z",
+  "updatedAt": "2026-08-28T06:04:52.906Z",
   "deals": [
+    {
+      "id": "p:877132|i:6527649106|v:73821782643",
+      "source": "coupang",
+      "name": "오레오 웨하스 스틱 초코, 510g, 1개",
+      "price": 10720,
+      "listPrice": 12951,
+      "observedAt": "2026-08-28T06:04:34.767Z",
+      "url": "https://link.coupang.com/a/gzSPOYGhJk",
+      "image": "assets/products/5a4fc711248d50a4ea9a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10720,
+          "observedAt": "2026-08-28T06:04:34.767Z"
+        }
+      ]
+    },
     {
       "id": "p:9456946819|i:28114510349|v:95070432681",
       "source": "coupang",
