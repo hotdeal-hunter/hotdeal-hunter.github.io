@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T11:04:43.831Z",
+  "updatedAt": "2026-08-28T11:32:55.193Z",
   "deals": [
+    {
+      "id": "toss:p:187060431|n:부산포차 꼬치어묵, 400g, 3봉",
+      "source": "toss",
+      "name": "부산포차 꼬치어묵, 400g, 3봉",
+      "price": 9980,
+      "listPrice": 15900,
+      "observedAt": "2026-08-28T11:31:30.678Z",
+      "url": "https://toss.im/_m/vjttIigC",
+      "image": "assets/products/f926335e227100883cff.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9980,
+          "observedAt": "2026-08-28T11:31:30.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2126721959|n:가쯔 싱크대 밀착 304 스테인레스 도마 기역자형, 중형, 1개",
       "source": "toss",
