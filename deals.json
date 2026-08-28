@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T06:57:27.243Z",
+  "updatedAt": "2026-08-28T07:00:00.794Z",
   "deals": [
+    {
+      "id": "p:8276882130|i:23859059012|v:-",
+      "source": "coupang",
+      "name": "고래사어묵 5가지야채 듬뿍 사각어묵, 300g, 2개",
+      "price": 5780,
+      "listPrice": null,
+      "observedAt": "2026-08-28T06:58:49.035Z",
+      "url": "https://link.coupang.com/a/gzWIeGacmq",
+      "image": "assets/products/feded7c4801e135b303e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5780,
+          "observedAt": "2026-08-28T06:58:49.035Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:986795639|n:혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
       "source": "toss",
