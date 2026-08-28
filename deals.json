@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-28T06:25:42.217Z",
+  "updatedAt": "2026-08-28T06:57:27.243Z",
   "deals": [
+    {
+      "id": "toss:p:986795639|n:혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
+      "source": "toss",
+      "name": "혼카레 도쿄식 정통 민찌카레, 오리지널, 210g, 10개",
+      "price": 23800,
+      "listPrice": 69000,
+      "observedAt": "2026-08-28T06:57:10.069Z",
+      "url": "https://toss.im/_m/jil73cZk",
+      "image": "assets/products/3663e64c01fc55179612.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23800,
+          "observedAt": "2026-08-28T06:57:10.069Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1980516141|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
       "source": "toss",
       "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
       "price": 229000,
       "listPrice": null,
-      "observedAt": "2026-08-28T06:25:14.806Z",
+      "observedAt": "2026-08-28T06:28:10.085Z",
       "url": "https://toss.im/_m/3jpfIPZp",
       "image": "assets/products/34dd8f761efefd26330d.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 229000,
+          "observedAt": "2026-08-28T06:28:10.085Z"
+        },
         {
           "price": 229000,
           "observedAt": "2026-08-28T06:25:14.806Z"
