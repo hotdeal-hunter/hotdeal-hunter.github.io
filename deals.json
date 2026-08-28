@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T23:09:05.511Z",
+  "updatedAt": "2026-08-28T23:19:53.423Z",
   "deals": [
+    {
+      "id": "p:9440046737|i:28085808942|v:95042213430",
+      "source": "coupang",
+      "name": "에이지투웨니스 멜라 디펜스 기미 노세범 선스틱 SPF50+ PA++++, 20g, 2개",
+      "price": 11900,
+      "listPrice": 52000,
+      "observedAt": "2026-08-28T23:19:35.109Z",
+      "url": "https://link.coupang.com/a/gA4NxwAEPQ",
+      "image": "assets/products/e5ff3c604b05035fae22.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-08-28T23:19:35.109Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:10046715|n:몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
       "source": "toss",
