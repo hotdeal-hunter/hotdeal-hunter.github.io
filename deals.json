@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T07:50:27.229Z",
+  "updatedAt": "2026-08-28T07:58:06.646Z",
   "deals": [
+    {
+      "id": "toss:p:95369115|n:머그바 마늘 근위볶음, 250g, 3팩",
+      "source": "toss",
+      "name": "머그바 마늘 근위볶음, 250g, 3팩",
+      "price": 8240,
+      "listPrice": null,
+      "observedAt": "2026-08-28T07:57:38.212Z",
+      "url": "https://toss.im/_m/dzpx70a2",
+      "image": "assets/products/97e95db2e4e6bfa07b34.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8240,
+          "observedAt": "2026-08-28T07:57:38.212Z"
+        }
+      ]
+    },
     {
       "id": "p:8367276124|i:16338439014|v:83530330319",
       "source": "coupang",
