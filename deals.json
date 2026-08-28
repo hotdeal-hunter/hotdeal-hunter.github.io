@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T09:47:35.337Z",
+  "updatedAt": "2026-08-28T10:02:16.868Z",
   "deals": [
+    {
+      "id": "toss:p:2647103899|n:제주 하우스감귤, 특품, 대과, 5kg, 1박스",
+      "source": "toss",
+      "name": "제주 하우스감귤, 특품, 대과, 5kg, 1박스",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T10:00:40.741Z",
+      "url": "https://toss.im/_m/p3BtWe5h",
+      "image": "assets/products/2c34f6042af6215fe8ed.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-08-28T10:00:40.741Z"
+        }
+      ]
+    },
     {
       "id": "p:9395708044|i:27904109931|v:94842575850",
       "source": "coupang",
