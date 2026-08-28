@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T08:00:48.485Z",
+  "updatedAt": "2026-08-28T08:04:39.917Z",
   "deals": [
+    {
+      "id": "p:5503144074|i:8554997130|v:-",
+      "source": "coupang",
+      "name": "목우촌 뽀로로와 친구들 비엔나소시지, 270g, 2개",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-08-28T08:04:29.090Z",
+      "url": "https://link.coupang.com/a/gz1paWlJJs",
+      "image": "assets/products/d331c020ef5f20e3a173.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-08-28T08:04:29.090Z"
+        }
+      ]
+    },
     {
       "id": "p:8955727366|i:26319643778|v:93297058334",
       "source": "coupang",
