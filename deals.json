@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T09:04:42.932Z",
+  "updatedAt": "2026-08-28T09:32:54.568Z",
   "deals": [
+    {
+      "id": "p:7837634342|i:25711131400|v:78750655102",
+      "source": "coupang",
+      "name": "맑은내일 양파껍질차, 500ml, 24개",
+      "price": 24150,
+      "listPrice": 69600,
+      "observedAt": "2026-08-28T09:32:37.172Z",
+      "url": "https://link.coupang.com/a/gz7HEYQbvw",
+      "image": "assets/products/47db356295a6add01426.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24150,
+          "observedAt": "2026-08-28T09:32:37.172Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
       "source": "toss",
