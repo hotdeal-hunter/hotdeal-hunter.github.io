@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T12:53:03.160Z",
+  "updatedAt": "2026-08-28T13:06:12.699Z",
   "deals": [
+    {
+      "id": "p:8291819029|i:23913755362|v:90936089337",
+      "source": "coupang",
+      "name": "에브리봇 AI 클린케어 올인원 로봇청소기",
+      "price": 399070,
+      "listPrice": 1380000,
+      "observedAt": "2026-08-28T13:04:47.098Z",
+      "url": "https://link.coupang.com/a/gAmREKmHo4",
+      "image": "assets/products/d9ec49c1ddbe72e1a73b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 399070,
+          "observedAt": "2026-08-28T13:04:47.098Z"
+        }
+      ]
+    },
     {
       "id": "p:1379426555|i:501295165|v:85322102453",
       "source": "coupang",
