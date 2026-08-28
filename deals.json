@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T02:44:12.418Z",
+  "updatedAt": "2026-08-28T02:47:07.952Z",
   "deals": [
+    {
+      "id": "p:8048968497|i:22567340228|v:89609217641",
+      "source": "coupang",
+      "name": "락앤락 비스프리 퓨어 직사각 칸칸이 밀폐용기 라이트그린, 1L, 1개",
+      "price": 6200,
+      "listPrice": 16000,
+      "observedAt": "2026-08-28T02:44:23.764Z",
+      "url": "https://link.coupang.com/a/gzEwT3P12q",
+      "image": "assets/products/c5673ead5696920466e6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6200,
+          "observedAt": "2026-08-28T02:44:23.764Z"
+        }
+      ]
+    },
     {
       "id": "p:7047286046|i:17443178366|v:84611815237",
       "source": "coupang",
