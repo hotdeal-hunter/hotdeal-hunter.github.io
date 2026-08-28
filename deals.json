@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-08-28T04:23:10.246Z",
+  "updatedAt": "2026-08-28T04:56:26.367Z",
   "deals": [
+    {
+      "id": "toss:p:2508022773|n:동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "source": "toss",
+      "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T04:55:58.104Z",
+      "url": "https://toss.im/_m/TiOarCVu",
+      "image": "assets/products/7876f1cdb92fa01a3b3c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-28T04:55:58.104Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-23T12:53:09.395Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2317680173|n:고기중독 닭다리 북채, 1kg, 2팩",
+      "source": "toss",
+      "name": "고기중독 닭다리 북채, 1kg, 2팩",
+      "price": 12380,
+      "listPrice": 39900,
+      "observedAt": "2026-08-28T04:54:43.791Z",
+      "url": "https://toss.im/_m/zwqFaNR",
+      "image": "assets/products/e88bb9ce4898f43519d7.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12380,
+          "observedAt": "2026-08-28T04:54:43.791Z"
+        },
+        {
+          "price": 12380,
+          "observedAt": "2026-08-27T10:56:13.861Z"
+        },
+        {
+          "price": 12380,
+          "observedAt": "2026-08-22T00:31:00.235Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
+      "source": "toss",
+      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
+      "price": 14540,
+      "listPrice": 29900,
+      "observedAt": "2026-08-28T04:27:54.143Z",
+      "url": "https://toss.im/_m/HV1R1pRf",
+      "image": "assets/products/98ee864c379426a1c1e9.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 14540,
+          "observedAt": "2026-08-28T04:27:54.143Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T09:57:14.993Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T08:27:36.866Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:804941081|n:레쓰비 마일드 커피, 175ml, 30개",
       "source": "toss",
@@ -387,27 +458,6 @@
       ]
     },
     {
-      "id": "toss:p:2317680173|n:고기중독 닭다리 북채, 1kg, 2팩",
-      "source": "toss",
-      "name": "고기중독 닭다리 북채, 1kg, 2팩",
-      "price": 12380,
-      "listPrice": null,
-      "observedAt": "2026-08-27T10:56:13.861Z",
-      "url": "https://toss.im/_m/zwqFaNR",
-      "image": "assets/products/e88bb9ce4898f43519d7.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12380,
-          "observedAt": "2026-08-27T10:56:13.861Z"
-        },
-        {
-          "price": 12380,
-          "observedAt": "2026-08-22T00:31:00.235Z"
-        }
-      ]
-    },
-    {
       "id": "p:9494324107|i:27154371100|v:95242438642",
       "source": "coupang",
       "name": "샤오미 Xiaomi 67W 케이블 일체형 보조 배터리 20000mAh C타입, PB2067, 스카이블루",
@@ -438,27 +488,6 @@
         {
           "price": 32650,
           "observedAt": "2026-08-27T10:05:18.221Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
-      "source": "toss",
-      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
-      "price": 14540,
-      "listPrice": null,
-      "observedAt": "2026-08-27T09:57:14.993Z",
-      "url": "https://toss.im/_m/HV1R1pRf",
-      "image": "assets/products/98ee864c379426a1c1e9.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 14540,
-          "observedAt": "2026-08-27T09:57:14.993Z"
-        },
-        {
-          "price": 14540,
-          "observedAt": "2026-08-27T08:27:36.866Z"
         }
       ]
     },
@@ -4300,23 +4329,6 @@
         {
           "price": 8900,
           "observedAt": "2026-08-23T09:11:05.418Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2508022773|n:동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
-      "source": "toss",
-      "name": "동아제약 검가드 오리지널 에스 휴대용 구강청결제, 100ml, 10개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-08-23T12:53:09.395Z",
-      "url": "https://toss.im/_m/TiOarCVu",
-      "image": "assets/products/7876f1cdb92fa01a3b3c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-08-23T12:53:09.395Z"
         }
       ]
     },
