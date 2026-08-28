@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T09:32:54.568Z",
+  "updatedAt": "2026-08-28T09:40:15.466Z",
   "deals": [
+    {
+      "id": "p:7956597813|i:21984035416|v:88742350776",
+      "source": "coupang",
+      "name": "모리나가 제과 포테롱 감자 스틱 45g 10개, 45g, 10개",
+      "price": 12250,
+      "listPrice": 24500,
+      "observedAt": "2026-08-28T09:39:58.524Z",
+      "url": "https://link.coupang.com/a/gz8efxsjBs",
+      "image": "assets/products/7ba13ca1a3ad97880590.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12250,
+          "observedAt": "2026-08-28T09:39:58.524Z"
+        }
+      ]
+    },
     {
       "id": "p:7837634342|i:25711131400|v:78750655102",
       "source": "coupang",
