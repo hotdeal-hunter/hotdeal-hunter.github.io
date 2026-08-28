@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-28T07:00:00.794Z",
+  "updatedAt": "2026-08-28T07:50:27.229Z",
   "deals": [
+    {
+      "id": "p:8367276124|i:16338439014|v:83530330319",
+      "source": "coupang",
+      "name": "르샤트라1802 인퓨전 섬유유연제 피오니부케 본품",
+      "price": 12830,
+      "listPrice": 36200,
+      "observedAt": "2026-08-28T07:50:09.131Z",
+      "url": "https://link.coupang.com/a/gz0nF3Jwqq",
+      "image": "assets/products/0a19e60dc77ce05daa64.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12830,
+          "observedAt": "2026-08-28T07:50:09.131Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2290672615|n:트루나 군고구마빠, 50g, 10팩",
+      "source": "toss",
+      "name": "트루나 군고구마빠, 50g, 10팩",
+      "price": 9640,
+      "listPrice": null,
+      "observedAt": "2026-08-28T07:25:49.483Z",
+      "url": "https://toss.im/_m/dMFHmRgx",
+      "image": "assets/products/c454e32ec14041ad6f27.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9640,
+          "observedAt": "2026-08-28T07:25:49.483Z"
+        },
+        {
+          "price": 9640,
+          "observedAt": "2026-08-27T12:55:42.717Z"
+        }
+      ]
+    },
     {
       "id": "p:8276882130|i:23859059012|v:-",
       "source": "coupang",
@@ -458,23 +496,6 @@
         {
           "price": 43900,
           "observedAt": "2026-08-27T22:19:28.619Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2290672615|n:트루나 군고구마빠, 50g, 10팩",
-      "source": "toss",
-      "name": "트루나 군고구마빠, 50g, 10팩",
-      "price": 9640,
-      "listPrice": null,
-      "observedAt": "2026-08-27T12:55:42.717Z",
-      "url": "https://toss.im/_m/dMFHmRgx",
-      "image": "assets/products/c454e32ec14041ad6f27.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9640,
-          "observedAt": "2026-08-27T12:55:42.717Z"
         }
       ]
     },
