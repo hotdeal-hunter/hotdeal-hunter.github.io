@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T23:19:53.423Z",
+  "updatedAt": "2026-08-28T23:59:42.232Z",
   "deals": [
+    {
+      "id": "p:9429800893|i:28035503174|v:94992539023",
+      "source": "coupang",
+      "name": "웅진 K헤리티지 에디션 500ml x 4종 x 6p + 굿즈 랜덤발송 세트, 1세트",
+      "price": 12920,
+      "listPrice": 20850,
+      "observedAt": "2026-08-28T23:59:24.089Z",
+      "url": "https://link.coupang.com/a/gA7DWc6Ioe",
+      "image": "assets/products/6da9c6bd5d6aed8272b6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12920,
+          "observedAt": "2026-08-28T23:59:24.089Z"
+        }
+      ]
+    },
     {
       "id": "p:9440046737|i:28085808942|v:95042213430",
       "source": "coupang",
