@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T22:10:15.140Z",
+  "updatedAt": "2026-08-28T23:09:05.511Z",
   "deals": [
+    {
+      "id": "toss:p:10046715|n:몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
+      "source": "toss",
+      "name": "몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-08-28T23:08:32.875Z",
+      "url": "https://toss.im/_m/FUsmXGFp",
+      "image": "assets/products/09bee28f151c05b5d98c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-08-28T23:08:32.875Z"
+        }
+      ]
+    },
     {
       "id": "p:7885033708|i:1046803019|v:86041307087",
       "source": "coupang",
