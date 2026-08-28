@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-28T12:37:00.008Z",
+  "updatedAt": "2026-08-28T12:49:08.798Z",
   "deals": [
+    {
+      "id": "toss:p:1133179199|n:마켓상상 유러피안 샐러드, 3-4종 랜덤, 1kg, 1박스",
+      "source": "toss",
+      "name": "마켓상상 유러피안 샐러드, 3-4종 랜덤, 1kg, 1박스",
+      "price": 10900,
+      "listPrice": 25000,
+      "observedAt": "2026-08-28T12:48:55.685Z",
+      "url": "https://toss.im/_m/rm06GVn2",
+      "image": "assets/products/8564e2f31397507cacf6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-28T12:48:55.685Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:152944945|n:대한민국농수산 우거지 뼈해장국, 1kg, 1개",
       "source": "toss",
       "name": "대한민국농수산 우거지 뼈해장국, 1kg, 1개",
       "price": 6400,
       "listPrice": null,
-      "observedAt": "2026-08-28T12:36:49.063Z",
+      "observedAt": "2026-08-28T12:38:17.826Z",
       "url": "https://toss.im/_m/NTwTyyi3",
       "image": "assets/products/9d87f9bec786fd32f293.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 6400,
+          "observedAt": "2026-08-28T12:38:17.826Z"
+        },
         {
           "price": 6400,
           "observedAt": "2026-08-28T12:36:49.063Z"
