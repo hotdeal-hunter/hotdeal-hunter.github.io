@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T12:49:08.798Z",
+  "updatedAt": "2026-08-28T12:53:03.160Z",
   "deals": [
+    {
+      "id": "p:1379426555|i:501295165|v:85322102453",
+      "source": "coupang",
+      "name": "해태제과 오예스, 360g, 3개",
+      "price": 9810,
+      "listPrice": 11315,
+      "observedAt": "2026-08-28T12:52:45.174Z",
+      "url": "https://link.coupang.com/a/gAl0lzFt1M",
+      "image": "assets/products/d0e16f4d463546f11575.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9810,
+          "observedAt": "2026-08-28T12:52:45.174Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1133179199|n:마켓상상 유러피안 샐러드, 3-4종 랜덤, 1kg, 1박스",
       "source": "toss",
