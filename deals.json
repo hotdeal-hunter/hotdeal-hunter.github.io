@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T07:58:06.646Z",
+  "updatedAt": "2026-08-28T08:00:48.485Z",
   "deals": [
+    {
+      "id": "p:8955727366|i:26319643778|v:93297058334",
+      "source": "coupang",
+      "name": "센토 주니어 세이프 딥클린 초미세모 어린이 칫솔 스텝3, 혼합색상, 12개입, 2세트",
+      "price": 11160,
+      "listPrice": 21931,
+      "observedAt": "2026-08-28T08:00:30.982Z",
+      "url": "https://link.coupang.com/a/gz07BlsTpQ",
+      "image": "assets/products/147b0d884af7ecf892e2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11160,
+          "observedAt": "2026-08-28T08:00:30.982Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:95369115|n:머그바 마늘 근위볶음, 250g, 3팩",
       "source": "toss",
