@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-28T00:20:30.453Z",
+  "updatedAt": "2026-08-28T00:52:41.132Z",
   "deals": [
+    {
+      "id": "toss:p:2645561445|n:풀무원 비타미니즈 자두, 140ml, 24개",
+      "source": "toss",
+      "name": "풀무원 비타미니즈 자두, 140ml, 24개",
+      "price": 7980,
+      "listPrice": null,
+      "observedAt": "2026-08-28T00:51:02.224Z",
+      "url": "https://toss.im/_m/BfSCa4c2",
+      "image": "assets/products/a800fcc9ac8f8b78aeb0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7980,
+          "observedAt": "2026-08-28T00:51:02.224Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:161015941|n:영주 햇살듬뿍 사과즙, 100ml, 100개",
       "source": "toss",
