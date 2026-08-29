@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-29T03:10:09.098Z",
+  "updatedAt": "2026-08-29T03:19:50.020Z",
   "deals": [
+    {
+      "id": "toss:p:455897377|n:선비찬 사골부대찌개 얼큰고소 사골육수, 600g, 3개 + 라면사리 1봉 증정",
+      "source": "toss",
+      "name": "선비찬 사골부대찌개 얼큰고소 사골육수, 600g, 3개 + 라면사리 1봉 증정",
+      "price": 9170,
+      "listPrice": null,
+      "observedAt": "2026-08-29T03:19:38.194Z",
+      "url": "https://toss.im/_m/rRkNHoPo",
+      "image": "assets/products/e277a115ababa4105974.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9170,
+          "observedAt": "2026-08-29T03:19:38.194Z"
+        },
+        {
+          "price": 9170,
+          "observedAt": "2026-08-26T23:10:19.476Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:98069119|n:신지모루 슬림 포켓 방수팩, ipx8, 4중잠금, 화이트, 1개",
       "source": "toss",
@@ -2090,23 +2111,6 @@
         {
           "price": 23465,
           "observedAt": "2026-08-18T05:23:44.077Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:455897377|n:선비찬 사골부대찌개, 얼큰고소 사골육수, 600g, 3개, 라면사리 1봉 증정",
-      "source": "toss",
-      "name": "선비찬 사골부대찌개, 얼큰고소 사골육수, 600g, 3개, 라면사리 1봉 증정",
-      "price": 9170,
-      "listPrice": null,
-      "observedAt": "2026-08-26T23:10:19.476Z",
-      "url": "https://toss.im/_m/rRkNHoPo",
-      "image": "assets/products/c2906f07ca4465a38094.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9170,
-          "observedAt": "2026-08-26T23:10:19.476Z"
         }
       ]
     },
