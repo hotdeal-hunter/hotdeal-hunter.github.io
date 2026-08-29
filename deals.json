@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T11:34:12.210Z",
+  "updatedAt": "2026-08-29T12:39:43.984Z",
   "deals": [
+    {
+      "id": "toss:p:137947781|n:산지농수산 메밀소바 세트, 생메밀국수 1kg 1개 + 메밀장 40g 6개, 1세트",
+      "source": "toss",
+      "name": "산지농수산 메밀소바 세트, 생메밀국수 1kg 1개 + 메밀장 40g 6개, 1세트",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T12:39:30.786Z",
+      "url": "https://toss.im/_m/HNuUjODi",
+      "image": "assets/products/1449ab9d050115739de4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-29T12:39:30.786Z"
+        }
+      ]
+    },
     {
       "id": "p:7925691039|i:22490850926|v:88836699384",
       "source": "coupang",
