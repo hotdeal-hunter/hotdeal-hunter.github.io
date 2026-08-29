@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T23:06:32.759Z",
+  "updatedAt": "2026-08-29T23:09:14.036Z",
   "deals": [
+    {
+      "id": "p:6830320694|i:24016969088|v:91037577268",
+      "source": "coupang",
+      "name": "스파클 무라벨 천연암반수 안전한생수 깨끗한물 미네랄워터, 1L, 24개",
+      "price": 9200,
+      "listPrice": 19500,
+      "observedAt": "2026-08-29T23:08:56.362Z",
+      "url": "https://link.coupang.com/a/gCIWpMU3zg",
+      "image": "assets/products/a5eb9f499c174ab6e00c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9200,
+          "observedAt": "2026-08-29T23:08:56.362Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
       "source": "toss",
