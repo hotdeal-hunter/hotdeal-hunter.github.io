@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-08-29T08:17:08.041Z",
+  "updatedAt": "2026-08-29T08:52:23.080Z",
   "deals": [
+    {
+      "id": "toss:p:304732531|n:산지로드 소갈비살, 1kg, 1개",
+      "source": "toss",
+      "name": "산지로드 소갈비살, 1kg, 1개",
+      "price": 27900,
+      "listPrice": 45900,
+      "observedAt": "2026-08-29T08:52:04.186Z",
+      "url": "https://toss.im/_m/DUJidqgh",
+      "image": "assets/products/a17c44f0c2cec4885389.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-08-29T08:52:04.186Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2347609015|n:고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
+      "source": "toss",
+      "name": "고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
+      "price": 7970,
+      "listPrice": null,
+      "observedAt": "2026-08-29T08:43:57.092Z",
+      "url": "https://toss.im/_m/v3pG1vDz",
+      "image": "assets/products/debb119f34e4214a9311.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7970,
+          "observedAt": "2026-08-29T08:43:57.092Z"
+        },
+        {
+          "price": 7970,
+          "observedAt": "2026-08-29T08:43:57.015Z"
+        },
+        {
+          "price": 7970,
+          "observedAt": "2026-08-24T11:48:59.118Z"
+        },
+        {
+          "price": 7970,
+          "observedAt": "2026-08-24T11:48:58.837Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2335791225|n:고깃집왕건 고추장 제육볶음, 1kg, 1개",
+      "source": "toss",
+      "name": "고깃집왕건 고추장 제육볶음, 1kg, 1개",
+      "price": 7320,
+      "listPrice": null,
+      "observedAt": "2026-08-29T08:43:56.870Z",
+      "url": "https://toss.im/_m/rpsu0yF9",
+      "image": "assets/products/2a0434903f04975104ff.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7320,
+          "observedAt": "2026-08-29T08:43:56.870Z"
+        },
+        {
+          "price": 7320,
+          "observedAt": "2026-08-27T03:56:01.652Z"
+        }
+      ]
+    },
     {
       "id": "p:7272135076|i:24339294719|v:88378289089",
       "source": "coupang",
@@ -1983,23 +2050,6 @@
         {
           "price": 4500,
           "observedAt": "2026-08-20T10:38:11.750Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2335791225|n:고깃집왕건 고추장 제육볶음, 1kg, 1개",
-      "source": "toss",
-      "name": "고깃집왕건 고추장 제육볶음, 1kg, 1개",
-      "price": 7320,
-      "listPrice": 16800,
-      "observedAt": "2026-08-27T03:56:01.652Z",
-      "url": "https://toss.im/_m/rpsu0yF9",
-      "image": "assets/products/2a0434903f04975104ff.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7320,
-          "observedAt": "2026-08-27T03:56:01.652Z"
         }
       ]
     },
@@ -4478,27 +4528,6 @@
         {
           "price": 7900,
           "observedAt": "2026-08-24T12:30:24.643Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2347609015|n:고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
-      "source": "toss",
-      "name": "고깃집왕건 고추장 삼겹살 제육, 1kg, 1개",
-      "price": 7970,
-      "listPrice": null,
-      "observedAt": "2026-08-24T11:48:59.118Z",
-      "url": "https://toss.im/_m/v3pG1vDz",
-      "image": "assets/products/debb119f34e4214a9311.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7970,
-          "observedAt": "2026-08-24T11:48:59.118Z"
-        },
-        {
-          "price": 7970,
-          "observedAt": "2026-08-24T11:48:58.837Z"
         }
       ]
     },
