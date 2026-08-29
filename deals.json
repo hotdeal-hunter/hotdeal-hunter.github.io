@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T06:43:21.012Z",
+  "updatedAt": "2026-08-29T06:46:00.482Z",
   "deals": [
+    {
+      "id": "toss:p:1250645185|n:어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
+      "source": "toss",
+      "name": "어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
+      "price": 15390,
+      "listPrice": 59800,
+      "observedAt": "2026-08-29T06:45:43.689Z",
+      "url": "https://toss.im/_m/bTq2YkB3",
+      "image": "assets/products/bcdf4319a7ac13e94cef.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15390,
+          "observedAt": "2026-08-29T06:45:43.689Z"
+        }
+      ]
+    },
     {
       "id": "p:8392201505|i:18625222636|v:85760605084",
       "source": "coupang",
