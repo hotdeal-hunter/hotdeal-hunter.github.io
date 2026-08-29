@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T10:23:28.837Z",
+  "updatedAt": "2026-08-29T10:47:08.389Z",
   "deals": [
+    {
+      "id": "toss:p:184213065|n:광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
+      "source": "toss",
+      "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T10:46:56.077Z",
+      "url": "https://toss.im/_m/vLvF3JY5",
+      "image": "assets/products/950070ebd06b234078c7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-29T10:46:56.077Z"
+        }
+      ]
+    },
     {
       "id": "p:7771483157|i:20981865230|v:88046652408",
       "source": "coupang",
