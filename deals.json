@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T02:50:34.901Z",
+  "updatedAt": "2026-08-29T02:53:28.131Z",
   "deals": [
+    {
+      "id": "toss:p:2405766003|n:채선당 굴림만두전골 + 청담동 떡볶이, 1450g, 1개",
+      "source": "toss",
+      "name": "채선당 굴림만두전골 + 청담동 떡볶이, 1450g, 1개",
+      "price": 13150,
+      "listPrice": null,
+      "observedAt": "2026-08-29T02:53:01.520Z",
+      "url": "https://toss.im/_m/TmKXJQt7",
+      "image": "assets/products/54fa00df5d31f4fa0c22.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13150,
+          "observedAt": "2026-08-29T02:53:01.520Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:77662781|n:오뚜기 열라면, 120g, 20봉",
       "source": "toss",
