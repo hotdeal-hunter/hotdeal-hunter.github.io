@@ -1,6 +1,203 @@
 {
-  "updatedAt": "2026-08-29T12:55:48.955Z",
+  "updatedAt": "2026-08-29T23:06:32.759Z",
   "deals": [
+    {
+      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "source": "toss",
+      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
+      "price": 6330,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:06:08.143Z",
+      "url": "https://toss.im/_m/p1mVdX9v",
+      "image": "assets/products/5b0cea34556142c2538f.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 6330,
+          "observedAt": "2026-08-29T23:06:08.143Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-29T23:06:08.008Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-29T23:01:22.126Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-26T23:00:55.230Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-25T23:01:08.400Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-24T23:01:23.197Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:21:40.640Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-23T23:01:14.959Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-22T23:01:06.222Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-21T22:59:58.659Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-20T23:01:46.691Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-19T23:01:57.803Z"
+        },
+        {
+          "price": 6330,
+          "observedAt": "2026-08-18T00:28:38.530Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "source": "toss",
+      "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
+      "price": 13570,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:01:22.410Z",
+      "url": "https://toss.im/_m/9eDuzpY1",
+      "image": "assets/products/b6ecc495994c233cd287.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 13570,
+          "observedAt": "2026-08-29T23:01:22.410Z"
+        },
+        {
+          "price": 271,
+          "observedAt": "2026-08-26T01:21:29.826Z"
+        },
+        {
+          "price": 13570,
+          "observedAt": "2026-08-26T01:21:29.687Z"
+        },
+        {
+          "price": 13570,
+          "observedAt": "2026-08-25T12:01:51.706Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
+      "source": "toss",
+      "name": "초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",
+      "price": 9410,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:01:22.318Z",
+      "url": "https://toss.im/_m/VdJbxles",
+      "image": "assets/products/4347407cf314edb3185f.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9410,
+          "observedAt": "2026-08-29T23:01:22.318Z"
+        },
+        {
+          "price": 9410,
+          "observedAt": "2026-08-23T08:48:04.930Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56485011|n:더 빅토리아, 플레인, 500ml, 20개",
+      "source": "toss",
+      "name": "더 빅토리아, 플레인, 500ml, 20개",
+      "price": 7200,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:01:22.220Z",
+      "url": "https://toss.im/_m/dwl38KH8",
+      "image": "assets/products/459dccc1791d774e566b.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7200,
+          "observedAt": "2026-08-29T23:01:22.220Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-25T23:01:08.760Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-20T00:33:37.376Z"
+        },
+        {
+          "price": 7200,
+          "observedAt": "2026-08-19T04:40:58.634Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "source": "toss",
+      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
+      "price": 8180,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:01:21.903Z",
+      "url": "https://toss.im/_m/Htr0SOgr",
+      "image": "assets/products/ff4392a55ee46475c35e.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 8180,
+          "observedAt": "2026-08-29T23:01:21.903Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-26T23:00:54.790Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-25T23:01:08.177Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-24T23:01:22.983Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:21:40.472Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-23T23:01:14.717Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-22T23:01:06.341Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-21T22:59:58.571Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-20T23:01:46.575Z"
+        },
+        {
+          "price": 8180,
+          "observedAt": "2026-08-19T23:01:57.520Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
       "source": "toss",
@@ -2617,108 +2814,6 @@
       ]
     },
     {
-      "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "source": "toss",
-      "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
-      "price": 6330,
-      "listPrice": null,
-      "observedAt": "2026-08-26T23:00:55.230Z",
-      "url": "https://toss.im/_m/p1mVdX9v",
-      "image": "assets/products/5b0cea34556142c2538f.png",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 6330,
-          "observedAt": "2026-08-26T23:00:55.230Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-25T23:01:08.400Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-24T23:01:23.197Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:21:40.640Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-23T23:01:14.959Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-22T23:01:06.222Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-21T22:59:58.659Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-20T23:01:46.691Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-19T23:01:57.803Z"
-        },
-        {
-          "price": 6330,
-          "observedAt": "2026-08-18T00:28:38.530Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157479509|n:푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "source": "toss",
-      "name": "푸디헤븐 꾸지뽕 왕족발, 1kg, 1개",
-      "price": 8180,
-      "listPrice": null,
-      "observedAt": "2026-08-26T23:00:54.790Z",
-      "url": "https://toss.im/_m/Htr0SOgr",
-      "image": "assets/products/ff4392a55ee46475c35e.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 8180,
-          "observedAt": "2026-08-26T23:00:54.790Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-25T23:01:08.177Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-24T23:01:22.983Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:21:40.472Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-23T23:01:14.717Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-22T23:01:06.341Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-21T22:59:58.571Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-20T23:01:46.575Z"
-        },
-        {
-          "price": 8180,
-          "observedAt": "2026-08-19T23:01:57.520Z"
-        }
-      ]
-    },
-    {
       "id": "p:6764200323|i:18880361328|v:85762458224",
       "source": "coupang",
       "name": "팔도비빔면 컵 115g, 48개",
@@ -3535,31 +3630,6 @@
       ]
     },
     {
-      "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
-      "source": "toss",
-      "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
-      "price": 271,
-      "listPrice": null,
-      "observedAt": "2026-08-26T01:21:29.826Z",
-      "url": "https://toss.im/_m/9eDuzpY1",
-      "image": "assets/products/b6ecc495994c233cd287.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 271,
-          "observedAt": "2026-08-26T01:21:29.826Z"
-        },
-        {
-          "price": 13570,
-          "observedAt": "2026-08-26T01:21:29.687Z"
-        },
-        {
-          "price": 13570,
-          "observedAt": "2026-08-25T12:01:51.706Z"
-        }
-      ]
-    },
-    {
       "id": "p:8750734398|i:25438909147|v:92431815871",
       "source": "coupang",
       "name": "로보락 로봇청소기, Q8+, 화이트",
@@ -3673,31 +3743,6 @@
         {
           "price": 8500,
           "observedAt": "2026-08-21T02:10:58.616Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56485011|n:더 빅토리아, 플레인, 500ml, 20개",
-      "source": "toss",
-      "name": "더 빅토리아, 플레인, 500ml, 20개",
-      "price": 7200,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:01:08.760Z",
-      "url": "https://toss.im/_m/dwl38KH8",
-      "image": "assets/products/459dccc1791d774e566b.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 7200,
-          "observedAt": "2026-08-25T23:01:08.760Z"
-        },
-        {
-          "price": 7200,
-          "observedAt": "2026-08-20T00:33:37.376Z"
-        },
-        {
-          "price": 7200,
-          "observedAt": "2026-08-19T04:40:58.634Z"
         }
       ]
     },
@@ -5806,23 +5851,6 @@
         {
           "price": 6000,
           "observedAt": "2026-08-23T06:54:51.206Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
-      "source": "toss",
-      "name": "초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",
-      "price": 9410,
-      "listPrice": null,
-      "observedAt": "2026-08-23T08:48:04.930Z",
-      "url": "https://toss.im/_m/VdJbxles",
-      "image": "assets/products/4347407cf314edb3185f.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9410,
-          "observedAt": "2026-08-23T08:48:04.930Z"
         }
       ]
     },
