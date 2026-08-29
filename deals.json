@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-08-29T04:46:35.915Z",
+  "updatedAt": "2026-08-29T04:58:49.841Z",
   "deals": [
+    {
+      "id": "toss:p:7652129|n:가성비가브랜드다 뽑아쓰는 3겹 키친타올, 100매, 18팩",
+      "source": "toss",
+      "name": "가성비가브랜드다 뽑아쓰는 3겹 키친타올, 100매, 18팩",
+      "price": 12420,
+      "listPrice": null,
+      "observedAt": "2026-08-29T04:58:24.966Z",
+      "url": "https://toss.im/_m/xAswF0S5",
+      "image": "assets/products/dc528a4d3ae4cd348a37.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12420,
+          "observedAt": "2026-08-29T04:58:24.966Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:64109399|n:슈가로로 스파클링, 사과맛, 250ml, 30개",
+      "source": "toss",
+      "name": "슈가로로 스파클링, 사과맛, 250ml, 30개",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-08-29T04:58:21.801Z",
+      "url": "https://toss.im/_m/XxMBu18A",
+      "image": "assets/products/6950bc2292668f0e2746.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-29T04:58:21.801Z"
+        }
+      ]
+    },
     {
       "id": "p:8625137007|i:25009116545|v:92048292590",
       "source": "coupang",
