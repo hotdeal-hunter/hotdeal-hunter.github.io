@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T05:01:34.051Z",
+  "updatedAt": "2026-08-29T05:09:03.922Z",
   "deals": [
+    {
+      "id": "p:8366421156|i:24173033408|v:91191257812",
+      "source": "coupang",
+      "name": "FRANKLIIN 유아용 주방세제 리필, 1개, 450ml",
+      "price": 5530,
+      "listPrice": 11756,
+      "observedAt": "2026-08-29T05:08:45.810Z",
+      "url": "https://link.coupang.com/a/gBtKziuJDU",
+      "image": "assets/products/3c2a6dc99450cf34fc2b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5530,
+          "observedAt": "2026-08-29T05:08:45.810Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:7652129|n:가성비가브랜드다 뽑아쓰는 3겹 키친타올, 100매, 18팩",
       "source": "toss",
