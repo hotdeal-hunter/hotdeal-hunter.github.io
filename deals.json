@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T06:46:00.482Z",
+  "updatedAt": "2026-08-29T07:10:43.431Z",
   "deals": [
+    {
+      "id": "p:6529883355|i:17656542256|v:84822073265",
+      "source": "coupang",
+      "name": "청정원순창 우리쌀로 만든 100% 국산 고추장, 1kg, 1개",
+      "price": 10480,
+      "listPrice": 28100,
+      "observedAt": "2026-08-29T07:10:25.615Z",
+      "url": "https://link.coupang.com/a/gBCrIovqFg",
+      "image": "assets/products/5b115d6905e26d25b431.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10480,
+          "observedAt": "2026-08-29T07:10:25.615Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1250645185|n:어촌명가 당일제조 수제 간장 참소라장, 500g, 2개",
       "source": "toss",
@@ -1340,7 +1357,7 @@
       "listPrice": 13029,
       "observedAt": "2026-08-27T23:13:08.214Z",
       "url": "https://link.coupang.com/a/gzpqVutrEW",
-      "image": null,
+      "image": "assets/products/7eec46ba0b40880b2bbd.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
