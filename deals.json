@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T02:27:04.422Z",
+  "updatedAt": "2026-08-29T02:33:18.906Z",
   "deals": [
+    {
+      "id": "p:6915388117|i:22729561129|v:89764902796",
+      "source": "coupang",
+      "name": "락앤락 탑클라스 직사각 밀폐용기, 4개, 2L",
+      "price": 14570,
+      "listPrice": 48353,
+      "observedAt": "2026-08-29T02:32:59.802Z",
+      "url": "https://link.coupang.com/a/gBiCrVTJ6a",
+      "image": "assets/products/94d1a0bac12a87433393.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14570,
+          "observedAt": "2026-08-29T02:32:59.802Z"
+        }
+      ]
+    },
     {
       "id": "p:1260993885|i:2262045898|v:70259320197",
       "source": "coupang",
