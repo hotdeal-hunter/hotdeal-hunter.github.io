@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T00:33:05.319Z",
+  "updatedAt": "2026-08-29T00:56:40.185Z",
   "deals": [
+    {
+      "id": "p:6924856145|i:23974606897|v:90995906803",
+      "source": "coupang",
+      "name": "제이픽스 MJ인테리어 식탁의자, 크림, 2개",
+      "price": 41250,
+      "listPrice": 159600,
+      "observedAt": "2026-08-29T00:56:22.034Z",
+      "url": "https://link.coupang.com/a/gBbIkg6P6a",
+      "image": "assets/products/1049ca612c9805827f3a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 41250,
+          "observedAt": "2026-08-29T00:56:22.034Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2632738725|n:투다리 오리지널 김치우동, 431g, 2개",
       "source": "toss",
