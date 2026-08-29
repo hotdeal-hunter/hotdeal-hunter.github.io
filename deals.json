@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T07:16:21.902Z",
+  "updatedAt": "2026-08-29T08:17:08.041Z",
   "deals": [
+    {
+      "id": "p:7272135076|i:24339294719|v:88378289089",
+      "source": "coupang",
+      "name": "환타 제로 파인애플 탄산음료, 350ml, 24개",
+      "price": 11790,
+      "listPrice": 23500,
+      "observedAt": "2026-08-29T08:16:49.991Z",
+      "url": "https://link.coupang.com/a/gBHbVGNGua",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11790,
+          "observedAt": "2026-08-29T08:16:49.991Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:135091649|n:심플 화이트 보관함, 20개",
       "source": "toss",
