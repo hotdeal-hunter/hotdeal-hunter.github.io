@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-29T06:11:10.896Z",
+  "updatedAt": "2026-08-29T06:13:52.981Z",
   "deals": [
+    {
+      "id": "toss:p:64109399|n:슈가로로 스파클링 사과맛, 250ml, 30개",
+      "source": "toss",
+      "name": "슈가로로 스파클링 사과맛, 250ml, 30개",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-08-29T06:13:42.253Z",
+      "url": "https://toss.im/_m/XxMBu18A",
+      "image": "assets/products/ee64829edfce03411a61.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-29T06:13:42.253Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-08-29T04:58:21.801Z"
+        }
+      ]
+    },
     {
       "id": "p:8900270459|i:1001210931|v:5429923146",
       "source": "coupang",
@@ -49,23 +70,6 @@
         {
           "price": 12420,
           "observedAt": "2026-08-29T04:58:24.966Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:64109399|n:슈가로로 스파클링, 사과맛, 250ml, 30개",
-      "source": "toss",
-      "name": "슈가로로 스파클링, 사과맛, 250ml, 30개",
-      "price": 10500,
-      "listPrice": null,
-      "observedAt": "2026-08-29T04:58:21.801Z",
-      "url": "https://toss.im/_m/XxMBu18A",
-      "image": "assets/products/6950bc2292668f0e2746.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10500,
-          "observedAt": "2026-08-29T04:58:21.801Z"
         }
       ]
     },
