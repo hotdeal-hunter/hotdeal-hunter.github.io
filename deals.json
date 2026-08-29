@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-08-29T09:12:37.934Z",
+  "updatedAt": "2026-08-29T09:15:31.893Z",
   "deals": [
+    {
+      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
+      "source": "toss",
+      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
+      "price": 14540,
+      "listPrice": null,
+      "observedAt": "2026-08-29T09:15:08.444Z",
+      "url": "https://toss.im/_m/HV1R1pRf",
+      "image": "assets/products/98ee864c379426a1c1e9.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 14540,
+          "observedAt": "2026-08-29T09:15:08.444Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-29T09:15:08.359Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-28T04:27:54.143Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T09:57:14.993Z"
+        },
+        {
+          "price": 14540,
+          "observedAt": "2026-08-27T08:27:36.866Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:599038939|n:똑순이 알고니 알탕, 700g, 2개",
       "source": "toss",
@@ -1236,31 +1269,6 @@
         {
           "price": 12380,
           "observedAt": "2026-08-22T00:31:00.235Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
-      "source": "toss",
-      "name": "연안식당 부추꼬막비빔장, 150g, 3개",
-      "price": 14540,
-      "listPrice": 29900,
-      "observedAt": "2026-08-28T04:27:54.143Z",
-      "url": "https://toss.im/_m/HV1R1pRf",
-      "image": "assets/products/98ee864c379426a1c1e9.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 14540,
-          "observedAt": "2026-08-28T04:27:54.143Z"
-        },
-        {
-          "price": 14540,
-          "observedAt": "2026-08-27T09:57:14.993Z"
-        },
-        {
-          "price": 14540,
-          "observedAt": "2026-08-27T08:27:36.866Z"
         }
       ]
     },
