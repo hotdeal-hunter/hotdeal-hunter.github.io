@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T02:53:28.131Z",
+  "updatedAt": "2026-08-29T03:10:09.098Z",
   "deals": [
+    {
+      "id": "toss:p:98069119|n:신지모루 슬림 포켓 방수팩, ipx8, 4중잠금, 화이트, 1개",
+      "source": "toss",
+      "name": "신지모루 슬림 포켓 방수팩, IPX8, 4중잠금, 화이트, 1개",
+      "price": 4610,
+      "listPrice": 9000,
+      "observedAt": "2026-08-29T03:09:51.012Z",
+      "url": "https://toss.im/_m/ngVVgmSp",
+      "image": "assets/products/9d11c3b1369ae788fd69.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4610,
+          "observedAt": "2026-08-29T03:09:51.012Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2405766003|n:채선당 굴림만두전골 + 청담동 떡볶이, 1450g, 1개",
       "source": "toss",
@@ -276,7 +293,7 @@
       "listPrice": 12100,
       "observedAt": "2026-08-28T22:08:48.764Z",
       "url": "https://link.coupang.com/a/gAZJYyyEx2",
-      "image": null,
+      "image": "assets/products/29d656313b842e860c54.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -454,7 +471,7 @@
       "listPrice": 22960,
       "observedAt": "2026-08-28T10:46:50.662Z",
       "url": "https://link.coupang.com/a/gAc0vSE7l6",
-      "image": null,
+      "image": "assets/products/d7811eb3a9bc0b0e0847.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -799,7 +816,7 @@
       "listPrice": 15692,
       "observedAt": "2026-08-28T06:14:17.715Z",
       "url": "https://link.coupang.com/a/gzTwTuE8Au",
-      "image": null,
+      "image": "assets/products/a6026a7e07740fa76160.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1043,7 +1060,7 @@
       "listPrice": 9702,
       "observedAt": "2026-08-28T01:03:26.082Z",
       "url": "https://link.coupang.com/a/gzxjBfUocm",
-      "image": null,
+      "image": "assets/products/b5dc89392d40caff9aa9.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
