@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T09:18:11.610Z",
+  "updatedAt": "2026-08-29T09:31:33.268Z",
   "deals": [
+    {
+      "id": "toss:p:12523503|n:acro 스마트 디지털 체중계, ibody-100, 화이트, 1개",
+      "source": "toss",
+      "name": "ACRO 스마트 디지털 체중계, ibody-100, 화이트, 1개",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T09:31:05.822Z",
+      "url": "https://toss.im/_m/DZFSnGRD",
+      "image": "assets/products/2561d747be378e710365.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-08-29T09:31:05.822Z"
+        }
+      ]
+    },
     {
       "id": "p:6746052927|i:18714537128|v:85322527876",
       "source": "coupang",
