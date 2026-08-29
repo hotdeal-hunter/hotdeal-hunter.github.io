@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T02:33:18.906Z",
+  "updatedAt": "2026-08-29T02:38:31.962Z",
   "deals": [
+    {
+      "id": "toss:p:2099001741|n:상신 단짠바삭 스틱돈까스, 500g, 1개",
+      "source": "toss",
+      "name": "상신 단짠바삭 스틱돈까스, 500g, 1개",
+      "price": 6960,
+      "listPrice": null,
+      "observedAt": "2026-08-29T02:38:05.766Z",
+      "url": "https://toss.im/_m/XkUIesnh",
+      "image": "assets/products/5681120d1e56267eaf87.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6960,
+          "observedAt": "2026-08-29T02:38:05.766Z"
+        }
+      ]
+    },
     {
       "id": "p:6915388117|i:22729561129|v:89764902796",
       "source": "coupang",
