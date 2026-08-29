@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T09:15:31.893Z",
+  "updatedAt": "2026-08-29T09:18:11.610Z",
   "deals": [
+    {
+      "id": "p:6746052927|i:18714537128|v:85322527876",
+      "source": "coupang",
+      "name": "리큐 진한겔 꿉꿉한 냄새 원인물질 싹 일반드럼겸용 프레시 런드리향 액상세제 리필, 2.1L, 6개",
+      "price": 19360,
+      "listPrice": 76800,
+      "observedAt": "2026-08-29T09:17:53.817Z",
+      "url": "https://link.coupang.com/a/gBLytxbrH2",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19360,
+          "observedAt": "2026-08-29T09:17:53.817Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:941908529|n:연안식당 부추꼬막비빔장, 150g, 3개",
       "source": "toss",
