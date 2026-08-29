@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-08-29T00:56:40.185Z",
+  "updatedAt": "2026-08-29T01:26:31.471Z",
   "deals": [
+    {
+      "id": "toss:p:108911489|n:호정가 뉴트리션 하루영양바, 25g, 20개입, 1박스",
+      "source": "toss",
+      "name": "호정가 뉴트리션 하루영양바, 25g, 20개입, 1박스",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T01:25:55.897Z",
+      "url": "https://toss.im/_m/D7YMEqLu",
+      "image": "assets/products/abe983dff3dd2f3e5d31.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-29T01:25:55.897Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2025206683|n:크래미 몬스터크랩, 72g, 20개",
+      "source": "toss",
+      "name": "크래미 몬스터크랩, 72g, 20개",
+      "price": 14690,
+      "listPrice": null,
+      "observedAt": "2026-08-29T01:02:35.841Z",
+      "url": "https://toss.im/_m/fHgh7ZG4",
+      "image": "assets/products/75f72284ac694d9bf918.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14690,
+          "observedAt": "2026-08-29T01:02:35.841Z"
+        },
+        {
+          "price": 14690,
+          "observedAt": "2026-08-29T00:29:58.993Z"
+        }
+      ]
+    },
     {
       "id": "p:6924856145|i:23974606897|v:90995906803",
       "source": "coupang",
@@ -32,23 +70,6 @@
         {
           "price": 12500,
           "observedAt": "2026-08-29T00:32:38.710Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2025206683|n:크래미 몬스터크랩, 72g, 20개",
-      "source": "toss",
-      "name": "크래미 몬스터크랩, 72g, 20개",
-      "price": 14690,
-      "listPrice": null,
-      "observedAt": "2026-08-29T00:29:58.993Z",
-      "url": "https://toss.im/_m/fHgh7ZG4",
-      "image": "assets/products/75f72284ac694d9bf918.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14690,
-          "observedAt": "2026-08-29T00:29:58.993Z"
         }
       ]
     },
