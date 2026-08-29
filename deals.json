@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-29T12:50:49.713Z",
+  "updatedAt": "2026-08-29T12:55:48.955Z",
   "deals": [
+    {
+      "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
+      "source": "toss",
+      "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+      "price": 12150,
+      "listPrice": 33600,
+      "observedAt": "2026-08-29T12:55:32.444Z",
+      "url": "https://toss.im/_m/VXnJfNt7",
+      "image": "assets/products/c9057499c176ef243ad5.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12150,
+          "observedAt": "2026-08-29T12:55:32.444Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-17T13:16:24.053Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-17T04:07:06.630Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78030567|n:바삭쫄깃 우리쌀 호떡군만두, 960g, 1봉",
       "source": "toss",
@@ -10163,27 +10188,6 @@
         {
           "price": 58900,
           "observedAt": "2026-08-17T13:16:24.147Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
-      "source": "toss",
-      "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
-      "price": 11900,
-      "listPrice": null,
-      "observedAt": "2026-08-17T13:16:24.053Z",
-      "url": "https://toss.im/_m/VXnJfNt7",
-      "image": "assets/products/c9057499c176ef243ad5.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-08-17T13:16:24.053Z"
-        },
-        {
-          "price": 11900,
-          "observedAt": "2026-08-17T04:07:06.630Z"
         }
       ]
     },
