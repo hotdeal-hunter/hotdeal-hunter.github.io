@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T04:24:50.787Z",
+  "updatedAt": "2026-08-29T04:27:23.596Z",
   "deals": [
+    {
+      "id": "toss:p:211102673|n:국내산 중사이즈 자반 고등어, 10마리, 2.8kg 내외, 1세트",
+      "source": "toss",
+      "name": "국내산 중사이즈 자반 고등어, 10마리, 2.8kg 내외, 1세트",
+      "price": 12690,
+      "listPrice": 35000,
+      "observedAt": "2026-08-29T04:26:05.579Z",
+      "url": "https://toss.im/_m/TbPaeoI8",
+      "image": "assets/products/299ff3d456d5ccc75cb4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12690,
+          "observedAt": "2026-08-29T04:26:05.579Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:679449291|n:널담 뚱카롱 두바이 초코에디션, 50g, 8봉, 2박스",
       "source": "toss",
