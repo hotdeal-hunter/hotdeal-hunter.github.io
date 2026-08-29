@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T03:42:23.157Z",
+  "updatedAt": "2026-08-29T04:24:50.787Z",
   "deals": [
+    {
+      "id": "toss:p:679449291|n:널담 뚱카롱 두바이 초코에디션, 50g, 8봉, 2박스",
+      "source": "toss",
+      "name": "널담 뚱카롱 두바이 초코에디션, 50g, 8봉, 2박스",
+      "price": 12970,
+      "listPrice": null,
+      "observedAt": "2026-08-29T04:24:23.474Z",
+      "url": "https://toss.im/_m/Nps3XQaA",
+      "image": "assets/products/1c6c9516c0951b2b6197.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12970,
+          "observedAt": "2026-08-29T04:24:23.474Z"
+        }
+      ]
+    },
     {
       "id": "p:7239236782|i:18522058889|v:85861664221",
       "source": "coupang",
