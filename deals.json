@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-29T01:40:03.838Z",
+  "updatedAt": "2026-08-29T02:27:04.422Z",
   "deals": [
+    {
+      "id": "p:1260993885|i:2262045898|v:70259320197",
+      "source": "coupang",
+      "name": "신라명과 달보드레 카스테라, 576g, 1박스",
+      "price": 13940,
+      "listPrice": 18768,
+      "observedAt": "2026-08-29T02:26:46.217Z",
+      "url": "https://link.coupang.com/a/gBiaQ1sFae",
+      "image": "assets/products/32f8db8733fbc6e2126b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13940,
+          "observedAt": "2026-08-29T02:26:46.217Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2319481167|n:연세두유 무가당 고칼슘 검은콩 두유, 190ml, 48개",
       "source": "toss",
       "name": "연세두유 무가당 고칼슘 검은콩 두유, 190ml, 48개",
       "price": 16800,
       "listPrice": null,
-      "observedAt": "2026-08-29T01:39:50.295Z",
+      "observedAt": "2026-08-29T01:42:32.010Z",
       "url": "https://toss.im/_m/HtsLCpo3",
       "image": "assets/products/44ac3b7aeb0ee913d174.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 16800,
+          "observedAt": "2026-08-29T01:42:32.010Z"
+        },
         {
           "price": 16800,
           "observedAt": "2026-08-29T01:39:50.295Z"
