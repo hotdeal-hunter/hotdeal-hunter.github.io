@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T01:33:30.758Z",
+  "updatedAt": "2026-08-29T01:36:03.479Z",
   "deals": [
+    {
+      "id": "p:9647697513|i:28882079591|v:95815002593",
+      "source": "coupang",
+      "name": "코카콜라 제로 레몬라임, 190ml, 30개",
+      "price": 12870,
+      "listPrice": 17322,
+      "observedAt": "2026-08-29T01:34:44.470Z",
+      "url": "https://link.coupang.com/a/gBeskWESC4",
+      "image": "assets/products/76fe26b46c91b0b2c9e3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12870,
+          "observedAt": "2026-08-29T01:34:44.470Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2589191021|n:일양약품 비타민d 2000iu 플러스, 100정, 1개",
       "source": "toss",
