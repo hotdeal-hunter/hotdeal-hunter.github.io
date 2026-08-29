@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-29T01:26:31.471Z",
+  "updatedAt": "2026-08-29T01:29:18.948Z",
   "deals": [
+    {
+      "id": "toss:p:10046715|n:몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
+      "source": "toss",
+      "name": "몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T01:27:50.217Z",
+      "url": "https://toss.im/_m/FUsmXGFp",
+      "image": "assets/products/09bee28f151c05b5d98c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-08-29T01:27:50.217Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-08-28T23:08:32.875Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:108911489|n:호정가 뉴트리션 하루영양바, 25g, 20개입, 1박스",
       "source": "toss",
@@ -104,23 +125,6 @@
         {
           "price": 11900,
           "observedAt": "2026-08-28T23:19:35.109Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:10046715|n:몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
-      "source": "toss",
-      "name": "몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
-      "price": 3900,
-      "listPrice": null,
-      "observedAt": "2026-08-28T23:08:32.875Z",
-      "url": "https://toss.im/_m/FUsmXGFp",
-      "image": "assets/products/09bee28f151c05b5d98c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3900,
-          "observedAt": "2026-08-28T23:08:32.875Z"
         }
       ]
     },
