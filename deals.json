@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T06:13:52.981Z",
+  "updatedAt": "2026-08-29T06:43:21.012Z",
   "deals": [
+    {
+      "id": "p:8392201505|i:18625222636|v:85760605084",
+      "source": "coupang",
+      "name": "생활공작소 페이셜 무표백 천연펄프 미용티슈 2겹, 250매, 12개",
+      "price": 12000,
+      "listPrice": null,
+      "observedAt": "2026-08-29T06:43:07.084Z",
+      "url": "https://link.coupang.com/a/gBAuJlCEmW",
+      "image": "assets/products/6b111493fcd6a4ced17f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12000,
+          "observedAt": "2026-08-29T06:43:07.084Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:64109399|n:슈가로로 스파클링 사과맛, 250ml, 30개",
       "source": "toss",
