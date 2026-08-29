@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T04:27:23.596Z",
+  "updatedAt": "2026-08-29T04:46:35.915Z",
   "deals": [
+    {
+      "id": "p:8625137007|i:25009116545|v:92048292590",
+      "source": "coupang",
+      "name": "퍼기 인덕션 무연마제 통 5중 스텐 316 후라이펜, 16cm, 1개",
+      "price": 48930,
+      "listPrice": 120000,
+      "observedAt": "2026-08-29T04:46:17.704Z",
+      "url": "https://link.coupang.com/a/gBr81l6zdI",
+      "image": "assets/products/8629ff34dd8a347afc81.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 48930,
+          "observedAt": "2026-08-29T04:46:17.704Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:211102673|n:국내산 중사이즈 자반 고등어, 10마리, 2.8kg 내외, 1세트",
       "source": "toss",
