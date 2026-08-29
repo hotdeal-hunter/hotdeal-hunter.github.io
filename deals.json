@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T09:31:33.268Z",
+  "updatedAt": "2026-08-29T09:42:27.586Z",
   "deals": [
+    {
+      "id": "p:276993644|i:877422331|v:5213825519",
+      "source": "coupang",
+      "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개",
+      "price": 3990,
+      "listPrice": null,
+      "observedAt": "2026-08-29T09:42:10.842Z",
+      "url": "https://link.coupang.com/a/gBNh3NVPae",
+      "image": "assets/products/fcca7e81cedc033ce651.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-08-29T09:42:10.842Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:12523503|n:acro 스마트 디지털 체중계, ibody-100, 화이트, 1개",
       "source": "toss",
