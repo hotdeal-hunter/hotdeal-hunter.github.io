@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T01:29:18.948Z",
+  "updatedAt": "2026-08-29T01:33:30.758Z",
   "deals": [
+    {
+      "id": "toss:p:2589191021|n:일양약품 비타민d 2000iu 플러스, 100정, 1개",
+      "source": "toss",
+      "name": "일양약품 비타민D 2000IU 플러스, 100정, 1개",
+      "price": 8500,
+      "listPrice": null,
+      "observedAt": "2026-08-29T01:33:07.054Z",
+      "url": "https://toss.im/_m/zMxOa4vy",
+      "image": "assets/products/24e7064b19b2a966e4bb.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-29T01:33:07.054Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:10046715|n:몽베스트 위드 더 블랜딩 하우스, 블랜딩 티 녹차&홍차, 40개입, 1개",
       "source": "toss",
