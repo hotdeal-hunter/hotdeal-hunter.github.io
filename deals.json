@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T07:10:43.431Z",
+  "updatedAt": "2026-08-29T07:13:28.939Z",
   "deals": [
+    {
+      "id": "toss:p:135091649|n:심플 화이트 보관함, 20개",
+      "source": "toss",
+      "name": "심플 화이트 보관함, 20개",
+      "price": 11510,
+      "listPrice": null,
+      "observedAt": "2026-08-29T07:12:00.469Z",
+      "url": "https://toss.im/_m/NxRo9dVD",
+      "image": "assets/products/7d7409d3b884b625fd99.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11510,
+          "observedAt": "2026-08-29T07:12:00.469Z"
+        }
+      ]
+    },
     {
       "id": "p:6529883355|i:17656542256|v:84822073265",
       "source": "coupang",
