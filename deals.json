@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T00:30:11.388Z",
+  "updatedAt": "2026-08-29T00:33:05.319Z",
   "deals": [
+    {
+      "id": "toss:p:2632738725|n:투다리 오리지널 김치우동, 431g, 2개",
+      "source": "toss",
+      "name": "투다리 오리지널 김치우동, 431g, 2개",
+      "price": 12500,
+      "listPrice": null,
+      "observedAt": "2026-08-29T00:32:38.710Z",
+      "url": "https://toss.im/_m/ZSt33We2",
+      "image": "assets/products/6215d920b9159ef9534c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12500,
+          "observedAt": "2026-08-29T00:32:38.710Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2025206683|n:크래미 몬스터크랩, 72g, 20개",
       "source": "toss",
