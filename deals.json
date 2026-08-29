@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T03:19:50.020Z",
+  "updatedAt": "2026-08-29T03:42:23.157Z",
   "deals": [
+    {
+      "id": "p:7239236782|i:18522058889|v:85861664221",
+      "source": "coupang",
+      "name": "유로푸드 유기농 레몬주스, 500ml, 2개",
+      "price": 10510,
+      "listPrice": 24000,
+      "observedAt": "2026-08-29T03:42:05.037Z",
+      "url": "https://link.coupang.com/a/gBnywQq028",
+      "image": "assets/products/76ee31d7c2d163f70a87.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10510,
+          "observedAt": "2026-08-29T03:42:05.037Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:455897377|n:선비찬 사골부대찌개 얼큰고소 사골육수, 600g, 3개 + 라면사리 1봉 증정",
       "source": "toss",
