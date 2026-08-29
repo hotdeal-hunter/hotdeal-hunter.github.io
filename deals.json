@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-08-29T10:47:08.389Z",
+  "updatedAt": "2026-08-29T11:34:12.210Z",
   "deals": [
+    {
+      "id": "p:7925691039|i:22490850926|v:88836699384",
+      "source": "coupang",
+      "name": "완전두유 검은콩 17곡 고칼슘, 190ml, 60개",
+      "price": 18800,
+      "listPrice": 38400,
+      "observedAt": "2026-08-29T11:33:53.373Z",
+      "url": "https://link.coupang.com/a/gBVgZrxhTg",
+      "image": "assets/products/bae6919d8c2232b1608e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18800,
+          "observedAt": "2026-08-29T11:33:53.373Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:184213065|n:광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
       "source": "toss",
       "name": "광천김 파래 도시락김 카카오프렌즈, 4g, 27봉",
       "price": 9900,
       "listPrice": null,
-      "observedAt": "2026-08-29T10:46:56.077Z",
+      "observedAt": "2026-08-29T11:02:25.307Z",
       "url": "https://toss.im/_m/vLvF3JY5",
       "image": "assets/products/950070ebd06b234078c7.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-29T11:02:25.307Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-29T10:54:11.480Z"
+        },
         {
           "price": 9900,
           "observedAt": "2026-08-29T10:46:56.077Z"
