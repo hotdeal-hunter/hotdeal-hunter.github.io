@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T05:09:03.922Z",
+  "updatedAt": "2026-08-29T06:11:10.896Z",
   "deals": [
+    {
+      "id": "p:8900270459|i:1001210931|v:5429923146",
+      "source": "coupang",
+      "name": "해피콜 클래식 다이아몬드 냄비세트 6종, 혼합색상, 냄비 6종, 1세트",
+      "price": 178900,
+      "listPrice": 821800,
+      "observedAt": "2026-08-29T06:10:52.735Z",
+      "url": "https://link.coupang.com/a/gBybLARc6e",
+      "image": "assets/products/608f033a898a3c41620a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 178900,
+          "observedAt": "2026-08-29T06:10:52.735Z"
+        }
+      ]
+    },
     {
       "id": "p:8366421156|i:24173033408|v:91191257812",
       "source": "coupang",
