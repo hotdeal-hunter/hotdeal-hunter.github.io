@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T08:52:23.080Z",
+  "updatedAt": "2026-08-29T09:12:37.934Z",
   "deals": [
+    {
+      "id": "toss:p:599038939|n:똑순이 알고니 알탕, 700g, 2개",
+      "source": "toss",
+      "name": "똑순이 알고니 알탕, 700g, 2개",
+      "price": 13900,
+      "listPrice": 24900,
+      "observedAt": "2026-08-29T09:12:20.378Z",
+      "url": "https://toss.im/_m/9rHoKEPo",
+      "image": "assets/products/74e2a5ae42fa461c9ac2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-08-29T09:12:20.378Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:304732531|n:산지로드 소갈비살, 1kg, 1개",
       "source": "toss",
