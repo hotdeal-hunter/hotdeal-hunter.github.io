@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T23:09:14.036Z",
+  "updatedAt": "2026-08-29T23:43:37.029Z",
   "deals": [
+    {
+      "id": "toss:p:1143576413|n:피지오겔 dmt 데일리보습 페이셜 크림, 75ml, 1개 + 증정 레드수딩시카 크림, 10ml, 1개",
+      "source": "toss",
+      "name": "피지오겔 DMT 데일리보습 페이셜 크림, 75ml, 1개 + 증정 레드수딩시카 크림, 10ml, 1개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-08-29T23:43:09.673Z",
+      "url": "https://toss.im/_m/xRUmEroi",
+      "image": "assets/products/0dfc6cca6ef48ba9c5cf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-29T23:43:09.673Z"
+        }
+      ]
+    },
     {
       "id": "p:6830320694|i:24016969088|v:91037577268",
       "source": "coupang",
