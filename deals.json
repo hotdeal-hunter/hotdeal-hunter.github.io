@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T09:42:27.586Z",
+  "updatedAt": "2026-08-29T10:23:28.837Z",
   "deals": [
+    {
+      "id": "p:7771483157|i:20981865230|v:88046652408",
+      "source": "coupang",
+      "name": "스너글 허거블 코튼 클린 앤 케어 캡슐세제, 27개입, 1개",
+      "price": 8990,
+      "listPrice": 26900,
+      "observedAt": "2026-08-29T10:23:10.644Z",
+      "url": "https://link.coupang.com/a/gBQdHevaCa",
+      "image": "assets/products/aca951e0a0e32b548ce3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-08-29T10:23:10.644Z"
+        }
+      ]
+    },
     {
       "id": "p:276993644|i:877422331|v:5213825519",
       "source": "coupang",
