@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T22:05:30.965Z",
+  "updatedAt": "2026-08-30T22:30:23.351Z",
   "deals": [
+    {
+      "id": "p:8775809476|i:25349846755|v:92344292206",
+      "source": "coupang",
+      "name": "맥시칸 핫크리스피 순살 (냉동), 350g, 4개, 350g × 4개",
+      "price": 12920,
+      "listPrice": 24560,
+      "observedAt": "2026-08-30T22:30:05.206Z",
+      "url": "https://link.coupang.com/a/gEk4jfexs6",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12920,
+          "observedAt": "2026-08-30T22:30:05.206Z"
+        }
+      ]
+    },
     {
       "id": "p:9317781182|i:27574539723|v:94538352858",
       "source": "coupang",
