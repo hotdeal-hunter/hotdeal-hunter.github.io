@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T04:44:46.043Z",
+  "updatedAt": "2026-08-30T05:00:19.821Z",
   "deals": [
+    {
+      "id": "p:8245824385|i:27239055720|v:94034890092",
+      "source": "coupang",
+      "name": "조지아 크래프트 아메리카노, 470ml, 24개",
+      "price": 16990,
+      "listPrice": 46000,
+      "observedAt": "2026-08-30T05:00:01.431Z",
+      "url": "https://link.coupang.com/a/gC71S9zBQG",
+      "image": "assets/products/8905aca0cc6a45ceb133.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16990,
+          "observedAt": "2026-08-30T05:00:01.431Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56337581|n:풀무원샘물, 라벨랜덤, 500ml, 100개",
       "source": "toss",
