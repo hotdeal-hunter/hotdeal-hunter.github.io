@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-30T12:17:22.933Z",
+  "updatedAt": "2026-08-30T12:20:03.451Z",
   "deals": [
+    {
+      "id": "p:276993644|i:877422331|v:5213825519",
+      "source": "coupang",
+      "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개, 330g × 1개",
+      "price": 3990,
+      "listPrice": 6999,
+      "observedAt": "2026-08-30T12:18:45.373Z",
+      "url": "https://link.coupang.com/a/gDDnOkcnwO",
+      "image": "assets/products/fcca7e81cedc033ce651.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-08-30T12:18:45.373Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-08-29T09:42:10.842Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2632723567|n:닭다리살 파닭꼬치, 40~50g, 20개, 1세트",
+      "source": "toss",
+      "name": "닭다리살 파닭꼬치, 40~50g, 20개, 1세트",
+      "price": 16500,
+      "listPrice": null,
+      "observedAt": "2026-08-30T12:17:41.180Z",
+      "url": "https://toss.im/_m/ZDyNkdAC",
+      "image": "assets/products/0a697527dd3fd2b2a1d4.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 16500,
+          "observedAt": "2026-08-30T12:17:41.180Z"
+        },
+        {
+          "price": 16500,
+          "observedAt": "2026-08-30T08:46:37.524Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:790331955|n:포천이동갈비, 1kg, 2팩",
       "source": "toss",
@@ -125,23 +167,6 @@
         {
           "price": 27900,
           "observedAt": "2026-08-30T10:24:50.704Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632723567|n:닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
-      "source": "toss",
-      "name": "닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
-      "price": 16500,
-      "listPrice": 33900,
-      "observedAt": "2026-08-30T08:46:37.524Z",
-      "url": "https://toss.im/_m/ZDyNkdAC",
-      "image": "assets/products/84585d5e678a4e425bd3.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16500,
-          "observedAt": "2026-08-30T08:46:37.524Z"
         }
       ]
     },
@@ -1000,23 +1025,6 @@
         {
           "price": 8990,
           "observedAt": "2026-08-29T10:23:10.644Z"
-        }
-      ]
-    },
-    {
-      "id": "p:276993644|i:877422331|v:5213825519",
-      "source": "coupang",
-      "name": "풀무원 새콤달콤 국산콩 두부로 만든 유부초밥, 330g, 1개",
-      "price": 3990,
-      "listPrice": null,
-      "observedAt": "2026-08-29T09:42:10.842Z",
-      "url": "https://link.coupang.com/a/gBNh3NVPae",
-      "image": "assets/products/fcca7e81cedc033ce651.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3990,
-          "observedAt": "2026-08-29T09:42:10.842Z"
         }
       ]
     },
