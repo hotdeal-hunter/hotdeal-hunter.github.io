@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T05:00:19.821Z",
+  "updatedAt": "2026-08-30T05:15:50.320Z",
   "deals": [
+    {
+      "id": "toss:p:112047261|n:프로버블리 어성초 중성 비누, 110g, 7개",
+      "source": "toss",
+      "name": "프로버블리 어성초 중성 비누, 110g, 7개",
+      "price": 12900,
+      "listPrice": 21900,
+      "observedAt": "2026-08-30T05:15:32.837Z",
+      "url": "https://toss.im/_m/LkSO3kT1",
+      "image": "assets/products/3b381584f4f19a3ff77a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-30T05:15:32.837Z"
+        }
+      ]
+    },
     {
       "id": "p:8245824385|i:27239055720|v:94034890092",
       "source": "coupang",
