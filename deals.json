@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T12:14:35.450Z",
+  "updatedAt": "2026-08-30T12:17:22.933Z",
   "deals": [
     {
       "id": "toss:p:790331955|n:포천이동갈비, 1kg, 2팩",
@@ -7,14 +7,35 @@
       "name": "포천이동갈비, 1kg, 2팩",
       "price": 42900,
       "listPrice": null,
-      "observedAt": "2026-08-30T12:14:07.451Z",
+      "observedAt": "2026-08-30T12:15:54.241Z",
       "url": "https://toss.im/_m/TRWbRySl",
       "image": "assets/products/d70afe70068334b8cdb4.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 42900,
+          "observedAt": "2026-08-30T12:15:54.241Z"
+        },
+        {
+          "price": 42900,
           "observedAt": "2026-08-30T12:14:07.451Z"
+        }
+      ]
+    },
+    {
+      "id": "p:252301180|i:795038805|v:5018255169",
+      "source": "coupang",
+      "name": "코멧 시그니처 아기물티슈 엠보싱 캡형 저자극 더마테스트 시험완료, 55g, 100매, 10개",
+      "price": 9990,
+      "listPrice": 23900,
+      "observedAt": "2026-08-30T12:15:50.306Z",
+      "url": "https://link.coupang.com/a/gDDaSSyycK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-08-30T12:15:50.306Z"
         }
       ]
     },
