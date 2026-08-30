@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T05:15:50.320Z",
+  "updatedAt": "2026-08-30T05:18:43.659Z",
   "deals": [
+    {
+      "id": "toss:p:1011459761|n:에뛰드 순정디렉터 톤업 수정 선크림, 40ml, 2개",
+      "source": "toss",
+      "name": "에뛰드 순정디렉터 톤업 수정 선크림, 40ml, 2개",
+      "price": 6900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T05:18:19.910Z",
+      "url": "https://toss.im/_m/vVwYiapD",
+      "image": "assets/products/79759e7c645f79530760.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-30T05:18:19.910Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:112047261|n:프로버블리 어성초 중성 비누, 110g, 7개",
       "source": "toss",
