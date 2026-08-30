@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T03:51:17.875Z",
+  "updatedAt": "2026-08-30T04:03:18.874Z",
   "deals": [
+    {
+      "id": "p:8085254032|i:22950599379|v:90140600313",
+      "source": "coupang",
+      "name": "썬키스트 제로 자두자몽 소다, 190ml, 30개",
+      "price": 10430,
+      "listPrice": 13924,
+      "observedAt": "2026-08-30T04:03:00.787Z",
+      "url": "https://link.coupang.com/a/gC3Xiu8OrI",
+      "image": "assets/products/0a878bfc78ed0715542a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10430,
+          "observedAt": "2026-08-30T04:03:00.787Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2521973331|n:로투스 비스코프 쿠키 싱글팩 50p, 312.5g, 6개",
       "source": "toss",
