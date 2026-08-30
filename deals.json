@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T00:16:37.780Z",
+  "updatedAt": "2026-08-30T00:21:54.245Z",
   "deals": [
+    {
+      "id": "toss:p:2638257895|n:프로프룻 햇 홍로사과, 5kg, 1박스",
+      "source": "toss",
+      "name": "프로프룻 햇 홍로사과, 5kg, 1박스",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T00:21:26.550Z",
+      "url": "https://toss.im/_m/rLbe5yD",
+      "image": "assets/products/34e6a15e66188b17b1a3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-30T00:21:26.550Z"
+        }
+      ]
+    },
     {
       "id": "p:8463498658|i:23082509046|v:90116008444",
       "source": "coupang",
