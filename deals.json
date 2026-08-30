@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T01:47:58.113Z",
+  "updatedAt": "2026-08-30T02:14:03.008Z",
   "deals": [
+    {
+      "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
+      "source": "toss",
+      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+      "price": 12900,
+      "listPrice": 19900,
+      "observedAt": "2026-08-30T02:13:44.596Z",
+      "url": "https://toss.im/_m/NrRC8HSu",
+      "image": "assets/products/dc7b3a6f06fb8993d734.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-30T02:13:44.596Z"
+        }
+      ]
+    },
     {
       "id": "p:7493107191|i:19597292509|v:87090084593",
       "source": "coupang",
