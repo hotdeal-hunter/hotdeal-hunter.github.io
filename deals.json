@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T11:21:23.482Z",
+  "updatedAt": "2026-08-30T12:14:35.450Z",
   "deals": [
+    {
+      "id": "toss:p:790331955|n:포천이동갈비, 1kg, 2팩",
+      "source": "toss",
+      "name": "포천이동갈비, 1kg, 2팩",
+      "price": 42900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T12:14:07.451Z",
+      "url": "https://toss.im/_m/TRWbRySl",
+      "image": "assets/products/d70afe70068334b8cdb4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 42900,
+          "observedAt": "2026-08-30T12:14:07.451Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82831369|n:동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
       "source": "toss",
