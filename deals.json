@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-08-30T06:10:31.400Z",
+  "updatedAt": "2026-08-30T07:11:32.686Z",
   "deals": [
+    {
+      "id": "toss:p:120340767|n:채선당 소고기 샤브샤브, 895g, 2개",
+      "source": "toss",
+      "name": "채선당 소고기 샤브샤브, 895g, 2개",
+      "price": 16100,
+      "listPrice": null,
+      "observedAt": "2026-08-30T07:11:08.060Z",
+      "url": "https://toss.im/_m/v3b4rR81",
+      "image": "assets/products/858cc43bc1e65aba74f5.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 16100,
+          "observedAt": "2026-08-30T07:11:08.060Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-30T07:11:07.959Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-27T04:35:10.336Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-27T04:35:10.227Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-21T09:04:37.041Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-21T09:04:36.890Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-19T07:22:41.556Z"
+        },
+        {
+          "price": 16100,
+          "observedAt": "2026-08-18T07:20:51.263Z"
+        }
+      ]
+    },
     {
       "id": "p:7017460309|i:17268392188|v:85007038414",
       "source": "coupang",
@@ -2699,43 +2744,6 @@
         {
           "price": 8740,
           "observedAt": "2026-08-27T01:10:52.678Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120340767|n:채선당 소고기 샤브샤브, 895g, 2개",
-      "source": "toss",
-      "name": "채선당 소고기 샤브샤브, 895g, 2개",
-      "price": 16100,
-      "listPrice": null,
-      "observedAt": "2026-08-27T04:35:10.336Z",
-      "url": "https://toss.im/_m/v3b4rR81",
-      "image": "assets/products/858cc43bc1e65aba74f5.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 16100,
-          "observedAt": "2026-08-27T04:35:10.336Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-27T04:35:10.227Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-21T09:04:37.041Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-21T09:04:36.890Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-19T07:22:41.556Z"
-        },
-        {
-          "price": 16100,
-          "observedAt": "2026-08-18T07:20:51.263Z"
         }
       ]
     },
