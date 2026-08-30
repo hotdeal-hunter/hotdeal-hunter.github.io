@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T01:14:53.969Z",
+  "updatedAt": "2026-08-30T01:47:58.113Z",
   "deals": [
+    {
+      "id": "p:7493107191|i:19597292509|v:87090084593",
+      "source": "coupang",
+      "name": "아띠래빗 유아 논슬립 길이조절 옷걸이, 샌드베이지, 20개",
+      "price": 7900,
+      "listPrice": 16200,
+      "observedAt": "2026-08-30T01:47:39.888Z",
+      "url": "https://link.coupang.com/a/gCUhD2ZNca",
+      "image": "assets/products/fe3b4db66f2acb0aeaa9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-08-30T01:47:39.888Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:109930009|n:코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
       "source": "toss",
