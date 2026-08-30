@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-30T02:48:36.107Z",
+  "updatedAt": "2026-08-30T03:44:53.165Z",
   "deals": [
+    {
+      "id": "p:5391887777|i:8043971585|v:75332578565",
+      "source": "coupang",
+      "name": "알텐바흐 인덕션 헥사 통5중 스텐 프라이팬, 22cm, 1개",
+      "price": 30010,
+      "listPrice": 62440,
+      "observedAt": "2026-08-30T03:44:35.099Z",
+      "url": "https://link.coupang.com/a/gC2DEMyNYO",
+      "image": "assets/products/d1245a310618af8917ea.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 30010,
+          "observedAt": "2026-08-30T03:44:35.099Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:569928231|n:쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+      "source": "toss",
+      "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+      "price": 7080,
+      "listPrice": 25000,
+      "observedAt": "2026-08-30T03:06:06.574Z",
+      "url": "https://toss.im/_m/vVSo4OLu",
+      "image": "assets/products/79b17ee8fb4e4361cdea.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7080,
+          "observedAt": "2026-08-30T03:06:06.574Z"
+        },
+        {
+          "price": 7080,
+          "observedAt": "2026-08-23T05:09:35.455Z"
+        },
+        {
+          "price": 7080,
+          "observedAt": "2026-08-23T05:07:50.821Z"
+        }
+      ]
+    },
     {
       "id": "p:106013|i:18626991163|v:85762364396",
       "source": "coupang",
@@ -6109,27 +6151,6 @@
         {
           "price": 20380,
           "observedAt": "2026-08-23T05:33:12.535Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:569928231|n:쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-      "source": "toss",
-      "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-      "price": 7080,
-      "listPrice": null,
-      "observedAt": "2026-08-23T05:09:35.455Z",
-      "url": "https://toss.im/_m/vVSo4OLu",
-      "image": "assets/products/79b17ee8fb4e4361cdea.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7080,
-          "observedAt": "2026-08-23T05:09:35.455Z"
-        },
-        {
-          "price": 7080,
-          "observedAt": "2026-08-23T05:07:50.821Z"
         }
       ]
     },
