@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-08-30T22:41:49.671Z",
+  "updatedAt": "2026-08-30T23:12:33.803Z",
   "deals": [
+    {
+      "id": "p:8059892463|i:22636647644|v:89677679993",
+      "source": "coupang",
+      "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 9g, 1개",
+      "price": 2600,
+      "listPrice": 6458,
+      "observedAt": "2026-08-30T23:12:15.636Z",
+      "url": "https://link.coupang.com/a/gEn5aa7MZM",
+      "image": "assets/products/0efd880018d56fecf051.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2600,
+          "observedAt": "2026-08-30T23:12:15.636Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:100730739|n:맘스럽 베이킹소다, 파우치, 5kg, 1개",
+      "source": "toss",
+      "name": "맘스럽 베이킹소다, 파우치, 5kg, 1개",
+      "price": 3990,
+      "listPrice": null,
+      "observedAt": "2026-08-30T23:00:31.950Z",
+      "url": "https://toss.im/_m/dQD79rph",
+      "image": "assets/products/3507d6c748c53a030b80.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-08-30T23:00:31.950Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "배부른삼촌 구운란 대란, 30구, 1개",
+      "price": 11800,
+      "listPrice": null,
+      "observedAt": "2026-08-30T23:00:31.857Z",
+      "url": "https://toss.im/_m/ZQPVVCqi",
+      "image": "assets/products/6c6cda3549c4432da881.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-08-30T23:00:31.857Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-27T06:41:59.484Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-27T02:41:15.309Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:51:30.137Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T07:40:01.736Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "source": "toss",
+      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-08-30T23:00:31.560Z",
+      "url": "https://toss.im/_m/3dVjSRpe",
+      "image": "assets/products/a335793bbd90c4528ea9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-08-30T23:00:31.560Z"
+        }
+      ]
+    },
     {
       "id": "p:7495015489|i:23639235258|v:92742413904",
       "source": "coupang",
@@ -2952,35 +3036,6 @@
         {
           "price": 23590,
           "observedAt": "2026-08-27T06:56:00.507Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:847382381|n:배부른삼촌 구운란 대란, 30구, 1개",
-      "source": "toss",
-      "name": "배부른삼촌 구운란 대란, 30구, 1개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-27T06:41:59.484Z",
-      "url": "https://toss.im/_m/ZQPVVCqi",
-      "image": "assets/products/6c6cda3549c4432da881.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-27T06:41:59.484Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-27T02:41:15.309Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:51:30.137Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T07:40:01.736Z"
         }
       ]
     },
