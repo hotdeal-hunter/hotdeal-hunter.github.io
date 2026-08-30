@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-08-30T04:03:18.874Z",
+  "updatedAt": "2026-08-30T04:44:46.043Z",
   "deals": [
+    {
+      "id": "toss:p:56337581|n:풀무원샘물, 라벨랜덤, 500ml, 100개",
+      "source": "toss",
+      "name": "풀무원샘물, 라벨랜덤, 500ml, 100개",
+      "price": 14530,
+      "listPrice": null,
+      "observedAt": "2026-08-30T04:44:18.453Z",
+      "url": "https://toss.im/_m/zyxXMvch",
+      "image": "assets/products/caea09292b1466631ea5.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 14530,
+          "observedAt": "2026-08-30T04:44:18.453Z"
+        },
+        {
+          "price": 14530,
+          "observedAt": "2026-08-27T11:39:57.211Z"
+        },
+        {
+          "price": 14520,
+          "observedAt": "2026-08-21T00:42:26.174Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:801680909|n:풀무원 샘물 생수, 무라벨, 500ml, 80개",
+      "source": "toss",
+      "name": "풀무원 샘물 생수, 무라벨, 500ml, 80개",
+      "price": 11620,
+      "listPrice": null,
+      "observedAt": "2026-08-30T04:44:18.193Z",
+      "url": "https://toss.im/_m/fxe9vRcm",
+      "image": "assets/products/7c0a9687ada53887cdb6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11620,
+          "observedAt": "2026-08-30T04:44:18.193Z"
+        }
+      ]
+    },
+    {
+      "id": "p:106013|i:18626991163|v:85762364396",
+      "source": "coupang",
+      "name": "빅파이 딸기, 216g, 6개",
+      "price": 9210,
+      "listPrice": null,
+      "observedAt": "2026-08-30T04:12:45.115Z",
+      "url": "https://link.coupang.com/a/gC4ErMBp9w",
+      "image": "assets/products/8a46bf5aeb65fd43468b.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9210,
+          "observedAt": "2026-08-30T04:12:45.115Z"
+        },
+        {
+          "price": 9210,
+          "observedAt": "2026-08-30T02:48:18.570Z"
+        }
+      ]
+    },
     {
       "id": "p:8085254032|i:22950599379|v:90140600313",
       "source": "coupang",
@@ -74,23 +137,6 @@
         {
           "price": 7080,
           "observedAt": "2026-08-23T05:07:50.821Z"
-        }
-      ]
-    },
-    {
-      "id": "p:106013|i:18626991163|v:85762364396",
-      "source": "coupang",
-      "name": "빅파이 딸기, 216g, 6개",
-      "price": 9210,
-      "listPrice": 19200,
-      "observedAt": "2026-08-30T02:48:18.570Z",
-      "url": "https://link.coupang.com/a/gCYCkhEcWy",
-      "image": "assets/products/8a46bf5aeb65fd43468b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9210,
-          "observedAt": "2026-08-30T02:48:18.570Z"
         }
       ]
     },
@@ -2218,27 +2264,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-27T11:54:19.642Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56337581|n:풀무원샘물 라벨랜덤, 500ml, 100개",
-      "source": "toss",
-      "name": "풀무원샘물 라벨랜덤, 500ml, 100개",
-      "price": 14530,
-      "listPrice": null,
-      "observedAt": "2026-08-27T11:39:57.211Z",
-      "url": "https://toss.im/_m/zyxXMvch",
-      "image": "assets/products/f6ee47ccb542d0ee64b7.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 14530,
-          "observedAt": "2026-08-27T11:39:57.211Z"
-        },
-        {
-          "price": 14520,
-          "observedAt": "2026-08-21T00:42:26.174Z"
         }
       ]
     },
