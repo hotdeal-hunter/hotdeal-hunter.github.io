@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T23:12:33.803Z",
+  "updatedAt": "2026-08-30T23:20:00.759Z",
   "deals": [
+    {
+      "id": "p:7682241323|i:24410274450|v:95005245645",
+      "source": "coupang",
+      "name": "에뛰드 베이킹 파우더 비비 딥 클렌징 폼 300g + 300g 세트, 1세트",
+      "price": 6800,
+      "listPrice": 13600,
+      "observedAt": "2026-08-30T23:19:42.317Z",
+      "url": "https://link.coupang.com/a/gEoB8Xwkns",
+      "image": "assets/products/9f3010fb6da2d0207f78.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6800,
+          "observedAt": "2026-08-30T23:19:42.317Z"
+        }
+      ]
+    },
     {
       "id": "p:8059892463|i:22636647644|v:89677679993",
       "source": "coupang",
