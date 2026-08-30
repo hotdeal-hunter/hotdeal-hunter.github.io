@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T12:28:07.539Z",
+  "updatedAt": "2026-08-30T12:42:38.467Z",
   "deals": [
+    {
+      "id": "toss:p:1283023123|n:허글리 대용량 섬유탈취제, 코튼캔디, 700ml, 2개",
+      "source": "toss",
+      "name": "허글리 대용량 섬유탈취제, 코튼캔디, 700ml, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T12:42:21.761Z",
+      "url": "https://toss.im/_m/9vRMflA9",
+      "image": "assets/products/fc6924193db7636cb5e5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-30T12:42:21.761Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:93639431|n:애슐리 통새우 볶음밥, 280g, 6개입, 1개",
       "source": "toss",
