@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T12:22:56.919Z",
+  "updatedAt": "2026-08-30T12:28:07.539Z",
   "deals": [
+    {
+      "id": "toss:p:93639431|n:애슐리 통새우 볶음밥, 280g, 6개입, 1개",
+      "source": "toss",
+      "name": "애슐리 통새우 볶음밥, 280g, 6개입, 1개",
+      "price": 12990,
+      "listPrice": 18990,
+      "observedAt": "2026-08-30T12:27:50.037Z",
+      "url": "https://toss.im/_m/TY7JsrC9",
+      "image": "assets/products/49c39ee371da5407c2c4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-08-30T12:27:50.037Z"
+        }
+      ]
+    },
     {
       "id": "p:276993644|i:877422331|v:5213825519",
       "source": "coupang",
