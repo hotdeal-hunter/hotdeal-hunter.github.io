@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T22:30:23.351Z",
+  "updatedAt": "2026-08-30T22:39:06.605Z",
   "deals": [
+    {
+      "id": "toss:p:168856451|n:신선하랑 구운 계란 중란, 60구, 1개",
+      "source": "toss",
+      "name": "신선하랑 구운 계란 중란, 60구, 1개",
+      "price": 18900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T22:38:41.708Z",
+      "url": "https://toss.im/_m/d8zGqGgC",
+      "image": "assets/products/f874047787dbb4bfaece.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-08-30T22:38:41.708Z"
+        }
+      ]
+    },
     {
       "id": "p:8775809476|i:25349846755|v:92344292206",
       "source": "coupang",
