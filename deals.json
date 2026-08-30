@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T01:02:07.339Z",
+  "updatedAt": "2026-08-30T01:04:51.465Z",
   "deals": [
     {
       "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
@@ -7,11 +7,15 @@
       "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
       "price": 58805,
       "listPrice": null,
-      "observedAt": "2026-08-30T01:01:39.033Z",
+      "observedAt": "2026-08-30T01:03:23.820Z",
       "url": "https://toss.im/_m/diLMIWXz",
       "image": "assets/products/2afad42f2ff460614de6.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T01:03:23.820Z"
+        },
         {
           "price": 58805,
           "observedAt": "2026-08-30T01:01:39.033Z"
