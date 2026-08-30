@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T03:44:53.165Z",
+  "updatedAt": "2026-08-30T03:51:17.875Z",
   "deals": [
+    {
+      "id": "toss:p:2521973331|n:로투스 비스코프 쿠키 싱글팩 50p, 312.5g, 6개",
+      "source": "toss",
+      "name": "로투스 비스코프 쿠키 싱글팩 50P, 312.5g, 6개",
+      "price": 16400,
+      "listPrice": null,
+      "observedAt": "2026-08-30T03:50:49.620Z",
+      "url": "https://toss.im/_m/XLh8KsCC",
+      "image": "assets/products/afdc8d854dbdaa8db867.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16400,
+          "observedAt": "2026-08-30T03:50:49.620Z"
+        }
+      ]
+    },
     {
       "id": "p:5391887777|i:8043971585|v:75332578565",
       "source": "coupang",
