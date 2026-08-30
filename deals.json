@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T07:17:42.927Z",
+  "updatedAt": "2026-08-30T07:30:51.948Z",
   "deals": [
+    {
+      "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
+      "source": "toss",
+      "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
+      "price": 12990,
+      "listPrice": 16900,
+      "observedAt": "2026-08-30T07:30:34.071Z",
+      "url": "https://toss.im/_m/ZdJxPbYt",
+      "image": "assets/products/d8a86814404ead5048b8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-08-30T07:30:34.071Z"
+        }
+      ]
+    },
     {
       "id": "p:9297401129|i:27734944096|v:88118147655",
       "source": "coupang",
