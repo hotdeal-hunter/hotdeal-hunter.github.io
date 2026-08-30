@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T10:34:58.647Z",
+  "updatedAt": "2026-08-30T10:37:30.486Z",
   "deals": [
+    {
+      "id": "p:8449987505|i:20099457923|v:5434324919",
+      "source": "coupang",
+      "name": "유한락스 멀티액션 곰팡이제거제, 510ml, 3개",
+      "price": 7670,
+      "listPrice": 13560,
+      "observedAt": "2026-08-30T10:36:12.404Z",
+      "url": "https://link.coupang.com/a/gDv3sE1YHc",
+      "image": "assets/products/60eb47290cd72e8fbcab.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7670,
+          "observedAt": "2026-08-30T10:36:12.404Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1330016943|n:cj제일제당 고메 소바바치킨 순살 5종, 소이허니 240g 1개 + 양념 240g 1개 + 마쏘킥 240g 1개 + 레드핫 240g 1개 + 황금홀릭 240g 1개, 1세트",
       "source": "toss",
