@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T07:11:32.686Z",
+  "updatedAt": "2026-08-30T07:17:42.927Z",
   "deals": [
+    {
+      "id": "p:9297401129|i:27734944096|v:88118147655",
+      "source": "coupang",
+      "name": "엘리자베스아덴 그린티 바디로션, 500ml, 2개",
+      "price": 27390,
+      "listPrice": 46000,
+      "observedAt": "2026-08-30T07:17:25.112Z",
+      "url": "https://link.coupang.com/a/gDhQJESghw",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27390,
+          "observedAt": "2026-08-30T07:17:25.112Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:120340767|n:채선당 소고기 샤브샤브, 895g, 2개",
       "source": "toss",
