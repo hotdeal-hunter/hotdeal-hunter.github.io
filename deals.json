@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-30T05:18:43.659Z",
+  "updatedAt": "2026-08-30T06:10:31.400Z",
   "deals": [
+    {
+      "id": "p:7017460309|i:17268392188|v:85007038414",
+      "source": "coupang",
+      "name": "인블룸 스텐 싱크대 배수구망 + 커버 세트, 1개입, 1세트",
+      "price": 9930,
+      "listPrice": 30900,
+      "observedAt": "2026-08-30T06:10:13.258Z",
+      "url": "https://link.coupang.com/a/gDc2TO6bAG",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9930,
+          "observedAt": "2026-08-30T06:10:13.258Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1011459761|n:에뛰드 순정디렉터 톤업 수정 선크림, 40ml, 2개",
       "source": "toss",
       "name": "에뛰드 순정디렉터 톤업 수정 선크림, 40ml, 2개",
       "price": 6900,
       "listPrice": null,
-      "observedAt": "2026-08-30T05:18:19.910Z",
+      "observedAt": "2026-08-30T05:30:35.136Z",
       "url": "https://toss.im/_m/vVwYiapD",
       "image": "assets/products/79759e7c645f79530760.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-08-30T05:30:35.136Z"
+        },
         {
           "price": 6900,
           "observedAt": "2026-08-30T05:18:19.910Z"
