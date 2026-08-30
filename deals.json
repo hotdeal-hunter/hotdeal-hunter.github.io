@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-30T07:30:51.948Z",
+  "updatedAt": "2026-08-30T08:16:41.087Z",
   "deals": [
+    {
+      "id": "toss:p:849836677|n:떴닭 로스트 치킨, 1kg, 2개",
+      "source": "toss",
+      "name": "떴닭 로스트 치킨, 1kg, 2개",
+      "price": 12540,
+      "listPrice": null,
+      "observedAt": "2026-08-30T08:16:26.610Z",
+      "url": "https://toss.im/_m/Bq1BBLSz",
+      "image": "assets/products/dd376ee876532f97bfc8.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12540,
+          "observedAt": "2026-08-30T08:16:26.610Z"
+        },
+        {
+          "price": 12540,
+          "observedAt": "2026-08-30T07:54:19.847Z"
+        },
+        {
+          "price": 12540,
+          "observedAt": "2026-08-27T08:08:25.024Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2285665775|n:더맛 우삼겹, 250g, 4개",
+      "source": "toss",
+      "name": "더맛 우삼겹, 250g, 4개",
+      "price": 16900,
+      "listPrice": 31900,
+      "observedAt": "2026-08-30T08:16:22.677Z",
+      "url": "https://toss.im/_m/pQJglTCD",
+      "image": "assets/products/0e09c43e3c85c245c3d5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-08-30T08:16:22.677Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
       "source": "toss",
@@ -2546,23 +2588,6 @@
         {
           "price": 15220,
           "observedAt": "2026-08-27T01:58:10.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:849836677|n:떴닭 로스트 치킨, 1kg, 2개",
-      "source": "toss",
-      "name": "떴닭 로스트 치킨, 1kg, 2개",
-      "price": 12540,
-      "listPrice": 20900,
-      "observedAt": "2026-08-27T08:08:25.024Z",
-      "url": "https://toss.im/_m/Bq1BBLSz",
-      "image": "assets/products/dd376ee876532f97bfc8.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12540,
-          "observedAt": "2026-08-27T08:08:25.024Z"
         }
       ]
     },
