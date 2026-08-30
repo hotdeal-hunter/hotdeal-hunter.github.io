@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-30T12:42:38.467Z",
+  "updatedAt": "2026-08-30T22:05:30.965Z",
   "deals": [
+    {
+      "id": "p:9317781182|i:27574539723|v:94538352858",
+      "source": "coupang",
+      "name": "바겐슈타이거 엘로아 플래티넘 실리콘 1인 수저세트, 코코아, 숟가락 + 젓가락, 1개",
+      "price": 4200,
+      "listPrice": 6684,
+      "observedAt": "2026-08-30T22:05:13.215Z",
+      "url": "https://link.coupang.com/a/gEjh83ACUm",
+      "image": "assets/products/6a493fd095f00e4bc572.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4200,
+          "observedAt": "2026-08-30T22:05:13.215Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "source": "toss",
+      "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "price": 58805,
+      "listPrice": null,
+      "observedAt": "2026-08-30T13:38:00.871Z",
+      "url": "https://toss.im/_m/diLMIWXz",
+      "image": "assets/products/2afad42f2ff460614de6.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T13:38:00.871Z"
+        },
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T01:03:23.820Z"
+        },
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T01:01:39.033Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1283023123|n:허글리 대용량 섬유탈취제, 코튼캔디, 700ml, 2개",
       "source": "toss",
@@ -684,27 +726,6 @@
         {
           "price": 14560,
           "observedAt": "2026-08-23T10:30:28.723Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
-      "source": "toss",
-      "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
-      "price": 58805,
-      "listPrice": null,
-      "observedAt": "2026-08-30T01:03:23.820Z",
-      "url": "https://toss.im/_m/diLMIWXz",
-      "image": "assets/products/2afad42f2ff460614de6.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 58805,
-          "observedAt": "2026-08-30T01:03:23.820Z"
-        },
-        {
-          "price": 58805,
-          "observedAt": "2026-08-30T01:01:39.033Z"
         }
       ]
     },
