@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T08:46:54.379Z",
+  "updatedAt": "2026-08-30T10:25:16.194Z",
   "deals": [
+    {
+      "id": "toss:p:183318837|n:맛춤상회 소고기모듬, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개",
+      "source": "toss",
+      "name": "맛춤상회 소고기모듬, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개",
+      "price": 27900,
+      "listPrice": null,
+      "observedAt": "2026-08-30T10:24:50.704Z",
+      "url": "https://toss.im/_m/PNU8wtSy",
+      "image": "assets/products/dae9497ddeed4639f027.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-08-30T10:24:50.704Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2632723567|n:닭다리살 파닭꼬치, 40-50g, 20개, 1세트",
       "source": "toss",
