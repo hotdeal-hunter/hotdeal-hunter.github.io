@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T22:39:06.605Z",
+  "updatedAt": "2026-08-30T22:41:49.671Z",
   "deals": [
+    {
+      "id": "p:7495015489|i:23639235258|v:92742413904",
+      "source": "coupang",
+      "name": "비타500 제로, 180ml, 60개",
+      "price": 21860,
+      "listPrice": 35840,
+      "observedAt": "2026-08-30T22:41:32.915Z",
+      "url": "https://link.coupang.com/a/gElS5YCSc0",
+      "image": "assets/products/5893fd8b559a9cd1cc64.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21860,
+          "observedAt": "2026-08-30T22:41:32.915Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:168856451|n:신선하랑 구운 계란 중란, 60구, 1개",
       "source": "toss",
