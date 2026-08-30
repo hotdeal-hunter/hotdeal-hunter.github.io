@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-29T23:43:37.029Z",
+  "updatedAt": "2026-08-30T00:16:37.780Z",
   "deals": [
+    {
+      "id": "p:8463498658|i:23082509046|v:90116008444",
+      "source": "coupang",
+      "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 2개",
+      "price": 8870,
+      "listPrice": 28000,
+      "observedAt": "2026-08-30T00:16:19.659Z",
+      "url": "https://link.coupang.com/a/gCNKX6ciTl",
+      "image": "assets/products/ee0800ccf7c75f77026b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8870,
+          "observedAt": "2026-08-30T00:16:19.659Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1143576413|n:피지오겔 dmt 데일리보습 페이셜 크림, 75ml, 1개 + 증정 레드수딩시카 크림, 10ml, 1개",
       "source": "toss",
