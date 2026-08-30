@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T02:45:54.979Z",
+  "updatedAt": "2026-08-30T02:48:36.107Z",
   "deals": [
+    {
+      "id": "p:106013|i:18626991163|v:85762364396",
+      "source": "coupang",
+      "name": "빅파이 딸기, 216g, 6개",
+      "price": 9210,
+      "listPrice": 19200,
+      "observedAt": "2026-08-30T02:48:18.570Z",
+      "url": "https://link.coupang.com/a/gCYCkhEcWy",
+      "image": "assets/products/8a46bf5aeb65fd43468b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9210,
+          "observedAt": "2026-08-30T02:48:18.570Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
       "source": "toss",
