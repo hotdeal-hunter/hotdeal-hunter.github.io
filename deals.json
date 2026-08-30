@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T23:20:00.759Z",
+  "updatedAt": "2026-08-30T23:34:40.670Z",
   "deals": [
+    {
+      "id": "toss:p:1934776539|n:아침에 좋은빵 백프로 통밀식빵, 630g, 2개",
+      "source": "toss",
+      "name": "아침에 좋은빵 백프로 통밀식빵, 630g, 2개",
+      "price": 8761,
+      "listPrice": null,
+      "observedAt": "2026-08-30T23:34:13.469Z",
+      "url": "https://toss.im/_m/LMuYGM2c",
+      "image": "assets/products/9ee181c9af81dac0b263.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8761,
+          "observedAt": "2026-08-30T23:34:13.469Z"
+        }
+      ]
+    },
     {
       "id": "p:7682241323|i:24410274450|v:95005245645",
       "source": "coupang",
