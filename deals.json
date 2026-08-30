@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-30T08:16:41.087Z",
+  "updatedAt": "2026-08-30T08:22:53.778Z",
   "deals": [
+    {
+      "id": "p:8261290138|i:23799287068|v:3008436205",
+      "source": "coupang",
+      "name": "깨끗한나라 순수 프리미엄 더 퍼스트 천연펄프 3겹 고급롤화장지, 30m, 30개입, 1개",
+      "price": 16910,
+      "listPrice": 32900,
+      "observedAt": "2026-08-30T08:22:35.814Z",
+      "url": "https://link.coupang.com/a/gDmvvmZ43g",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16910,
+          "observedAt": "2026-08-30T08:22:35.814Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:849836677|n:떴닭 로스트 치킨, 1kg, 2개",
       "source": "toss",
