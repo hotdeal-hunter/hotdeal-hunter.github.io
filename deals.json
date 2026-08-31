@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-08-31T08:41:22.950Z",
+  "updatedAt": "2026-08-31T09:23:41.902Z",
   "deals": [
+    {
+      "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
+      "price": 4590,
+      "listPrice": null,
+      "observedAt": "2026-08-31T09:22:08.357Z",
+      "url": "https://toss.im/_m/R3iKgdir",
+      "image": "assets/products/0a841bfcd52cf5873c1b.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4590,
+          "observedAt": "2026-08-31T09:22:08.357Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-25T23:01:08.663Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-24T07:42:24.734Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:326133815|n:채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
+      "source": "toss",
+      "name": "채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T08:54:16.021Z",
+      "url": "https://toss.im/_m/pZEYYG98",
+      "image": "assets/products/839d9dfc240dddfb8462.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-08-31T08:54:16.021Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-31T00:28:14.731Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1630600255|n:에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 k300 pro, 블랙, 1개",
       "source": "toss",
@@ -463,23 +509,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-31T00:48:19.532Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:326133815|n:채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
-      "source": "toss",
-      "name": "채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-08-31T00:28:14.731Z",
-      "url": "https://toss.im/_m/pZEYYG98",
-      "image": "assets/products/839d9dfc240dddfb8462.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-08-31T00:28:14.731Z"
         }
       ]
     },
@@ -4997,27 +5026,6 @@
         {
           "price": 8500,
           "observedAt": "2026-08-21T02:10:58.616Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
-      "price": 4590,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:01:08.663Z",
-      "url": "https://toss.im/_m/R3iKgdir",
-      "image": "assets/products/0a841bfcd52cf5873c1b.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4590,
-          "observedAt": "2026-08-25T23:01:08.663Z"
-        },
-        {
-          "price": 4590,
-          "observedAt": "2026-08-24T07:42:24.734Z"
         }
       ]
     },
