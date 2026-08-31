@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T23:02:02.670Z",
+  "updatedAt": "2026-08-31T23:24:44.963Z",
   "deals": [
+    {
+      "id": "p:251108024|i:792445939|v:5011205462",
+      "source": "coupang",
+      "name": "외갓집 진심 육개장 (냉동), 600g, 4개",
+      "price": 11980,
+      "listPrice": 16339,
+      "observedAt": "2026-08-31T23:24:33.231Z",
+      "url": "https://link.coupang.com/a/gF3RFsC3Fc",
+      "image": "assets/products/7d8ad29a072a74f2f63d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11980,
+          "observedAt": "2026-08-31T23:24:33.231Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "source": "toss",
@@ -122,7 +139,7 @@
       "listPrice": 14220,
       "observedAt": "2026-08-31T22:54:04.925Z",
       "url": "https://link.coupang.com/a/gF1GE1FWnc",
-      "image": null,
+      "image": "assets/products/b2e2767d1126cd78796c.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -139,7 +156,7 @@
       "listPrice": 18980,
       "observedAt": "2026-08-31T12:45:34.668Z",
       "url": "https://link.coupang.com/a/gFkcGhoxP2",
-      "image": null,
+      "image": "assets/products/5f505bccf68a29781ee8.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -396,7 +413,7 @@
       "listPrice": 19350,
       "observedAt": "2026-08-31T09:48:59.234Z",
       "url": "https://link.coupang.com/a/gE7AiDMrYa",
-      "image": null,
+      "image": "assets/products/2d243de90a05328512d2.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
