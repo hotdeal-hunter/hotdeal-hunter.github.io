@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T01:58:37.239Z",
+  "updatedAt": "2026-08-31T02:18:51.941Z",
   "deals": [
+    {
+      "id": "toss:p:99845081|n:깨끗한나라 순수한면 zero, 중형, 16개입, 4팩",
+      "source": "toss",
+      "name": "깨끗한나라 순수한면 ZERO, 중형, 16개입, 4팩",
+      "price": 9900,
+      "listPrice": 16900,
+      "observedAt": "2026-08-31T02:18:33.061Z",
+      "url": "https://toss.im/_m/fuhztAi3",
+      "image": "assets/products/2da5328801cbd2885479.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-31T02:18:33.061Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647880999|n:해담옥 양념소불고기, 400g, 2팩",
       "source": "toss",
