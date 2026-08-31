@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-31T02:18:51.941Z",
+  "updatedAt": "2026-08-31T02:27:25.899Z",
   "deals": [
+    {
+      "id": "p:9611076956|i:28694390662|v:95635634559",
+      "source": "coupang",
+      "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
+      "price": 3360,
+      "listPrice": 4739,
+      "observedAt": "2026-08-31T02:27:08.467Z",
+      "url": "https://link.coupang.com/a/gEB0z1PpEy",
+      "image": "assets/products/2fb86fb1fc61552568ee.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3360,
+          "observedAt": "2026-08-31T02:27:08.467Z"
+        },
+        {
+          "price": 3360,
+          "observedAt": "2026-08-23T00:35:55.242Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:99845081|n:깨끗한나라 순수한면 zero, 중형, 16개입, 4팩",
       "source": "toss",
@@ -7069,23 +7090,6 @@
         {
           "price": 11900,
           "observedAt": "2026-08-23T00:49:34.790Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9611076956|i:28694390662|v:95635634559",
-      "source": "coupang",
-      "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-      "price": 3360,
-      "listPrice": 4918,
-      "observedAt": "2026-08-23T00:35:55.242Z",
-      "url": "https://link.coupang.com/a/grcPqbdEbs",
-      "image": "assets/products/2fb86fb1fc61552568ee.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3360,
-          "observedAt": "2026-08-23T00:35:55.242Z"
         }
       ]
     },
