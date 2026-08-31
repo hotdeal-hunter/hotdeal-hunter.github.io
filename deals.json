@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T03:34:44.630Z",
+  "updatedAt": "2026-08-31T03:38:48.994Z",
   "deals": [
+    {
+      "id": "toss:p:682697615|n:필립스 오픈형 무선 블루투스 이어폰, tat1138, 화이트 / 블랙 1개",
+      "source": "toss",
+      "name": "필립스 오픈형 무선 블루투스 이어폰, TAT1138, 화이트 / 블랙 1개",
+      "price": 9030,
+      "listPrice": null,
+      "observedAt": "2026-08-31T03:38:22.664Z",
+      "url": "https://toss.im/_m/NjIn8ZXb",
+      "image": "assets/products/6c4b08b410f026d00c94.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9030,
+          "observedAt": "2026-08-31T03:38:22.664Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:179041743|n:찬바다 신안 활새우, 1kg, 1팩",
       "source": "toss",
