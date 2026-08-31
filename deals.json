@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T08:32:46.631Z",
+  "updatedAt": "2026-08-31T08:41:22.950Z",
   "deals": [
+    {
+      "id": "toss:p:1630600255|n:에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 k300 pro, 블랙, 1개",
+      "source": "toss",
+      "name": "에이팔란스 제트 쿨링 휴대용 냉각 손선풍기 K300 Pro, 블랙, 1개",
+      "price": 9900,
+      "listPrice": 99000,
+      "observedAt": "2026-08-31T08:41:11.504Z",
+      "url": "https://toss.im/_m/7WRydBty",
+      "image": "assets/products/4e79ca31cdb5da9a453f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-08-31T08:41:11.504Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78918225|n:외갓집 진심 육개장, 600g, 3개",
       "source": "toss",
