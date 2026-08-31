@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T11:37:45.288Z",
+  "updatedAt": "2026-08-31T11:43:51.641Z",
   "deals": [
+    {
+      "id": "toss:p:188394327|n:삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
+      "source": "toss",
+      "name": "삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
+      "price": 9400,
+      "listPrice": 16000,
+      "observedAt": "2026-08-31T11:42:28.085Z",
+      "url": "https://toss.im/_m/T1gNArwn",
+      "image": "assets/products/9ec70bd879a661d53bcd.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9400,
+          "observedAt": "2026-08-31T11:42:28.085Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2567944149|n:따봉프레시 보리먹은 숙성 흑돼지 황제 삼겹살, 500g, 2개",
       "source": "toss",
