@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T11:43:51.641Z",
+  "updatedAt": "2026-08-31T12:11:02.545Z",
   "deals": [
+    {
+      "id": "toss:p:154926863|n:칼마디 칼슘 마그네슘 비타민d 아연, 90정, 4박스",
+      "source": "toss",
+      "name": "칼마디 칼슘 마그네슘 비타민D 아연, 90정, 4박스",
+      "price": 22621,
+      "listPrice": null,
+      "observedAt": "2026-08-31T12:09:44.001Z",
+      "url": "https://toss.im/_m/x3XAbx56",
+      "image": "assets/products/8ef27bf112431589d392.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22621,
+          "observedAt": "2026-08-31T12:09:44.001Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:188394327|n:삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
       "source": "toss",
