@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T00:15:52.521Z",
+  "updatedAt": "2026-08-31T00:18:36.369Z",
   "deals": [
     {
       "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
@@ -7,11 +7,15 @@
       "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
       "price": 12900,
       "listPrice": null,
-      "observedAt": "2026-08-31T00:15:37.099Z",
+      "observedAt": "2026-08-31T00:17:08.569Z",
       "url": "https://toss.im/_m/bEhSQcFD",
       "image": "assets/products/07215730e99ad2c00f8c.jpg",
-      "insight": "3회 가격 기록",
+      "insight": "4회 가격 기록",
       "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
         {
           "price": 12900,
           "observedAt": "2026-08-31T00:15:37.099Z"
