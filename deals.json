@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T03:55:33.620Z",
+  "updatedAt": "2026-08-31T04:56:34.054Z",
   "deals": [
+    {
+      "id": "toss:p:839267411|n:아동 프리미엄 컬렉션 랜덤 삭스, 골고루, 1호, 10켤레",
+      "source": "toss",
+      "name": "아동 프리미엄 컬렉션 랜덤 삭스, 골고루, 1호, 10켤레",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T04:56:19.149Z",
+      "url": "https://toss.im/_m/1qUVQMA9",
+      "image": "assets/products/34a9e4d277965588aa9f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-08-31T04:56:19.149Z"
+        }
+      ]
+    },
     {
       "id": "p:8560881515|i:7150360|v:3007778060",
       "source": "coupang",
