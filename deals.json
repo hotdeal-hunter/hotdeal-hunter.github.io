@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-08-31T05:27:23.111Z",
+  "updatedAt": "2026-08-31T06:06:40.430Z",
   "deals": [
     {
-      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니 다크, 0.9g, 130개, 2팩",
+      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
       "source": "toss",
-      "name": "할리스 시그니처 아메리카노 미니 다크, 0.9g, 130개, 2팩",
+      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
       "price": 22900,
       "listPrice": null,
-      "observedAt": "2026-08-31T05:27:11.725Z",
+      "observedAt": "2026-08-31T06:06:13.349Z",
       "url": "https://toss.im/_m/HDdsSzdC",
-      "image": "assets/products/828275febce92ddbb693.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T06:06:13.349Z"
+        },
         {
           "price": 22900,
           "observedAt": "2026-08-31T05:27:11.725Z"
