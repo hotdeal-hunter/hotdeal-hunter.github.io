@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T00:18:36.369Z",
+  "updatedAt": "2026-08-31T00:28:25.003Z",
   "deals": [
+    {
+      "id": "toss:p:326133815|n:채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
+      "source": "toss",
+      "name": "채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T00:28:14.731Z",
+      "url": "https://toss.im/_m/pZEYYG98",
+      "image": "assets/products/839d9dfc240dddfb8462.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-08-31T00:28:14.731Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
       "source": "toss",
