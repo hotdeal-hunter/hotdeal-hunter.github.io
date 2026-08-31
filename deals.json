@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T00:59:58.703Z",
+  "updatedAt": "2026-08-31T01:16:54.182Z",
   "deals": [
+    {
+      "id": "toss:p:739838549|n:로로보아 매직 스트레이트너, 베이지, 1개",
+      "source": "toss",
+      "name": "로로보아 매직 스트레이트너, 베이지, 1개",
+      "price": 6090,
+      "listPrice": null,
+      "observedAt": "2026-08-31T01:16:26.714Z",
+      "url": "https://toss.im/_m/pfoo7RR4",
+      "image": "assets/products/5069ac504f7f6d02a5b7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6090,
+          "observedAt": "2026-08-31T01:16:26.714Z"
+        }
+      ]
+    },
     {
       "id": "p:7937483270|i:21851640770|v:88899893429",
       "source": "coupang",
