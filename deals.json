@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-08-31T03:01:39.304Z",
+  "updatedAt": "2026-08-31T03:34:44.630Z",
   "deals": [
+    {
+      "id": "toss:p:179041743|n:찬바다 신안 활새우, 1kg, 1팩",
+      "source": "toss",
+      "name": "찬바다 신안 활새우, 1kg, 1팩",
+      "price": 25900,
+      "listPrice": 50000,
+      "observedAt": "2026-08-31T03:34:26.352Z",
+      "url": "https://toss.im/_m/HryjuWbB",
+      "image": "assets/products/522a5b338e36dae33432.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25900,
+          "observedAt": "2026-08-31T03:34:26.352Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9611076956|i:28694390662|v:95635634559",
+      "source": "coupang",
+      "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
+      "price": 3360,
+      "listPrice": null,
+      "observedAt": "2026-08-31T03:07:37.465Z",
+      "url": "https://link.coupang.com/a/gEETWTPMJM",
+      "image": "assets/products/2fb86fb1fc61552568ee.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 3360,
+          "observedAt": "2026-08-31T03:07:37.465Z"
+        },
+        {
+          "price": 3360,
+          "observedAt": "2026-08-31T02:27:08.467Z"
+        },
+        {
+          "price": 3360,
+          "observedAt": "2026-08-23T00:35:55.242Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
       "source": "toss",
@@ -15,27 +57,6 @@
         {
           "price": 5700,
           "observedAt": "2026-08-31T03:01:28.003Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9611076956|i:28694390662|v:95635634559",
-      "source": "coupang",
-      "name": "오리온 미쯔 황치즈 6p, 222g, 1개",
-      "price": 3360,
-      "listPrice": 4739,
-      "observedAt": "2026-08-31T02:27:08.467Z",
-      "url": "https://link.coupang.com/a/gEB0z1PpEy",
-      "image": "assets/products/2fb86fb1fc61552568ee.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3360,
-          "observedAt": "2026-08-31T02:27:08.467Z"
-        },
-        {
-          "price": 3360,
-          "observedAt": "2026-08-23T00:35:55.242Z"
         }
       ]
     },
