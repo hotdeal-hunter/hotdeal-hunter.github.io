@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-08-31T11:34:50.521Z",
+  "updatedAt": "2026-08-31T11:37:45.288Z",
   "deals": [
     {
       "id": "toss:p:2567944149|n:따봉프레시 보리먹은 숙성 흑돼지 황제 삼겹살, 500g, 2개",
       "source": "toss",
       "name": "따봉프레시 보리먹은 숙성 흑돼지 황제 삼겹살, 500g, 2개",
-      "price": 13000,
+      "price": 1300,
       "listPrice": null,
-      "observedAt": "2026-08-31T11:33:28.806Z",
+      "observedAt": "2026-08-31T11:35:06.136Z",
       "url": "https://toss.im/_m/r8smELed",
       "image": "assets/products/f33395ff5e947b073ddb.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 1300,
+          "observedAt": "2026-08-31T11:35:06.136Z"
+        },
         {
           "price": 13000,
           "observedAt": "2026-08-31T11:33:28.806Z"
