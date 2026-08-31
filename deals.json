@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-31T07:26:37.417Z",
+  "updatedAt": "2026-08-31T07:29:23.183Z",
   "deals": [
     {
       "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트",
@@ -7,11 +7,15 @@
       "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트",
       "price": 39900,
       "listPrice": null,
-      "observedAt": "2026-08-31T07:26:09.682Z",
+      "observedAt": "2026-08-31T07:27:55.495Z",
       "url": "https://toss.im/_m/XZTvtIBd",
       "image": "assets/products/fd5d51901fe80bec37c2.png",
-      "insight": "4회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 39900,
+          "observedAt": "2026-08-31T07:27:55.495Z"
+        },
         {
           "price": 39900,
           "observedAt": "2026-08-31T07:26:09.682Z"
