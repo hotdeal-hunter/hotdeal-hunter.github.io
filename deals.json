@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T06:06:40.430Z",
+  "updatedAt": "2026-08-31T06:46:56.311Z",
   "deals": [
+    {
+      "id": "p:8491113221|i:528333767|v:4374500762",
+      "source": "coupang",
+      "name": "아임리빙 중량업 블랙라인 호텔용 마이크로필에버 베개솜 지퍼형, 화이트, 40 x 60 cm, 2개",
+      "price": 12890,
+      "listPrice": 23800,
+      "observedAt": "2026-08-31T06:46:38.512Z",
+      "url": "https://link.coupang.com/a/gEUyp1u8Mm",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12890,
+          "observedAt": "2026-08-31T06:46:38.512Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
       "source": "toss",
