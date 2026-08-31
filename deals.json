@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T10:22:51.168Z",
+  "updatedAt": "2026-08-31T10:43:09.736Z",
   "deals": [
+    {
+      "id": "toss:p:2404219687|n:제주 순살갈치, 1kg, 2마리, 1팩",
+      "source": "toss",
+      "name": "제주 순살갈치, 1kg, 2마리, 1팩",
+      "price": 8500,
+      "listPrice": null,
+      "observedAt": "2026-08-31T10:41:33.857Z",
+      "url": "https://toss.im/_m/bAlZYIj2",
+      "image": "assets/products/bbbb35209c7240650865.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-08-31T10:41:33.857Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
       "source": "toss",
