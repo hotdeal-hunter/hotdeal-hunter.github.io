@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T01:48:39.485Z",
+  "updatedAt": "2026-08-31T01:58:37.239Z",
   "deals": [
+    {
+      "id": "toss:p:2647880999|n:해담옥 양념소불고기, 400g, 2팩",
+      "source": "toss",
+      "name": "해담옥 양념소불고기, 400g, 2팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-08-31T01:58:09.213Z",
+      "url": "https://toss.im/_m/RXOUZyCo",
+      "image": "assets/products/05b9b43fac08e0558c78.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-08-31T01:58:09.213Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1665707735|n:본죽 죽 4종 세트, 200g, 5팩",
       "source": "toss",
