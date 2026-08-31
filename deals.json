@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T00:48:46.918Z",
+  "updatedAt": "2026-08-31T00:56:09.186Z",
   "deals": [
+    {
+      "id": "p:8522396752|i:24941497857|v:90958406981",
+      "source": "coupang",
+      "name": "김수열줄넘기 뉴롱키 SY-004, 파랑, 240cm, 1개",
+      "price": 3190,
+      "listPrice": 6101,
+      "observedAt": "2026-08-31T00:55:51.319Z",
+      "url": "https://link.coupang.com/a/gEvt8WY3Pg",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3190,
+          "observedAt": "2026-08-31T00:55:51.319Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:98430069|n:진품 경기미, 2025년산, 상등급, 4kg, 1개",
       "source": "toss",
