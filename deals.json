@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-31T10:02:42.758Z",
+  "updatedAt": "2026-08-31T10:22:51.168Z",
   "deals": [
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 12988,
+      "listPrice": 26000,
+      "observedAt": "2026-08-31T10:22:40.217Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12988,
+          "observedAt": "2026-08-31T10:22:40.217Z"
+        },
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2648850709|n:일본식 의류용 방충 방습제, 장미향, 2ml, 48개입, 3개",
       "source": "toss",
@@ -6410,23 +6431,6 @@
         {
           "price": 6900,
           "observedAt": "2026-08-24T05:51:48.825Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "source": "toss",
-      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "price": 11780,
-      "listPrice": 26000,
-      "observedAt": "2026-08-24T05:32:01.644Z",
-      "url": "https://toss.im/_m/H8jMugyo",
-      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11780,
-          "observedAt": "2026-08-24T05:32:01.644Z"
         }
       ]
     },
