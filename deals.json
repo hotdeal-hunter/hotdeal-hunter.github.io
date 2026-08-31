@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-08-31T10:43:09.736Z",
+  "updatedAt": "2026-08-31T10:47:28.842Z",
   "deals": [
+    {
+      "id": "p:119171021|i:21611528915|v:88662755534",
+      "source": "coupang",
+      "name": "스미후루 필리핀산 감숙왕 바나나, 1kg 내외, 1개",
+      "price": 2990,
+      "listPrice": null,
+      "observedAt": "2026-08-31T10:43:25.880Z",
+      "url": "https://link.coupang.com/a/gFbtvZHyhM",
+      "image": "assets/products/800d674af66ba41425f2.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 2990,
+          "observedAt": "2026-08-31T10:43:25.880Z"
+        },
+        {
+          "price": 2990,
+          "observedAt": "2026-08-31T09:43:55.715Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2404219687|n:제주 순살갈치, 1kg, 2마리, 1팩",
       "source": "toss",
@@ -70,23 +91,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-31T09:48:59.234Z"
-        }
-      ]
-    },
-    {
-      "id": "p:119171021|i:21611528915|v:88662755534",
-      "source": "coupang",
-      "name": "스미후루 필리핀산 감숙왕 바나나, 1kg 내외, 1개",
-      "price": 2990,
-      "listPrice": null,
-      "observedAt": "2026-08-31T09:43:55.715Z",
-      "url": "https://link.coupang.com/a/gE7dTtPPhI",
-      "image": "assets/products/800d674af66ba41425f2.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 2990,
-          "observedAt": "2026-08-31T09:43:55.715Z"
         }
       ]
     },
