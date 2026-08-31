@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T03:38:48.994Z",
+  "updatedAt": "2026-08-31T03:55:33.620Z",
   "deals": [
+    {
+      "id": "p:8560881515|i:7150360|v:3007778060",
+      "source": "coupang",
+      "name": "피죤 드릴펑, 2L, 2개",
+      "price": 6960,
+      "listPrice": 29600,
+      "observedAt": "2026-08-31T03:55:16.423Z",
+      "url": "https://link.coupang.com/a/gEIi3imGnA",
+      "image": "assets/products/4fe8c73b69fef2004cea.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6960,
+          "observedAt": "2026-08-31T03:55:16.423Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:682697615|n:필립스 오픈형 무선 블루투스 이어폰, tat1138, 화이트 / 블랙 1개",
       "source": "toss",
