@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T00:28:25.003Z",
+  "updatedAt": "2026-08-31T00:48:46.918Z",
   "deals": [
+    {
+      "id": "toss:p:98430069|n:진품 경기미, 2025년산, 상등급, 4kg, 1개",
+      "source": "toss",
+      "name": "진품 경기미, 2025년산, 상등급, 4kg, 1개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T00:48:19.532Z",
+      "url": "https://toss.im/_m/h3wJD1Y6",
+      "image": "assets/products/15028e99308dc51b0490.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-31T00:48:19.532Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:326133815|n:채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
       "source": "toss",
