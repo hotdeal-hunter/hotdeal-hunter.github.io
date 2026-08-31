@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T12:46:58.762Z",
+  "updatedAt": "2026-08-31T22:55:29.090Z",
   "deals": [
+    {
+      "id": "p:4979126231|i:3090769|v:3225700847",
+      "source": "coupang",
+      "name": "앳킨스 초콜릿 캐러멜 무스 바 5개입, 170g, 1개, 170g × 1개",
+      "price": 9240,
+      "listPrice": 14220,
+      "observedAt": "2026-08-31T22:54:04.925Z",
+      "url": "https://link.coupang.com/a/gF1GE1FWnc",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9240,
+          "observedAt": "2026-08-31T22:54:04.925Z"
+        }
+      ]
+    },
     {
       "id": "p:7012059398|i:26849816535|v:93819645500",
       "source": "coupang",
