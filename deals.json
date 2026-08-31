@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T02:27:25.899Z",
+  "updatedAt": "2026-08-31T03:01:39.304Z",
   "deals": [
+    {
+      "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
+      "source": "toss",
+      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+      "price": 5700,
+      "listPrice": null,
+      "observedAt": "2026-08-31T03:01:28.003Z",
+      "url": "https://toss.im/_m/dnx73ZKk",
+      "image": "assets/products/d7508af84470e3e37286.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5700,
+          "observedAt": "2026-08-31T03:01:28.003Z"
+        }
+      ]
+    },
     {
       "id": "p:9611076956|i:28694390662|v:95635634559",
       "source": "coupang",
@@ -643,7 +660,7 @@
       "listPrice": 32900,
       "observedAt": "2026-08-30T08:22:35.814Z",
       "url": "https://link.coupang.com/a/gDmvvmZ43g",
-      "image": null,
+      "image": "assets/products/06b0bf9d0c1cf52410d5.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -719,7 +736,7 @@
       "listPrice": 46000,
       "observedAt": "2026-08-30T07:17:25.112Z",
       "url": "https://link.coupang.com/a/gDhQJESghw",
-      "image": null,
+      "image": "assets/products/8a3bc0337b85b10dcfa6.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -781,7 +798,7 @@
       "listPrice": 30900,
       "observedAt": "2026-08-30T06:10:13.258Z",
       "url": "https://link.coupang.com/a/gDc2TO6bAG",
-      "image": null,
+      "image": "assets/products/ae0edd3df98c569c5c0c.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1497,7 +1514,7 @@
       "listPrice": 76800,
       "observedAt": "2026-08-29T09:17:53.817Z",
       "url": "https://link.coupang.com/a/gBLytxbrH2",
-      "image": null,
+      "image": "assets/products/2426bde0a934f9f46a06.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1631,7 +1648,7 @@
       "listPrice": 23500,
       "observedAt": "2026-08-29T08:16:49.991Z",
       "url": "https://link.coupang.com/a/gBHbVGNGua",
-      "image": null,
+      "image": "assets/products/469bab28219793002d15.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3140,7 +3157,7 @@
       "listPrice": 21300,
       "observedAt": "2026-08-27T09:36:38.157Z",
       "url": "https://link.coupang.com/a/gys5pKZ6qW",
-      "image": null,
+      "image": "assets/products/81ef85d1e2c36f13e1cd.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
