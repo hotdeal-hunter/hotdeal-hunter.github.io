@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T09:26:14.036Z",
+  "updatedAt": "2026-08-31T09:45:17.264Z",
   "deals": [
+    {
+      "id": "p:119171021|i:21611528915|v:88662755534",
+      "source": "coupang",
+      "name": "스미후루 필리핀산 감숙왕 바나나, 1kg 내외, 1개",
+      "price": 2990,
+      "listPrice": null,
+      "observedAt": "2026-08-31T09:43:55.715Z",
+      "url": "https://link.coupang.com/a/gE7dTtPPhI",
+      "image": "assets/products/800d674af66ba41425f2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2990,
+          "observedAt": "2026-08-31T09:43:55.715Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
       "source": "toss",
