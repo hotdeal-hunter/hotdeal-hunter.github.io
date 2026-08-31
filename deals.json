@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-08-30T23:34:40.670Z",
+  "updatedAt": "2026-08-31T00:15:52.521Z",
   "deals": [
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T00:15:37.099Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/07215730e99ad2c00f8c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1934776539|n:아침에 좋은빵 백프로 통밀식빵, 630g, 2개",
       "source": "toss",
@@ -10557,27 +10582,6 @@
         {
           "price": 26010,
           "observedAt": "2026-08-18T07:41:04.143Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
-      "price": 19900,
-      "listPrice": 37900,
-      "observedAt": "2026-08-18T07:07:25.146Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/07215730e99ad2c00f8c.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
         }
       ]
     },
