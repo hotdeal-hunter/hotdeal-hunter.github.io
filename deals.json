@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T12:34:51.327Z",
+  "updatedAt": "2026-08-31T12:46:58.762Z",
   "deals": [
+    {
+      "id": "p:7012059398|i:26849816535|v:93819645500",
+      "source": "coupang",
+      "name": "에너자이저 알카라인 AA 건전지, 18개입, 1개",
+      "price": 8770,
+      "listPrice": 18980,
+      "observedAt": "2026-08-31T12:45:34.668Z",
+      "url": "https://link.coupang.com/a/gFkcGhoxP2",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8770,
+          "observedAt": "2026-08-31T12:45:34.668Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1967695897|n:사조 살코기 참치, 카놀라유, 100g, 10개",
       "source": "toss",
