@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T07:29:23.183Z",
+  "updatedAt": "2026-08-31T08:20:27.786Z",
   "deals": [
+    {
+      "id": "p:8548508229|i:21436080703|v:84095676789",
+      "source": "coupang",
+      "name": "베베앙 120 유아물티슈 캡형, 50g, 120매, 10개",
+      "price": 9600,
+      "listPrice": 25900,
+      "observedAt": "2026-08-31T08:18:52.477Z",
+      "url": "https://link.coupang.com/a/gE083CLhUi",
+      "image": "assets/products/2056d112ed40923726ac.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9600,
+          "observedAt": "2026-08-31T08:18:52.477Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트",
       "source": "toss",
