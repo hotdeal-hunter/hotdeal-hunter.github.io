@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-31T07:06:03.786Z",
+  "updatedAt": "2026-08-31T07:26:37.417Z",
   "deals": [
+    {
+      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트",
+      "source": "toss",
+      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트",
+      "price": 39900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T07:26:09.682Z",
+      "url": "https://toss.im/_m/XZTvtIBd",
+      "image": "assets/products/fd5d51901fe80bec37c2.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 39900,
+          "observedAt": "2026-08-31T07:26:09.682Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T04:26:10.707Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T02:58:01.321Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-08-24T01:32:49.057Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:168856451|n:신선하랑 구운 계란 중란, 60구, 1개",
+      "source": "toss",
+      "name": "신선하랑 구운 계란 중란, 60구, 1개",
+      "price": 18900,
+      "listPrice": 34900,
+      "observedAt": "2026-08-31T07:23:45.170Z",
+      "url": "https://toss.im/_m/d8zGqGgC",
+      "image": "assets/products/f874047787dbb4bfaece.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-08-31T07:23:45.170Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-08-30T22:38:41.708Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78918225|n:외갓집 진심 육개장, 600g, 3개",
       "source": "toss",
@@ -548,23 +598,6 @@
         {
           "price": 21860,
           "observedAt": "2026-08-30T22:41:32.915Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:168856451|n:신선하랑 구운 계란 중란, 60구, 1개",
-      "source": "toss",
-      "name": "신선하랑 구운 계란 중란, 60구, 1개",
-      "price": 18900,
-      "listPrice": null,
-      "observedAt": "2026-08-30T22:38:41.708Z",
-      "url": "https://toss.im/_m/d8zGqGgC",
-      "image": "assets/products/f874047787dbb4bfaece.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 18900,
-          "observedAt": "2026-08-30T22:38:41.708Z"
         }
       ]
     },
@@ -6340,31 +6373,6 @@
         {
           "price": 6750,
           "observedAt": "2026-08-24T04:27:16.403Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:526253755|n:1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "source": "toss",
-      "name": "1++한우 투뿔 소한마리 모둠, 400g, 1세트 + 사은품",
-      "price": 33900,
-      "listPrice": null,
-      "observedAt": "2026-08-24T04:26:10.707Z",
-      "url": "https://toss.im/_m/XZTvtIBd",
-      "image": "assets/products/f69f2130002c1bf19010.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T04:26:10.707Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T02:58:01.321Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-08-24T01:32:49.057Z"
         }
       ]
     },
