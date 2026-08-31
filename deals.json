@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T05:02:45.891Z",
+  "updatedAt": "2026-08-31T05:14:45.735Z",
   "deals": [
+    {
+      "id": "p:7647979115|i:20341505915|v:95003942086",
+      "source": "coupang",
+      "name": "팜앤푸드 생 칵테일 새우 31~40입 (냉동), 900g, 1개, 900g × 1개",
+      "price": 11620,
+      "listPrice": 17211,
+      "observedAt": "2026-08-31T05:14:27.964Z",
+      "url": "https://link.coupang.com/a/gENXUy2WbY",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11620,
+          "observedAt": "2026-08-31T05:14:27.964Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:184335937|n:한울 정성가득 비빔밥용 나물세트, 125g, 10개",
       "source": "toss",
