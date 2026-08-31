@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T01:39:53.834Z",
+  "updatedAt": "2026-08-31T01:48:39.485Z",
   "deals": [
+    {
+      "id": "toss:p:1665707735|n:본죽 죽 4종 세트, 200g, 5팩",
+      "source": "toss",
+      "name": "본죽 죽 4종 세트, 200g, 5팩",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T01:48:14.712Z",
+      "url": "https://toss.im/_m/THL3JmIa",
+      "image": "assets/products/32f16f6986c1bbf6dfdc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-31T01:48:14.712Z"
+        }
+      ]
+    },
     {
       "id": "p:6429303041|i:2014395921|v:70014167606",
       "source": "coupang",
