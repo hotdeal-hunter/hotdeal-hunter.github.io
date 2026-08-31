@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T05:14:45.735Z",
+  "updatedAt": "2026-08-31T05:18:47.563Z",
   "deals": [
+    {
+      "id": "toss:p:449777611|n:국내산 한돈 돼지등뼈, 냉동, 5kg, 1개",
+      "source": "toss",
+      "name": "국내산 한돈 돼지등뼈, 냉동, 5kg, 1개",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-08-31T05:18:21.399Z",
+      "url": "https://toss.im/_m/tewqmprd",
+      "image": "assets/products/5d003068ec7cd848cb63.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-08-31T05:18:21.399Z"
+        }
+      ]
+    },
     {
       "id": "p:7647979115|i:20341505915|v:95003942086",
       "source": "coupang",
@@ -9,7 +26,7 @@
       "listPrice": 17211,
       "observedAt": "2026-08-31T05:14:27.964Z",
       "url": "https://link.coupang.com/a/gENXUy2WbY",
-      "image": null,
+      "image": "assets/products/169e658ba19b7687177b.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3204,7 +3221,7 @@
       "listPrice": 45889,
       "observedAt": "2026-08-27T10:11:30.622Z",
       "url": "https://link.coupang.com/a/gyvzVxRL3I",
-      "image": null,
+      "image": "assets/products/1f60e07f68dcced01273.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3445,7 +3462,7 @@
       "listPrice": 8981,
       "observedAt": "2026-08-27T05:46:50.973Z",
       "url": "https://link.coupang.com/a/gycFdXeBvU",
-      "image": null,
+      "image": "assets/products/143a17a30ff86b51c845.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3504,7 +3521,7 @@
       "listPrice": 44700,
       "observedAt": "2026-08-27T04:29:03.831Z",
       "url": "https://link.coupang.com/a/gx66AQUiVo",
-      "image": null,
+      "image": "assets/products/619ea583506453db659e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
