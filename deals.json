@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T09:50:23.321Z",
+  "updatedAt": "2026-08-31T10:02:42.758Z",
   "deals": [
+    {
+      "id": "toss:p:2648850709|n:일본식 의류용 방충 방습제, 장미향, 2ml, 48개입, 3개",
+      "source": "toss",
+      "name": "일본식 의류용 방충 방습제, 장미향, 2ml, 48개입, 3개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T10:01:07.096Z",
+      "url": "https://toss.im/_m/ZMIr0331",
+      "image": "assets/products/667e3f0559dd983191f1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-08-31T10:01:07.096Z"
+        }
+      ]
+    },
     {
       "id": "p:9187340574|i:27104410614|v:94977482871",
       "source": "coupang",
