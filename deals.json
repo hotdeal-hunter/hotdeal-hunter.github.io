@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-08-31T12:11:02.545Z",
+  "updatedAt": "2026-08-31T12:34:51.327Z",
   "deals": [
+    {
+      "id": "toss:p:1967695897|n:사조 살코기 참치, 카놀라유, 100g, 10개",
+      "source": "toss",
+      "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
+      "price": 15900,
+      "listPrice": 25900,
+      "observedAt": "2026-08-31T12:33:26.928Z",
+      "url": "https://toss.im/_m/tSkF5rTl",
+      "image": "assets/products/b604f0194535c0c84903.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-08-31T12:33:26.928Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154926863|n:칼마디 칼슘 마그네슘 비타민d 아연, 90정, 4박스",
       "source": "toss",
       "name": "칼마디 칼슘 마그네슘 비타민D 아연, 90정, 4박스",
       "price": 22621,
       "listPrice": null,
-      "observedAt": "2026-08-31T12:09:44.001Z",
+      "observedAt": "2026-08-31T12:20:39.186Z",
       "url": "https://toss.im/_m/x3XAbx56",
       "image": "assets/products/8ef27bf112431589d392.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 22621,
+          "observedAt": "2026-08-31T12:20:39.186Z"
+        },
         {
           "price": 22621,
           "observedAt": "2026-08-31T12:09:44.001Z"
