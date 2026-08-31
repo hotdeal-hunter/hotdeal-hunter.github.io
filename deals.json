@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T09:45:17.264Z",
+  "updatedAt": "2026-08-31T09:50:23.321Z",
   "deals": [
+    {
+      "id": "p:9187340574|i:27104410614|v:94977482871",
+      "source": "coupang",
+      "name": "2+1 출시하자마자 1위 퓨어그램 모공이별 딥클렌징폼 제주 그린티 저자극 폼클렌징 120ml, 120ml, 3개",
+      "price": 10900,
+      "listPrice": 19350,
+      "observedAt": "2026-08-31T09:48:59.234Z",
+      "url": "https://link.coupang.com/a/gE7AiDMrYa",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-08-31T09:48:59.234Z"
+        }
+      ]
+    },
     {
       "id": "p:119171021|i:21611528915|v:88662755534",
       "source": "coupang",
