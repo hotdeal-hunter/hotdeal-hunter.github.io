@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T01:16:54.182Z",
+  "updatedAt": "2026-08-31T01:27:49.290Z",
   "deals": [
+    {
+      "id": "toss:p:269834089|n:양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란 달걀, 40구, 1박스",
+      "source": "toss",
+      "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란 달걀, 40구, 1박스",
+      "price": 22500,
+      "listPrice": 32200,
+      "observedAt": "2026-08-31T01:27:31.782Z",
+      "url": "https://toss.im/_m/ZRx06aFp",
+      "image": "assets/products/ba147a11851207fa82b5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22500,
+          "observedAt": "2026-08-31T01:27:31.782Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:739838549|n:로로보아 매직 스트레이트너, 베이지, 1개",
       "source": "toss",
