@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T05:18:47.563Z",
+  "updatedAt": "2026-08-31T05:27:23.111Z",
   "deals": [
+    {
+      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니 다크, 0.9g, 130개, 2팩",
+      "source": "toss",
+      "name": "할리스 시그니처 아메리카노 미니 다크, 0.9g, 130개, 2팩",
+      "price": 22900,
+      "listPrice": null,
+      "observedAt": "2026-08-31T05:27:11.725Z",
+      "url": "https://toss.im/_m/HDdsSzdC",
+      "image": "assets/products/828275febce92ddbb693.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T05:27:11.725Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:449777611|n:국내산 한돈 돼지등뼈, 냉동, 5kg, 1개",
       "source": "toss",
@@ -11515,23 +11532,6 @@
         {
           "price": 29900,
           "observedAt": "2026-08-17T08:22:11.595Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:145798821|n:할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 2개",
-      "source": "toss",
-      "name": "할리스 시그니처 아메리카노 미니, 다크, 0.9g, 100개입, 2개",
-      "price": 14130,
-      "listPrice": null,
-      "observedAt": "2026-08-17T07:51:11.823Z",
-      "url": "https://toss.im/_m/10vhLrbq",
-      "image": "assets/products/1b811d1a3bcf7b420dc2.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14130,
-          "observedAt": "2026-08-17T07:51:11.823Z"
         }
       ]
     },
