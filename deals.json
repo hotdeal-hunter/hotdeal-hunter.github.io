@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T10:54:34.928Z",
+  "updatedAt": "2026-08-31T11:19:23.119Z",
   "deals": [
+    {
+      "id": "p:7429410266|i:23256748603|v:90289134022",
+      "source": "coupang",
+      "name": "위칙 소독 섬유유연제 본품, 1L, 1개",
+      "price": 8720,
+      "listPrice": 14900,
+      "observedAt": "2026-08-31T11:19:12.214Z",
+      "url": "https://link.coupang.com/a/gFd10iHCdE",
+      "image": "assets/products/437d93f15bb4d0326206.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8720,
+          "observedAt": "2026-08-31T11:19:12.214Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:326133815|n:채선당 소고기 샤브샤브, 895g, 1개 + 굴림만두전골, 790g, 1개",
       "source": "toss",
