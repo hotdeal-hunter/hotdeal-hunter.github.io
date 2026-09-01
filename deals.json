@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T12:33:30.209Z",
+  "updatedAt": "2026-09-01T12:45:26.103Z",
   "deals": [
+    {
+      "id": "toss:p:8070595|n:손질 가리비 관자, 500g, 2개",
+      "source": "toss",
+      "name": "손질 가리비 관자, 500g, 2개",
+      "price": 14200,
+      "listPrice": 19900,
+      "observedAt": "2026-09-01T12:45:14.081Z",
+      "url": "https://toss.im/_m/XAypRgws",
+      "image": "assets/products/8ce77593f2fa6f17275b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14200,
+          "observedAt": "2026-09-01T12:45:14.081Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:115250123|n:애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
       "source": "toss",
