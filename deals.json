@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-01T01:49:42.733Z",
+  "updatedAt": "2026-09-01T02:16:54.588Z",
   "deals": [
+    {
+      "id": "toss:p:1497881307|n:베라 4zero 뽑아쓰는 미용티슈, 250매, 6팩",
+      "source": "toss",
+      "name": "베라 4ZERO 뽑아쓰는 미용티슈, 250매, 6팩",
+      "price": 5110,
+      "listPrice": null,
+      "observedAt": "2026-09-01T02:15:33.307Z",
+      "url": "https://toss.im/_m/3vARVgSj",
+      "image": "assets/products/cdd9403ba45c22451c41.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5110,
+          "observedAt": "2026-09-01T02:15:33.307Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "source": "toss",
+      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "price": 5420,
+      "listPrice": null,
+      "observedAt": "2026-09-01T02:14:22.986Z",
+      "url": "https://toss.im/_m/zbdu0wXt",
+      "image": "assets/products/bb4e05a3b79862ab2db2.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T02:14:22.986Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:30:15.298Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:28:38.534Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-21T22:59:58.495Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-20T23:01:46.494Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-19T23:01:57.432Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-18T00:28:38.848Z"
+        }
+      ]
+    },
     {
       "id": "p:7936248000|i:25849279844|v:88894493856",
       "source": "coupang",
@@ -4377,43 +4435,6 @@
         {
           "price": 5290,
           "observedAt": "2026-08-27T00:51:15.840Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "source": "toss",
-      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "price": 5420,
-      "listPrice": null,
-      "observedAt": "2026-08-27T00:30:15.298Z",
-      "url": "https://toss.im/_m/zbdu0wXt",
-      "image": "assets/products/bb4e05a3b79862ab2db2.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:30:15.298Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:28:38.534Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-21T22:59:58.495Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-20T23:01:46.494Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-19T23:01:57.432Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-18T00:28:38.848Z"
         }
       ]
     },
