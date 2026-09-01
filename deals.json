@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T04:58:11.590Z",
+  "updatedAt": "2026-09-01T05:20:01.644Z",
   "deals": [
+    {
+      "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 스위트 BBQ 폭립, 500g, 2개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-01T05:18:25.852Z",
+      "url": "https://toss.im/_m/RjJpnG0r",
+      "image": "assets/products/72917235723d25723e44.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T05:18:25.852Z"
+        }
+      ]
+    },
     {
       "id": "p:5391887629|i:8043971134|v:75332578023",
       "source": "coupang",
