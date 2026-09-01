@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T03:07:41.939Z",
+  "updatedAt": "2026-09-01T03:25:36.141Z",
   "deals": [
+    {
+      "id": "p:6789548230|i:7680088915|v:74970391620",
+      "source": "coupang",
+      "name": "케라시스 케라마이드 극손상 헤어트리트먼트, 1L, 1개",
+      "price": 5980,
+      "listPrice": 14800,
+      "observedAt": "2026-09-01T03:25:24.564Z",
+      "url": "https://link.coupang.com/a/gGk4MxP8FM",
+      "image": "assets/products/626f5605ff097b5def72.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5980,
+          "observedAt": "2026-09-01T03:25:24.564Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
       "source": "toss",
