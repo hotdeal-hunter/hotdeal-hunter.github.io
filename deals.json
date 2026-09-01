@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T13:33:48.786Z",
+  "updatedAt": "2026-09-01T22:10:34.451Z",
   "deals": [
+    {
+      "id": "p:7450289495|i:19394147668|v:84805617641",
+      "source": "coupang",
+      "name": "바릴라 스파게티, 1kg, 3개",
+      "price": 9000,
+      "listPrice": 12123,
+      "observedAt": "2026-09-01T22:09:08.801Z",
+      "url": "https://link.coupang.com/a/gHDnCrCoU0",
+      "image": "assets/products/fb5e3a9be0b1571cb32a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-01T22:09:08.801Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2291198637|n:리얼 블랙트러플 하몽 소다 크래커, 21g, 42개입, 1개",
       "source": "toss",
