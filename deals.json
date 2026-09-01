@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T09:19:40.819Z",
+  "updatedAt": "2026-09-01T09:36:59.529Z",
   "deals": [
+    {
+      "id": "p:1703093047|i:19447429883|v:70887318328",
+      "source": "coupang",
+      "name": "스너글 초고농축 섬유유연제 오리지널 허거블 코튼 본품, 4L, 1개",
+      "price": 12750,
+      "listPrice": 24900,
+      "observedAt": "2026-09-01T09:35:25.422Z",
+      "url": "https://link.coupang.com/a/gGLwfrY0US",
+      "image": "assets/products/870130e5126818ad80d6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12750,
+          "observedAt": "2026-09-01T09:35:25.422Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83504375|n:대숲맑은 담양쌀, 특등급, 10kg, 1개",
       "source": "toss",
