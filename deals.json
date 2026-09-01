@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T05:57:18.481Z",
+  "updatedAt": "2026-09-01T06:23:34.789Z",
   "deals": [
+    {
+      "id": "p:7626263931|i:20325919881|v:82207032103",
+      "source": "coupang",
+      "name": "재로우 자로-도필러스 EPS 유산균 100억 베지 캡, 60정, 4개",
+      "price": 63260,
+      "listPrice": 115160,
+      "observedAt": "2026-09-01T06:23:22.950Z",
+      "url": "https://link.coupang.com/a/gGxNhTHh0K",
+      "image": "assets/products/f252638a5a13552a6190.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 63260,
+          "observedAt": "2026-09-01T06:23:22.950Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
       "source": "toss",
