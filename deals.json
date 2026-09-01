@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-01T05:28:38.177Z",
+  "updatedAt": "2026-09-01T05:57:18.481Z",
   "deals": [
+    {
+      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-01T05:55:44.086Z",
+      "url": "https://toss.im/_m/HRZNLYcr",
+      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T05:55:44.086Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T04:06:30.571Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T03:06:04.914Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
       "source": "toss",
@@ -78,27 +103,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-31T00:48:19.532Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-01T04:06:30.571Z",
-      "url": "https://toss.im/_m/HRZNLYcr",
-      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T04:06:30.571Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T03:06:04.914Z"
         }
       ]
     },
