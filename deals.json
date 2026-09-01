@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T06:26:21.783Z",
+  "updatedAt": "2026-09-01T06:34:49.708Z",
   "deals": [
+    {
+      "id": "p:116173944|i:351024085|v:3855512693",
+      "source": "coupang",
+      "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 1개",
+      "price": 4540,
+      "listPrice": 6994,
+      "observedAt": "2026-09-01T06:33:25.111Z",
+      "url": "https://link.coupang.com/a/gGyvK6LuNg",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4540,
+          "observedAt": "2026-09-01T06:33:25.111Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81542519|n:피죤 드릴펑, 1l, 3개 + 2l, 1개",
       "source": "toss",
