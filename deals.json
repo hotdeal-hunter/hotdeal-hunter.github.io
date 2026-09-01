@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T06:23:34.789Z",
+  "updatedAt": "2026-09-01T06:26:21.783Z",
   "deals": [
+    {
+      "id": "toss:p:81542519|n:피죤 드릴펑, 1l, 3개 + 2l, 1개",
+      "source": "toss",
+      "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
+      "price": 9900,
+      "listPrice": 25900,
+      "observedAt": "2026-09-01T06:24:48.415Z",
+      "url": "https://toss.im/_m/pZDtnKoy",
+      "image": "assets/products/a217b7fa3f93a71ecbd5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T06:24:48.415Z"
+        }
+      ]
+    },
     {
       "id": "p:7626263931|i:20325919881|v:82207032103",
       "source": "coupang",
