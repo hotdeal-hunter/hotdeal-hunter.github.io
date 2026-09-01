@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T08:11:55.525Z",
+  "updatedAt": "2026-09-01T09:19:40.819Z",
   "deals": [
+    {
+      "id": "toss:p:83504375|n:대숲맑은 담양쌀, 특등급, 10kg, 1개",
+      "source": "toss",
+      "name": "대숲맑은 담양쌀, 특등급, 10kg, 1개",
+      "price": 32900,
+      "listPrice": 55000,
+      "observedAt": "2026-09-01T09:18:13.803Z",
+      "url": "https://toss.im/_m/BJUudK7i",
+      "image": "assets/products/f0b7d48600e968959387.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 32900,
+          "observedAt": "2026-09-01T09:18:13.803Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:115250123|n:애슐리 시그니처 등심 스테이크 소스포함, 200g, 4개",
       "source": "toss",
@@ -12305,7 +12322,7 @@
       "listPrice": 246371,
       "observedAt": "2026-08-17T05:56:48.382Z",
       "url": "https://link.coupang.com/a/ghCkVDZtW8",
-      "image": null,
+      "image": "assets/products/4f4eeadb71b11723d9b6.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
