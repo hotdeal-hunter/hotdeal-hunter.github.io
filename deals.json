@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T06:34:49.708Z",
+  "updatedAt": "2026-09-01T06:55:04.798Z",
   "deals": [
+    {
+      "id": "p:8734763423|i:25408614705|v:92402070460",
+      "source": "coupang",
+      "name": "신선설농탕 신선왕만두 고소한맛 (냉동), 490g, 2개",
+      "price": 7900,
+      "listPrice": 11855,
+      "observedAt": "2026-09-01T06:53:40.082Z",
+      "url": "https://link.coupang.com/a/gGzXANicEe",
+      "image": "assets/products/2deef8c726a4b96d4bd0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-01T06:53:40.082Z"
+        }
+      ]
+    },
     {
       "id": "p:116173944|i:351024085|v:3855512693",
       "source": "coupang",
