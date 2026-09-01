@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-01T08:03:13.671Z",
+  "updatedAt": "2026-09-01T08:11:55.525Z",
   "deals": [
+    {
+      "id": "toss:p:115250123|n:애슐리 시그니처 등심 스테이크 소스포함, 200g, 4개",
+      "source": "toss",
+      "name": "애슐리 시그니처 등심 스테이크 소스포함, 200g, 4개",
+      "price": 32900,
+      "listPrice": null,
+      "observedAt": "2026-09-01T08:10:34.965Z",
+      "url": "https://toss.im/_m/De7ccPbC",
+      "image": "assets/products/4c7291f1f8e86cc9f3a0.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 32900,
+          "observedAt": "2026-09-01T08:10:34.965Z"
+        },
+        {
+          "price": 32900,
+          "observedAt": "2026-09-01T08:10:34.850Z"
+        },
+        {
+          "price": 26460,
+          "observedAt": "2026-08-27T05:31:15.978Z"
+        },
+        {
+          "price": 26460,
+          "observedAt": "2026-08-20T09:06:10.210Z"
+        }
+      ]
+    },
     {
       "id": "p:120680|i:8040718|v:3011049552",
       "source": "coupang",
@@ -4330,27 +4359,6 @@
         {
           "price": 6800,
           "observedAt": "2026-08-27T05:46:50.973Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:115250123|n:애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
-      "source": "toss",
-      "name": "애슐리 시그니처 등심 스테이크, 소스포함, 200g, 4개",
-      "price": 26460,
-      "listPrice": 46960,
-      "observedAt": "2026-08-27T05:31:15.978Z",
-      "url": "https://toss.im/_m/De7ccPbC",
-      "image": "assets/products/1081b4b427cfaadda4c7.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 26460,
-          "observedAt": "2026-08-27T05:31:15.978Z"
-        },
-        {
-          "price": 26460,
-          "observedAt": "2026-08-20T09:06:10.210Z"
         }
       ]
     },
