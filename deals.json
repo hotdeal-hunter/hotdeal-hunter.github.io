@@ -1,6 +1,105 @@
 {
-  "updatedAt": "2026-09-01T23:03:11.885Z",
+  "updatedAt": "2026-09-01T23:08:52.599Z",
   "deals": [
+    {
+      "id": "p:9558138444|i:28521592893|v:95469069848",
+      "source": "coupang",
+      "name": "신라면 로제 134g, 4개",
+      "price": 3030,
+      "listPrice": null,
+      "observedAt": "2026-09-01T23:08:29.543Z",
+      "url": "https://link.coupang.com/a/gHHCxS3vPw",
+      "image": "assets/products/fcec528b7aabbe4a238f.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3030,
+          "observedAt": "2026-09-01T23:08:29.543Z"
+        },
+        {
+          "price": 3030,
+          "observedAt": "2026-09-01T22:36:34.365Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9546034489|i:28479235090|v:95429408102",
+      "source": "coupang",
+      "name": "오뚜기 로열라면 120g, 4개",
+      "price": 2550,
+      "listPrice": null,
+      "observedAt": "2026-09-01T23:08:29.218Z",
+      "url": "https://link.coupang.com/a/gHHCxcDUke",
+      "image": "assets/products/eb7880c69f55277a880a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 2550,
+          "observedAt": "2026-09-01T23:08:29.218Z"
+        },
+        {
+          "price": 2550,
+          "observedAt": "2026-09-01T22:36:34.170Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "source": "toss",
+      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "price": 5420,
+      "listPrice": null,
+      "observedAt": "2026-09-01T23:06:58.864Z",
+      "url": "https://toss.im/_m/zbdu0wXt",
+      "image": "assets/products/bb4e05a3b79862ab2db2.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:06:58.864Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:06:58.705Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:01:36.368Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:00:24.647Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T02:14:22.986Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:30:15.298Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:28:38.534Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-21T22:59:58.495Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-20T23:01:46.494Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-19T23:01:57.432Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-18T00:28:38.848Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:98430069|n:진품 경기미, 2025년산, 상등급, 4kg, 1개",
       "source": "toss",
@@ -113,55 +212,6 @@
       ]
     },
     {
-      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "source": "toss",
-      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "price": 5420,
-      "listPrice": null,
-      "observedAt": "2026-09-01T23:01:36.368Z",
-      "url": "https://toss.im/_m/zbdu0wXt",
-      "image": "assets/products/bb4e05a3b79862ab2db2.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:01:36.368Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:00:24.647Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T02:14:22.986Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:30:15.298Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:28:38.534Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-21T22:59:58.495Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-20T23:01:46.494Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-19T23:01:57.432Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-18T00:28:38.848Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:2647880999|n:해담옥 양념소불고기, 400g, 2팩",
       "source": "toss",
       "name": "해담옥 양념소불고기, 400g, 2팩",
@@ -233,40 +283,6 @@
         {
           "price": 5700,
           "observedAt": "2026-08-31T03:01:28.003Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9558138444|i:28521592893|v:95469069848",
-      "source": "coupang",
-      "name": "신라면 로제 134g, 4개",
-      "price": 3030,
-      "listPrice": null,
-      "observedAt": "2026-09-01T22:36:34.365Z",
-      "url": "https://link.coupang.com/a/gHFk7X8XAG",
-      "image": "assets/products/fcec528b7aabbe4a238f.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3030,
-          "observedAt": "2026-09-01T22:36:34.365Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9546034489|i:28479235090|v:95429408102",
-      "source": "coupang",
-      "name": "오뚜기 로열라면 120g, 4개",
-      "price": 2550,
-      "listPrice": null,
-      "observedAt": "2026-09-01T22:36:34.170Z",
-      "url": "https://link.coupang.com/a/gHFk69xh6a",
-      "image": "assets/products/eb7880c69f55277a880a.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 2550,
-          "observedAt": "2026-09-01T22:36:34.170Z"
         }
       ]
     },
