@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T12:15:52.521Z",
+  "updatedAt": "2026-09-01T12:30:19.033Z",
   "deals": [
+    {
+      "id": "p:7677618842|i:19107529535|v:74115362879",
+      "source": "coupang",
+      "name": "크리넥스 데코 앤 소프트 화이트 천연펄프 3겹 고급롤화장지, 38m, 24개입, 1개",
+      "price": 17990,
+      "listPrice": 32200,
+      "observedAt": "2026-09-01T12:28:51.773Z",
+      "url": "https://link.coupang.com/a/gGXUFSOEuq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17990,
+          "observedAt": "2026-09-01T12:28:51.773Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
       "source": "toss",
