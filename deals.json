@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-01T00:32:07.276Z",
+  "updatedAt": "2026-09-01T01:30:38.819Z",
   "deals": [
+    {
+      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "price": 9900,
+      "listPrice": 17600,
+      "observedAt": "2026-09-01T01:29:14.698Z",
+      "url": "https://toss.im/_m/jRG6sksj",
+      "image": "assets/products/bc77e3a6b57560eff14f.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T01:29:14.698Z"
+        },
+        {
+          "price": 10800,
+          "observedAt": "2026-08-19T00:39:11.374Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T08:16:13.284Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T05:58:19.506Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1066750403|n:20년 장인김치 전라도식 배추김치, 10kg, 1박스",
+      "source": "toss",
+      "name": "20년 장인김치 전라도식 배추김치, 10kg, 1박스",
+      "price": 26990,
+      "listPrice": null,
+      "observedAt": "2026-09-01T01:01:25.138Z",
+      "url": "https://toss.im/_m/1rWs5wVj",
+      "image": "assets/products/2c0aa1ae411e37e7dc14.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 26990,
+          "observedAt": "2026-09-01T01:01:25.138Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-31T10:48:55.241Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:158890169|n:하림펫푸드 밥이보약 dog, 튼튼한 관절, 전연령, 3.4kg, 1개",
       "source": "toss",
@@ -318,23 +368,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-31T00:28:14.731Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1066750403|n:20년 장인김치 전라도식 배추김치, 10kg, 1박스",
-      "source": "toss",
-      "name": "20년 장인김치 전라도식 배추김치, 10kg, 1박스",
-      "price": 26900,
-      "listPrice": null,
-      "observedAt": "2026-08-31T10:48:55.241Z",
-      "url": "https://toss.im/_m/1rWs5wVj",
-      "image": "assets/products/2c0aa1ae411e37e7dc14.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 26900,
-          "observedAt": "2026-08-31T10:48:55.241Z"
         }
       ]
     },
@@ -10897,31 +10930,6 @@
         {
           "price": 9800,
           "observedAt": "2026-08-19T00:43:39.753Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉, 1개",
-      "source": "toss",
-      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉, 1개",
-      "price": 10800,
-      "listPrice": 17600,
-      "observedAt": "2026-08-19T00:39:11.374Z",
-      "url": "https://toss.im/_m/jRG6sksj",
-      "image": "assets/products/7d3911ebb247bbca505f.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 10800,
-          "observedAt": "2026-08-19T00:39:11.374Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T08:16:13.284Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T05:58:19.506Z"
         }
       ]
     },
