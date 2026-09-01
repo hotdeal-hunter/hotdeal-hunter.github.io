@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-01T07:27:58.696Z",
+  "updatedAt": "2026-09-01T08:03:13.671Z",
   "deals": [
+    {
+      "id": "p:120680|i:8040718|v:3011049552",
+      "source": "coupang",
+      "name": "히말라야 립 밤, 무색, 10g, 2개",
+      "price": 3730,
+      "listPrice": 7800,
+      "observedAt": "2026-09-01T08:01:47.919Z",
+      "url": "https://link.coupang.com/a/gGEPrDpKXA",
+      "image": "assets/products/8626a97a4308b1bf6718.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3730,
+          "observedAt": "2026-09-01T08:01:47.919Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-01T07:57:11.192Z",
+      "url": "https://toss.im/_m/HRZNLYcr",
+      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T07:57:11.192Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T05:55:44.086Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T04:06:30.571Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T03:06:04.914Z"
+        }
+      ]
+    },
     {
       "id": "p:9213950976|i:27833148991|v:94792694215",
       "source": "coupang",
@@ -117,31 +163,6 @@
         {
           "price": 63260,
           "observedAt": "2026-09-01T06:23:22.950Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-01T05:55:44.086Z",
-      "url": "https://toss.im/_m/HRZNLYcr",
-      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T05:55:44.086Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T04:06:30.571Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T03:06:04.914Z"
         }
       ]
     },
