@@ -1,6 +1,73 @@
 {
-  "updatedAt": "2026-09-01T03:25:36.141Z",
+  "updatedAt": "2026-09-01T04:58:11.590Z",
   "deals": [
+    {
+      "id": "p:5391887629|i:8043971134|v:75332578023",
+      "source": "coupang",
+      "name": "알텐바흐 헥사 통5중 스텐 궁중팬, 28cm, 1개",
+      "price": 33900,
+      "listPrice": 78530,
+      "observedAt": "2026-09-01T04:56:45.864Z",
+      "url": "https://link.coupang.com/a/gGrBw8W0M8",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 33900,
+          "observedAt": "2026-09-01T04:56:45.864Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-09-01T04:56:45.602Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:98430069|n:진품 경기미, 2025년산, 상등급, 4kg, 1개",
+      "source": "toss",
+      "name": "진품 경기미, 2025년산, 상등급, 4kg, 1개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-01T04:41:35.667Z",
+      "url": "https://toss.im/_m/h3wJD1Y6",
+      "image": "assets/products/15028e99308dc51b0490.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-01T04:41:35.667Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-31T23:00:25.141Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-31T00:48:19.532Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-01T04:06:30.571Z",
+      "url": "https://toss.im/_m/HRZNLYcr",
+      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T04:06:30.571Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T03:06:04.914Z"
+        }
+      ]
+    },
     {
       "id": "p:6789548230|i:7680088915|v:74970391620",
       "source": "coupang",
@@ -15,23 +82,6 @@
         {
           "price": 5980,
           "observedAt": "2026-09-01T03:25:24.564Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-01T03:06:04.914Z",
-      "url": "https://toss.im/_m/HRZNLYcr",
-      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T03:06:04.914Z"
         }
       ]
     },
@@ -266,27 +316,6 @@
         {
           "price": 7900,
           "observedAt": "2026-08-31T23:00:25.220Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:98430069|n:진품 경기미, 2025년산, 상등급, 4kg, 1개",
-      "source": "toss",
-      "name": "진품 경기미, 2025년산, 상등급, 4kg, 1개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-31T23:00:25.141Z",
-      "url": "https://toss.im/_m/h3wJD1Y6",
-      "image": "assets/products/15028e99308dc51b0490.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-31T23:00:25.141Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-31T00:48:19.532Z"
         }
       ]
     },
