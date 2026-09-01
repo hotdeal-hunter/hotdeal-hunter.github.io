@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-01T00:11:55.229Z",
+  "updatedAt": "2026-09-01T00:32:07.276Z",
   "deals": [
+    {
+      "id": "toss:p:158890169|n:하림펫푸드 밥이보약 dog, 튼튼한 관절, 전연령, 3.4kg, 1개",
+      "source": "toss",
+      "name": "하림펫푸드 밥이보약 DOG, 튼튼한 관절, 전연령, 3.4kg, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-01T00:30:46.254Z",
+      "url": "https://toss.im/_m/XpoaiKbd",
+      "image": "assets/products/a3a3c167a0e8f27b9db9.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-01T00:30:46.254Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-01T00:30:45.910Z"
+        }
+      ]
+    },
     {
       "id": "p:9699336690|i:25222947878|v:92091339765",
       "source": "coupang",
