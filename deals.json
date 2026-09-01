@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T06:55:04.798Z",
+  "updatedAt": "2026-09-01T07:01:22.671Z",
   "deals": [
+    {
+      "id": "p:8622427376|i:25015363393|v:92020255774",
+      "source": "coupang",
+      "name": "서울우유 요구르트, 1개, 1개입, 1700ml",
+      "price": 2370,
+      "listPrice": 3752,
+      "observedAt": "2026-09-01T06:59:57.965Z",
+      "url": "https://link.coupang.com/a/gGApuCN3IG",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2370,
+          "observedAt": "2026-09-01T06:59:57.965Z"
+        }
+      ]
+    },
     {
       "id": "p:8734763423|i:25408614705|v:92402070460",
       "source": "coupang",
