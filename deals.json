@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T10:24:04.358Z",
+  "updatedAt": "2026-09-01T10:34:54.253Z",
   "deals": [
+    {
+      "id": "toss:p:2397083277|n:팬톤 lcd 디스플레이 노이즈캔슬링 블루투스 이어폰, bt350a, 화이트, 1개",
+      "source": "toss",
+      "name": "팬톤 LCD 디스플레이 노이즈캔슬링 블루투스 이어폰, BT350A, 화이트, 1개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-01T10:33:34.329Z",
+      "url": "https://toss.im/_m/tYNQQDmn",
+      "image": "assets/products/466e59eb7bbc806b4e5b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-01T10:33:34.329Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2506308795|n:서서갈비, 1kg, 2팩",
       "source": "toss",
