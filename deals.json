@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T05:20:01.644Z",
+  "updatedAt": "2026-09-01T05:28:38.177Z",
   "deals": [
+    {
+      "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
+      "source": "toss",
+      "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+      "price": 16500,
+      "listPrice": 34900,
+      "observedAt": "2026-09-01T05:28:26.884Z",
+      "url": "https://toss.im/_m/rmxF9VZv",
+      "image": "assets/products/ad69c1745b1dd977c34f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16500,
+          "observedAt": "2026-09-01T05:28:26.884Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
       "source": "toss",
@@ -26,7 +43,7 @@
       "listPrice": 78530,
       "observedAt": "2026-09-01T04:56:45.864Z",
       "url": "https://link.coupang.com/a/gGrBw8W0M8",
-      "image": null,
+      "image": "assets/products/cc4b8e8d6f1540a42477.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
