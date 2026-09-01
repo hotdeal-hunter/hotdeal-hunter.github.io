@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-01T23:13:02.060Z",
+  "updatedAt": "2026-09-01T23:40:09.904Z",
   "deals": [
+    {
+      "id": "p:6583185155|i:14823352442|v:3073291163",
+      "source": "coupang",
+      "name": "가그린 오리지널 구강청결제, 1.2L, 2개",
+      "price": 8850,
+      "listPrice": 23800,
+      "observedAt": "2026-09-01T23:39:58.209Z",
+      "url": "https://link.coupang.com/a/gHJR0z4Pds",
+      "image": "assets/products/b49cf6fd0ce89d7c1e9b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8850,
+          "observedAt": "2026-09-01T23:39:58.209Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6967980335|i:27773326412|v:94733762004",
+      "source": "coupang",
+      "name": "네이처리퍼블릭 수딩 앤 모이스처 알로에베라 수딩젤, 300ml, 3개",
+      "price": 5340,
+      "listPrice": 11620,
+      "observedAt": "2026-09-01T23:39:58.001Z",
+      "url": "https://link.coupang.com/a/gHJRZNsgi4",
+      "image": "assets/products/55fde7042cffb2f7c315.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5340,
+          "observedAt": "2026-09-01T23:39:58.001Z"
+        }
+      ]
+    },
     {
       "id": "p:9558138444|i:28521592893|v:95469069848",
       "source": "coupang",
