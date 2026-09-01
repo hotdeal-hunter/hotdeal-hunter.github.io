@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T12:45:26.103Z",
+  "updatedAt": "2026-09-01T13:33:48.786Z",
   "deals": [
+    {
+      "id": "toss:p:2291198637|n:리얼 블랙트러플 하몽 소다 크래커, 21g, 42개입, 1개",
+      "source": "toss",
+      "name": "리얼 블랙트러플 하몽 소다 크래커, 21g, 42개입, 1개",
+      "price": 11670,
+      "listPrice": null,
+      "observedAt": "2026-09-01T13:32:14.248Z",
+      "url": "https://toss.im/_m/vUlftIHe",
+      "image": "assets/products/e5fbb2543dcf173e352c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11670,
+          "observedAt": "2026-09-01T13:32:14.248Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:8070595|n:손질 가리비 관자, 500g, 2개",
       "source": "toss",
