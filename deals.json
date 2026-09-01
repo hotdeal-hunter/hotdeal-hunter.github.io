@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T01:30:38.819Z",
+  "updatedAt": "2026-09-01T01:49:42.733Z",
   "deals": [
+    {
+      "id": "p:7936248000|i:25849279844|v:88894493856",
+      "source": "coupang",
+      "name": "오비안 모던 규조토 욕실 주방 발매트 대형, 대형(120x40), 베이지스트라이프",
+      "price": 9800,
+      "listPrice": 19000,
+      "observedAt": "2026-09-01T01:48:17.442Z",
+      "url": "https://link.coupang.com/a/gGd8uSa8MC",
+      "image": "assets/products/07a4bc25399437202a6d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9800,
+          "observedAt": "2026-09-01T01:48:17.442Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
       "source": "toss",
