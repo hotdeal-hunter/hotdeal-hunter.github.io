@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-01T07:01:22.671Z",
+  "updatedAt": "2026-09-01T07:25:03.436Z",
   "deals": [
+    {
+      "id": "p:9213950976|i:27833148991|v:94792694215",
+      "source": "coupang",
+      "name": "스탠리 에브리데이 서버번 머그, 소프트 오키드, 473ml, 1개",
+      "price": 24220,
+      "listPrice": 38000,
+      "observedAt": "2026-09-01T07:23:39.064Z",
+      "url": "https://link.coupang.com/a/gGB6qI941s",
+      "image": "assets/products/aa1d4a7c42595bcb38e3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24220,
+          "observedAt": "2026-09-01T07:23:39.064Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1261151595|n:풀무원샘물 라벨랜덤, 500ml, 20개",
+      "source": "toss",
+      "name": "풀무원샘물 라벨랜덤, 500ml, 20개",
+      "price": 4604,
+      "listPrice": 9000,
+      "observedAt": "2026-09-01T07:23:38.819Z",
+      "url": "https://toss.im/_m/TjFHUQq9",
+      "image": "assets/products/41fdbae3051b6ab21b22.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4604,
+          "observedAt": "2026-09-01T07:23:38.819Z"
+        }
+      ]
+    },
     {
       "id": "p:8622427376|i:25015363393|v:92020255774",
       "source": "coupang",
