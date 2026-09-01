@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-01T11:46:45.686Z",
+  "updatedAt": "2026-09-01T12:13:16.965Z",
   "deals": [
+    {
+      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
+      "source": "toss",
+      "name": "바른 돼지국밥, 500g, 5개",
+      "price": 11380,
+      "listPrice": null,
+      "observedAt": "2026-09-01T12:11:42.944Z",
+      "url": "https://toss.im/_m/phUo33E3",
+      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 11380,
+          "observedAt": "2026-09-01T12:11:42.944Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:21:40.808Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:01:15.139Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2520778545|n:흑돼지 일품삼겹, 구이용, 1kg, 1팩",
+      "source": "toss",
+      "name": "흑돼지 일품삼겹, 구이용, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": 35900,
+      "observedAt": "2026-09-01T12:11:35.905Z",
+      "url": "https://toss.im/_m/nJDzzLg8",
+      "image": "assets/products/8d77f4854c8cf32ac2ba.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T12:11:35.905Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:72279253|n:외갓집 소갈비탕, 650g, 2팩",
       "source": "toss",
@@ -7457,27 +7499,6 @@
         {
           "price": 12230,
           "observedAt": "2026-08-23T23:47:20.332Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
-      "source": "toss",
-      "name": "바른 돼지국밥, 500g, 5개",
-      "price": 11380,
-      "listPrice": null,
-      "observedAt": "2026-08-23T23:21:40.808Z",
-      "url": "https://toss.im/_m/phUo33E3",
-      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:21:40.808Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:01:15.139Z"
         }
       ]
     },
