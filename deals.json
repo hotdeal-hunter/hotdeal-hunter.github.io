@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-08-31T23:24:44.963Z",
+  "updatedAt": "2026-09-01T00:11:55.229Z",
   "deals": [
+    {
+      "id": "p:9699336690|i:25222947878|v:92091339765",
+      "source": "coupang",
+      "name": "더미식 당진 백미밥, 200g, 24개",
+      "price": 19170,
+      "listPrice": 47000,
+      "observedAt": "2026-09-01T00:10:29.954Z",
+      "url": "https://link.coupang.com/a/gF69evYue4",
+      "image": "assets/products/0664358976f02a8c33b7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19170,
+          "observedAt": "2026-09-01T00:10:29.954Z"
+        }
+      ]
+    },
     {
       "id": "p:251108024|i:792445939|v:5011205462",
       "source": "coupang",
