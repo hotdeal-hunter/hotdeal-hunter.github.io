@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T09:36:59.529Z",
+  "updatedAt": "2026-09-01T10:17:10.094Z",
   "deals": [
+    {
+      "id": "p:7928329657|i:21801198320|v:88849771663",
+      "source": "coupang",
+      "name": "주부9단 목우촌 오븐구이 떡갈비 (냉동), 1kg, 2개",
+      "price": 12570,
+      "listPrice": null,
+      "observedAt": "2026-09-01T10:15:47.870Z",
+      "url": "https://link.coupang.com/a/gGOo7SQ0Wa",
+      "image": "assets/products/727c442f29803e93fd7d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12570,
+          "observedAt": "2026-09-01T10:15:47.870Z"
+        }
+      ]
+    },
     {
       "id": "p:1703093047|i:19447429883|v:70887318328",
       "source": "coupang",
