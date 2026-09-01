@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T10:21:08.775Z",
+  "updatedAt": "2026-09-01T10:24:04.358Z",
   "deals": [
+    {
+      "id": "toss:p:2506308795|n:서서갈비, 1kg, 2팩",
+      "source": "toss",
+      "name": "서서갈비, 1kg, 2팩",
+      "price": 17900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-01T10:21:19.428Z",
+      "url": "https://toss.im/_m/pYxynk52",
+      "image": "assets/products/8633074bdfd4ce308516.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-01T10:21:19.428Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
       "source": "toss",
