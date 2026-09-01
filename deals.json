@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-01T10:34:54.253Z",
+  "updatedAt": "2026-09-01T11:46:45.686Z",
   "deals": [
+    {
+      "id": "toss:p:72279253|n:외갓집 소갈비탕, 650g, 2팩",
+      "source": "toss",
+      "name": "외갓집 소갈비탕, 650g, 2팩",
+      "price": 8980,
+      "listPrice": null,
+      "observedAt": "2026-09-01T11:45:21.812Z",
+      "url": "https://toss.im/_m/DQihyjgi",
+      "image": "assets/products/4395a9a78be23974f19f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8980,
+          "observedAt": "2026-09-01T11:45:21.812Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7928329657|i:21801198320|v:88849771663",
+      "source": "coupang",
+      "name": "주부9단 목우촌 오븐구이 떡갈비 (냉동), 1kg, 2개",
+      "price": 12570,
+      "listPrice": 16900,
+      "observedAt": "2026-09-01T10:59:42.160Z",
+      "url": "https://link.coupang.com/a/gGRxEcfL1E",
+      "image": "assets/products/727c442f29803e93fd7d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12570,
+          "observedAt": "2026-09-01T10:59:42.160Z"
+        },
+        {
+          "price": 12570,
+          "observedAt": "2026-09-01T10:15:47.870Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2397083277|n:팬톤 lcd 디스플레이 노이즈캔슬링 블루투스 이어폰, bt350a, 화이트, 1개",
       "source": "toss",
@@ -53,23 +91,6 @@
         {
           "price": 5990,
           "observedAt": "2026-08-30T23:00:31.560Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7928329657|i:21801198320|v:88849771663",
-      "source": "coupang",
-      "name": "주부9단 목우촌 오븐구이 떡갈비 (냉동), 1kg, 2개",
-      "price": 12570,
-      "listPrice": null,
-      "observedAt": "2026-09-01T10:15:47.870Z",
-      "url": "https://link.coupang.com/a/gGOo7SQ0Wa",
-      "image": "assets/products/727c442f29803e93fd7d.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12570,
-          "observedAt": "2026-09-01T10:15:47.870Z"
         }
       ]
     },
