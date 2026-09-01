@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T02:16:54.588Z",
+  "updatedAt": "2026-09-01T03:07:41.939Z",
   "deals": [
+    {
+      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-01T03:06:04.914Z",
+      "url": "https://toss.im/_m/HRZNLYcr",
+      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T03:06:04.914Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1497881307|n:베라 4zero 뽑아쓰는 미용티슈, 250매, 6팩",
       "source": "toss",
