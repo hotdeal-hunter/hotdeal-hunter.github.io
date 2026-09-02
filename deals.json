@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-02T08:13:40.405Z",
+  "updatedAt": "2026-09-02T09:05:31.186Z",
   "deals": [
+    {
+      "id": "toss:p:178463027|n:잇콕 우와한 제육볶음, 200g, 5개",
+      "source": "toss",
+      "name": "잇콕 우와한 제육볶음, 200g, 5개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T09:04:08.737Z",
+      "url": "https://toss.im/_m/t9YFZohd",
+      "image": "assets/products/e08a1403988af811b108.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-02T09:04:08.737Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:6035|n:클리오 덴티메이트 오리지널 초극세모, 10개입, 3개",
+      "source": "toss",
+      "name": "클리오 덴티메이트 오리지널 초극세모, 10개입, 3개",
+      "price": 9900,
+      "listPrice": 14900,
+      "observedAt": "2026-09-02T09:04:04.918Z",
+      "url": "https://toss.im/_m/vf2mygZz",
+      "image": "assets/products/35e0690f8d89a123b698.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-02T09:04:04.918Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
       "source": "toss",
