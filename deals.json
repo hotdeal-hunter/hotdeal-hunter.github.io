@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T07:57:59.153Z",
+  "updatedAt": "2026-09-02T08:13:40.405Z",
   "deals": [
+    {
+      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "source": "toss",
+      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "price": 14890,
+      "listPrice": null,
+      "observedAt": "2026-09-02T08:12:19.370Z",
+      "url": "https://toss.im/_m/50vaVJ8v",
+      "image": "assets/products/d8904ef247c49b0cba97.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 14890,
+          "observedAt": "2026-09-02T08:12:19.370Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-21T22:59:58.737Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-20T01:24:30.992Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
       "source": "toss",
@@ -9222,27 +9247,6 @@
         {
           "price": 1080,
           "observedAt": "2026-08-21T23:05:39.883Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "source": "toss",
-      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "price": 14890,
-      "listPrice": null,
-      "observedAt": "2026-08-21T22:59:58.737Z",
-      "url": "https://toss.im/_m/50vaVJ8v",
-      "image": "assets/products/d8904ef247c49b0cba97.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 14890,
-          "observedAt": "2026-08-21T22:59:58.737Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-08-20T01:24:30.992Z"
         }
       ]
     },
