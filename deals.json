@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T05:17:28.139Z",
+  "updatedAt": "2026-09-02T05:48:29.582Z",
   "deals": [
+    {
+      "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
+      "source": "toss",
+      "name": "BHC 뿌링팝콘, 60g, 12개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T05:47:10.101Z",
+      "url": "https://toss.im/_m/NarVjz5m",
+      "image": "assets/products/9d6ed2773bce479afee4.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-02T05:47:10.101Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-01T23:01:32.625Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-31T23:00:25.220Z"
+        }
+      ]
+    },
     {
       "id": "p:6524949215|i:22489507813|v:3938771464",
       "source": "coupang",
@@ -516,27 +541,6 @@
         {
           "price": 8330,
           "observedAt": "2026-08-31T01:58:09.213Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
-      "source": "toss",
-      "name": "Bhc 뿌링팝콘, 60g, 12개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-09-01T23:01:32.625Z",
-      "url": "https://toss.im/_m/NarVjz5m",
-      "image": "assets/products/9d6ed2773bce479afee4.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-09-01T23:01:32.625Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-08-31T23:00:25.220Z"
         }
       ]
     },
