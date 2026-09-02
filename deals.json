@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-02T23:04:36.964Z",
+  "updatedAt": "2026-09-02T23:53:21.562Z",
   "deals": [
+    {
+      "id": "toss:p:83815917|n:데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "source": "toss",
+      "name": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
+      "price": 4900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T23:51:25.235Z",
+      "url": "https://toss.im/_m/DdOFzZAD",
+      "image": "assets/products/6062e0f7717492e6ec99.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-02T23:51:25.235Z"
+        },
+        {
+          "price": 4900,
+          "observedAt": "2026-08-23T22:36:24.018Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
       "source": "toss",
@@ -8233,23 +8254,6 @@
         {
           "price": 7830,
           "observedAt": "2026-08-23T23:02:20.418Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83815917|n:데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
-      "source": "toss",
-      "name": "데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
-      "price": 4900,
-      "listPrice": null,
-      "observedAt": "2026-08-23T22:36:24.018Z",
-      "url": "https://toss.im/_m/DdOFzZAD",
-      "image": "assets/products/6062e0f7717492e6ec99.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4900,
-          "observedAt": "2026-08-23T22:36:24.018Z"
         }
       ]
     },
