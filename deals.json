@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T01:56:34.425Z",
+  "updatedAt": "2026-09-02T02:43:24.572Z",
   "deals": [
+    {
+      "id": "p:9273626137|i:27450227449|v:94382192063",
+      "source": "coupang",
+      "name": "가뿐한끼 곤약현미잡곡밥, 130g, 18개",
+      "price": 15650,
+      "listPrice": null,
+      "observedAt": "2026-09-02T02:42:00.732Z",
+      "url": "https://link.coupang.com/a/gHWSx82Ne8",
+      "image": "assets/products/29d4fd58beb825730190.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15650,
+          "observedAt": "2026-09-02T02:42:00.732Z"
+        }
+      ]
+    },
     {
       "id": "p:4970215252|i:6597007098|v:73890947457",
       "source": "coupang",
