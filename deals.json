@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T01:35:53.320Z",
+  "updatedAt": "2026-09-02T01:56:34.425Z",
   "deals": [
+    {
+      "id": "p:4970215252|i:6597007098|v:73890947457",
+      "source": "coupang",
+      "name": "바겐슈타이거 연마제 없는 스텐 사각 트레이 세트, No.03(355 x 265 x 50 mm), 밧드 + 랙 + 트레이, 1세트",
+      "price": 10900,
+      "listPrice": 30600,
+      "observedAt": "2026-09-02T01:55:03.546Z",
+      "url": "https://link.coupang.com/a/gHTwwQtfcO",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-02T01:55:03.546Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:457317035|n:남여 4계절 심플 페이크삭스, 화이트, 남성, 12켤레",
       "source": "toss",
