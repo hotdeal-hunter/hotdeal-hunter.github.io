@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T09:08:44.440Z",
+  "updatedAt": "2026-09-02T10:07:24.818Z",
   "deals": [
+    {
+      "id": "toss:p:2173561311|n:펩시콜라 제로 슈거 업소용, 라임향, 500ml, 20개",
+      "source": "toss",
+      "name": "펩시콜라 제로 슈거 업소용, 라임향, 500ml, 20개",
+      "price": 15082,
+      "listPrice": 30000,
+      "observedAt": "2026-09-02T10:07:11.760Z",
+      "url": "https://toss.im/_m/zSgQaBHa",
+      "image": "assets/products/3c55584dbbedd5273b52.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15082,
+          "observedAt": "2026-09-02T10:07:11.760Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:178463027|n:잇콕 우와한 제육볶음, 200g, 5개",
       "source": "toss",
