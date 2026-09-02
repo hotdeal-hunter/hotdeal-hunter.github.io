@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T06:14:55.258Z",
+  "updatedAt": "2026-09-02T07:57:59.153Z",
   "deals": [
+    {
+      "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
+      "source": "toss",
+      "name": "CJ제일제당 스팸 클래식, 340g, 10개",
+      "price": 36900,
+      "listPrice": 60900,
+      "observedAt": "2026-09-02T07:56:32.945Z",
+      "url": "https://toss.im/_m/5MTKhm5A",
+      "image": "assets/products/0b9194b363e950c76502.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 36900,
+          "observedAt": "2026-09-02T07:56:32.945Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
       "source": "toss",
