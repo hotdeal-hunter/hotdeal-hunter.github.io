@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-02T04:51:10.842Z",
+  "updatedAt": "2026-09-02T05:17:28.139Z",
   "deals": [
+    {
+      "id": "p:6524949215|i:22489507813|v:3938771464",
+      "source": "coupang",
+      "name": "웅진빅토리아 청포도 탄산음료, 500ml, 20개",
+      "price": 8600,
+      "listPrice": 11359,
+      "observedAt": "2026-09-02T05:16:03.845Z",
+      "url": "https://link.coupang.com/a/gH7S4FyVgG",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8600,
+          "observedAt": "2026-09-02T05:16:03.845Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "source": "toss",
+      "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "price": 19900,
+      "listPrice": 24900,
+      "observedAt": "2026-09-02T05:13:41.249Z",
+      "url": "https://toss.im/_m/LRHITabg",
+      "image": "assets/products/bba5525df9e1e37a3099.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-02T05:13:41.249Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-08-27T00:57:28.746Z"
+        }
+      ]
+    },
     {
       "id": "p:7370852457|i:22052097472|v:89099363642",
       "source": "coupang",
@@ -5208,23 +5246,6 @@
         {
           "price": 7870,
           "observedAt": "2026-08-27T01:13:44.860Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
-      "source": "toss",
-      "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
-      "price": 18900,
-      "listPrice": 24900,
-      "observedAt": "2026-08-27T00:57:28.746Z",
-      "url": "https://toss.im/_m/LRHITabg",
-      "image": "assets/products/bba5525df9e1e37a3099.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 18900,
-          "observedAt": "2026-08-27T00:57:28.746Z"
         }
       ]
     },
