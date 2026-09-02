@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-02T02:43:24.572Z",
+  "updatedAt": "2026-09-02T02:50:55.083Z",
   "deals": [
+    {
+      "id": "toss:p:134334663|n:습기타파 제습제, 280g, 24개",
+      "source": "toss",
+      "name": "습기타파 제습제, 280g, 24개",
+      "price": 15700,
+      "listPrice": 24900,
+      "observedAt": "2026-09-02T02:49:30.601Z",
+      "url": "https://toss.im/_m/RxfCgjWt",
+      "image": "assets/products/bb2a7652b16e33972d5c.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15700,
+          "observedAt": "2026-09-02T02:49:30.601Z"
+        },
+        {
+          "price": 15700,
+          "observedAt": "2026-08-19T13:14:20.120Z"
+        }
+      ]
+    },
     {
       "id": "p:9273626137|i:27450227449|v:94382192063",
       "source": "coupang",
@@ -10877,23 +10898,6 @@
         {
           "price": 28900,
           "observedAt": "2026-08-19T13:14:20.315Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:134334663|n:습기타파 제습제, 280g, 24개",
-      "source": "toss",
-      "name": "습기타파 제습제, 280g, 24개",
-      "price": 15700,
-      "listPrice": null,
-      "observedAt": "2026-08-19T13:14:20.120Z",
-      "url": "https://toss.im/_m/RxfCgjWt",
-      "image": "assets/products/bb2a7652b16e33972d5c.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15700,
-          "observedAt": "2026-08-19T13:14:20.120Z"
         }
       ]
     },
