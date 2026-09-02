@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T03:12:39.764Z",
+  "updatedAt": "2026-09-02T03:23:39.893Z",
   "deals": [
+    {
+      "id": "p:8758755740|i:26763265960|v:92459396108",
+      "source": "coupang",
+      "name": "테팔 인덕션 티타늄 1X 데일리 컴포트 프라이팬, 28cm, 1개",
+      "price": 25980,
+      "listPrice": 98000,
+      "observedAt": "2026-09-02T03:23:27.208Z",
+      "url": "https://link.coupang.com/a/gHZP9OX9yK",
+      "image": "assets/products/0e24dd904fab525e7cd0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25980,
+          "observedAt": "2026-09-02T03:23:27.208Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1742298283|n:닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
       "source": "toss",
