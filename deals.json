@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-02T11:43:56.055Z",
+  "updatedAt": "2026-09-02T12:58:33.386Z",
   "deals": [
+    {
+      "id": "toss:p:78216817|n:애슐리 치즈 폭포 돈카츠, 300g, 2팩",
+      "source": "toss",
+      "name": "애슐리 치즈 폭포 돈카츠, 300g, 2팩",
+      "price": 12990,
+      "listPrice": null,
+      "observedAt": "2026-09-02T12:56:39.216Z",
+      "url": "https://toss.im/_m/7e9cexfr",
+      "image": "assets/products/c1e6147bfe8a536221de.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-09-02T12:56:39.216Z"
+        },
+        {
+          "price": 12990,
+          "observedAt": "2026-08-19T13:14:19.587Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "source": "toss",
+      "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-02T12:30:51.690Z",
+      "url": "https://toss.im/_m/PKCsKInB",
+      "image": "assets/products/886b99b10b8c8542ea6f.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-02T12:30:51.690Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-02T06:13:25.473Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:97550345|n:외갓집 간단식단 닭가슴살 김치만두, 180g, 6팩",
       "source": "toss",
@@ -154,23 +196,6 @@
         {
           "price": 14890,
           "observedAt": "2026-08-20T01:24:30.992Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
-      "source": "toss",
-      "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-02T06:13:25.473Z",
-      "url": "https://toss.im/_m/PKCsKInB",
-      "image": "assets/products/886b99b10b8c8542ea6f.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-02T06:13:25.473Z"
         }
       ]
     },
@@ -11168,23 +11193,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-19T00:53:48.816Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:78216817|n:애슐리 치즈 폭포 돈카츠, 300g, 2개입, 2팩",
-      "source": "toss",
-      "name": "애슐리 치즈 폭포 돈카츠, 300g, 2개입, 2팩",
-      "price": 12990,
-      "listPrice": null,
-      "observedAt": "2026-08-19T13:14:19.587Z",
-      "url": "https://toss.im/_m/7e9cexfr",
-      "image": "assets/products/f61a45d3216cad06d4a8.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12990,
-          "observedAt": "2026-08-19T13:14:19.587Z"
         }
       ]
     },
