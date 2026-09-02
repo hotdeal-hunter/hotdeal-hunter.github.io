@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-02T04:32:58.101Z",
+  "updatedAt": "2026-09-02T04:51:10.842Z",
   "deals": [
+    {
+      "id": "p:7370852457|i:22052097472|v:89099363642",
+      "source": "coupang",
+      "name": "벡셀 아이프라임 알카라인 AA건전지, 40개입, 1개",
+      "price": 11150,
+      "listPrice": 22000,
+      "observedAt": "2026-09-02T04:50:57.667Z",
+      "url": "https://link.coupang.com/a/gH55Rov5VI",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11150,
+          "observedAt": "2026-09-02T04:50:57.667Z"
+        },
+        {
+          "price": 11150,
+          "observedAt": "2026-09-02T04:50:57.445Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:592477513|n:모리나가 소금 카라멜, 83g, 3개",
       "source": "toss",
