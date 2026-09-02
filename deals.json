@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-02T00:16:09.180Z",
+  "updatedAt": "2026-09-02T00:43:27.343Z",
   "deals": [
+    {
+      "id": "toss:p:114352923|n:지도표성경김 재래 식탁김, 4g, 24봉",
+      "source": "toss",
+      "name": "지도표성경김 재래 식탁김, 4g, 24봉",
+      "price": 9000,
+      "listPrice": 19900,
+      "observedAt": "2026-09-02T00:43:15.524Z",
+      "url": "https://toss.im/_m/d4SYOi98",
+      "image": "assets/products/f53ce8a033e71135796e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-02T00:43:15.524Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9546034489|i:28479235090|v:95429408102",
+      "source": "coupang",
+      "name": "오뚜기 로열라면 120g, 4개",
+      "price": 2550,
+      "listPrice": 3973,
+      "observedAt": "2026-09-02T00:24:32.750Z",
+      "url": "https://link.coupang.com/a/gHM3vpSJxY",
+      "image": "assets/products/eb7880c69f55277a880a.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 2550,
+          "observedAt": "2026-09-02T00:24:32.750Z"
+        },
+        {
+          "price": 2550,
+          "observedAt": "2026-09-01T23:08:29.218Z"
+        },
+        {
+          "price": 2550,
+          "observedAt": "2026-09-01T22:36:34.170Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
       "source": "toss",
@@ -70,27 +112,6 @@
         {
           "price": 3030,
           "observedAt": "2026-09-01T22:36:34.365Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9546034489|i:28479235090|v:95429408102",
-      "source": "coupang",
-      "name": "오뚜기 로열라면 120g, 4개",
-      "price": 2550,
-      "listPrice": null,
-      "observedAt": "2026-09-01T23:08:29.218Z",
-      "url": "https://link.coupang.com/a/gHHCxcDUke",
-      "image": "assets/products/eb7880c69f55277a880a.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 2550,
-          "observedAt": "2026-09-01T23:08:29.218Z"
-        },
-        {
-          "price": 2550,
-          "observedAt": "2026-09-01T22:36:34.170Z"
         }
       ]
     },
