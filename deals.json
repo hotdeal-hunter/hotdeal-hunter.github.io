@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-02T11:04:53.533Z",
+  "updatedAt": "2026-09-02T11:16:08.545Z",
   "deals": [
+    {
+      "id": "toss:p:157360759|n:널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
+      "source": "toss",
+      "name": "널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
+      "price": 9660,
+      "listPrice": null,
+      "observedAt": "2026-09-02T11:14:33.543Z",
+      "url": "https://toss.im/_m/fJlaHBa1",
+      "image": "assets/products/b4a082a32c4ce57cd7a7.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9660,
+          "observedAt": "2026-09-02T11:14:33.543Z"
+        },
+        {
+          "price": 8520,
+          "observedAt": "2026-08-26T06:11:07.421Z"
+        },
+        {
+          "price": 8520,
+          "observedAt": "2026-08-26T06:11:07.177Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
       "source": "toss",
@@ -6058,27 +6083,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-26T06:27:42.749Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157360759|n:널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
-      "source": "toss",
-      "name": "널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
-      "price": 8520,
-      "listPrice": null,
-      "observedAt": "2026-08-26T06:11:07.421Z",
-      "url": "https://toss.im/_m/fJlaHBa1",
-      "image": "assets/products/b4a082a32c4ce57cd7a7.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8520,
-          "observedAt": "2026-08-26T06:11:07.421Z"
-        },
-        {
-          "price": 8520,
-          "observedAt": "2026-08-26T06:11:07.177Z"
         }
       ]
     },
