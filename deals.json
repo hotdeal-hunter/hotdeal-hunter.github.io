@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-02T00:43:27.343Z",
+  "updatedAt": "2026-09-02T01:35:53.320Z",
   "deals": [
+    {
+      "id": "toss:p:457317035|n:남여 4계절 심플 페이크삭스, 화이트, 남성, 12켤레",
+      "source": "toss",
+      "name": "남여 4계절 심플 페이크삭스, 화이트, 남성, 12켤레",
+      "price": 7500,
+      "listPrice": null,
+      "observedAt": "2026-09-02T01:34:15.935Z",
+      "url": "https://toss.im/_m/Hj1S5Dnn",
+      "image": "assets/products/e801a37667f6130e5901.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7500,
+          "observedAt": "2026-09-02T01:34:15.935Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "source": "toss",
+      "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T00:50:39.082Z",
+      "url": "https://toss.im/_m/PpEXD15c",
+      "image": "assets/products/22bf18cc4dfcec812a65.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-02T00:50:39.082Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-28T13:07:38.497Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:114352923|n:지도표성경김 재래 식탁김, 4g, 24봉",
       "source": "toss",
@@ -3595,23 +3633,6 @@
         {
           "price": 8900,
           "observedAt": "2026-08-28T22:08:48.764Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
-      "source": "toss",
-      "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-28T13:07:38.497Z",
-      "url": "https://toss.im/_m/PpEXD15c",
-      "image": "assets/products/22bf18cc4dfcec812a65.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-28T13:07:38.497Z"
         }
       ]
     },
