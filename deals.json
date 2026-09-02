@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T11:30:31.989Z",
+  "updatedAt": "2026-09-02T11:43:56.055Z",
   "deals": [
+    {
+      "id": "toss:p:97550345|n:외갓집 간단식단 닭가슴살 김치만두, 180g, 6팩",
+      "source": "toss",
+      "name": "외갓집 간단식단 닭가슴살 김치만두, 180g, 6팩",
+      "price": 15980,
+      "listPrice": null,
+      "observedAt": "2026-09-02T11:42:18.947Z",
+      "url": "https://toss.im/_m/vqwTgX6C",
+      "image": "assets/products/4b91094d6899bc7b7ca4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15980,
+          "observedAt": "2026-09-02T11:42:18.947Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:157360759|n:널담 뚱카롱 넌 사랑이야, 50g, 8개입, 1박스",
       "source": "toss",
