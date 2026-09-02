@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T02:50:55.083Z",
+  "updatedAt": "2026-09-02T03:12:39.764Z",
   "deals": [
+    {
+      "id": "toss:p:1742298283|n:닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
+      "source": "toss",
+      "name": "닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
+      "price": 25900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T03:11:02.069Z",
+      "url": "https://toss.im/_m/5TUU9Ipj",
+      "image": "assets/products/789b4bfbbc84f9775283.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25900,
+          "observedAt": "2026-09-02T03:11:02.069Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:134334663|n:습기타파 제습제, 280g, 24개",
       "source": "toss",
