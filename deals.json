@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-01T23:42:57.252Z",
+  "updatedAt": "2026-09-02T00:16:09.180Z",
   "deals": [
+    {
+      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "source": "toss",
+      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "price": 9540,
+      "listPrice": null,
+      "observedAt": "2026-09-02T00:14:31.346Z",
+      "url": "https://toss.im/_m/p8yLGlpi",
+      "image": "assets/products/d3216092f3fe5a15fb6d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9540,
+          "observedAt": "2026-09-02T00:14:31.346Z"
+        }
+      ]
+    },
     {
       "id": "p:6583185155|i:14823352442|v:3073291163",
       "source": "coupang",
@@ -416,7 +433,7 @@
       "listPrice": 32200,
       "observedAt": "2026-09-01T12:28:51.773Z",
       "url": "https://link.coupang.com/a/gGXUFSOEuq",
-      "image": null,
+      "image": "assets/products/3bb7593a3818f09eecc3.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -682,7 +699,7 @@
       "listPrice": 3752,
       "observedAt": "2026-09-01T06:59:57.965Z",
       "url": "https://link.coupang.com/a/gGApuCN3IG",
-      "image": null,
+      "image": "assets/products/e60acb30b38c336092e3.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -716,7 +733,7 @@
       "listPrice": 6994,
       "observedAt": "2026-09-01T06:33:25.111Z",
       "url": "https://link.coupang.com/a/gGyvK6LuNg",
-      "image": null,
+      "image": "assets/products/2de9a636714207e388d8.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1365,7 +1382,7 @@
       "listPrice": 23800,
       "observedAt": "2026-08-31T06:46:38.512Z",
       "url": "https://link.coupang.com/a/gEUyp1u8Mm",
-      "image": null,
+      "image": "assets/products/d1a0ae304268a45ac231.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
