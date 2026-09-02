@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-02T05:48:29.582Z",
+  "updatedAt": "2026-09-02T06:14:55.258Z",
   "deals": [
+    {
+      "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "source": "toss",
+      "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-02T06:13:25.473Z",
+      "url": "https://toss.im/_m/PKCsKInB",
+      "image": "assets/products/886b99b10b8c8542ea6f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-02T06:13:25.473Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
       "source": "toss",
