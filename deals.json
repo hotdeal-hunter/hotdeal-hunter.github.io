@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-02T03:23:39.893Z",
+  "updatedAt": "2026-09-02T04:32:58.101Z",
   "deals": [
+    {
+      "id": "toss:p:592477513|n:모리나가 소금 카라멜, 83g, 3개",
+      "source": "toss",
+      "name": "모리나가 소금 카라멜, 83g, 3개",
+      "price": 8700,
+      "listPrice": null,
+      "observedAt": "2026-09-02T04:31:13.207Z",
+      "url": "https://toss.im/_m/3GkTPZWy",
+      "image": "assets/products/6633ade21033bb65b5c4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8700,
+          "observedAt": "2026-09-02T04:31:13.207Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1742298283|n:닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
+      "source": "toss",
+      "name": "닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
+      "price": 25900,
+      "listPrice": null,
+      "observedAt": "2026-09-02T03:41:29.140Z",
+      "url": "https://toss.im/_m/5TUU9Ipj",
+      "image": "assets/products/789b4bfbbc84f9775283.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 25900,
+          "observedAt": "2026-09-02T03:41:29.140Z"
+        },
+        {
+          "price": 25900,
+          "observedAt": "2026-09-02T03:11:02.069Z"
+        }
+      ]
+    },
     {
       "id": "p:8758755740|i:26763265960|v:92459396108",
       "source": "coupang",
@@ -15,23 +53,6 @@
         {
           "price": 25980,
           "observedAt": "2026-09-02T03:23:27.208Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1742298283|n:닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
-      "source": "toss",
-      "name": "닭터 닭가슴살 스테이크 6종 혼합, 100g, 24개",
-      "price": 25900,
-      "listPrice": null,
-      "observedAt": "2026-09-02T03:11:02.069Z",
-      "url": "https://toss.im/_m/5TUU9Ipj",
-      "image": "assets/products/789b4bfbbc84f9775283.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 25900,
-          "observedAt": "2026-09-02T03:11:02.069Z"
         }
       ]
     },
