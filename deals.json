@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T01:48:49.524Z",
+  "updatedAt": "2026-09-03T02:00:47.257Z",
   "deals": [
+    {
+      "id": "toss:p:25433377|n:피죤 섬유유연제, 핑크로즈, 3.1l, 4개",
+      "source": "toss",
+      "name": "피죤 섬유유연제, 핑크로즈, 3.1L, 4개",
+      "price": 15900,
+      "listPrice": 28900,
+      "observedAt": "2026-09-03T02:00:35.991Z",
+      "url": "https://toss.im/_m/zWme5K0r",
+      "image": "assets/products/6961af21ada982753e74.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T02:00:35.991Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1749882875|n:딥루트 자외선차단 손등형 팔토시 쿨토시, 블랙+화이트, free, 4세트",
       "source": "toss",
