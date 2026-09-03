@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T01:03:14.324Z",
+  "updatedAt": "2026-09-03T01:48:49.524Z",
   "deals": [
+    {
+      "id": "toss:p:1749882875|n:딥루트 자외선차단 손등형 팔토시 쿨토시, 블랙+화이트, free, 4세트",
+      "source": "toss",
+      "name": "딥루트 자외선차단 손등형 팔토시 쿨토시, 블랙+화이트, FREE, 4세트",
+      "price": 1900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T01:46:55.101Z",
+      "url": "https://toss.im/_m/vz6B8nEp",
+      "image": "assets/products/591217b055d6c5272165.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1900,
+          "observedAt": "2026-09-03T01:46:55.101Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:139590817|n:딥루트 러닝 헤어밴드, 네이비, free, 2개",
       "source": "toss",
