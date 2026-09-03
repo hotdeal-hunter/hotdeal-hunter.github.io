@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-03T05:52:34.747Z",
+  "updatedAt": "2026-09-03T06:13:06.240Z",
   "deals": [
+    {
+      "id": "p:8299791145|i:23992683134|v:91057173971",
+      "source": "coupang",
+      "name": "백설 햄스빌 담백한 굿베이컨, 110g, 6개",
+      "price": 8980,
+      "listPrice": 17560,
+      "observedAt": "2026-09-03T06:11:38.356Z",
+      "url": "https://link.coupang.com/a/gJQLk8GSBg",
+      "image": "assets/products/3e41c06feaefb0edc33b.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8980,
+          "observedAt": "2026-09-03T06:11:38.356Z"
+        },
+        {
+          "price": 8980,
+          "observedAt": "2026-09-03T06:11:37.711Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:805709059|n:땡큐파머스 무항생제 유정란 난각번호 1번 자연방사, 대란, 20구, 1박스",
+      "source": "toss",
+      "name": "땡큐파머스 무항생제 유정란 난각번호 1번 자연방사, 대란, 20구, 1박스",
+      "price": 10900,
+      "listPrice": 16900,
+      "observedAt": "2026-09-03T06:11:37.983Z",
+      "url": "https://toss.im/_m/BAMxl7kc",
+      "image": "assets/products/a63886a0c72e539cab40.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-03T06:11:37.983Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:162254533|n:동원샘물 생수, 라벨랜덤, 2l, 6개",
       "source": "toss",
