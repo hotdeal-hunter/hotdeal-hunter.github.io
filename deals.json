@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T12:59:02.385Z",
+  "updatedAt": "2026-09-03T13:02:04.100Z",
   "deals": [
+    {
+      "id": "toss:p:2654291853|n:소프트 규조토 발매트 + 전용 세탁망, 모던헤리티지, 60x40, 1세트",
+      "source": "toss",
+      "name": "소프트 규조토 발매트 + 전용 세탁망, 모던헤리티지, 60x40, 1세트",
+      "price": 8700,
+      "listPrice": 28000,
+      "observedAt": "2026-09-03T13:00:28.754Z",
+      "url": "https://toss.im/_m/He3HS9al",
+      "image": "assets/products/7485bfec8a690728d72f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8700,
+          "observedAt": "2026-09-03T13:00:28.754Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:99546995|n:대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
       "source": "toss",
