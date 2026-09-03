@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-03T02:00:47.257Z",
+  "updatedAt": "2026-09-03T02:07:12.637Z",
   "deals": [
+    {
+      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "source": "toss",
+      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T02:05:38.482Z",
+      "url": "https://toss.im/_m/TTnDCfvt",
+      "image": "assets/products/c533851cfff4da7eb835.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:05:38.482Z"
+        },
+        {
+          "price": 2558,
+          "observedAt": "2026-08-25T08:06:31.599Z"
+        },
+        {
+          "price": 17910,
+          "observedAt": "2026-08-25T08:04:58.416Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:25433377|n:피죤 섬유유연제, 핑크로즈, 3.1l, 4개",
       "source": "toss",
@@ -6971,27 +6996,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-25T08:34:24.155Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "source": "toss",
-      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "price": 2558,
-      "listPrice": null,
-      "observedAt": "2026-08-25T08:06:31.599Z",
-      "url": "https://toss.im/_m/TTnDCfvt",
-      "image": "assets/products/c533851cfff4da7eb835.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 2558,
-          "observedAt": "2026-08-25T08:06:31.599Z"
-        },
-        {
-          "price": 17910,
-          "observedAt": "2026-08-25T08:04:58.416Z"
         }
       ]
     },
