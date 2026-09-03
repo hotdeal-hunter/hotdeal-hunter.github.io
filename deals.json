@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T09:00:03.683Z",
+  "updatedAt": "2026-09-03T09:14:34.816Z",
   "deals": [
+    {
+      "id": "toss:p:11583819|n:산해직송 국내산 전라도 파김치, 1kg, 1팩",
+      "source": "toss",
+      "name": "산해직송 국내산 전라도 파김치, 1kg, 1팩",
+      "price": 10900,
+      "listPrice": 35000,
+      "observedAt": "2026-09-03T09:13:08.490Z",
+      "url": "https://toss.im/_m/1ponWBwx",
+      "image": "assets/products/417a958c0bc3dcad47cf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-03T09:13:08.490Z"
+        }
+      ]
+    },
     {
       "id": "p:340681830|i:19083437422|v:86205714263",
       "source": "coupang",
