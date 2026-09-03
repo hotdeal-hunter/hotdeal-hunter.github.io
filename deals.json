@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T03:36:35.498Z",
+  "updatedAt": "2026-09-03T03:49:49.196Z",
   "deals": [
+    {
+      "id": "toss:p:63998763|n:던킨 아메리카노, 400ml, 12개",
+      "source": "toss",
+      "name": "던킨 아메리카노, 400ml, 12개",
+      "price": 14480,
+      "listPrice": null,
+      "observedAt": "2026-09-03T03:49:43.537Z",
+      "url": "https://toss.im/_m/bzvCzd8c",
+      "image": "assets/products/322162fe162aad3e08a3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14480,
+          "observedAt": "2026-09-03T03:49:43.537Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
       "source": "toss",
