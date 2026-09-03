@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-03T10:51:46.076Z",
+  "updatedAt": "2026-09-03T12:59:02.385Z",
   "deals": [
+    {
+      "id": "toss:p:99546995|n:대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+      "source": "toss",
+      "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T12:57:38.819Z",
+      "url": "https://toss.im/_m/JTj1Lwsy",
+      "image": "assets/products/82544dbe3eab0287eccb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-03T12:57:38.819Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
+      "source": "toss",
+      "name": "바른 돼지국밥, 500g, 5개",
+      "price": 11380,
+      "listPrice": 26900,
+      "observedAt": "2026-09-03T12:07:06.322Z",
+      "url": "https://toss.im/_m/phUo33E3",
+      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 11380,
+          "observedAt": "2026-09-03T12:07:06.322Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-01T12:11:42.944Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:21:40.808Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:01:15.139Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2469694719|n:국내산 한돈 뒷고기, 1등급, 500g, 4팩",
       "source": "toss",
@@ -1536,31 +1582,6 @@
         {
           "price": 17990,
           "observedAt": "2026-09-01T12:28:51.773Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
-      "source": "toss",
-      "name": "바른 돼지국밥, 500g, 5개",
-      "price": 11380,
-      "listPrice": null,
-      "observedAt": "2026-09-01T12:11:42.944Z",
-      "url": "https://toss.im/_m/phUo33E3",
-      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 11380,
-          "observedAt": "2026-09-01T12:11:42.944Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:21:40.808Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:01:15.139Z"
         }
       ]
     },
