@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T09:50:13.073Z",
+  "updatedAt": "2026-09-03T10:12:49.921Z",
   "deals": [
+    {
+      "id": "toss:p:172413853|n:산과들에 원데이발란스 그린라벨, 20g, 100봉",
+      "source": "toss",
+      "name": "산과들에 원데이발란스 그린라벨, 20g, 100봉",
+      "price": 29790,
+      "listPrice": 41000,
+      "observedAt": "2026-09-03T10:12:37.514Z",
+      "url": "https://toss.im/_m/PI4luZEd",
+      "image": "assets/products/53362de7a29288507d66.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29790,
+          "observedAt": "2026-09-03T10:12:37.514Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
       "source": "toss",
