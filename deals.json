@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-02T23:53:21.562Z",
+  "updatedAt": "2026-09-03T00:43:54.981Z",
   "deals": [
+    {
+      "id": "toss:p:397016955|n:머그바 안동식 순살찜닭, 800g, 2개",
+      "source": "toss",
+      "name": "머그바 안동식 순살찜닭, 800g, 2개",
+      "price": 15900,
+      "listPrice": 21200,
+      "observedAt": "2026-09-03T00:43:41.741Z",
+      "url": "https://toss.im/_m/3xdY89Y4",
+      "image": "assets/products/d4447aea9bbac0939a3b.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T00:43:41.741Z"
+        },
+        {
+          "price": 8600,
+          "observedAt": "2026-08-20T23:01:46.796Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83815917|n:데이즈온 데메테르 그레인 루피니빈, 300g, 5개",
       "source": "toss",
@@ -10280,23 +10301,6 @@
         {
           "price": 4200,
           "observedAt": "2026-08-20T23:16:31.463Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:397016955|n:머그바 안동식 순살찜닭, 800g, 2개",
-      "source": "toss",
-      "name": "머그바 안동식 순살찜닭, 800g, 2개",
-      "price": 8600,
-      "listPrice": null,
-      "observedAt": "2026-08-20T23:01:46.796Z",
-      "url": "https://toss.im/_m/3xdY89Y4",
-      "image": "assets/products/d4447aea9bbac0939a3b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8600,
-          "observedAt": "2026-08-20T23:01:46.796Z"
         }
       ]
     },
