@@ -1,6 +1,130 @@
 {
-  "updatedAt": "2026-09-03T13:02:04.100Z",
+  "updatedAt": "2026-09-03T13:06:13.463Z",
   "deals": [
+    {
+      "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "source": "toss",
+      "name": "상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T13:04:40.031Z",
+      "url": "https://toss.im/_m/fECsXgnh",
+      "image": "assets/products/b8e14289cc93cd1fdef5.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:40.031Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:39.686Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T05:28:19.719Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T03:34:42.195Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "source": "toss",
+      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "price": 14890,
+      "listPrice": null,
+      "observedAt": "2026-09-03T13:04:39.958Z",
+      "url": "https://toss.im/_m/50vaVJ8v",
+      "image": "assets/products/d8904ef247c49b0cba97.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 14890,
+          "observedAt": "2026-09-03T13:04:39.958Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-09-03T13:04:39.601Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-09-02T08:12:19.370Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-21T22:59:58.737Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-20T01:24:30.992Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "source": "toss",
+      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T13:04:39.854Z",
+      "url": "https://toss.im/_m/TTnDCfvt",
+      "image": "assets/products/c533851cfff4da7eb835.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:39.854Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:39.506Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:37:32.496Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:05:38.482Z"
+        },
+        {
+          "price": 2558,
+          "observedAt": "2026-08-25T08:06:31.599Z"
+        },
+        {
+          "price": 17910,
+          "observedAt": "2026-08-25T08:04:58.416Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "source": "toss",
+      "name": "해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T13:04:39.773Z",
+      "url": "https://toss.im/_m/DtcXQVMk",
+      "image": "assets/products/64f5d227308e69cafccd.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T13:04:39.773Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T13:04:39.422Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T07:24:18.301Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654291853|n:소프트 규조토 발매트 + 전용 세탁망, 모던헤리티지, 60x40, 1세트",
       "source": "toss",
@@ -276,23 +400,6 @@
       ]
     },
     {
-      "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
-      "source": "toss",
-      "name": "해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
-      "price": 15900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T07:24:18.301Z",
-      "url": "https://toss.im/_m/DtcXQVMk",
-      "image": "assets/products/64f5d227308e69cafccd.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-09-03T07:24:18.301Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:151931819|n:허글리 슬림핏 kf94 마스크, 새부리형, 중형, 스킨베이지, 100매",
       "source": "toss",
       "name": "허글리 슬림핏 KF94 마스크, 새부리형, 중형, 스킨베이지, 100매",
@@ -365,27 +472,6 @@
       ]
     },
     {
-      "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
-      "source": "toss",
-      "name": "상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T05:28:19.719Z",
-      "url": "https://toss.im/_m/fECsXgnh",
-      "image": "assets/products/b8e14289cc93cd1fdef5.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T05:28:19.719Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T03:34:42.195Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:683211231|n:청년벌집 야생화꿀, 2kg, 1개",
       "source": "toss",
       "name": "청년벌집 야생화꿀, 2kg, 1개",
@@ -450,35 +536,6 @@
         {
           "price": 4900,
           "observedAt": "2026-09-03T03:09:13.231Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "source": "toss",
-      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T02:37:32.496Z",
-      "url": "https://toss.im/_m/TTnDCfvt",
-      "image": "assets/products/c533851cfff4da7eb835.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T02:37:32.496Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T02:05:38.482Z"
-        },
-        {
-          "price": 2558,
-          "observedAt": "2026-08-25T08:06:31.599Z"
-        },
-        {
-          "price": 17910,
-          "observedAt": "2026-08-25T08:04:58.416Z"
         }
       ]
     },
@@ -1165,31 +1222,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-02T09:04:04.918Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "source": "toss",
-      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "price": 14890,
-      "listPrice": null,
-      "observedAt": "2026-09-02T08:12:19.370Z",
-      "url": "https://toss.im/_m/50vaVJ8v",
-      "image": "assets/products/d8904ef247c49b0cba97.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 14890,
-          "observedAt": "2026-09-02T08:12:19.370Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-08-21T22:59:58.737Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-08-20T01:24:30.992Z"
         }
       ]
     },
