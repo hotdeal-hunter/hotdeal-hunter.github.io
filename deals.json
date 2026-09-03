@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T10:12:49.921Z",
+  "updatedAt": "2026-09-03T10:51:46.076Z",
   "deals": [
+    {
+      "id": "toss:p:2469694719|n:국내산 한돈 뒷고기, 1등급, 500g, 4팩",
+      "source": "toss",
+      "name": "국내산 한돈 뒷고기, 1등급, 500g, 4팩",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T10:50:22.436Z",
+      "url": "https://toss.im/_m/ZpetLoz9",
+      "image": "assets/products/a761c981ba80ad3b658d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-03T10:50:22.436Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:172413853|n:산과들에 원데이발란스 그린라벨, 20g, 100봉",
       "source": "toss",
