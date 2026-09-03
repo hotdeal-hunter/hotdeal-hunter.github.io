@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T07:25:39.004Z",
+  "updatedAt": "2026-09-03T07:54:16.664Z",
   "deals": [
+    {
+      "id": "p:9479310931|i:28250164597|v:95203575437",
+      "source": "coupang",
+      "name": "풀무원 저당 생쫄면 2인분, 460g, 2개",
+      "price": 7480,
+      "listPrice": 14960,
+      "observedAt": "2026-09-03T07:52:49.229Z",
+      "url": "https://link.coupang.com/a/gJXZL7NZHE",
+      "image": "assets/products/1fa8a0aaa9424c3393a1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7480,
+          "observedAt": "2026-09-03T07:52:49.229Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
       "source": "toss",
