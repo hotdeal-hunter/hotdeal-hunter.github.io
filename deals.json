@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T03:11:07.908Z",
+  "updatedAt": "2026-09-03T03:36:35.498Z",
   "deals": [
+    {
+      "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "source": "toss",
+      "name": "상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T03:34:42.195Z",
+      "url": "https://toss.im/_m/fECsXgnh",
+      "image": "assets/products/b8e14289cc93cd1fdef5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T03:34:42.195Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:317612479|n:뽀로로 립큐어, 바닐라향, 2.5g, 3개",
       "source": "toss",
