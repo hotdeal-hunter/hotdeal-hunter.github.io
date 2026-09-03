@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-03T02:11:31.771Z",
+  "updatedAt": "2026-09-03T03:11:07.908Z",
   "deals": [
+    {
+      "id": "toss:p:317612479|n:뽀로로 립큐어, 바닐라향, 2.5g, 3개",
+      "source": "toss",
+      "name": "뽀로로 립큐어, 바닐라향, 2.5g, 3개",
+      "price": 4900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T03:09:13.472Z",
+      "url": "https://toss.im/_m/94o7wanj",
+      "image": "assets/products/aecb2a12cd40898669fc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-03T03:09:13.472Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:317609393|n:크롱 립큐어, 딸기향, 2.5g, 3개",
+      "source": "toss",
+      "name": "크롱 립큐어, 딸기향, 2.5g, 3개",
+      "price": 4900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T03:09:13.231Z",
+      "url": "https://toss.im/_m/H7kL4rAd",
+      "image": "assets/products/fc430a6247eac1cc18a8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-03T03:09:13.231Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "source": "toss",
+      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T02:37:32.496Z",
+      "url": "https://toss.im/_m/TTnDCfvt",
+      "image": "assets/products/c533851cfff4da7eb835.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:37:32.496Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:05:38.482Z"
+        },
+        {
+          "price": 2558,
+          "observedAt": "2026-08-25T08:06:31.599Z"
+        },
+        {
+          "price": 17910,
+          "observedAt": "2026-08-25T08:04:58.416Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:78903433|n:반야월할매 당면만두, 420g, 4개",
+      "source": "toss",
+      "name": "반야월할매 당면만두, 420g, 4개",
+      "price": 11480,
+      "listPrice": 17000,
+      "observedAt": "2026-09-03T02:31:38.521Z",
+      "url": "https://toss.im/_m/RiBuMGwy",
+      "image": "assets/products/be1ed6e647c217ead0f4.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11480,
+          "observedAt": "2026-09-03T02:31:38.521Z"
+        },
+        {
+          "price": 11480,
+          "observedAt": "2026-08-27T12:35:28.937Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2617186389|n:애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
       "source": "toss",
@@ -15,31 +99,6 @@
         {
           "price": 10900,
           "observedAt": "2026-09-03T02:08:37.538Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "source": "toss",
-      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T02:05:38.482Z",
-      "url": "https://toss.im/_m/TTnDCfvt",
-      "image": "assets/products/c533851cfff4da7eb835.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T02:05:38.482Z"
-        },
-        {
-          "price": 2558,
-          "observedAt": "2026-08-25T08:06:31.599Z"
-        },
-        {
-          "price": 17910,
-          "observedAt": "2026-08-25T08:04:58.416Z"
         }
       ]
     },
@@ -5054,23 +5113,6 @@
         {
           "price": 43900,
           "observedAt": "2026-08-27T22:19:28.619Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:78903433|n:반야월할매 당면만두, 420g, 4개",
-      "source": "toss",
-      "name": "반야월할매 당면만두, 420g, 4개",
-      "price": 11480,
-      "listPrice": 17000,
-      "observedAt": "2026-08-27T12:35:28.937Z",
-      "url": "https://toss.im/_m/RiBuMGwy",
-      "image": "assets/products/be1ed6e647c217ead0f4.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11480,
-          "observedAt": "2026-08-27T12:35:28.937Z"
         }
       ]
     },
