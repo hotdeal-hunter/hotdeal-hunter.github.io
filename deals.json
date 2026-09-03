@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-03T00:43:54.981Z",
+  "updatedAt": "2026-09-03T01:03:14.324Z",
   "deals": [
+    {
+      "id": "toss:p:139590817|n:딥루트 러닝 헤어밴드, 네이비, free, 2개",
+      "source": "toss",
+      "name": "딥루트 러닝 헤어밴드, 네이비, FREE, 2개",
+      "price": 840,
+      "listPrice": null,
+      "observedAt": "2026-09-03T01:01:36.298Z",
+      "url": "https://toss.im/_m/D5cCzTSq",
+      "image": "assets/products/4f7883026afd007f5d30.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 840,
+          "observedAt": "2026-09-03T01:01:36.298Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:206592377|n:딥루트 와이드 버뮤다 팬츠, 블랙 1개 + 그레이 1개",
+      "source": "toss",
+      "name": "딥루트 와이드 버뮤다 팬츠, 블랙 1개 + 그레이 1개",
+      "price": 3800,
+      "listPrice": null,
+      "observedAt": "2026-09-03T01:01:35.975Z",
+      "url": "https://toss.im/_m/59JVlB8n",
+      "image": "assets/products/9d01d2e1fc7ab1139b30.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3800,
+          "observedAt": "2026-09-03T01:01:35.975Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:397016955|n:머그바 안동식 순살찜닭, 800g, 2개",
       "source": "toss",
