@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T06:40:32.695Z",
+  "updatedAt": "2026-09-03T07:25:39.004Z",
   "deals": [
+    {
+      "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "source": "toss",
+      "name": "해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T07:24:18.301Z",
+      "url": "https://toss.im/_m/DtcXQVMk",
+      "image": "assets/products/64f5d227308e69cafccd.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T07:24:18.301Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:151931819|n:허글리 슬림핏 kf94 마스크, 새부리형, 중형, 스킨베이지, 100매",
       "source": "toss",
