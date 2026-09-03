@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-03T08:15:49.950Z",
+  "updatedAt": "2026-09-03T08:40:54.633Z",
   "deals": [
+    {
+      "id": "p:8338928069|i:12551781714|v:87735387215",
+      "source": "coupang",
+      "name": "말리 코코넛워터, 1L, 2개",
+      "price": 4980,
+      "listPrice": 8198,
+      "observedAt": "2026-09-03T08:39:26.392Z",
+      "url": "https://link.coupang.com/a/gJ1ki3EjAq",
+      "image": "assets/products/00d0127b6ca7284f416f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-03T08:39:26.392Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "source": "toss",
+      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "price": 12600,
+      "listPrice": 27900,
+      "observedAt": "2026-09-03T08:30:05.253Z",
+      "url": "https://toss.im/_m/p8yLGlpi",
+      "image": "assets/products/d3216092f3fe5a15fb6d.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12600,
+          "observedAt": "2026-09-03T08:30:05.253Z"
+        },
+        {
+          "price": 12600,
+          "observedAt": "2026-09-02T23:00:34.000Z"
+        },
+        {
+          "price": 9540,
+          "observedAt": "2026-09-02T00:14:31.346Z"
+        }
+      ]
+    },
     {
       "id": "p:428791|i:19712038275|v:85068270630",
       "source": "coupang",
@@ -773,27 +815,6 @@
         {
           "price": 5110,
           "observedAt": "2026-09-01T02:15:33.307Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "source": "toss",
-      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "price": 12600,
-      "listPrice": null,
-      "observedAt": "2026-09-02T23:00:34.000Z",
-      "url": "https://toss.im/_m/p8yLGlpi",
-      "image": "assets/products/d3216092f3fe5a15fb6d.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12600,
-          "observedAt": "2026-09-02T23:00:34.000Z"
-        },
-        {
-          "price": 9540,
-          "observedAt": "2026-09-02T00:14:31.346Z"
         }
       ]
     },
