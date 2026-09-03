@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T23:45:35.470Z",
+  "updatedAt": "2026-09-03T23:48:06.820Z",
   "deals": [
+    {
+      "id": "p:9624939915|i:28743874713|v:95683084997",
+      "source": "coupang",
+      "name": "스파오 아동용 COOL 절개 와이드 스웨트팬츠 C, 140",
+      "price": 9870,
+      "listPrice": 25900,
+      "observedAt": "2026-09-03T23:46:53.345Z",
+      "url": "https://link.coupang.com/a/gK4aKJsZTU",
+      "image": "assets/products/e07c0d6296a30e3f2429.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9870,
+          "observedAt": "2026-09-03T23:46:53.345Z"
+        }
+      ]
+    },
     {
       "id": "p:4563518579|i:5562724267|v:72862109111",
       "source": "coupang",
