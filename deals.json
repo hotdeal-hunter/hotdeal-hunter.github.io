@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T02:07:12.637Z",
+  "updatedAt": "2026-09-03T02:11:31.771Z",
   "deals": [
+    {
+      "id": "toss:p:2617186389|n:애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
+      "source": "toss",
+      "name": "애슐리 주먹밥 체험팩, 7가지맛, 100g, 7개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T02:08:37.538Z",
+      "url": "https://toss.im/_m/bBjJ87g3",
+      "image": "assets/products/3481d3dd1d5765c85329.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-03T02:08:37.538Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
       "source": "toss",
