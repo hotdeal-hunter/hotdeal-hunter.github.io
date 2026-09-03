@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T13:06:13.463Z",
+  "updatedAt": "2026-09-03T22:31:00.109Z",
   "deals": [
+    {
+      "id": "toss:p:2655895285|n:햇 나주배, 15kg, 1박스",
+      "source": "toss",
+      "name": "햇 나주배, 15kg, 1박스",
+      "price": 14990,
+      "listPrice": null,
+      "observedAt": "2026-09-03T22:29:20.994Z",
+      "url": "https://toss.im/_m/7fW3kVIi",
+      "image": "assets/products/42506fc255f4c4c2f697.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14990,
+          "observedAt": "2026-09-03T22:29:20.994Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
       "source": "toss",
