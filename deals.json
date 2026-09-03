@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T06:16:06.504Z",
+  "updatedAt": "2026-09-03T06:32:56.618Z",
   "deals": [
+    {
+      "id": "toss:p:151931819|n:허글리 슬림핏 kf94 마스크, 새부리형, 중형, 스킨베이지, 100매",
+      "source": "toss",
+      "name": "허글리 슬림핏 KF94 마스크, 새부리형, 중형, 스킨베이지, 100매",
+      "price": 7900,
+      "listPrice": 40000,
+      "observedAt": "2026-09-03T06:31:29.904Z",
+      "url": "https://toss.im/_m/h6IWnFln",
+      "image": "assets/products/c19c72c9fce338ddfae2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-03T06:31:29.904Z"
+        }
+      ]
+    },
     {
       "id": "p:8299791145|i:23992683134|v:91057173971",
       "source": "coupang",
