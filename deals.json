@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T03:49:49.196Z",
+  "updatedAt": "2026-09-03T04:53:54.567Z",
   "deals": [
+    {
+      "id": "toss:p:683211231|n:청년벌집 야생화꿀, 2kg, 1개",
+      "source": "toss",
+      "name": "청년벌집 야생화꿀, 2kg, 1개",
+      "price": 13900,
+      "listPrice": 29900,
+      "observedAt": "2026-09-03T04:52:28.210Z",
+      "url": "https://toss.im/_m/diyDJaY5",
+      "image": "assets/products/001c226524d9b9b5148b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-03T04:52:28.210Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:63998763|n:던킨 아메리카노, 400ml, 12개",
       "source": "toss",
