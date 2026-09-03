@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-03T09:14:34.816Z",
+  "updatedAt": "2026-09-03T09:25:35.184Z",
   "deals": [
+    {
+      "id": "p:9402357527|i:27930007498|v:-",
+      "source": "coupang",
+      "name": "건강하닭 천하장사 더 건강하닭 바질 블랙페퍼 - 소시지",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T09:24:15.626Z",
+      "url": "https://link.coupang.com/a/gJ4wSge25A",
+      "image": "assets/products/a11f80c21aca5a02b732.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T09:24:15.626Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-08-26T10:19:55.713Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:138239599|n:진주햄 천하장사 더블링 콰트로치즈, 25g, 10개입, 3개",
+      "source": "toss",
+      "name": "진주햄 천하장사 더블링 콰트로치즈, 25g, 10개입, 3개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T09:24:15.372Z",
+      "url": "https://toss.im/_m/58OxO5Tz",
+      "image": "assets/products/4b0a94548064c8f11c29.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T09:24:15.372Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:11583819|n:산해직송 국내산 전라도 파김치, 1kg, 1팩",
       "source": "toss",
@@ -6317,23 +6355,6 @@
         {
           "price": 7980,
           "observedAt": "2026-08-26T10:58:23.795Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9402357527|i:27930007498|v:-",
-      "source": "coupang",
-      "name": "건강하닭 천하장사 더 건강하닭 바질 블랙페퍼",
-      "price": 5000,
-      "listPrice": null,
-      "observedAt": "2026-08-26T10:19:55.713Z",
-      "url": "https://link.coupang.com/a/gwRhbpRa20",
-      "image": "assets/products/a11f80c21aca5a02b732.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5000,
-          "observedAt": "2026-08-26T10:19:55.713Z"
         }
       ]
     },
