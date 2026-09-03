@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-03T08:40:54.633Z",
+  "updatedAt": "2026-09-03T09:00:03.683Z",
   "deals": [
+    {
+      "id": "p:340681830|i:19083437422|v:86205714263",
+      "source": "coupang",
+      "name": "랩신 센서티브 포밍 핸드워시 리필 파우더리 허브향, 200ml, 6개",
+      "price": 6290,
+      "listPrice": 10189,
+      "observedAt": "2026-09-03T08:58:37.496Z",
+      "url": "https://link.coupang.com/a/gJ2HiBl83M",
+      "image": "assets/products/18fd71adbbbda49c3587.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6290,
+          "observedAt": "2026-09-03T08:58:37.496Z"
+        }
+      ]
+    },
     {
       "id": "p:8338928069|i:12551781714|v:87735387215",
       "source": "coupang",
