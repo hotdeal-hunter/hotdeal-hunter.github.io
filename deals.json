@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-03T04:53:54.567Z",
+  "updatedAt": "2026-09-03T05:32:01.705Z",
   "deals": [
+    {
+      "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
+      "source": "toss",
+      "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
+      "price": 9900,
+      "listPrice": 23900,
+      "observedAt": "2026-09-03T05:30:34.736Z",
+      "url": "https://toss.im/_m/fGYFn6Iu",
+      "image": "assets/products/43fa44dca7a480d8c90a.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T05:30:34.736Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-18T12:58:06.107Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "source": "toss",
+      "name": "상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-03T05:28:19.719Z",
+      "url": "https://toss.im/_m/fECsXgnh",
+      "image": "assets/products/b8e14289cc93cd1fdef5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T05:28:19.719Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T03:34:42.195Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:683211231|n:청년벌집 야생화꿀, 2kg, 1개",
       "source": "toss",
@@ -32,23 +74,6 @@
         {
           "price": 14480,
           "observedAt": "2026-09-03T03:49:43.537Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:117748395|n:상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
-      "source": "toss",
-      "name": "상하목장 얼려먹는 아이스크림 초코, 85ml, 24개",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T03:34:42.195Z",
-      "url": "https://toss.im/_m/fECsXgnh",
-      "image": "assets/products/b8e14289cc93cd1fdef5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T03:34:42.195Z"
         }
       ]
     },
@@ -12348,23 +12373,6 @@
         {
           "price": 8900,
           "observedAt": "2026-08-18T12:58:06.421Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-      "source": "toss",
-      "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-08-18T12:58:06.107Z",
-      "url": "https://toss.im/_m/fGYFn6Iu",
-      "image": "assets/products/43fa44dca7a480d8c90a.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-18T12:58:06.107Z"
         }
       ]
     },
