@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T02:23:59.733Z",
+  "updatedAt": "2026-09-04T02:42:38.873Z",
   "deals": [
+    {
+      "id": "toss:p:2637712009|n:광동제약 아이스웨일, 플레인, 500ml, 40개",
+      "source": "toss",
+      "name": "광동제약 아이스웨일, 플레인, 500ml, 40개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-04T02:40:59.902Z",
+      "url": "https://toss.im/_m/XjndoAoc",
+      "image": "assets/products/b6a688ca17a93ab0dcd7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T02:40:59.902Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
       "source": "toss",
