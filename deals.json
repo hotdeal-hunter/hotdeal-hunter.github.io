@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T05:28:44.118Z",
+  "updatedAt": "2026-09-04T05:33:46.958Z",
   "deals": [
+    {
+      "id": "p:193435167|i:27113937412|v:94082022694",
+      "source": "coupang",
+      "name": "오레오오즈 시리얼, 450g, 2개",
+      "price": 10970,
+      "listPrice": 17800,
+      "observedAt": "2026-09-04T05:32:21.023Z",
+      "url": "https://link.coupang.com/a/gLsRjQintY",
+      "image": "assets/products/c83151e2845ad25b3004.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10970,
+          "observedAt": "2026-09-04T05:32:21.023Z"
+        }
+      ]
+    },
     {
       "id": "p:9554447658|i:28656375487|v:95598678891",
       "source": "coupang",
