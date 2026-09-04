@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T05:09:00.612Z",
+  "updatedAt": "2026-09-04T05:15:34.176Z",
   "deals": [
+    {
+      "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
+      "source": "toss",
+      "name": "교동 버섯 들깨탕, 500g, 5개",
+      "price": 12900,
+      "listPrice": 27500,
+      "observedAt": "2026-09-04T05:14:03.914Z",
+      "url": "https://toss.im/_m/7SYzth3q",
+      "image": "assets/products/d110cbbc6cb9adbb8fe0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-04T05:14:03.914Z"
+        }
+      ]
+    },
     {
       "id": "p:8989682268|i:26376117458|v:93352704634",
       "source": "coupang",
