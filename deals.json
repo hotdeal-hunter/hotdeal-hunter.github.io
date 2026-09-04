@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T05:15:34.176Z",
+  "updatedAt": "2026-09-04T05:23:29.497Z",
   "deals": [
+    {
+      "id": "toss:p:1929156813|n:헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
+      "source": "toss",
+      "name": "헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
+      "price": 6500,
+      "listPrice": null,
+      "observedAt": "2026-09-04T05:21:52.195Z",
+      "url": "https://toss.im/_m/H0RUQD0c",
+      "image": "assets/products/5d05fb3bfa74533ac87f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-09-04T05:21:52.195Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
       "source": "toss",
