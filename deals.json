@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-04T02:58:46.992Z",
+  "updatedAt": "2026-09-04T03:18:22.908Z",
   "deals": [
+    {
+      "id": "toss:p:186252579|n:카멕스 모이스처라이징 립밤, 스트로베리, 4.25g, 3개입, 1개",
+      "source": "toss",
+      "name": "카멕스 모이스처라이징 립밤, 스트로베리, 4.25g, 3개입, 1개",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:16:44.730Z",
+      "url": "https://toss.im/_m/FQLgXpeB",
+      "image": "assets/products/cdaad3571fd96f387c22.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-04T03:16:44.730Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81067027|n:카멕스 모이스처라이징 립밤, 클래식 스틱, 4.25g, 3개",
+      "source": "toss",
+      "name": "카멕스 모이스처라이징 립밤, 클래식 스틱, 4.25g, 3개",
+      "price": 4900,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:16:44.455Z",
+      "url": "https://toss.im/_m/Lny9mvFy",
+      "image": "assets/products/5c94f7c7aae5a0e7744a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-04T03:16:44.455Z"
+        }
+      ]
+    },
     {
       "id": "p:8741815746|i:24477061917|v:91904509659",
       "source": "coupang",
