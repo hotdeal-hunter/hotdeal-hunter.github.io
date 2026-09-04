@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T03:58:43.159Z",
+  "updatedAt": "2026-09-04T04:17:03.771Z",
   "deals": [
+    {
+      "id": "p:245670231|i:778731488|v:4131848464",
+      "source": "coupang",
+      "name": "앳플리 T8 스마트 체성분 체중계, T8scale, 화이트, 1개",
+      "price": 12600,
+      "listPrice": null,
+      "observedAt": "2026-09-04T04:16:54.129Z",
+      "url": "https://link.coupang.com/a/gLns2EwdFc",
+      "image": "assets/products/3f7a474016f83dcab684.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12600,
+          "observedAt": "2026-09-04T04:16:54.129Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:284498549|n:건담 모듬 버섯, 800g, 1개",
       "source": "toss",
