@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T03:43:35.239Z",
+  "updatedAt": "2026-09-04T03:58:43.159Z",
   "deals": [
+    {
+      "id": "toss:p:284498549|n:건담 모듬 버섯, 800g, 1개",
+      "source": "toss",
+      "name": "건담 모듬 버섯, 800g, 1개",
+      "price": 4480,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:57:03.469Z",
+      "url": "https://toss.im/_m/LcXUplos",
+      "image": "assets/products/b466532aaac544460b13.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4480,
+          "observedAt": "2026-09-04T03:57:03.469Z"
+        }
+      ]
+    },
     {
       "id": "p:9591332533|i:28631539673|v:95574608907",
       "source": "coupang",
