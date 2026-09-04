@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-04T01:10:23.746Z",
+  "updatedAt": "2026-09-04T01:51:19.557Z",
   "deals": [
+    {
+      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
+      "source": "toss",
+      "name": "구워먹는 할루미치즈, 200g, 3개",
+      "price": 7600,
+      "listPrice": null,
+      "observedAt": "2026-09-04T01:51:07.764Z",
+      "url": "https://toss.im/_m/ZIFOwhQu",
+      "image": "assets/products/b2feabff1761d9a776c6.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:51:07.764Z"
+        },
+        {
+          "price": 8890,
+          "observedAt": "2026-08-26T09:50:48.720Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187174093|n:롯데칠성음료 펩시제로슈거 라임향 업소용, 245ml, 30개",
       "source": "toss",
@@ -6702,23 +6723,6 @@
         {
           "price": 18970,
           "observedAt": "2026-08-26T09:53:35.094Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
-      "source": "toss",
-      "name": "구워먹는 할루미치즈, 200g, 3개",
-      "price": 8890,
-      "listPrice": 21900,
-      "observedAt": "2026-08-26T09:50:48.720Z",
-      "url": "https://toss.im/_m/ZIFOwhQu",
-      "image": "assets/products/b2feabff1761d9a776c6.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8890,
-          "observedAt": "2026-08-26T09:50:48.720Z"
         }
       ]
     },
