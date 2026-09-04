@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-04T04:29:19.946Z",
+  "updatedAt": "2026-09-04T05:09:00.612Z",
   "deals": [
+    {
+      "id": "p:8989682268|i:26376117458|v:93352704634",
+      "source": "coupang",
+      "name": "데체코 슈고 올 아라비아따 파스타 소스, 400g, 3개",
+      "price": 7280,
+      "listPrice": 17940,
+      "observedAt": "2026-09-04T05:07:31.204Z",
+      "url": "https://link.coupang.com/a/gLq5nWmFz2",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7280,
+          "observedAt": "2026-09-04T05:07:31.204Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
+      "source": "toss",
+      "name": "CJ제일제당 스팸 클래식, 340g, 10개",
+      "price": 37000,
+      "listPrice": null,
+      "observedAt": "2026-09-04T05:05:14.485Z",
+      "url": "https://toss.im/_m/5MTKhm5A",
+      "image": "assets/products/0b9194b363e950c76502.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 37000,
+          "observedAt": "2026-09-04T05:05:14.485Z"
+        },
+        {
+          "price": 36900,
+          "observedAt": "2026-09-02T10:15:43.994Z"
+        },
+        {
+          "price": 36900,
+          "observedAt": "2026-09-02T07:56:32.945Z"
+        }
+      ]
+    },
     {
       "id": "p:8629663902|i:25537677571|v:94704366343",
       "source": "coupang",
@@ -1596,27 +1638,6 @@
         {
           "price": 12400,
           "observedAt": "2026-09-02T11:03:27.714Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
-      "source": "toss",
-      "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-      "price": 36900,
-      "listPrice": null,
-      "observedAt": "2026-09-02T10:15:43.994Z",
-      "url": "https://toss.im/_m/5MTKhm5A",
-      "image": "assets/products/0b9194b363e950c76502.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 36900,
-          "observedAt": "2026-09-02T10:15:43.994Z"
-        },
-        {
-          "price": 36900,
-          "observedAt": "2026-09-02T07:56:32.945Z"
         }
       ]
     },
