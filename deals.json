@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-04T03:18:22.908Z",
+  "updatedAt": "2026-09-04T03:31:55.346Z",
   "deals": [
+    {
+      "id": "p:7764780240|i:20947532957|v:85296817411",
+      "source": "coupang",
+      "name": "오리온 스윙칩 볶음고추장, 124g, 2개",
+      "price": 3980,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:31:45.135Z",
+      "url": "https://link.coupang.com/a/gLke0xlGCG",
+      "image": "assets/products/6a853ee7c34e23c2312b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3980,
+          "observedAt": "2026-09-04T03:31:45.135Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7764780240|i:20947643826|v:85321256333",
+      "source": "coupang",
+      "name": "스윙칩 볶음고추장맛, 60g, 4개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:31:44.767Z",
+      "url": "https://link.coupang.com/a/gLkeZphLX2",
+      "image": "assets/products/ac97d426184ea7162b48.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-04T03:31:44.767Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:186252579|n:카멕스 모이스처라이징 립밤, 스트로베리, 4.25g, 3개입, 1개",
       "source": "toss",
