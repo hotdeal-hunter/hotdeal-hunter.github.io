@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T03:40:55.757Z",
+  "updatedAt": "2026-09-04T03:43:35.239Z",
   "deals": [
+    {
+      "id": "p:9591332533|i:28631539673|v:95574608907",
+      "source": "coupang",
+      "name": "몽돌 여성용 보트넥 레이어드 나시 + 골지 티셔츠 세트 DTS087, Free, Black",
+      "price": 17830,
+      "listPrice": 28300,
+      "observedAt": "2026-09-04T03:41:08.104Z",
+      "url": "https://link.coupang.com/a/gLkUzC3pMO",
+      "image": "assets/products/e107599cedd05012c0fd.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17830,
+          "observedAt": "2026-09-04T03:41:08.104Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
       "source": "toss",
