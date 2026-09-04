@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T05:44:59.165Z",
+  "updatedAt": "2026-09-04T06:22:42.316Z",
   "deals": [
+    {
+      "id": "toss:p:61471853|n:넛츠그린 제로스파클링, 자몽블랙티, 340ml, 6개",
+      "source": "toss",
+      "name": "넛츠그린 제로스파클링, 자몽블랙티, 340ml, 6개",
+      "price": 4500,
+      "listPrice": null,
+      "observedAt": "2026-09-04T06:22:05.902Z",
+      "url": "https://toss.im/_m/LRouxNi8",
+      "image": "assets/products/fe3f79241d321e1da6d4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-09-04T06:22:05.902Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2233750601|n:메이홉 바디트리머, ma-0400, 오로라 화이트, 1개",
       "source": "toss",
