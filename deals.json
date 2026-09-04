@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T01:51:19.557Z",
+  "updatedAt": "2026-09-04T01:54:28.954Z",
   "deals": [
     {
       "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
@@ -7,11 +7,15 @@
       "name": "구워먹는 할루미치즈, 200g, 3개",
       "price": 7600,
       "listPrice": null,
-      "observedAt": "2026-09-04T01:51:07.764Z",
+      "observedAt": "2026-09-04T01:52:39.281Z",
       "url": "https://toss.im/_m/ZIFOwhQu",
       "image": "assets/products/b2feabff1761d9a776c6.png",
-      "insight": "2회 가격 기록",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:52:39.281Z"
+        },
         {
           "price": 7600,
           "observedAt": "2026-09-04T01:51:07.764Z"
