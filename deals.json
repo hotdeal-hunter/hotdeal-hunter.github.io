@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-04T00:12:03.607Z",
+  "updatedAt": "2026-09-04T01:10:23.746Z",
   "deals": [
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시제로슈거 라임향 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시제로슈거 라임향 업소용, 245ml, 30개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-04T01:08:43.449Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/c7147300c71ae9bb93fd.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
       "source": "toss",
       "name": "한입 삼겹살, 500g, 3개",
       "price": 9990,
       "listPrice": null,
-      "observedAt": "2026-09-04T00:10:39.321Z",
+      "observedAt": "2026-09-04T00:39:39.649Z",
       "url": "https://toss.im/_m/pUfyMDXq",
       "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
         {
           "price": 9990,
           "observedAt": "2026-09-04T00:10:39.321Z"
