@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-04T04:17:03.771Z",
+  "updatedAt": "2026-09-04T04:29:19.946Z",
   "deals": [
+    {
+      "id": "p:8629663902|i:25537677571|v:94704366343",
+      "source": "coupang",
+      "name": "[써모스] 진공단열 차망 티텀블러 500ml 보온보냉 JTB-500FI 티타임 선물용, 샌드베이지, 1ml, 1개",
+      "price": 26220,
+      "listPrice": 35440,
+      "observedAt": "2026-09-04T04:27:52.306Z",
+      "url": "https://link.coupang.com/a/gLofEi6096",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26220,
+          "observedAt": "2026-09-04T04:27:52.306Z"
+        }
+      ]
+    },
     {
       "id": "p:245670231|i:778731488|v:4131848464",
       "source": "coupang",
       "name": "앳플리 T8 스마트 체성분 체중계, T8scale, 화이트, 1개",
       "price": 12600,
-      "listPrice": null,
-      "observedAt": "2026-09-04T04:16:54.129Z",
-      "url": "https://link.coupang.com/a/gLns2EwdFc",
+      "listPrice": 24143,
+      "observedAt": "2026-09-04T04:27:51.971Z",
+      "url": "https://link.coupang.com/a/gLofCTsXa8",
       "image": "assets/products/3f7a474016f83dcab684.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 12600,
+          "observedAt": "2026-09-04T04:27:51.971Z"
+        },
         {
           "price": 12600,
           "observedAt": "2026-09-04T04:16:54.129Z"
