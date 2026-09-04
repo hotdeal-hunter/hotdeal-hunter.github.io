@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T01:59:36.077Z",
+  "updatedAt": "2026-09-04T02:23:59.733Z",
   "deals": [
+    {
+      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "price": 8800,
+      "listPrice": 30000,
+      "observedAt": "2026-09-04T02:22:33.564Z",
+      "url": "https://toss.im/_m/FExS9gh8",
+      "image": "assets/products/7631b88b8e7000216fe6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-04T02:22:33.564Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2601640703|n:닭다리 통살 춘천닭갈비, 500g, 2개",
       "source": "toss",
