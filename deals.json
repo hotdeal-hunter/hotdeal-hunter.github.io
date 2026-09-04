@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T02:42:38.873Z",
+  "updatedAt": "2026-09-04T02:58:46.992Z",
   "deals": [
+    {
+      "id": "p:8741815746|i:24477061917|v:91904509659",
+      "source": "coupang",
+      "name": "아로마티카 바이탈라이징 로즈마리 수분장벽 선크림, 50ml, 3개",
+      "price": 16750,
+      "listPrice": 84000,
+      "observedAt": "2026-09-04T02:58:34.446Z",
+      "url": "https://link.coupang.com/a/gLhR0P8EDs",
+      "image": "assets/products/99fa875fd29e53af3c25.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16750,
+          "observedAt": "2026-09-04T02:58:34.446Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637712009|n:광동제약 아이스웨일, 플레인, 500ml, 40개",
       "source": "toss",
