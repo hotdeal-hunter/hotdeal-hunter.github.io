@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-04T03:31:55.346Z",
+  "updatedAt": "2026-09-04T03:40:55.757Z",
   "deals": [
+    {
+      "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
+      "source": "toss",
+      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+      "price": 5700,
+      "listPrice": null,
+      "observedAt": "2026-09-04T03:39:18.003Z",
+      "url": "https://toss.im/_m/dnx73ZKk",
+      "image": "assets/products/d7508af84470e3e37286.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 5700,
+          "observedAt": "2026-09-04T03:39:18.003Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-04T03:39:17.860Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-03T23:00:31.822Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-02T23:00:34.329Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-01T23:01:32.337Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-08-31T23:00:24.971Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-08-31T03:01:28.003Z"
+        }
+      ]
+    },
     {
       "id": "p:7764780240|i:20947532957|v:85296817411",
       "source": "coupang",
@@ -473,39 +514,6 @@
         {
           "price": 10900,
           "observedAt": "2026-08-31T00:48:19.532Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
-      "source": "toss",
-      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
-      "price": 5700,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:00:31.822Z",
-      "url": "https://toss.im/_m/dnx73ZKk",
-      "image": "assets/products/d7508af84470e3e37286.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 5700,
-          "observedAt": "2026-09-03T23:00:31.822Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-02T23:00:34.329Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-01T23:01:32.337Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-08-31T23:00:24.971Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-08-31T03:01:28.003Z"
         }
       ]
     },
