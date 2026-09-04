@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-04T05:33:46.958Z",
+  "updatedAt": "2026-09-04T05:44:59.165Z",
   "deals": [
+    {
+      "id": "toss:p:2233750601|n:메이홉 바디트리머, ma-0400, 오로라 화이트, 1개",
+      "source": "toss",
+      "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
+      "price": 34800,
+      "listPrice": 69800,
+      "observedAt": "2026-09-04T05:43:32.165Z",
+      "url": "https://toss.im/_m/Di5VHKNk",
+      "image": "assets/products/418e0d583b211dd10722.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 34800,
+          "observedAt": "2026-09-04T05:43:32.165Z"
+        },
+        {
+          "price": 33800,
+          "observedAt": "2026-08-25T09:31:04.519Z"
+        }
+      ]
+    },
     {
       "id": "p:193435167|i:27113937412|v:94082022694",
       "source": "coupang",
@@ -7858,23 +7879,6 @@
         {
           "price": 10320,
           "observedAt": "2026-08-25T09:45:21.460Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2233750601|n:메이홉 26년형 바디트리머 6in1 제모기 모근제거+제모면도기, ma-0400, 오로라 화이트, 1개",
-      "source": "toss",
-      "name": "메이홉 26년형 바디트리머 6in1 제모기 모근제거+제모면도기, MA-0400, 오로라 화이트, 1개",
-      "price": 33800,
-      "listPrice": 69800,
-      "observedAt": "2026-08-25T09:31:04.519Z",
-      "url": "https://toss.im/_m/Di5VHKNk",
-      "image": "assets/products/f4c8f54adbdf8b064747.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 33800,
-          "observedAt": "2026-08-25T09:31:04.519Z"
         }
       ]
     },
