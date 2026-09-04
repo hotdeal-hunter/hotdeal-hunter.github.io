@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-04T05:23:29.497Z",
+  "updatedAt": "2026-09-04T05:28:44.118Z",
   "deals": [
+    {
+      "id": "p:9554447658|i:28656375487|v:95598678891",
+      "source": "coupang",
+      "name": "해태제과 버터링 딥황치즈, 155g, 1개",
+      "price": 5180,
+      "listPrice": 5780,
+      "observedAt": "2026-09-04T05:28:30.796Z",
+      "url": "https://link.coupang.com/a/gLsAjERtGm",
+      "image": "assets/products/b7be08d278257f5086e5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5180,
+          "observedAt": "2026-09-04T05:28:30.796Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1929156813|n:헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
       "source": "toss",
