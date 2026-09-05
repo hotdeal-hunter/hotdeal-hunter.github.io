@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-05T08:15:08.287Z",
+  "updatedAt": "2026-09-05T08:34:42.791Z",
   "deals": [
+    {
+      "id": "p:8187326904|i:23416154964|v:92141028091",
+      "source": "coupang",
+      "name": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
+      "price": 10400,
+      "listPrice": null,
+      "observedAt": "2026-09-05T08:33:22.811Z",
+      "url": "https://link.coupang.com/a/gNkHA6pwku",
+      "image": "assets/products/a577975be47e65457b92.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T08:33:22.811Z"
+        },
+        {
+          "price": 10530,
+          "observedAt": "2026-08-21T03:52:21.334Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
+      "source": "toss",
+      "name": "Bhc 뿌링팝콘, 60g, 12개",
+      "price": 7900,
+      "listPrice": 21600,
+      "observedAt": "2026-09-05T08:17:29.478Z",
+      "url": "https://toss.im/_m/NarVjz5m",
+      "image": "assets/products/9d6ed2773bce479afee4.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-05T08:17:29.478Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-03T23:00:32.119Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-02T23:03:01.970Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-02T23:03:01.373Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-02T23:00:34.708Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-02T05:47:10.101Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-01T23:01:32.625Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-31T23:00:25.220Z"
+        }
+      ]
+    },
     {
       "id": "p:9678344877|i:28940185686|v:95871146883",
       "source": "coupang",
@@ -754,47 +820,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2529768393|n:bhc 뿌링팝콘, 60g, 12개",
-      "source": "toss",
-      "name": "Bhc 뿌링팝콘, 60g, 12개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:00:32.119Z",
-      "url": "https://toss.im/_m/NarVjz5m",
-      "image": "assets/products/9d6ed2773bce479afee4.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-09-03T23:00:32.119Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-09-02T23:03:01.970Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-09-02T23:03:01.373Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-09-02T23:00:34.708Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-09-02T05:47:10.101Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-09-01T23:01:32.625Z"
-        },
-        {
-          "price": 7900,
-          "observedAt": "2026-08-31T23:00:25.220Z"
         }
       ]
     },
@@ -11174,23 +11199,6 @@
         {
           "price": 31500,
           "observedAt": "2026-08-21T03:55:50.050Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8187326904|i:23416154964|v:92141028091",
-      "source": "coupang",
-      "name": "미닛메이드 레몬에이드 탄산음료, 355ml, 24개",
-      "price": 10530,
-      "listPrice": null,
-      "observedAt": "2026-08-21T03:52:21.334Z",
-      "url": "https://link.coupang.com/a/gn63Gr81Uy",
-      "image": "assets/products/a577975be47e65457b92.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10530,
-          "observedAt": "2026-08-21T03:52:21.334Z"
         }
       ]
     },
