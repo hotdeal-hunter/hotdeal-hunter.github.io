@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T08:34:42.791Z",
+  "updatedAt": "2026-09-05T09:12:43.589Z",
   "deals": [
+    {
+      "id": "toss:p:269066813|n:신영 고기 왕만두, 1.4kg, 1개 + 김치 왕만두, 1.4kg, 1개",
+      "source": "toss",
+      "name": "신영 고기 왕만두, 1.4kg, 1개 + 김치 왕만두, 1.4kg, 1개",
+      "price": 21900,
+      "listPrice": 43800,
+      "observedAt": "2026-09-05T09:11:21.007Z",
+      "url": "https://toss.im/_m/hbXiEH4A",
+      "image": "assets/products/b8279d8eb5f290c41865.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-09-05T09:11:21.007Z"
+        }
+      ]
+    },
     {
       "id": "p:8187326904|i:23416154964|v:92141028091",
       "source": "coupang",
