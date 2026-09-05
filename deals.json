@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-09-04T06:22:42.316Z",
+  "updatedAt": "2026-09-05T06:35:42.434Z",
   "deals": [
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-05T06:33:55.028Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
+      "source": "toss",
+      "name": "구워먹는 할루미치즈, 200g, 3개",
+      "price": 7600,
+      "listPrice": null,
+      "observedAt": "2026-09-05T06:33:54.779Z",
+      "url": "https://toss.im/_m/ZIFOwhQu",
+      "image": "assets/products/b2feabff1761d9a776c6.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-09-05T06:33:54.779Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T06:53:37.150Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:52:39.281Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:51:07.764Z"
+        },
+        {
+          "price": 8890,
+          "observedAt": "2026-08-26T09:50:48.720Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9117867464|i:25589732514|v:92580550549",
+      "source": "coupang",
+      "name": "써모스 뉴 데일리 원터치 텀블러, 페일그레이(PGY), 500ml, 1개",
+      "price": 19470,
+      "listPrice": 27583,
+      "observedAt": "2026-09-05T06:33:49.287Z",
+      "url": "https://link.coupang.com/a/gNb9TISJxc",
+      "image": "assets/products/5a44682d8ddd4bbf3ad1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19470,
+          "observedAt": "2026-09-05T06:33:49.287Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:61471853|n:넛츠그린 제로스파클링, 자몽블랙티, 340ml, 6개",
       "source": "toss",
@@ -403,31 +482,6 @@
       ]
     },
     {
-      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
-      "source": "toss",
-      "name": "구워먹는 할루미치즈, 200g, 3개",
-      "price": 7600,
-      "listPrice": null,
-      "observedAt": "2026-09-04T01:52:39.281Z",
-      "url": "https://toss.im/_m/ZIFOwhQu",
-      "image": "assets/products/b2feabff1761d9a776c6.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:52:39.281Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:51:07.764Z"
-        },
-        {
-          "price": 8890,
-          "observedAt": "2026-08-26T09:50:48.720Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:187174093|n:롯데칠성음료 펩시제로슈거 라임향 업소용, 245ml, 30개",
       "source": "toss",
       "name": "롯데칠성음료 펩시제로슈거 라임향 업소용, 245ml, 30개",
@@ -441,27 +495,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-04T01:08:43.449Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-04T00:39:39.649Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
         }
       ]
     },
@@ -1806,7 +1839,7 @@
       "listPrice": 11359,
       "observedAt": "2026-09-02T05:16:03.845Z",
       "url": "https://link.coupang.com/a/gH7S4FyVgG",
-      "image": null,
+      "image": "assets/products/6e7f11664a98c756a109.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
