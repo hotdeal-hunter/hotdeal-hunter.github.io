@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-05T07:10:02.002Z",
+  "updatedAt": "2026-09-05T07:29:39.440Z",
   "deals": [
+    {
+      "id": "p:8289313119|i:3756044249|v:86203572961",
+      "source": "coupang",
+      "name": "고래밥 볶음양념맛, 46g, 4개",
+      "price": 2530,
+      "listPrice": null,
+      "observedAt": "2026-09-05T07:28:19.785Z",
+      "url": "https://link.coupang.com/a/gNf3omlS3w",
+      "image": "assets/products/bc1058d24434cf135e1f.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 2530,
+          "observedAt": "2026-09-05T07:28:19.785Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T07:07:08.502Z"
+        },
+        {
+          "price": 2620,
+          "observedAt": "2026-08-25T07:04:28.018Z"
+        },
+        {
+          "price": 3980,
+          "observedAt": "2026-08-25T07:03:21.128Z"
+        },
+        {
+          "price": 2620,
+          "observedAt": "2026-08-25T02:55:50.152Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:18528257|n:삼보수산 홍합, 4kg, 1박스",
       "source": "toss",
@@ -8082,35 +8115,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-25T07:20:56.285Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8289313119|i:3756044249|v:86203572961",
-      "source": "coupang",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 8990,
-      "listPrice": null,
-      "observedAt": "2026-08-25T07:07:08.502Z",
-      "url": "https://link.coupang.com/a/guYAZTtfBk",
-      "image": "assets/products/bc1058d24434cf135e1f.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T07:07:08.502Z"
-        },
-        {
-          "price": 2620,
-          "observedAt": "2026-08-25T07:04:28.018Z"
-        },
-        {
-          "price": 3980,
-          "observedAt": "2026-08-25T07:03:21.128Z"
-        },
-        {
-          "price": 2620,
-          "observedAt": "2026-08-25T02:55:50.152Z"
         }
       ]
     },
