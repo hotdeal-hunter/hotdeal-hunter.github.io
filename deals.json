@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T06:38:06.787Z",
+  "updatedAt": "2026-09-05T06:44:16.382Z",
   "deals": [
+    {
+      "id": "toss:p:58784741|n:연세우유 멸균우유, 저지방, 190ml, 48개",
+      "source": "toss",
+      "name": "연세우유 멸균우유, 저지방, 190ml, 48개",
+      "price": 24900,
+      "listPrice": 43800,
+      "observedAt": "2026-09-05T06:42:53.189Z",
+      "url": "https://toss.im/_m/5Gep2Dk2",
+      "image": "assets/products/94f9dc4d9b1a77e4366d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-09-05T06:42:53.189Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
       "source": "toss",
