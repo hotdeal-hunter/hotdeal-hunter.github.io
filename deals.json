@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T12:14:52.054Z",
+  "updatedAt": "2026-09-05T12:56:01.309Z",
   "deals": [
+    {
+      "id": "toss:p:721411607|n:동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
+      "source": "toss",
+      "name": "동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
+      "price": 9980,
+      "listPrice": null,
+      "observedAt": "2026-09-05T12:55:56.977Z",
+      "url": "https://toss.im/_m/x9s8x2Cx",
+      "image": "assets/products/ad662bb428e4180fce60.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9980,
+          "observedAt": "2026-09-05T12:55:56.977Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:144298663|n:널담 뚱낭시에, 50g, 8개입, 1박스",
       "source": "toss",
