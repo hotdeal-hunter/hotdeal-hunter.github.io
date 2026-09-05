@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T07:29:39.440Z",
+  "updatedAt": "2026-09-05T07:40:13.393Z",
   "deals": [
+    {
+      "id": "toss:p:1728953563|n:글루글루 하루가글, 레몬향 1개 + 프레쉬쿨향 1개, 36정, 2개",
+      "source": "toss",
+      "name": "글루글루 하루가글, 레몬향 1개 + 프레쉬쿨향 1개, 36정, 2개",
+      "price": 10900,
+      "listPrice": 18800,
+      "observedAt": "2026-09-05T07:38:51.514Z",
+      "url": "https://toss.im/_m/bi38Z6M5",
+      "image": "assets/products/0192d0c678f4eca933ee.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-05T07:38:51.514Z"
+        }
+      ]
+    },
     {
       "id": "p:8289313119|i:3756044249|v:86203572961",
       "source": "coupang",
