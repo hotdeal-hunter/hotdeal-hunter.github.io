@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T09:28:19.515Z",
+  "updatedAt": "2026-09-05T09:52:32.271Z",
   "deals": [
+    {
+      "id": "toss:p:2307628497|n:정다운농원 국내산 천도복숭아, 가정용, 45-55과, 4kg, 1박스",
+      "source": "toss",
+      "name": "정다운농원 국내산 천도복숭아, 가정용, 45-55과, 4kg, 1박스",
+      "price": 14500,
+      "listPrice": 26900,
+      "observedAt": "2026-09-05T09:51:10.458Z",
+      "url": "https://toss.im/_m/lJ0KXN1w",
+      "image": "assets/products/9670fbb877c3cff677ec.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14500,
+          "observedAt": "2026-09-05T09:51:10.458Z"
+        }
+      ]
+    },
     {
       "id": "p:1638878392|i:2795422688|v:71520296493",
       "source": "coupang",
