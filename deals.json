@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T11:22:19.131Z",
+  "updatedAt": "2026-09-05T11:34:00.145Z",
   "deals": [
+    {
+      "id": "toss:p:513315985|n:신선하랑 구운란 대란, 60구, 1개",
+      "source": "toss",
+      "name": "신선하랑 구운란 대란, 60구, 1개",
+      "price": 19990,
+      "listPrice": null,
+      "observedAt": "2026-09-05T11:33:55.615Z",
+      "url": "https://toss.im/_m/jNgzIR8B",
+      "image": "assets/products/c1e22775d5206a0ad87a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19990,
+          "observedAt": "2026-09-05T11:33:55.615Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83270149|n:푸드앳홈 새우젓, 1kg, 1개",
       "source": "toss",
