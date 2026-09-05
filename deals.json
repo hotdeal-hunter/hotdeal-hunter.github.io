@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-05T07:58:58.072Z",
+  "updatedAt": "2026-09-05T08:15:08.287Z",
   "deals": [
+    {
+      "id": "p:9678344877|i:28940185686|v:95871146883",
+      "source": "coupang",
+      "name": "쿠크다스 쵸코케이크, 202g, 1개",
+      "price": 3910,
+      "listPrice": null,
+      "observedAt": "2026-09-05T08:15:01.698Z",
+      "url": "https://link.coupang.com/a/gNjoh5lIaG",
+      "image": "assets/products/b2a1060d1525a946ac5c.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3910,
+          "observedAt": "2026-09-05T08:15:01.698Z"
+        },
+        {
+          "price": 4500,
+          "observedAt": "2026-08-21T11:51:00.543Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2533572257|n:오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
       "source": "toss",
@@ -10763,23 +10784,6 @@
         {
           "price": 17200,
           "observedAt": "2026-08-21T12:13:39.497Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9678344877|i:28940185686|v:-",
-      "source": "coupang",
-      "name": "쿠크다스 쵸코케이크, 202g, 1개",
-      "price": 4500,
-      "listPrice": null,
-      "observedAt": "2026-08-21T11:51:00.543Z",
-      "url": "https://link.coupang.com/a/goFgmuKwDc",
-      "image": "assets/products/1cd4a4b50a4e67c985f1.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4500,
-          "observedAt": "2026-08-21T11:51:00.543Z"
         }
       ]
     },
