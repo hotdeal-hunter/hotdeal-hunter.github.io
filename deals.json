@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T11:18:15.439Z",
+  "updatedAt": "2026-09-05T11:22:19.131Z",
   "deals": [
+    {
+      "id": "toss:p:83270149|n:푸드앳홈 새우젓, 1kg, 1개",
+      "source": "toss",
+      "name": "푸드앳홈 새우젓, 1kg, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-05T11:20:46.127Z",
+      "url": "https://toss.im/_m/JX4xsfin",
+      "image": "assets/products/61b756d8326158487efa.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-05T11:20:46.127Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:31937121|n:소소락 강릉 장칼국수 6인분, 면다해 칼국수 1kg + 소스 50g 6봉, 1세트",
       "source": "toss",
