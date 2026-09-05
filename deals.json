@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-05T11:34:00.145Z",
+  "updatedAt": "2026-09-05T12:11:47.536Z",
   "deals": [
+    {
+      "id": "toss:p:144298663|n:널담 뚱낭시에, 50g, 8개입, 1박스",
+      "source": "toss",
+      "name": "널담 뚱낭시에, 50g, 8개입, 1박스",
+      "price": 9500,
+      "listPrice": null,
+      "observedAt": "2026-09-05T12:10:26.997Z",
+      "url": "https://toss.im/_m/j8eolZEe",
+      "image": "assets/products/626e8d8f4ab0108ac883.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9500,
+          "observedAt": "2026-09-05T12:10:26.997Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:513315985|n:신선하랑 구운란 대란, 60구, 1개",
       "source": "toss",
       "name": "신선하랑 구운란 대란, 60구, 1개",
       "price": 19990,
       "listPrice": null,
-      "observedAt": "2026-09-05T11:33:55.615Z",
+      "observedAt": "2026-09-05T12:03:38.652Z",
       "url": "https://toss.im/_m/jNgzIR8B",
       "image": "assets/products/c1e22775d5206a0ad87a.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 19990,
+          "observedAt": "2026-09-05T12:03:38.652Z"
+        },
         {
           "price": 19990,
           "observedAt": "2026-09-05T11:33:55.615Z"
@@ -24,11 +45,15 @@
       "name": "푸드앳홈 새우젓, 1kg, 1개",
       "price": 7900,
       "listPrice": null,
-      "observedAt": "2026-09-05T11:20:46.127Z",
+      "observedAt": "2026-09-05T11:52:16.481Z",
       "url": "https://toss.im/_m/JX4xsfin",
       "image": "assets/products/61b756d8326158487efa.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-05T11:52:16.481Z"
+        },
         {
           "price": 7900,
           "observedAt": "2026-09-05T11:20:46.127Z"
@@ -13898,7 +13923,7 @@
       "listPrice": 7567,
       "observedAt": "2026-08-18T01:27:54.707Z",
       "url": "https://link.coupang.com/a/giX1C3vtWm",
-      "image": null,
+      "image": "assets/products/334e5e920bcefd747c09.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -13915,7 +13940,7 @@
       "listPrice": 17917,
       "observedAt": "2026-08-18T01:26:48.403Z",
       "url": "https://link.coupang.com/a/giXWJd9I16",
-      "image": null,
+      "image": "assets/products/c4232241d2328d6f1690.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -14033,7 +14058,7 @@
       "listPrice": null,
       "observedAt": "2026-08-17T23:48:48.039Z",
       "url": "https://link.coupang.com/a/giQWvxQGuO",
-      "image": null,
+      "image": "assets/products/9fe221567565a9d84050.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
