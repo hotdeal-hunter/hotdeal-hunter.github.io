@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T06:44:16.382Z",
+  "updatedAt": "2026-09-05T07:10:02.002Z",
   "deals": [
+    {
+      "id": "toss:p:18528257|n:삼보수산 홍합, 4kg, 1박스",
+      "source": "toss",
+      "name": "삼보수산 홍합, 4kg, 1박스",
+      "price": 9900,
+      "listPrice": 15000,
+      "observedAt": "2026-09-05T07:08:40.045Z",
+      "url": "https://toss.im/_m/1pkpm0Ji",
+      "image": "assets/products/1c69419cb21443a7480a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-05T07:08:40.045Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:58784741|n:연세우유 멸균우유, 저지방, 190ml, 48개",
       "source": "toss",
