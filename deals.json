@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T09:52:32.271Z",
+  "updatedAt": "2026-09-05T10:59:43.971Z",
   "deals": [
+    {
+      "id": "p:172779871|i:19224732079|v:86341401873",
+      "source": "coupang",
+      "name": "맑은물에 국산콩 100% 촌두부, 550g, 3개",
+      "price": 4320,
+      "listPrice": null,
+      "observedAt": "2026-09-05T10:58:24.305Z",
+      "url": "https://link.coupang.com/a/gNu37VjEsK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4320,
+          "observedAt": "2026-09-05T10:58:24.305Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2307628497|n:정다운농원 국내산 천도복숭아, 가정용, 45-55과, 4kg, 1박스",
       "source": "toss",
