@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T10:59:43.971Z",
+  "updatedAt": "2026-09-05T11:18:15.439Z",
   "deals": [
+    {
+      "id": "toss:p:31937121|n:소소락 강릉 장칼국수 6인분, 면다해 칼국수 1kg + 소스 50g 6봉, 1세트",
+      "source": "toss",
+      "name": "소소락 강릉 장칼국수 6인분, 면다해 칼국수 1kg + 소스 50g 6봉, 1세트",
+      "price": 6900,
+      "listPrice": 9300,
+      "observedAt": "2026-09-05T11:16:53.651Z",
+      "url": "https://toss.im/_m/xv3fCZRg",
+      "image": "assets/products/cd05d3cd423a18f48ad0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-05T11:16:53.651Z"
+        }
+      ]
+    },
     {
       "id": "p:172779871|i:19224732079|v:86341401873",
       "source": "coupang",
