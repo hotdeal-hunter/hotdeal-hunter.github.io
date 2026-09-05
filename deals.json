@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T12:11:47.536Z",
+  "updatedAt": "2026-09-05T12:14:52.054Z",
   "deals": [
     {
       "id": "toss:p:144298663|n:널담 뚱낭시에, 50g, 8개입, 1박스",
@@ -7,11 +7,15 @@
       "name": "널담 뚱낭시에, 50g, 8개입, 1박스",
       "price": 9500,
       "listPrice": null,
-      "observedAt": "2026-09-05T12:10:26.997Z",
+      "observedAt": "2026-09-05T12:12:03.584Z",
       "url": "https://toss.im/_m/j8eolZEe",
       "image": "assets/products/626e8d8f4ab0108ac883.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 9500,
+          "observedAt": "2026-09-05T12:12:03.584Z"
+        },
         {
           "price": 9500,
           "observedAt": "2026-09-05T12:10:26.997Z"
