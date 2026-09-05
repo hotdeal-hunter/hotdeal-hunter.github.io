@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T09:25:51.161Z",
+  "updatedAt": "2026-09-05T09:28:19.515Z",
   "deals": [
+    {
+      "id": "p:1638878392|i:2795422688|v:71520296493",
+      "source": "coupang",
+      "name": "위드샨 60초 매니큐어, M043미스티로즈, 9ml, 1개 [색상 선택 가능]",
+      "price": 2900,
+      "listPrice": null,
+      "observedAt": "2026-09-05T09:26:03.434Z",
+      "url": "https://link.coupang.com/a/gNosYUjw5c",
+      "image": "assets/products/856f0f1c62c3bbfb2497.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2900,
+          "observedAt": "2026-09-05T09:26:03.434Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
       "source": "toss",
