@@ -1,6 +1,309 @@
 {
-  "updatedAt": "2026-09-05T13:45:19.306Z",
+  "updatedAt": "2026-09-05T23:37:04.489Z",
   "deals": [
+    {
+      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
+      "source": "toss",
+      "name": "초록매실 스파클링 제로, 350ml, 20개",
+      "price": 10400,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:35:44.010Z",
+      "url": "https://toss.im/_m/rCkBInli",
+      "image": "assets/products/942f9fa00020f77531ac.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T23:35:44.010Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83588153|n:베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+      "source": "toss",
+      "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+      "price": 5460,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:34:37.805Z",
+      "url": "https://toss.im/_m/PcPbwoim",
+      "image": "assets/products/9d4bbd898fa3013afb50.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5460,
+          "observedAt": "2026-09-05T23:34:37.805Z"
+        },
+        {
+          "price": 5460,
+          "observedAt": "2026-09-05T23:01:20.740Z"
+        },
+        {
+          "price": 5460,
+          "observedAt": "2026-09-03T23:43:38.451Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:03:43.032Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:03:43.032Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:01:20.663Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.300Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.216Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2611020637|n:soom 키친타올, 3겹, 100매, 12팩",
+      "source": "toss",
+      "name": "SOOM 키친타올, 3겹, 100매, 12팩",
+      "price": 5800,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:01:21.212Z",
+      "url": "https://toss.im/_m/xKBzUiBj",
+      "image": "assets/products/1812b3598a328a00a699.jpg",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 5800,
+          "observedAt": "2026-09-05T23:01:21.212Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-03T23:00:32.031Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-02T23:03:01.711Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-02T23:03:01.073Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-02T23:00:34.553Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-01T23:01:36.460Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-01T23:01:32.559Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-09-01T23:00:24.750Z"
+        },
+        {
+          "price": 5800,
+          "observedAt": "2026-08-31T23:00:24.685Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "source": "toss",
+      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
+      "price": 5420,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:01:20.956Z",
+      "url": "https://toss.im/_m/zbdu0wXt",
+      "image": "assets/products/bb4e05a3b79862ab2db2.png",
+      "insight": "16회 가격 기록",
+      "history": [
+        {
+          "price": 5420,
+          "observedAt": "2026-09-05T23:01:20.956Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-03T23:00:31.228Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-02T23:03:01.606Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-02T23:03:00.998Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-02T23:00:33.762Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:06:58.864Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:06:58.705Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:01:36.368Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T23:00:24.647Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-09-01T02:14:22.986Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:30:15.298Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-27T00:28:38.534Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-21T22:59:58.495Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-20T23:01:46.494Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-19T23:01:57.432Z"
+        },
+        {
+          "price": 5420,
+          "observedAt": "2026-08-18T00:28:38.848Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:01:20.837Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/07215730e99ad2c00f8c.jpg",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-05T23:01:20.837Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:36.181Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:31.729Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.784Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.186Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:00:34.250Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:36.534Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:32.486Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:00:24.828Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:28.567Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:25.053Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-05T23:01:20.344Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
     {
       "id": "p:6480900046|i:19154733785|v:86273585555",
       "source": "coupang",
@@ -123,7 +426,7 @@
       "listPrice": null,
       "observedAt": "2026-09-05T10:58:24.305Z",
       "url": "https://link.coupang.com/a/gNu37VjEsK",
-      "image": null,
+      "image": "assets/products/0277c1fd1ea168a5e7cd.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -163,43 +466,6 @@
         {
           "price": 2900,
           "observedAt": "2026-09-05T09:26:03.434Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-05T09:24:18.300Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.300Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.216Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:55.028Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:54.935Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
         }
       ]
     },
@@ -911,23 +1177,6 @@
       ]
     },
     {
-      "id": "toss:p:83588153|n:베베앙 시그니처 물티슈 캡형, 100매, 10팩",
-      "source": "toss",
-      "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
-      "price": 5460,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:43:38.451Z",
-      "url": "https://toss.im/_m/PcPbwoim",
-      "image": "assets/products/9d4bbd898fa3013afb50.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5460,
-          "observedAt": "2026-09-03T23:43:38.451Z"
-        }
-      ]
-    },
-    {
       "id": "p:6398710737|i:13673907143|v:80925876297",
       "source": "coupang",
       "name": "차일드라이프 액상 칼슘 마그네슘 오렌지맛, 473ml, 1개",
@@ -941,120 +1190,6 @@
         {
           "price": 21310,
           "observedAt": "2026-09-03T23:43:34.061Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:00:36.181Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "14회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:36.181Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:31.729Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.784Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.186Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:00:34.250Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:36.534Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:32.486Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:00:24.828Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:28.567Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:25.053Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:17:08.569Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:15:37.099Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2611020637|n:soom 키친타올, 3겹, 100매, 12팩",
-      "source": "toss",
-      "name": "SOOM 키친타올, 3겹, 100매, 12팩",
-      "price": 5800,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:00:32.031Z",
-      "url": "https://toss.im/_m/xKBzUiBj",
-      "image": "assets/products/1812b3598a328a00a699.jpg",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 5800,
-          "observedAt": "2026-09-03T23:00:32.031Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-02T23:03:01.711Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-02T23:03:01.073Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-02T23:00:34.553Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-01T23:01:36.460Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-01T23:01:32.559Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-09-01T23:00:24.750Z"
-        },
-        {
-          "price": 5800,
-          "observedAt": "2026-08-31T23:00:24.685Z"
         }
       ]
     },
@@ -1167,79 +1302,6 @@
         {
           "price": 5110,
           "observedAt": "2026-09-01T02:15:33.307Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159694487|n:스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "source": "toss",
-      "name": "스페시핏 곰팡이 제거제 플러스, 500ml, 2개",
-      "price": 5420,
-      "listPrice": null,
-      "observedAt": "2026-09-03T23:00:31.228Z",
-      "url": "https://toss.im/_m/zbdu0wXt",
-      "image": "assets/products/bb4e05a3b79862ab2db2.png",
-      "insight": "15회 가격 기록",
-      "history": [
-        {
-          "price": 5420,
-          "observedAt": "2026-09-03T23:00:31.228Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-02T23:03:01.606Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-02T23:03:00.998Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-02T23:00:33.762Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:06:58.864Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:06:58.705Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:01:36.368Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T23:00:24.647Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-09-01T02:14:22.986Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:30:15.298Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-27T00:28:38.534Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-21T22:59:58.495Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-20T23:01:46.494Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-19T23:01:57.432Z"
-        },
-        {
-          "price": 5420,
-          "observedAt": "2026-08-18T00:28:38.848Z"
         }
       ]
     },
