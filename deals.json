@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T12:56:01.309Z",
+  "updatedAt": "2026-09-05T13:45:19.306Z",
   "deals": [
+    {
+      "id": "p:6480900046|i:19154733785|v:86273585555",
+      "source": "coupang",
+      "name": "오뚜기 짜슐랭 145g, 10개",
+      "price": 6400,
+      "listPrice": 9960,
+      "observedAt": "2026-09-05T13:43:57.005Z",
+      "url": "https://link.coupang.com/a/gNGTzX0Iuq",
+      "image": "assets/products/ee8d7e693784cc734c05.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6400,
+          "observedAt": "2026-09-05T13:43:57.005Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:721411607|n:동아제약 셀파렉스 바로 알티지 오메가3, 1010mg, 10캡슐, 10박스",
       "source": "toss",
