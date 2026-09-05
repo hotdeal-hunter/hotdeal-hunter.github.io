@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-05T07:40:13.393Z",
+  "updatedAt": "2026-09-05T07:58:58.072Z",
   "deals": [
+    {
+      "id": "toss:p:2533572257|n:오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 리얼 생감자스틱, 20g, 18봉, 1박스",
+      "price": 8500,
+      "listPrice": null,
+      "observedAt": "2026-09-05T07:57:27.073Z",
+      "url": "https://toss.im/_m/ldKfEsl2",
+      "image": "assets/products/d08241b2b760764dcbbf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-09-05T07:57:27.073Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1728953563|n:글루글루 하루가글, 레몬향 1개 + 프레쉬쿨향 1개, 36정, 2개",
       "source": "toss",
