@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T12:35:22.208Z",
+  "updatedAt": "2026-09-06T12:56:25.368Z",
   "deals": [
+    {
+      "id": "toss:p:282535085|n:산과들에 하루견과 마이포켓넛츠, 20g, 100봉",
+      "source": "toss",
+      "name": "산과들에 하루견과 마이포켓넛츠, 20g, 100봉",
+      "price": 24900,
+      "listPrice": null,
+      "observedAt": "2026-09-06T12:55:07.918Z",
+      "url": "https://toss.im/_m/1OmtPa4g",
+      "image": "assets/products/72fe1f93feaa67f1d144.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-09-06T12:55:07.918Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2377429533|n:로에드 타일 줄눈 마카펜 세트, 화이트, 5p, 1세트",
       "source": "toss",
