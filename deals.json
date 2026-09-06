@@ -1,6 +1,163 @@
 {
-  "updatedAt": "2026-09-06T22:56:48.715Z",
+  "updatedAt": "2026-09-06T23:04:22.486Z",
   "deals": [
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-06T23:02:51.314Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:02:51.314Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:41.422Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:38.308Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:15:21.847Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:14:12.979Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:03:43.032Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:01:20.663Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.300Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.216Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2547875709|n:맘스럽 드라이시트, 블루밍 코튼, 건조기용, 250매, 1개",
+      "source": "toss",
+      "name": "맘스럽 드라이시트, 블루밍 코튼, 건조기용, 250매, 1개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-06T23:01:38.662Z",
+      "url": "https://toss.im/_m/bTHCkV3c",
+      "image": "assets/products/dd38146ce97a867e0b32.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-06T23:01:38.662Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-06T04:37:59.304Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1786818427|n:클리어 미용티슈, 2겹, 300매, 6개",
+      "source": "toss",
+      "name": "클리어 미용티슈, 2겹, 300매, 6개",
+      "price": 5290,
+      "listPrice": null,
+      "observedAt": "2026-09-06T23:01:38.560Z",
+      "url": "https://toss.im/_m/7jlPSGVA",
+      "image": "assets/products/bbf788ba56bcaf1cb5b3.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5290,
+          "observedAt": "2026-09-06T23:01:38.560Z"
+        },
+        {
+          "price": 5290,
+          "observedAt": "2026-09-06T08:29:19.440Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-06T23:01:38.480Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-06T23:01:38.480Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83588153|n:베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+      "source": "toss",
+      "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
+      "price": 5460,
+      "listPrice": null,
+      "observedAt": "2026-09-06T23:01:38.392Z",
+      "url": "https://toss.im/_m/PcPbwoim",
+      "image": "assets/products/9d4bbd898fa3013afb50.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 5460,
+          "observedAt": "2026-09-06T23:01:38.392Z"
+        },
+        {
+          "price": 5460,
+          "observedAt": "2026-09-05T23:34:37.805Z"
+        },
+        {
+          "price": 5460,
+          "observedAt": "2026-09-05T23:01:20.740Z"
+        },
+        {
+          "price": 5460,
+          "observedAt": "2026-09-03T23:43:38.451Z"
+        }
+      ]
+    },
     {
       "id": "p:8501111259|i:24635009555|v:91645972189",
       "source": "coupang",
@@ -250,23 +407,6 @@
       ]
     },
     {
-      "id": "toss:p:1786818427|n:클리어 미용티슈, 2겹, 300매, 6개",
-      "source": "toss",
-      "name": "클리어 미용티슈, 2겹, 300매, 6개",
-      "price": 5290,
-      "listPrice": null,
-      "observedAt": "2026-09-06T08:29:19.440Z",
-      "url": "https://toss.im/_m/7jlPSGVA",
-      "image": "assets/products/bbf788ba56bcaf1cb5b3.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5290,
-          "observedAt": "2026-09-06T08:29:19.440Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:34676433|n:가쯔 쿡스 전자레인지 찜기, 다크그레이, 1l, 2개",
       "source": "toss",
       "name": "가쯔 쿡스 전자레인지 찜기, 다크그레이, 1L, 2개",
@@ -339,23 +479,6 @@
         {
           "price": 4600,
           "observedAt": "2026-09-06T05:03:49.491Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2547875709|n:맘스럽 드라이시트 블루밍 코튼 건조기용, 250매, 1개",
-      "source": "toss",
-      "name": "맘스럽 드라이시트 블루밍 코튼 건조기용, 250매, 1개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-09-06T04:37:59.304Z",
-      "url": "https://toss.im/_m/bTHCkV3c",
-      "image": "assets/products/7ca74dba620d83e57243.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-09-06T04:37:59.304Z"
         }
       ]
     },
@@ -532,59 +655,6 @@
       ]
     },
     {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": 29700,
-      "observedAt": "2026-09-06T01:15:21.847Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:15:21.847Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:14:12.979Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:03:43.032Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:01:20.663Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.300Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.216Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:55.028Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:54.935Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
       "source": "toss",
       "name": "농심 신라면, 120g, 20개",
@@ -636,31 +706,6 @@
         {
           "price": 3950,
           "observedAt": "2026-09-06T00:35:21.898Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83588153|n:베베앙 시그니처 물티슈 캡형, 100매, 10팩",
-      "source": "toss",
-      "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
-      "price": 5460,
-      "listPrice": null,
-      "observedAt": "2026-09-05T23:34:37.805Z",
-      "url": "https://toss.im/_m/PcPbwoim",
-      "image": "assets/products/9d4bbd898fa3013afb50.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 5460,
-          "observedAt": "2026-09-05T23:34:37.805Z"
-        },
-        {
-          "price": 5460,
-          "observedAt": "2026-09-05T23:01:20.740Z"
-        },
-        {
-          "price": 5460,
-          "observedAt": "2026-09-03T23:43:38.451Z"
         }
       ]
     },
@@ -860,23 +905,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "source": "toss",
-      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-05T23:01:20.344Z",
-      "url": "https://toss.im/_m/lAQd8cTt",
-      "image": "assets/products/afec238f20f883e9b61f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-05T23:01:20.344Z"
         }
       ]
     },
