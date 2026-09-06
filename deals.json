@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T02:12:11.105Z",
+  "updatedAt": "2026-09-06T02:18:10.565Z",
   "deals": [
+    {
+      "id": "p:8541234832|i:24728993191|v:91737971180",
+      "source": "coupang",
+      "name": "브이티코스메틱 마일드 31도 스킨팩, 100개입, 1개",
+      "price": 5770,
+      "listPrice": 11866,
+      "observedAt": "2026-09-06T02:16:47.745Z",
+      "url": "https://link.coupang.com/a/gOyG30odLo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5770,
+          "observedAt": "2026-09-06T02:16:47.745Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:165856685|n:삼형제 쪽파 파김치, 2kg, 1개",
       "source": "toss",
