@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T07:06:22.981Z",
+  "updatedAt": "2026-09-06T07:32:52.262Z",
   "deals": [
+    {
+      "id": "toss:p:2502179329|n:프리미엄 머스크 멜론, 특, 4kg, 2수, 1박스",
+      "source": "toss",
+      "name": "프리미엄 머스크 멜론, 특, 4kg, 2수, 1박스",
+      "price": 15800,
+      "listPrice": 23000,
+      "observedAt": "2026-09-06T07:32:41.878Z",
+      "url": "https://toss.im/_m/1kiFYy4B",
+      "image": "assets/products/258f886334f4f97b528c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15800,
+          "observedAt": "2026-09-06T07:32:41.878Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:157826301|n:더 빅토리아 청포도 500ml 20개 + 파인애플 500ml 20개, 총 40개",
       "source": "toss",
