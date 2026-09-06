@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T03:17:48.406Z",
+  "updatedAt": "2026-09-06T03:28:23.109Z",
   "deals": [
+    {
+      "id": "p:90995|i:16555030|v:84993761671",
+      "source": "coupang",
+      "name": "백설 포도씨유, 900ml, 3개, 900ml × 3개",
+      "price": 12420,
+      "listPrice": 19425,
+      "observedAt": "2026-09-06T03:27:00.704Z",
+      "url": "https://link.coupang.com/a/gODH9njYVU",
+      "image": "assets/products/68fb0523eb4a86a77a7a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12420,
+          "observedAt": "2026-09-06T03:27:00.704Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1054843657|n:푸드센터 소갈비살, 200g, 5팩",
       "source": "toss",
