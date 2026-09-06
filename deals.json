@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T03:55:22.776Z",
+  "updatedAt": "2026-09-06T04:39:44.204Z",
   "deals": [
+    {
+      "id": "toss:p:2547875709|n:맘스럽 드라이시트 블루밍 코튼 건조기용, 250매, 1개",
+      "source": "toss",
+      "name": "맘스럽 드라이시트 블루밍 코튼 건조기용, 250매, 1개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-06T04:37:59.304Z",
+      "url": "https://toss.im/_m/bTHCkV3c",
+      "image": "assets/products/7ca74dba620d83e57243.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-06T04:37:59.304Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:157826301|n:더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
       "source": "toss",
