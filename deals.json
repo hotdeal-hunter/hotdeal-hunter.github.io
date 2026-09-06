@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T05:03:57.411Z",
+  "updatedAt": "2026-09-06T05:35:23.201Z",
   "deals": [
+    {
+      "id": "toss:p:188398915|n:가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
+      "source": "toss",
+      "name": "가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
+      "price": 6800,
+      "listPrice": null,
+      "observedAt": "2026-09-06T05:33:49.403Z",
+      "url": "https://toss.im/_m/9ZH3mXr4",
+      "image": "assets/products/6e64213273ba4c0b48a6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6800,
+          "observedAt": "2026-09-06T05:33:49.403Z"
+        }
+      ]
+    },
     {
       "id": "p:90995|i:19549658106|v:85067938043",
       "source": "coupang",
