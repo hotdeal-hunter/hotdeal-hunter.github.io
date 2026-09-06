@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-09-06T09:18:42.346Z",
+  "updatedAt": "2026-09-06T09:54:36.368Z",
   "deals": [
     {
-      "id": "toss:p:56322313|n:스파클 생수, 무라벨, 500ml, 80개",
+      "id": "toss:p:56322313|n:스파클 생수 무라벨, 500ml, 80개",
       "source": "toss",
-      "name": "스파클 생수, 무라벨, 500ml, 80개",
+      "name": "스파클 생수 무라벨, 500ml, 80개",
       "price": 8800,
-      "listPrice": 24000,
-      "observedAt": "2026-09-06T09:18:33.108Z",
+      "listPrice": null,
+      "observedAt": "2026-09-06T09:53:04.633Z",
       "url": "https://toss.im/_m/hlgXume6",
-      "image": "assets/products/6a74bdc8f071a276ca6d.jpg",
-      "insight": "3회 가격 기록",
+      "image": "assets/products/a91e31f924f9bb01eb54.jpg",
+      "insight": "4회 가격 기록",
       "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-06T09:53:04.633Z"
+        },
         {
           "price": 8800,
           "observedAt": "2026-09-06T09:18:33.108Z"
