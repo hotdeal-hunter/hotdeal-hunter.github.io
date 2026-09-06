@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T09:54:36.368Z",
+  "updatedAt": "2026-09-06T10:04:03.698Z",
   "deals": [
+    {
+      "id": "p:7925040916|i:21784979930|v:88833704033",
+      "source": "coupang",
+      "name": "오뗄 보그부어스트 소시지, 160g, 2개",
+      "price": 4980,
+      "listPrice": null,
+      "observedAt": "2026-09-06T10:03:56.845Z",
+      "url": "https://link.coupang.com/a/gO54MmFGii",
+      "image": "assets/products/35c41976aabcfba9e960.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-06T10:03:56.845Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56322313|n:스파클 생수 무라벨, 500ml, 80개",
       "source": "toss",
