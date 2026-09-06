@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-06T07:38:54.005Z",
+  "updatedAt": "2026-09-06T08:30:51.009Z",
   "deals": [
+    {
+      "id": "toss:p:1786818427|n:클리어 미용티슈, 2겹, 300매, 6개",
+      "source": "toss",
+      "name": "클리어 미용티슈, 2겹, 300매, 6개",
+      "price": 5290,
+      "listPrice": null,
+      "observedAt": "2026-09-06T08:29:19.440Z",
+      "url": "https://toss.im/_m/7jlPSGVA",
+      "image": "assets/products/bbf788ba56bcaf1cb5b3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5290,
+          "observedAt": "2026-09-06T08:29:19.440Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:34676433|n:가쯔 쿡스 전자레인지 찜기, 다크그레이, 1l, 2개",
       "source": "toss",
       "name": "가쯔 쿡스 전자레인지 찜기, 다크그레이, 1L, 2개",
       "price": 5900,
       "listPrice": null,
-      "observedAt": "2026-09-06T07:37:33.905Z",
+      "observedAt": "2026-09-06T07:39:08.094Z",
       "url": "https://toss.im/_m/1fjTKhjm",
       "image": "assets/products/e6c15c541edec8d1fbf5.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-06T07:39:08.094Z"
+        },
         {
           "price": 5900,
           "observedAt": "2026-09-06T07:37:33.905Z"
