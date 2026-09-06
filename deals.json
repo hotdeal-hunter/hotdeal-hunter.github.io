@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-06T05:35:23.201Z",
+  "updatedAt": "2026-09-06T07:06:22.981Z",
   "deals": [
+    {
+      "id": "toss:p:157826301|n:더 빅토리아 청포도 500ml 20개 + 파인애플 500ml 20개, 총 40개",
+      "source": "toss",
+      "name": "더 빅토리아 청포도 500ml 20개 + 파인애플 500ml 20개, 총 40개",
+      "price": 15400,
+      "listPrice": null,
+      "observedAt": "2026-09-06T07:04:38.113Z",
+      "url": "https://toss.im/_m/TVi15poc",
+      "image": "assets/products/b8746fd47398c6bb5f91.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15400,
+          "observedAt": "2026-09-06T07:04:38.113Z"
+        },
+        {
+          "price": 15400,
+          "observedAt": "2026-09-06T03:53:49.123Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
+      "source": "toss",
+      "name": "초록매실 스파클링 제로, 350ml, 20개",
+      "price": 10400,
+      "listPrice": 19900,
+      "observedAt": "2026-09-06T06:27:00.505Z",
+      "url": "https://toss.im/_m/rCkBInli",
+      "image": "assets/products/942f9fa00020f77531ac.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T06:27:00.505Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T05:58:22.887Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T23:35:44.010Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:188398915|n:가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
       "source": "toss",
@@ -49,23 +95,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-06T04:37:59.304Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:157826301|n:더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
-      "source": "toss",
-      "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
-      "price": 15400,
-      "listPrice": null,
-      "observedAt": "2026-09-06T03:53:49.123Z",
-      "url": "https://toss.im/_m/TVi15poc",
-      "image": "assets/products/3d248f33dc70d8e967d5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15400,
-          "observedAt": "2026-09-06T03:53:49.123Z"
         }
       ]
     },
@@ -346,23 +375,6 @@
         {
           "price": 3950,
           "observedAt": "2026-09-06T00:35:21.898Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
-      "source": "toss",
-      "name": "초록매실 스파클링 제로, 350ml, 20개",
-      "price": 10400,
-      "listPrice": null,
-      "observedAt": "2026-09-05T23:35:44.010Z",
-      "url": "https://toss.im/_m/rCkBInli",
-      "image": "assets/products/942f9fa00020f77531ac.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10400,
-          "observedAt": "2026-09-05T23:35:44.010Z"
         }
       ]
     },
