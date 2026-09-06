@@ -1,17 +1,91 @@
 {
-  "updatedAt": "2026-09-06T00:42:16.290Z",
+  "updatedAt": "2026-09-06T01:45:33.131Z",
   "deals": [
+    {
+      "id": "toss:p:2440887351|n:블랑101 섬유유연제 메리베리, 1l, 2개",
+      "source": "toss",
+      "name": "블랑101 섬유유연제 메리베리, 1L, 2개",
+      "price": 19000,
+      "listPrice": null,
+      "observedAt": "2026-09-06T01:43:59.505Z",
+      "url": "https://toss.im/_m/z4NcpXhi",
+      "image": "assets/products/51cebfd63dbb0ad6aa90.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19000,
+          "observedAt": "2026-09-06T01:43:59.505Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": 29700,
+      "observedAt": "2026-09-06T01:15:21.847Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:15:21.847Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:14:12.979Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:03:43.032Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:01:20.663Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.300Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.216Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
       "source": "toss",
       "name": "농심 신라면, 120g, 20개",
       "price": 14454,
       "listPrice": null,
-      "observedAt": "2026-09-06T00:40:51.970Z",
+      "observedAt": "2026-09-06T00:43:30.951Z",
       "url": "https://toss.im/_m/LeSZNvc8",
       "image": "assets/products/3d72729ead1090320bc7.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:43:30.951Z"
+        },
         {
           "price": 14454,
           "observedAt": "2026-09-06T00:40:51.970Z"
@@ -91,51 +165,6 @@
         {
           "price": 5460,
           "observedAt": "2026-09-03T23:43:38.451Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-05T23:03:43.032Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:03:43.032Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:01:20.663Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.300Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.216Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:55.028Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:54.935Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
         }
       ]
     },
