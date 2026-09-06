@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T02:55:44.896Z",
+  "updatedAt": "2026-09-06T03:17:48.406Z",
   "deals": [
+    {
+      "id": "toss:p:1054843657|n:푸드센터 소갈비살, 200g, 5팩",
+      "source": "toss",
+      "name": "푸드센터 소갈비살, 200g, 5팩",
+      "price": 29500,
+      "listPrice": 100000,
+      "observedAt": "2026-09-06T03:17:39.076Z",
+      "url": "https://toss.im/_m/ZvtrQ4aC",
+      "image": "assets/products/571abf05ee282c7e96b6.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 29500,
+          "observedAt": "2026-09-06T03:17:39.076Z"
+        },
+        {
+          "price": 27900,
+          "observedAt": "2026-08-25T10:34:58.559Z"
+        },
+        {
+          "price": 27900,
+          "observedAt": "2026-08-25T10:33:24.515Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:282544349|n:샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
       "source": "toss",
@@ -8433,27 +8458,6 @@
         {
           "price": 1778770,
           "observedAt": "2026-08-25T10:38:23.232Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1054843657|n:푸드센터 소갈비살, 200g, 5팩",
-      "source": "toss",
-      "name": "푸드센터 소갈비살, 200g, 5팩",
-      "price": 27900,
-      "listPrice": null,
-      "observedAt": "2026-08-25T10:34:58.559Z",
-      "url": "https://toss.im/_m/ZvtrQ4aC",
-      "image": "assets/products/571abf05ee282c7e96b6.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 27900,
-          "observedAt": "2026-08-25T10:34:58.559Z"
-        },
-        {
-          "price": 27900,
-          "observedAt": "2026-08-25T10:33:24.515Z"
         }
       ]
     },
