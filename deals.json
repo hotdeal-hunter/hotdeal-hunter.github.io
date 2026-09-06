@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-06T02:18:10.565Z",
+  "updatedAt": "2026-09-06T02:36:48.422Z",
   "deals": [
+    {
+      "id": "toss:p:119748083|n:이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
+      "source": "toss",
+      "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
+      "price": 5300,
+      "listPrice": 6900,
+      "observedAt": "2026-09-06T02:35:26.059Z",
+      "url": "https://toss.im/_m/b5TGy1aA",
+      "image": "assets/products/94dc2437a12316272adc.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5300,
+          "observedAt": "2026-09-06T02:35:26.059Z"
+        },
+        {
+          "price": 5190,
+          "observedAt": "2026-08-25T09:53:48.227Z"
+        }
+      ]
+    },
     {
       "id": "p:8541234832|i:24728993191|v:91737971180",
       "source": "coupang",
@@ -8412,23 +8433,6 @@
         {
           "price": 27900,
           "observedAt": "2026-08-25T10:33:24.515Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:119748083|n:이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
-      "source": "toss",
-      "name": "이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
-      "price": 5190,
-      "listPrice": 6900,
-      "observedAt": "2026-08-25T09:53:48.227Z",
-      "url": "https://toss.im/_m/b5TGy1aA",
-      "image": "assets/products/94dc2437a12316272adc.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5190,
-          "observedAt": "2026-08-25T09:53:48.227Z"
         }
       ]
     },
