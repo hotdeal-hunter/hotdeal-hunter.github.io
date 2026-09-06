@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-06T02:36:48.422Z",
+  "updatedAt": "2026-09-06T02:55:44.896Z",
   "deals": [
+    {
+      "id": "toss:p:282544349|n:샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
+      "source": "toss",
+      "name": "샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-09-06T02:54:10.381Z",
+      "url": "https://toss.im/_m/heOeXoBd",
+      "image": "assets/products/632e0c27dd047d5cd226.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-09-06T02:54:10.381Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
+      "source": "toss",
+      "name": "바른 돼지국밥, 500g, 5개",
+      "price": 11380,
+      "listPrice": 26900,
+      "observedAt": "2026-09-06T02:38:06.831Z",
+      "url": "https://toss.im/_m/phUo33E3",
+      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 11380,
+          "observedAt": "2026-09-06T02:38:06.831Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-03T12:07:06.322Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-01T12:11:42.944Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:21:40.808Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:01:15.139Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:119748083|n:이조은산소 무농약 산소 칼륨 콩나물, 1kg, 1개",
       "source": "toss",
@@ -1669,35 +1719,6 @@
         {
           "price": 7900,
           "observedAt": "2026-09-03T12:57:38.819Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
-      "source": "toss",
-      "name": "바른 돼지국밥, 500g, 5개",
-      "price": 11380,
-      "listPrice": 26900,
-      "observedAt": "2026-09-03T12:07:06.322Z",
-      "url": "https://toss.im/_m/phUo33E3",
-      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 11380,
-          "observedAt": "2026-09-03T12:07:06.322Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-09-01T12:11:42.944Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:21:40.808Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:01:15.139Z"
         }
       ]
     },
