@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T04:39:44.204Z",
+  "updatedAt": "2026-09-06T05:03:57.411Z",
   "deals": [
+    {
+      "id": "p:90995|i:19549658106|v:85067938043",
+      "source": "coupang",
+      "name": "백설 포도씨유, 500ml, 2개",
+      "price": 4600,
+      "listPrice": null,
+      "observedAt": "2026-09-06T05:03:49.491Z",
+      "url": "https://link.coupang.com/a/gOKC56SQvI",
+      "image": "assets/products/70c6675451d5e90d1afe.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4600,
+          "observedAt": "2026-09-06T05:03:49.491Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2547875709|n:맘스럽 드라이시트 블루밍 코튼 건조기용, 250매, 1개",
       "source": "toss",
