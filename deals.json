@@ -1,20 +1,53 @@
 {
-  "updatedAt": "2026-09-06T10:35:14.170Z",
+  "updatedAt": "2026-09-06T11:14:45.680Z",
   "deals": [
     {
-      "id": "toss:p:2647784733|n:에너자이저 알카라인 건전지, aa 10입 1개 + aaa 10입 1개, 2개",
+      "id": "toss:p:2647784733|n:에너자이저 알카라인 건전지, aa 10입 1개 + aaa 10입 1개, 총 2개",
       "source": "toss",
-      "name": "에너자이저 알카라인 건전지, AA 10입 1개 + AAA 10입 1개, 2개",
+      "name": "에너자이저 알카라인 건전지, AA 10입 1개 + AAA 10입 1개, 총 2개",
       "price": 8900,
       "listPrice": null,
-      "observedAt": "2026-09-06T10:33:54.080Z",
+      "observedAt": "2026-09-06T11:13:14.614Z",
       "url": "https://toss.im/_m/N8OFrbzC",
-      "image": "assets/products/05b97e979ca9da49beab.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "image": "assets/products/43af4c8a9604781f68f6.jpg",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 8900,
+          "observedAt": "2026-09-06T11:13:14.614Z"
+        },
+        {
+          "price": 8900,
           "observedAt": "2026-09-06T10:33:54.080Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
+      "source": "toss",
+      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
+      "price": 18900,
+      "listPrice": 45900,
+      "observedAt": "2026-09-06T10:37:42.599Z",
+      "url": "https://toss.im/_m/p50vVAIn",
+      "image": "assets/products/f134c5cfc4ae3be91f64.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-09-06T10:37:42.599Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-09-06T08:37:56.292Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-24T23:01:23.508Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-17T10:39:50.885Z"
         }
       ]
     },
@@ -82,31 +115,6 @@
         {
           "price": 6800,
           "observedAt": "2026-09-06T05:33:49.403Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
-      "source": "toss",
-      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-      "price": 18900,
-      "listPrice": null,
-      "observedAt": "2026-09-06T08:37:56.292Z",
-      "url": "https://toss.im/_m/p50vVAIn",
-      "image": "assets/products/f134c5cfc4ae3be91f64.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 18900,
-          "observedAt": "2026-09-06T08:37:56.292Z"
-        },
-        {
-          "price": 15320,
-          "observedAt": "2026-08-24T23:01:23.508Z"
-        },
-        {
-          "price": 15320,
-          "observedAt": "2026-08-17T10:39:50.885Z"
         }
       ]
     },
