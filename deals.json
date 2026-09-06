@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T11:14:45.680Z",
+  "updatedAt": "2026-09-06T12:25:54.202Z",
   "deals": [
+    {
+      "id": "toss:p:624319523|n:셰프초이스 한판 닭갈비, 1.5kg, 1개",
+      "source": "toss",
+      "name": "셰프초이스 한판 닭갈비, 1.5kg, 1개",
+      "price": 15900,
+      "listPrice": 20900,
+      "observedAt": "2026-09-06T12:25:43.568Z",
+      "url": "https://toss.im/_m/vxPnX7lB",
+      "image": "assets/products/fafd7cf1b3310eae4d4f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-06T12:25:43.568Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647784733|n:에너자이저 알카라인 건전지, aa 10입 1개 + aaa 10입 1개, 총 2개",
       "source": "toss",
