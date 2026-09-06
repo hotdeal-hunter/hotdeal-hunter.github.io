@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T07:32:52.262Z",
+  "updatedAt": "2026-09-06T07:38:54.005Z",
   "deals": [
+    {
+      "id": "toss:p:34676433|n:가쯔 쿡스 전자레인지 찜기, 다크그레이, 1l, 2개",
+      "source": "toss",
+      "name": "가쯔 쿡스 전자레인지 찜기, 다크그레이, 1L, 2개",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-09-06T07:37:33.905Z",
+      "url": "https://toss.im/_m/1fjTKhjm",
+      "image": "assets/products/e6c15c541edec8d1fbf5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-06T07:37:33.905Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2502179329|n:프리미엄 머스크 멜론, 특, 4kg, 2수, 1박스",
       "source": "toss",
