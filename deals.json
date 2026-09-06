@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-06T08:30:51.009Z",
+  "updatedAt": "2026-09-06T08:39:43.170Z",
   "deals": [
+    {
+      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
+      "source": "toss",
+      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
+      "price": 18900,
+      "listPrice": null,
+      "observedAt": "2026-09-06T08:37:56.292Z",
+      "url": "https://toss.im/_m/p50vVAIn",
+      "image": "assets/products/f134c5cfc4ae3be91f64.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-09-06T08:37:56.292Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-24T23:01:23.508Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-17T10:39:50.885Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1786818427|n:클리어 미용티슈, 2겹, 300매, 6개",
       "source": "toss",
@@ -9127,27 +9152,6 @@
         {
           "price": 5170,
           "observedAt": "2026-08-24T23:44:47.309Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
-      "source": "toss",
-      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-      "price": 15320,
-      "listPrice": null,
-      "observedAt": "2026-08-24T23:01:23.508Z",
-      "url": "https://toss.im/_m/p50vVAIn",
-      "image": "assets/products/f134c5cfc4ae3be91f64.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 15320,
-          "observedAt": "2026-08-24T23:01:23.508Z"
-        },
-        {
-          "price": 15320,
-          "observedAt": "2026-08-17T10:39:50.885Z"
         }
       ]
     },
