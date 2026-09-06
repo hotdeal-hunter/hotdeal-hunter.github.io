@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-06T01:45:33.131Z",
+  "updatedAt": "2026-09-06T02:12:11.105Z",
   "deals": [
+    {
+      "id": "toss:p:165856685|n:삼형제 쪽파 파김치, 2kg, 1개",
+      "source": "toss",
+      "name": "삼형제 쪽파 파김치, 2kg, 1개",
+      "price": 9800,
+      "listPrice": 16100,
+      "observedAt": "2026-09-06T02:12:01.812Z",
+      "url": "https://toss.im/_m/NtsqjMfs",
+      "image": "assets/products/629f344662ece9d8cdc6.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9800,
+          "observedAt": "2026-09-06T02:12:01.812Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-18T10:39:25.088Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2440887351|n:블랑101 섬유유연제 메리베리, 1l, 2개",
       "source": "toss",
       "name": "블랑101 섬유유연제 메리베리, 1L, 2개",
       "price": 19000,
       "listPrice": null,
-      "observedAt": "2026-09-06T01:43:59.505Z",
+      "observedAt": "2026-09-06T01:45:47.122Z",
       "url": "https://toss.im/_m/z4NcpXhi",
       "image": "assets/products/51cebfd63dbb0ad6aa90.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 19000,
+          "observedAt": "2026-09-06T01:45:47.122Z"
+        },
         {
           "price": 19000,
           "observedAt": "2026-09-06T01:43:59.505Z"
@@ -13710,23 +13735,6 @@
         {
           "price": 34580,
           "observedAt": "2026-08-18T10:56:33.478Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:165856685|n:삼형제 쪽파 파김치, 2kg, 1개",
-      "source": "toss",
-      "name": "삼형제 쪽파 파김치, 2kg, 1개",
-      "price": 9900,
-      "listPrice": 16100,
-      "observedAt": "2026-08-18T10:39:25.088Z",
-      "url": "https://toss.im/_m/NtsqjMfs",
-      "image": "assets/products/629f344662ece9d8cdc6.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-18T10:39:25.088Z"
         }
       ]
     },
