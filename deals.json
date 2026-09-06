@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T03:28:23.109Z",
+  "updatedAt": "2026-09-06T03:55:22.776Z",
   "deals": [
+    {
+      "id": "toss:p:157826301|n:더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
+      "source": "toss",
+      "name": "더 빅토리아, 청포도 500ml 20개 + 파인애플 500ml 20개, 40개",
+      "price": 15400,
+      "listPrice": null,
+      "observedAt": "2026-09-06T03:53:49.123Z",
+      "url": "https://toss.im/_m/TVi15poc",
+      "image": "assets/products/3d248f33dc70d8e967d5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15400,
+          "observedAt": "2026-09-06T03:53:49.123Z"
+        }
+      ]
+    },
     {
       "id": "p:90995|i:16555030|v:84993761671",
       "source": "coupang",
