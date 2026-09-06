@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T00:39:33.185Z",
+  "updatedAt": "2026-09-06T00:42:16.290Z",
   "deals": [
+    {
+      "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
+      "source": "toss",
+      "name": "농심 신라면, 120g, 20개",
+      "price": 14454,
+      "listPrice": null,
+      "observedAt": "2026-09-06T00:40:51.970Z",
+      "url": "https://toss.im/_m/LeSZNvc8",
+      "image": "assets/products/3d72729ead1090320bc7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:40:51.970Z"
+        }
+      ]
+    },
     {
       "id": "p:161391916|i:19224731937|v:86341401693",
       "source": "coupang",
