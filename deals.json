@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T12:25:54.202Z",
+  "updatedAt": "2026-09-06T12:35:22.208Z",
   "deals": [
+    {
+      "id": "toss:p:2377429533|n:로에드 타일 줄눈 마카펜 세트, 화이트, 5p, 1세트",
+      "source": "toss",
+      "name": "로에드 타일 줄눈 마카펜 세트, 화이트, 5P, 1세트",
+      "price": 7800,
+      "listPrice": null,
+      "observedAt": "2026-09-06T12:34:02.339Z",
+      "url": "https://toss.im/_m/t7LAcgu8",
+      "image": "assets/products/b779f45bfef667cd36be.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7800,
+          "observedAt": "2026-09-06T12:34:02.339Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:624319523|n:셰프초이스 한판 닭갈비, 1.5kg, 1개",
       "source": "toss",
