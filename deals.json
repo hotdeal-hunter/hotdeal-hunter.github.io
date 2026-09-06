@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T22:31:50.188Z",
+  "updatedAt": "2026-09-06T22:40:18.981Z",
   "deals": [
+    {
+      "id": "p:7660544404|i:20407720989|v:87489860248",
+      "source": "coupang",
+      "name": "세브란스에이투 전용목장 단백우유, 180ml, 24개",
+      "price": 15980,
+      "listPrice": null,
+      "observedAt": "2026-09-06T22:38:59.111Z",
+      "url": "https://link.coupang.com/a/gPX1X2ZQ9Q",
+      "image": "assets/products/21272317dc92a23a5915.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15980,
+          "observedAt": "2026-09-06T22:38:59.111Z"
+        }
+      ]
+    },
     {
       "id": "p:6262029593|i:23343834052|v:90375249663",
       "source": "coupang",
