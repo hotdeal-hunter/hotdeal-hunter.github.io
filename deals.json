@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-06T00:36:44.924Z",
+  "updatedAt": "2026-09-06T00:39:33.185Z",
   "deals": [
+    {
+      "id": "p:161391916|i:19224731937|v:86341401693",
+      "source": "coupang",
+      "name": "한성기업 김밥패키지 5인분, 505g, 2세트",
+      "price": 8320,
+      "listPrice": 10900,
+      "observedAt": "2026-09-06T00:38:03.745Z",
+      "url": "https://link.coupang.com/a/gOrDCNMkEu",
+      "image": "assets/products/f720a0bf93a6bd1c6c2e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8320,
+          "observedAt": "2026-09-06T00:38:03.745Z"
+        }
+      ]
+    },
     {
       "id": "p:8670174108|i:25168558825|v:92166056489",
       "source": "coupang",
