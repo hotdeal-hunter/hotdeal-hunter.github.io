@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T07:18:22.997Z",
+  "updatedAt": "2026-09-07T08:07:47.338Z",
   "deals": [
+    {
+      "id": "p:8402130018|i:28047916197|v:85166614448",
+      "source": "coupang",
+      "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
+      "price": 4580,
+      "listPrice": 6480,
+      "observedAt": "2026-09-07T08:06:24.573Z",
+      "url": "https://link.coupang.com/a/gQCz77dGai",
+      "image": "assets/products/63a2178dde813fe6733b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4580,
+          "observedAt": "2026-09-07T08:06:24.573Z"
+        }
+      ]
+    },
     {
       "id": "p:9056383206|i:26585855415|v:93559194693",
       "source": "coupang",
