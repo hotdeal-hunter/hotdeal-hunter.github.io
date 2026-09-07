@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-07T11:46:58.374Z",
+  "updatedAt": "2026-09-07T12:17:12.712Z",
   "deals": [
+    {
+      "id": "toss:p:2647767007|n:광동 기력쌍화, 80ml, 5팩, 1개",
+      "source": "toss",
+      "name": "광동 기력쌍화, 80ml, 5팩, 1개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T12:15:52.422Z",
+      "url": "https://toss.im/_m/rTy6g5I8",
+      "image": "assets/products/5aa9806c6871faf6fc11.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-07T12:15:52.422Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-07T12:15:52.165Z"
+        }
+      ]
+    },
     {
       "id": "p:189075023|i:539795723|v:4411905871",
       "source": "coupang",
