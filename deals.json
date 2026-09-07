@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T04:35:29.382Z",
+  "updatedAt": "2026-09-07T04:55:30.181Z",
   "deals": [
+    {
+      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
+      "source": "toss",
+      "name": "한돈 스테이크, 600g, 1팩",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T04:54:09.707Z",
+      "url": "https://toss.im/_m/zJJcTll3",
+      "image": "assets/products/350bffb92c5b7c7806b6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T04:54:09.707Z"
+        }
+      ]
+    },
     {
       "id": "p:9552651720|i:28530861751|v:95476677330",
       "source": "coupang",
