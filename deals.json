@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T03:50:37.848Z",
+  "updatedAt": "2026-09-07T04:08:25.888Z",
   "deals": [
     {
       "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
@@ -7,11 +7,19 @@
       "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
       "price": 12900,
       "listPrice": null,
-      "observedAt": "2026-09-07T03:50:29.954Z",
+      "observedAt": "2026-09-07T04:06:54.718Z",
       "url": "https://toss.im/_m/tmqMRZYu",
       "image": "assets/products/682d65df4098896b072c.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.718Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.614Z"
+        },
         {
           "price": 12900,
           "observedAt": "2026-09-07T03:50:29.954Z"
