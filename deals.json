@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T04:08:25.888Z",
+  "updatedAt": "2026-09-07T04:28:16.621Z",
   "deals": [
+    {
+      "id": "p:6850237274|i:16316741952|v:83508891680",
+      "source": "coupang",
+      "name": "에이지투웨니스 아미노 약산성 모이스처 클렌징폼, 150ml, 1개",
+      "price": 5760,
+      "listPrice": 18000,
+      "observedAt": "2026-09-07T04:28:07.233Z",
+      "url": "https://link.coupang.com/a/gQmYOyNGSq",
+      "image": "assets/products/e3061337ee9b7dcb9c44.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5760,
+          "observedAt": "2026-09-07T04:28:07.233Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
       "source": "toss",
