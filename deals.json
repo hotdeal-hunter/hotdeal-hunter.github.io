@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-07T01:28:47.531Z",
+  "updatedAt": "2026-09-07T01:35:11.622Z",
   "deals": [
+    {
+      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
+      "source": "toss",
+      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T01:33:37.436Z",
+      "url": "https://toss.im/_m/JXRGxDnm",
+      "image": "assets/products/c1e96c786ad1c3944a01.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-07T01:33:37.436Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T08:55:14.168Z"
+        },
+        {
+          "price": 26600,
+          "observedAt": "2026-08-20T00:53:34.332Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T00:53:34.040Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2613879061|n:산지로드 숯불 매콤오돌뼈, 300g, 4팩",
       "source": "toss",
@@ -12514,31 +12543,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-20T09:11:06.141Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 총 16개",
-      "source": "toss",
-      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 총 16개",
-      "price": 15600,
-      "listPrice": null,
-      "observedAt": "2026-08-20T08:55:14.168Z",
-      "url": "https://toss.im/_m/JXRGxDnm",
-      "image": "assets/products/bbc5966f5b7dc829d7d7.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 15600,
-          "observedAt": "2026-08-20T08:55:14.168Z"
-        },
-        {
-          "price": 26600,
-          "observedAt": "2026-08-20T00:53:34.332Z"
-        },
-        {
-          "price": 15600,
-          "observedAt": "2026-08-20T00:53:34.040Z"
         }
       ]
     },
