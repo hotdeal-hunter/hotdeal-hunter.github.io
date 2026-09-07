@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T13:12:42.964Z",
+  "updatedAt": "2026-09-07T22:32:04.052Z",
   "deals": [
+    {
+      "id": "p:8399134823|i:25577686597|v:92460521951",
+      "source": "coupang",
+      "name": "이로하스 일로하스 피치, 540ml, 24개",
+      "price": 17630,
+      "listPrice": null,
+      "observedAt": "2026-09-07T22:30:43.960Z",
+      "url": "https://link.coupang.com/a/gRClvKVytE",
+      "image": "assets/products/fec668ec82e1fc04c383.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17630,
+          "observedAt": "2026-09-07T22:30:43.960Z"
+        }
+      ]
+    },
     {
       "id": "p:8279872054|i:23665748009|v:74157319832",
       "source": "coupang",
