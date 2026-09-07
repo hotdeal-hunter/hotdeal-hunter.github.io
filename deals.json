@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-07T06:32:35.217Z",
+  "updatedAt": "2026-09-07T07:12:25.246Z",
   "deals": [
+    {
+      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개 + 말차초코 2개, [총 18개]",
+      "source": "toss",
+      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개 + 말차초코 2개, [총 18개]",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T07:10:40.181Z",
+      "url": "https://toss.im/_m/JXRGxDnm",
+      "image": "assets/products/03bd6dc1cc18c47be68b.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-07T07:10:40.181Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-07T01:35:24.769Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-07T01:33:37.436Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T08:55:14.168Z"
+        },
+        {
+          "price": 26600,
+          "observedAt": "2026-08-20T00:53:34.332Z"
+        },
+        {
+          "price": 15600,
+          "observedAt": "2026-08-20T00:53:34.040Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:168691107|n:덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
       "source": "toss",
@@ -229,39 +266,6 @@
         {
           "price": 12900,
           "observedAt": "2026-09-07T00:37:35.367Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
-      "source": "toss",
-      "name": "디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개, 16개",
-      "price": 14900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T01:35:24.769Z",
-      "url": "https://toss.im/_m/JXRGxDnm",
-      "image": "assets/products/c1e96c786ad1c3944a01.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 14900,
-          "observedAt": "2026-09-07T01:35:24.769Z"
-        },
-        {
-          "price": 14900,
-          "observedAt": "2026-09-07T01:33:37.436Z"
-        },
-        {
-          "price": 15600,
-          "observedAt": "2026-08-20T08:55:14.168Z"
-        },
-        {
-          "price": 26600,
-          "observedAt": "2026-08-20T00:53:34.332Z"
-        },
-        {
-          "price": 15600,
-          "observedAt": "2026-08-20T00:53:34.040Z"
         }
       ]
     },
