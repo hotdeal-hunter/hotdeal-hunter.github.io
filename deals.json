@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T07:12:25.246Z",
+  "updatedAt": "2026-09-07T07:18:22.997Z",
   "deals": [
+    {
+      "id": "p:9056383206|i:26585855415|v:93559194693",
+      "source": "coupang",
+      "name": "트립온 대용량 접이식 여행가방 보스턴백, 50 x 16.5 x 37cm, 블랙",
+      "price": 7900,
+      "listPrice": 11720,
+      "observedAt": "2026-09-07T07:18:13.427Z",
+      "url": "https://link.coupang.com/a/gQy8D8Bt3B",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-07T07:18:13.427Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:682728975|n:디핀다트 구슬아이스크림, 레인보우 50ml 4개 + 딸기 50ml 4개 + 초코바나나 50ml 4개 + 쿠키앤크림 50ml 4개 + 말차초코 2개, [총 18개]",
       "source": "toss",
