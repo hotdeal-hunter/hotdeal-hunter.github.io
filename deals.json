@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-07T23:39:36.798Z",
+  "updatedAt": "2026-09-07T23:43:25.708Z",
   "deals": [
+    {
+      "id": "p:8165713116|i:22203096903|v:89249238105",
+      "source": "coupang",
+      "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
+      "price": 9050,
+      "listPrice": 11963,
+      "observedAt": "2026-09-07T23:42:01.504Z",
+      "url": "https://link.coupang.com/a/gRHrm2Ko68",
+      "image": "assets/products/42d32780423ac287d29a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9050,
+          "observedAt": "2026-09-07T23:42:01.504Z"
+        },
+        {
+          "price": 8850,
+          "observedAt": "2026-08-24T01:41:40.307Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
+      "source": "toss",
+      "name": "구워먹는 할루미치즈, 200g, 3개",
+      "price": 7600,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:40:57.705Z",
+      "url": "https://toss.im/_m/ZIFOwhQu",
+      "image": "assets/products/b2feabff1761d9a776c6.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-09-07T23:40:57.705Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-05T06:33:54.779Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T06:53:37.150Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:52:39.281Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:51:07.764Z"
+        },
+        {
+          "price": 8890,
+          "observedAt": "2026-08-26T09:50:48.720Z"
+        }
+      ]
+    },
     {
       "id": "p:9422703721|i:28007024914|v:92376369919",
       "source": "coupang",
@@ -1939,39 +1997,6 @@
         {
           "price": 24900,
           "observedAt": "2026-09-05T06:42:53.189Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
-      "source": "toss",
-      "name": "구워먹는 할루미치즈, 200g, 3개",
-      "price": 7600,
-      "listPrice": null,
-      "observedAt": "2026-09-05T06:33:54.779Z",
-      "url": "https://toss.im/_m/ZIFOwhQu",
-      "image": "assets/products/b2feabff1761d9a776c6.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7600,
-          "observedAt": "2026-09-05T06:33:54.779Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T06:53:37.150Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:52:39.281Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:51:07.764Z"
-        },
-        {
-          "price": 8890,
-          "observedAt": "2026-08-26T09:50:48.720Z"
         }
       ]
     },
@@ -10601,23 +10626,6 @@
         {
           "price": 9500,
           "observedAt": "2026-08-24T01:57:15.718Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8165713116|i:22203096903|v:89249238105",
-      "source": "coupang",
-      "name": "홈스타 핑크파워 욕실 찌든때 클리너, 750ml, 2개",
-      "price": 8850,
-      "listPrice": 11889,
-      "observedAt": "2026-08-24T01:41:40.307Z",
-      "url": "https://link.coupang.com/a/gsWqQhfKEL",
-      "image": "assets/products/42d32780423ac287d29a.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8850,
-          "observedAt": "2026-08-24T01:41:40.307Z"
         }
       ]
     },
