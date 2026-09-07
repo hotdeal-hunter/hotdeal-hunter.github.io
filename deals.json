@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T04:28:16.621Z",
+  "updatedAt": "2026-09-07T04:35:29.382Z",
   "deals": [
+    {
+      "id": "p:9552651720|i:28530861751|v:95476677330",
+      "source": "coupang",
+      "name": "참프레 동물복지 인증 우리쌀 통살치킨 (냉동), 500g, 3개",
+      "price": 9320,
+      "listPrice": null,
+      "observedAt": "2026-09-07T04:34:09.161Z",
+      "url": "https://link.coupang.com/a/gQnpxzlS0G",
+      "image": "assets/products/db6cfd889466eb5ed192.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9320,
+          "observedAt": "2026-09-07T04:34:09.161Z"
+        }
+      ]
+    },
     {
       "id": "p:6850237274|i:16316741952|v:83508891680",
       "source": "coupang",
