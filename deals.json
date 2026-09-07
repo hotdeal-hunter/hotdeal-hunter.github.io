@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T12:17:12.712Z",
+  "updatedAt": "2026-09-07T13:12:42.964Z",
   "deals": [
+    {
+      "id": "p:8279872054|i:23665748009|v:74157319832",
+      "source": "coupang",
+      "name": "펩시 제로슈거 라임향, 210ml, 30개",
+      "price": 11820,
+      "listPrice": 14530,
+      "observedAt": "2026-09-07T13:11:20.034Z",
+      "url": "https://link.coupang.com/a/gQYm5G80Qe",
+      "image": "assets/products/2c41cfd07e58add3d606.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11820,
+          "observedAt": "2026-09-07T13:11:20.034Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647767007|n:광동 기력쌍화, 80ml, 5팩, 1개",
       "source": "toss",
