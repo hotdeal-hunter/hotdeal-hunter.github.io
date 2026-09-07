@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-07T02:52:55.239Z",
+  "updatedAt": "2026-09-07T03:50:37.848Z",
   "deals": [
+    {
+      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T03:50:29.954Z",
+      "url": "https://toss.im/_m/tmqMRZYu",
+      "image": "assets/products/682d65df4098896b072c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T03:50:29.954Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "source": "toss",
+      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
+      "price": 21900,
+      "listPrice": 29920,
+      "observedAt": "2026-09-07T03:04:35.023Z",
+      "url": "https://toss.im/_m/50vaVJ8v",
+      "image": "assets/products/d8904ef247c49b0cba97.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-09-07T03:04:35.023Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-09-03T13:04:39.958Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-09-03T13:04:39.601Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-09-02T08:12:19.370Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-21T22:59:58.737Z"
+        },
+        {
+          "price": 14890,
+          "observedAt": "2026-08-20T01:24:30.992Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:428333203|n:마주 총각김치, 2kg, 1박스",
       "source": "toss",
@@ -2135,39 +2189,6 @@
         {
           "price": 16900,
           "observedAt": "2026-09-03T03:34:42.195Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "source": "toss",
-      "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
-      "price": 14890,
-      "listPrice": null,
-      "observedAt": "2026-09-03T13:04:39.958Z",
-      "url": "https://toss.im/_m/50vaVJ8v",
-      "image": "assets/products/d8904ef247c49b0cba97.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 14890,
-          "observedAt": "2026-09-03T13:04:39.958Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-09-03T13:04:39.601Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-09-02T08:12:19.370Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-08-21T22:59:58.737Z"
-        },
-        {
-          "price": 14890,
-          "observedAt": "2026-08-20T01:24:30.992Z"
         }
       ]
     },
