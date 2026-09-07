@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-06T23:45:49.637Z",
+  "updatedAt": "2026-09-07T00:38:57.538Z",
   "deals": [
+    {
+      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
+      "source": "toss",
+      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T00:37:35.367Z",
+      "url": "https://toss.im/_m/dOm6D0dh",
+      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T00:37:35.367Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1929156813|n:헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
+      "source": "toss",
+      "name": "헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
+      "price": 6500,
+      "listPrice": null,
+      "observedAt": "2026-09-07T00:08:55.277Z",
+      "url": "https://toss.im/_m/H0RUQD0c",
+      "image": "assets/products/5d05fb3bfa74533ac87f.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-09-07T00:08:55.277Z"
+        },
+        {
+          "price": 6500,
+          "observedAt": "2026-09-04T05:21:52.195Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
       "source": "toss",
@@ -1422,23 +1460,6 @@
         {
           "price": 5180,
           "observedAt": "2026-09-04T05:28:30.796Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1929156813|n:헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
-      "source": "toss",
-      "name": "헬로바이오 올리브오일 100% 엑스트라버진 식물성 캡슐, 30캡슐, 3박스",
-      "price": 6500,
-      "listPrice": null,
-      "observedAt": "2026-09-04T05:21:52.195Z",
-      "url": "https://toss.im/_m/H0RUQD0c",
-      "image": "assets/products/5d05fb3bfa74533ac87f.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6500,
-          "observedAt": "2026-09-04T05:21:52.195Z"
         }
       ]
     },
