@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-07T09:27:37.917Z",
+  "updatedAt": "2026-09-07T09:47:28.409Z",
   "deals": [
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 11300,
+      "listPrice": 16500,
+      "observedAt": "2026-09-07T09:46:05.792Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 11300,
+          "observedAt": "2026-09-07T09:46:05.792Z"
+        },
+        {
+          "price": 12988,
+          "observedAt": "2026-08-31T10:22:40.217Z"
+        },
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:101094327|n:페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
       "source": "toss",
@@ -4261,27 +4286,6 @@
         {
           "price": 8500,
           "observedAt": "2026-08-31T10:41:33.857Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "source": "toss",
-      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "price": 12988,
-      "listPrice": 26000,
-      "observedAt": "2026-08-31T10:22:40.217Z",
-      "url": "https://toss.im/_m/H8jMugyo",
-      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12988,
-          "observedAt": "2026-08-31T10:22:40.217Z"
-        },
-        {
-          "price": 11780,
-          "observedAt": "2026-08-24T05:32:01.644Z"
         }
       ]
     },
