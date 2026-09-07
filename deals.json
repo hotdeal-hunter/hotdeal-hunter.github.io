@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T22:32:04.052Z",
+  "updatedAt": "2026-09-07T22:37:05.846Z",
   "deals": [
+    {
+      "id": "p:8397541638|i:24272920557|v:91289410009",
+      "source": "coupang",
+      "name": "[색상선택형] 삼성전자 비스포크 313L 스탠드형 3도어 김치냉장고 김치플러스 키친핏 방문설치, 코타화이트, RQ33DB74D201",
+      "price": 1190000,
+      "listPrice": 1518302,
+      "observedAt": "2026-09-07T22:35:43.006Z",
+      "url": "https://link.coupang.com/a/gRCHAE3xoy",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1190000,
+          "observedAt": "2026-09-07T22:35:43.006Z"
+        }
+      ]
+    },
     {
       "id": "p:8399134823|i:25577686597|v:92460521951",
       "source": "coupang",
