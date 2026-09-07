@@ -1,17 +1,182 @@
 {
-  "updatedAt": "2026-09-07T23:01:53.360Z",
+  "updatedAt": "2026-09-07T23:39:36.798Z",
   "deals": [
+    {
+      "id": "p:9422703721|i:28007024914|v:92376369919",
+      "source": "coupang",
+      "name": "쿠라콘 시오콤부 염장다시마 대용량, 47g, 3개",
+      "price": 9370,
+      "listPrice": 12620,
+      "observedAt": "2026-09-07T23:39:26.100Z",
+      "url": "https://link.coupang.com/a/gRHfTzGqLB",
+      "image": "assets/products/b08f33bddfb698df503d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9370,
+          "observedAt": "2026-09-07T23:39:26.100Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:02:10.445Z",
+      "url": "https://toss.im/_m/tmqMRZYu",
+      "image": "assets/products/682d65df4098896b072c.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.445Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.718Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.614Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T03:50:29.954Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:02:10.345Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-07T23:02:10.345Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-06T23:01:38.480Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:02:10.267Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "14회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-07T23:02:10.267Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:02:51.314Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:41.422Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:38.308Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:15:21.847Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:14:12.979Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:03:43.032Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:01:20.663Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.300Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.216Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
+      "source": "toss",
+      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
+      "price": 4800,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:02:10.152Z",
+      "url": "https://toss.im/_m/536UxdHk",
+      "image": "assets/products/7392c9e4391de17e7699.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4800,
+          "observedAt": "2026-09-07T23:02:10.152Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-06T23:45:42.784Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
       "source": "toss",
       "name": "고기중독 양념 LA갈비, 1kg, 1팩",
       "price": 12900,
       "listPrice": null,
-      "observedAt": "2026-09-07T23:00:21.360Z",
+      "observedAt": "2026-09-07T23:02:10.000Z",
       "url": "https://toss.im/_m/dOm6D0dh",
       "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "4회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.000Z"
+        },
         {
           "price": 12900,
           "observedAt": "2026-09-07T23:00:21.360Z"
@@ -537,31 +702,6 @@
       ]
     },
     {
-      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T04:06:54.718Z",
-      "url": "https://toss.im/_m/tmqMRZYu",
-      "image": "assets/products/682d65df4098896b072c.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.718Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.614Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T03:50:29.954Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:145039765|n:애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
       "source": "toss",
       "name": "애슐리 크리스피 핫도그 4종, 80g, 8개입, 2세트",
@@ -654,23 +794,6 @@
       ]
     },
     {
-      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
-      "source": "toss",
-      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
-      "price": 4800,
-      "listPrice": null,
-      "observedAt": "2026-09-06T23:45:42.784Z",
-      "url": "https://toss.im/_m/536UxdHk",
-      "image": "assets/products/7392c9e4391de17e7699.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4800,
-          "observedAt": "2026-09-06T23:45:42.784Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:83588153|n:베베앙 시그니처 물티슈 캡형, 100매, 10팩",
       "source": "toss",
       "name": "베베앙 시그니처 물티슈 캡형, 100매, 10팩",
@@ -704,71 +827,6 @@
         {
           "price": 5460,
           "observedAt": "2026-09-03T23:43:38.451Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-06T23:02:51.314Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "13회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:02:51.314Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:01:41.422Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:01:38.308Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:15:21.847Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:14:12.979Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:03:43.032Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:01:20.663Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.300Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.216Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:55.028Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:54.935Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
         }
       ]
     },
@@ -811,27 +869,6 @@
         {
           "price": 5290,
           "observedAt": "2026-09-06T08:29:19.440Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "source": "toss",
-      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-06T23:01:38.480Z",
-      "url": "https://toss.im/_m/lAQd8cTt",
-      "image": "assets/products/afec238f20f883e9b61f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-06T23:01:38.480Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-05T23:01:20.344Z"
         }
       ]
     },
