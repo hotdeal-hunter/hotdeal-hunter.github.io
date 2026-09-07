@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T02:11:03.976Z",
+  "updatedAt": "2026-09-07T02:52:55.239Z",
   "deals": [
+    {
+      "id": "toss:p:428333203|n:마주 총각김치, 2kg, 1박스",
+      "source": "toss",
+      "name": "마주 총각김치, 2kg, 1박스",
+      "price": 6000,
+      "listPrice": null,
+      "observedAt": "2026-09-07T02:51:21.191Z",
+      "url": "https://toss.im/_m/nxOzMoUD",
+      "image": "assets/products/5593ad2bfd979f6f6467.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6000,
+          "observedAt": "2026-09-07T02:51:21.191Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:136080241|n:센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
       "source": "toss",
