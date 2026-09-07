@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-07T11:08:43.745Z",
+  "updatedAt": "2026-09-07T11:46:58.374Z",
   "deals": [
+    {
+      "id": "p:189075023|i:539795723|v:4411905871",
+      "source": "coupang",
+      "name": "프렌치카페 로스터리 카푸치노 200 ml 10p + 카라멜 마키아또 200 ml 10p, 1세트, 2종, 200ml",
+      "price": 11760,
+      "listPrice": 21000,
+      "observedAt": "2026-09-07T11:45:34.897Z",
+      "url": "https://link.coupang.com/a/gQSfaoEglo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11760,
+          "observedAt": "2026-09-07T11:45:34.897Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:101094327|n:페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+      "source": "toss",
+      "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+      "price": 15900,
+      "listPrice": 49000,
+      "observedAt": "2026-09-07T11:28:23.577Z",
+      "url": "https://toss.im/_m/nPq3NSxx",
+      "image": "assets/products/5e5220b073125dc60567.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-07T11:28:23.577Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-07T09:27:29.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1455291351|n:제이닭 통닭가슴살, 숯불치킨맛, 100g, 10개 + 돈까스맛, 100g, 10개 + 떡볶이맛, 100g, 10개",
       "source": "toss",
@@ -126,23 +164,6 @@
         {
           "price": 11780,
           "observedAt": "2026-08-24T05:32:01.644Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:101094327|n:페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
-      "source": "toss",
-      "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
-      "price": 15900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T09:27:29.678Z",
-      "url": "https://toss.im/_m/nPq3NSxx",
-      "image": "assets/products/5e5220b073125dc60567.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-09-07T09:27:29.678Z"
         }
       ]
     },
