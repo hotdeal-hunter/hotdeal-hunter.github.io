@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T10:15:18.447Z",
+  "updatedAt": "2026-09-07T10:40:50.984Z",
   "deals": [
+    {
+      "id": "toss:p:2647903045|n:던킨 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "source": "toss",
+      "name": "던킨 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "price": 6600,
+      "listPrice": null,
+      "observedAt": "2026-09-07T10:39:33.151Z",
+      "url": "https://toss.im/_m/h0KaHqQ4",
+      "image": "assets/products/62f0809734210ed35697.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-07T10:39:33.151Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
       "source": "toss",
