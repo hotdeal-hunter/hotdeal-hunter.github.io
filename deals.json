@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T08:10:51.994Z",
+  "updatedAt": "2026-09-07T09:27:37.917Z",
   "deals": [
+    {
+      "id": "toss:p:101094327|n:페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+      "source": "toss",
+      "name": "페페브루노 엑스트라버진 올리브오일, 500ml, 2개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T09:27:29.678Z",
+      "url": "https://toss.im/_m/nPq3NSxx",
+      "image": "assets/products/5e5220b073125dc60567.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-07T09:27:29.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2560758099|n:웨이크비 브라질 세하도 콜드브루, 1l, 1개",
       "source": "toss",
