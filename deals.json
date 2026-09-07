@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T00:38:57.538Z",
+  "updatedAt": "2026-09-07T01:28:47.531Z",
   "deals": [
+    {
+      "id": "toss:p:2613879061|n:산지로드 숯불 매콤오돌뼈, 300g, 4팩",
+      "source": "toss",
+      "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
+      "price": 13900,
+      "listPrice": 22900,
+      "observedAt": "2026-09-07T01:27:24.782Z",
+      "url": "https://toss.im/_m/PgvFrkaw",
+      "image": "assets/products/69571b99c122821debb5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-07T01:27:24.782Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
       "source": "toss",
