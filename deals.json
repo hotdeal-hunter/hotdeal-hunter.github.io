@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T08:07:47.338Z",
+  "updatedAt": "2026-09-07T08:10:51.994Z",
   "deals": [
+    {
+      "id": "toss:p:2560758099|n:웨이크비 브라질 세하도 콜드브루, 1l, 1개",
+      "source": "toss",
+      "name": "웨이크비 브라질 세하도 콜드브루, 1L, 1개",
+      "price": 4300,
+      "listPrice": null,
+      "observedAt": "2026-09-07T08:08:03.049Z",
+      "url": "https://toss.im/_m/FZHsRc1b",
+      "image": "assets/products/17830a43486026562465.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4300,
+          "observedAt": "2026-09-07T08:08:03.049Z"
+        }
+      ]
+    },
     {
       "id": "p:8402130018|i:28047916197|v:85166614448",
       "source": "coupang",
