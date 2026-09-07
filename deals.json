@@ -1,6 +1,156 @@
 {
-  "updatedAt": "2026-09-07T22:37:05.846Z",
+  "updatedAt": "2026-09-07T23:01:53.360Z",
   "deals": [
+    {
+      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
+      "source": "toss",
+      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:21.360Z",
+      "url": "https://toss.im/_m/dOm6D0dh",
+      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.360Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.247Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T02:09:50.499Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T00:37:35.367Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56322313|n:스파클 생수, 무라벨, 500ml, 80개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 500ml, 80개",
+      "price": 8800,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:18.639Z",
+      "url": "https://toss.im/_m/hlgXume6",
+      "image": "assets/products/6a74bdc8f071a276ca6d.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-07T23:00:18.639Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-06T09:53:04.633Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-06T09:18:33.108Z"
+        },
+        {
+          "price": 8700,
+          "observedAt": "2026-08-20T04:41:02.219Z"
+        },
+        {
+          "price": 8700,
+          "observedAt": "2026-08-18T00:28:38.930Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2560758099|n:웨이크비 브라질 세하도 콜드브루, 1l, 1개",
+      "source": "toss",
+      "name": "웨이크비 브라질 세하도 콜드브루, 1L, 1개",
+      "price": 4300,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:18.537Z",
+      "url": "https://toss.im/_m/FZHsRc1b",
+      "image": "assets/products/17830a43486026562465.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4300,
+          "observedAt": "2026-09-07T23:00:18.537Z"
+        },
+        {
+          "price": 4300,
+          "observedAt": "2026-09-07T08:08:03.049Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
+      "source": "toss",
+      "name": "한돈 스테이크, 600g, 1팩",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:18.417Z",
+      "url": "https://toss.im/_m/zJJcTll3",
+      "image": "assets/products/350bffb92c5b7c7806b6.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T23:00:18.417Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T05:09:35.902Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T04:54:09.707Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2647903045|n:던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "source": "toss",
+      "name": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "price": 6600,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:18.311Z",
+      "url": "https://toss.im/_m/h0KaHqQ4",
+      "image": "assets/products/5271305fd6d667936d4e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-07T23:00:18.311Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-07T10:39:33.151Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:428333203|n:마주 총각김치, 2kg, 1박스",
+      "source": "toss",
+      "name": "마주 총각김치, 2kg, 1박스",
+      "price": 6000,
+      "listPrice": null,
+      "observedAt": "2026-09-07T23:00:18.140Z",
+      "url": "https://toss.im/_m/nxOzMoUD",
+      "image": "assets/products/5593ad2bfd979f6f6467.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6000,
+          "observedAt": "2026-09-07T23:00:18.140Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-09-07T02:51:21.191Z"
+        }
+      ]
+    },
     {
       "id": "p:8397541638|i:24272920557|v:91289410009",
       "source": "coupang",
@@ -129,23 +279,6 @@
       ]
     },
     {
-      "id": "toss:p:2647903045|n:던킨 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
-      "source": "toss",
-      "name": "던킨 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
-      "price": 6600,
-      "listPrice": null,
-      "observedAt": "2026-09-07T10:39:33.151Z",
-      "url": "https://toss.im/_m/h0KaHqQ4",
-      "image": "assets/products/62f0809734210ed35697.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6600,
-          "observedAt": "2026-09-07T10:39:33.151Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
       "source": "toss",
       "name": "맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
@@ -236,23 +369,6 @@
         {
           "price": 11780,
           "observedAt": "2026-08-24T05:32:01.644Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2560758099|n:웨이크비 브라질 세하도 콜드브루, 1l, 1개",
-      "source": "toss",
-      "name": "웨이크비 브라질 세하도 콜드브루, 1L, 1개",
-      "price": 4300,
-      "listPrice": null,
-      "observedAt": "2026-09-07T08:08:03.049Z",
-      "url": "https://toss.im/_m/FZHsRc1b",
-      "image": "assets/products/17830a43486026562465.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4300,
-          "observedAt": "2026-09-07T08:08:03.049Z"
         }
       ]
     },
@@ -387,27 +503,6 @@
       ]
     },
     {
-      "id": "toss:p:848507297|n:한돈 스테이크, 600g, (10개입 * 1팩)",
-      "source": "toss",
-      "name": "한돈 스테이크, 600g, (10개입 * 1팩)",
-      "price": 5900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T05:09:35.902Z",
-      "url": "https://toss.im/_m/zJJcTll3",
-      "image": "assets/products/783657987f4fea3c5f77.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T05:09:35.902Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T04:54:09.707Z"
-        }
-      ]
-    },
-    {
       "id": "p:9552651720|i:28530861751|v:95476677330",
       "source": "coupang",
       "name": "참프레 동물복지 인증 우리쌀 통살치킨 (냉동), 500g, 3개",
@@ -504,23 +599,6 @@
       ]
     },
     {
-      "id": "toss:p:428333203|n:마주 총각김치, 2kg, 1박스",
-      "source": "toss",
-      "name": "마주 총각김치, 2kg, 1박스",
-      "price": 6000,
-      "listPrice": null,
-      "observedAt": "2026-09-07T02:51:21.191Z",
-      "url": "https://toss.im/_m/nxOzMoUD",
-      "image": "assets/products/5593ad2bfd979f6f6467.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6000,
-          "observedAt": "2026-09-07T02:51:21.191Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:136080241|n:센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
       "source": "toss",
       "name": "센토 프라임 고불소 구취케어 치약 아쿠아민트향, 120g, 8개",
@@ -534,27 +612,6 @@
         {
           "price": 17900,
           "observedAt": "2026-09-07T02:10:54.226Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
-      "source": "toss",
-      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T02:09:50.499Z",
-      "url": "https://toss.im/_m/dOm6D0dh",
-      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T02:09:50.499Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T00:37:35.367Z"
         }
       ]
     },
@@ -973,35 +1030,6 @@
         {
           "price": 4980,
           "observedAt": "2026-09-06T10:03:56.845Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56322313|n:스파클 생수 무라벨, 500ml, 80개",
-      "source": "toss",
-      "name": "스파클 생수 무라벨, 500ml, 80개",
-      "price": 8800,
-      "listPrice": null,
-      "observedAt": "2026-09-06T09:53:04.633Z",
-      "url": "https://toss.im/_m/hlgXume6",
-      "image": "assets/products/a91e31f924f9bb01eb54.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 8800,
-          "observedAt": "2026-09-06T09:53:04.633Z"
-        },
-        {
-          "price": 8800,
-          "observedAt": "2026-09-06T09:18:33.108Z"
-        },
-        {
-          "price": 8700,
-          "observedAt": "2026-08-20T04:41:02.219Z"
-        },
-        {
-          "price": 8700,
-          "observedAt": "2026-08-18T00:28:38.930Z"
         }
       ]
     },
