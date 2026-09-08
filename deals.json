@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T12:12:46.514Z",
+  "updatedAt": "2026-09-08T12:15:17.207Z",
   "deals": [
+    {
+      "id": "p:6393340038|i:13639089246|v:80891797477",
+      "source": "coupang",
+      "name": "팜스토리 국내산 소고기 양지 국거리 세절 (냉장), 300g, 1개",
+      "price": 9830,
+      "listPrice": 23990,
+      "observedAt": "2026-09-08T12:12:57.049Z",
+      "url": "https://link.coupang.com/a/gSy6tZRSr6",
+      "image": "assets/products/09c526673309d8b4adc2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9830,
+          "observedAt": "2026-09-08T12:12:57.049Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:848507297|n:한돈 스테이크, 600g, (10개입 * 1팩)",
       "source": "toss",
