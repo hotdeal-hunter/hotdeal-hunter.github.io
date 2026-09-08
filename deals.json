@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T05:45:06.490Z",
+  "updatedAt": "2026-09-08T06:52:54.138Z",
   "deals": [
+    {
+      "id": "toss:p:385909753|n:서해 선동 낙지, 1kg, 3팩",
+      "source": "toss",
+      "name": "서해 선동 낙지, 1kg, 3팩",
+      "price": 36000,
+      "listPrice": null,
+      "observedAt": "2026-09-08T06:51:19.754Z",
+      "url": "https://toss.im/_m/rF0FU391",
+      "image": "assets/products/9d3280abb4cdd665c65a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 36000,
+          "observedAt": "2026-09-08T06:51:19.754Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1629420761|n:골드럽 식기세척기용 액체 세제 용기, 1l, 2개",
       "source": "toss",
