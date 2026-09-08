@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-08T12:22:50.481Z",
+  "updatedAt": "2026-09-08T12:32:51.496Z",
   "deals": [
+    {
+      "id": "toss:p:141638399|n:황쉐프 무 동치미, 5kg, 1개",
+      "source": "toss",
+      "name": "황쉐프 무 동치미, 5kg, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-08T12:31:03.977Z",
+      "url": "https://toss.im/_m/xD2Ux1rw",
+      "image": "assets/products/295f30c203b1ea97c1a5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-08T12:31:03.977Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-24T22:55:19.852Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2624216657|n:이드르르 스칼프스파 샴푸, 390ml, 1개",
       "source": "toss",
@@ -10242,23 +10263,6 @@
         {
           "price": 5170,
           "observedAt": "2026-08-24T23:44:47.309Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:141638399|n:황쉐프 무 동치미, 5kg, 1개",
-      "source": "toss",
-      "name": "황쉐프 무 동치미, 5kg, 1개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-08-24T22:55:19.852Z",
-      "url": "https://toss.im/_m/xD2Ux1rw",
-      "image": "assets/products/295f30c203b1ea97c1a5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-08-24T22:55:19.852Z"
         }
       ]
     },
