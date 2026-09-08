@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-08T23:04:29.144Z",
+  "updatedAt": "2026-09-08T23:15:22.765Z",
   "deals": [
+    {
+      "id": "p:9126936859|i:26769400595|v:95058758911",
+      "source": "coupang",
+      "name": "키드오 딸기 크래커 샌드위치, 90g, 5개",
+      "price": 4750,
+      "listPrice": 9900,
+      "observedAt": "2026-09-08T23:15:12.251Z",
+      "url": "https://link.coupang.com/a/gTkqzQDnno",
+      "image": "assets/products/30739768c86d10017986.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4750,
+          "observedAt": "2026-09-08T23:15:12.251Z"
+        },
+        {
+          "price": 4750,
+          "observedAt": "2026-09-08T23:15:11.929Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82548859|n:해태 구운감자, 27g, 15개",
       "source": "toss",
