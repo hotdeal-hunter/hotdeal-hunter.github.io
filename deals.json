@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T00:25:15.480Z",
+  "updatedAt": "2026-09-08T01:25:27.123Z",
   "deals": [
+    {
+      "id": "toss:p:54630459|n:광천김 곱창김 도시락김, 5g, 27개",
+      "source": "toss",
+      "name": "광천김 곱창김 도시락김, 5g, 27개",
+      "price": 10900,
+      "listPrice": 20900,
+      "observedAt": "2026-09-08T01:24:04.312Z",
+      "url": "https://toss.im/_m/5WztNDgc",
+      "image": "assets/products/3df2602bf8ec0cb7b41f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-08T01:24:04.312Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-22T06:01:40.568Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-21T23:52:59.348Z"
+        }
+      ]
+    },
     {
       "id": "p:8051674043|i:25328412156|v:92323257223",
       "source": "coupang",
@@ -416,7 +441,7 @@
       "listPrice": 1518302,
       "observedAt": "2026-09-07T22:35:43.006Z",
       "url": "https://link.coupang.com/a/gRCHAE3xoy",
-      "image": null,
+      "image": "assets/products/417945ca0f2b33cedc47.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -488,7 +513,7 @@
       "listPrice": 21000,
       "observedAt": "2026-09-07T11:45:34.897Z",
       "url": "https://link.coupang.com/a/gQSfaoEglo",
-      "image": null,
+      "image": "assets/products/ca8f91836ea9254141e7.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -654,7 +679,7 @@
       "listPrice": 11720,
       "observedAt": "2026-09-07T07:18:13.427Z",
       "url": "https://link.coupang.com/a/gQy8D8Bt3B",
-      "image": null,
+      "image": "assets/products/498e437ff4cbbbed4796.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -972,7 +997,7 @@
       "listPrice": null,
       "observedAt": "2026-09-06T22:55:28.718Z",
       "url": "https://link.coupang.com/a/gPZc216LFR",
-      "image": null,
+      "image": "assets/products/0fc6ba46ca4db8f6706a.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1380,7 +1405,7 @@
       "listPrice": 11866,
       "observedAt": "2026-09-06T02:16:47.745Z",
       "url": "https://link.coupang.com/a/gOyG30odLo",
-      "image": null,
+      "image": "assets/products/45746405d1055018bcaa.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -2148,7 +2173,7 @@
       "listPrice": 17940,
       "observedAt": "2026-09-04T05:07:31.204Z",
       "url": "https://link.coupang.com/a/gLq5nWmFz2",
-      "image": null,
+      "image": "assets/products/e4ed3f596a5fe1b11310.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -2190,7 +2215,7 @@
       "listPrice": 35440,
       "observedAt": "2026-09-04T04:27:52.306Z",
       "url": "https://link.coupang.com/a/gLofEi6096",
-      "image": null,
+      "image": "assets/products/09f2307e9ceadd4ffa12.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3524,7 +3549,7 @@
       "listPrice": 22000,
       "observedAt": "2026-09-02T04:50:57.667Z",
       "url": "https://link.coupang.com/a/gH55Rov5VI",
-      "image": null,
+      "image": "assets/products/171ad9fee5bab67c28d2.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
@@ -11694,27 +11719,6 @@
         {
           "price": 6960,
           "observedAt": "2026-08-22T06:08:29.899Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:54630459|n:광천김 곱창김 도시락김, 5g, 27개",
-      "source": "toss",
-      "name": "광천김 곱창김 도시락김, 5g, 27개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-08-22T06:01:40.568Z",
-      "url": "https://toss.im/_m/5WztNDgc",
-      "image": "assets/products/3df2602bf8ec0cb7b41f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-08-22T06:01:40.568Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-21T23:52:59.348Z"
         }
       ]
     },
