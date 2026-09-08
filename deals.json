@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-08T03:01:37.389Z",
+  "updatedAt": "2026-09-08T03:22:36.942Z",
   "deals": [
+    {
+      "id": "toss:p:1967695897|n:사조 살코기 참치, 카놀라유, 100g, 10개",
+      "source": "toss",
+      "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
+      "price": 15900,
+      "listPrice": 25900,
+      "observedAt": "2026-09-08T03:21:13.982Z",
+      "url": "https://toss.im/_m/tSkF5rTl",
+      "image": "assets/products/b604f0194535c0c84903.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-08T03:21:13.982Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-08-31T12:33:26.928Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:38277019|n:pvc 스틸 어깨뿔방지 옷걸이, 화이트, 30개",
       "source": "toss",
@@ -4484,23 +4505,6 @@
         {
           "price": 8770,
           "observedAt": "2026-08-31T12:45:34.668Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1967695897|n:사조 살코기 참치, 카놀라유, 100g, 10개",
-      "source": "toss",
-      "name": "사조 살코기 참치, 카놀라유, 100g, 10개",
-      "price": 15900,
-      "listPrice": 25900,
-      "observedAt": "2026-08-31T12:33:26.928Z",
-      "url": "https://toss.im/_m/tSkF5rTl",
-      "image": "assets/products/b604f0194535c0c84903.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-08-31T12:33:26.928Z"
         }
       ]
     },
