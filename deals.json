@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-08T06:52:54.138Z",
+  "updatedAt": "2026-09-08T06:57:10.211Z",
   "deals": [
+    {
+      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-08T06:53:13.261Z",
+      "url": "https://toss.im/_m/tmqMRZYu",
+      "image": "assets/products/682d65df4098896b072c.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T06:53:13.261Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T06:53:13.167Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.445Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.718Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.614Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T03:50:29.954Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:385909753|n:서해 선동 낙지, 1kg, 3팩",
       "source": "toss",
@@ -322,35 +359,6 @@
         {
           "price": 9370,
           "observedAt": "2026-09-07T23:39:26.100Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:02:10.445Z",
-      "url": "https://toss.im/_m/tmqMRZYu",
-      "image": "assets/products/682d65df4098896b072c.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:02:10.445Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.718Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.614Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T03:50:29.954Z"
         }
       ]
     },
