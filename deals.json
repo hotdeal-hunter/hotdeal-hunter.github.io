@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T07:41:19.342Z",
+  "updatedAt": "2026-09-08T09:33:08.671Z",
   "deals": [
+    {
+      "id": "toss:p:98839025|n:웰쉐프 훈제 닭다리, 180g, 10개",
+      "source": "toss",
+      "name": "웰쉐프 훈제 닭다리, 180g, 10개",
+      "price": 25400,
+      "listPrice": 47000,
+      "observedAt": "2026-09-08T09:31:44.438Z",
+      "url": "https://toss.im/_m/nWvu5wQ4",
+      "image": "assets/products/fd344ca5bf6e1f1a0110.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25400,
+          "observedAt": "2026-09-08T09:31:44.438Z"
+        }
+      ]
+    },
     {
       "id": "p:9611076956|i:28694390662|v:95635634559",
       "source": "coupang",
