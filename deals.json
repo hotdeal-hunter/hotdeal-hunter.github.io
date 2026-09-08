@@ -1,6 +1,337 @@
 {
-  "updatedAt": "2026-09-08T12:57:07.112Z",
+  "updatedAt": "2026-09-08T23:04:29.144Z",
   "deals": [
+    {
+      "id": "toss:p:82548859|n:해태 구운감자, 27g, 15개",
+      "source": "toss",
+      "name": "해태 구운감자, 27g, 15개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:02:55.006Z",
+      "url": "https://toss.im/_m/P32dnqOz",
+      "image": "assets/products/caeb29464674ad4c567f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-08T23:02:55.006Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656588529|n:깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
+      "source": "toss",
+      "name": "깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
+      "price": 6650,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:01:44.605Z",
+      "url": "https://toss.im/_m/nxuYwS9h",
+      "image": "assets/products/0e4e748781e856e37101.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6650,
+          "observedAt": "2026-09-08T23:01:44.605Z"
+        },
+        {
+          "price": 6650,
+          "observedAt": "2026-09-08T10:17:53.223Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656583385|n:수뜰리에 캡슐 세탁조클리너, 110g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 캡슐 세탁조클리너, 110g, 2개",
+      "price": 4130,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:01:44.334Z",
+      "url": "https://toss.im/_m/lOSRyAOt",
+      "image": "assets/products/e27cad2c43139ab5f450.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4130,
+          "observedAt": "2026-09-08T23:01:44.334Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656386087|n:스파클 종이컵, 185ml, 1000개, 1세트",
+      "source": "toss",
+      "name": "스파클 종이컵, 185ml, 1000개, 1세트",
+      "price": 6090,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:01:44.256Z",
+      "url": "https://toss.im/_m/bC82Z0Vz",
+      "image": "assets/products/aaa7ee9421e46f7893ab.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6090,
+          "observedAt": "2026-09-08T23:01:44.256Z"
+        },
+        {
+          "price": 6090,
+          "observedAt": "2026-09-08T02:34:16.539Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:168691107|n:덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+      "price": 5500,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:01:44.147Z",
+      "url": "https://toss.im/_m/Lz6EoMRp",
+      "image": "assets/products/552c4e858d2ec093042c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-09-08T23:01:44.147Z"
+        },
+        {
+          "price": 5500,
+          "observedAt": "2026-09-08T04:52:03.658Z"
+        },
+        {
+          "price": 5500,
+          "observedAt": "2026-09-07T06:30:59.056Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "source": "toss",
+      "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "price": 3430,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:01:44.057Z",
+      "url": "https://toss.im/_m/dHXkxgCa",
+      "image": "assets/products/b441af85588e7b8ec990.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3430,
+          "observedAt": "2026-09-08T23:01:44.057Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-08T00:14:01.098Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:00:34.524Z",
+      "url": "https://toss.im/_m/tmqMRZYu",
+      "image": "assets/products/682d65df4098896b072c.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T23:00:34.524Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T06:53:13.261Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T06:53:13.167Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.445Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.718Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T04:06:54.614Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T03:50:29.954Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:00:34.416Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-08T23:00:34.416Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-07T23:02:10.345Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-06T23:01:38.480Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
+      "source": "toss",
+      "name": "한입 삼겹살, 500g, 3개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:00:34.328Z",
+      "url": "https://toss.im/_m/pUfyMDXq",
+      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-08T23:00:34.328Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-07T23:02:10.267Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:02:51.314Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:41.422Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T23:01:38.308Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:15:21.847Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-06T01:14:12.979Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:03:43.032Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T23:01:20.663Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.300Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T09:24:18.216Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:55.028Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-05T06:33:54.935Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:39:39.649Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-04T00:10:39.321Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
+      "source": "toss",
+      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
+      "price": 4800,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:00:34.230Z",
+      "url": "https://toss.im/_m/536UxdHk",
+      "image": "assets/products/7392c9e4391de17e7699.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 4800,
+          "observedAt": "2026-09-08T23:00:34.230Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-08T02:21:01.110Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-07T23:02:10.152Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-06T23:45:42.784Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
+      "source": "toss",
+      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-08T23:00:34.079Z",
+      "url": "https://toss.im/_m/dOm6D0dh",
+      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T23:00:34.079Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.000Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.360Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.247Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T02:09:50.499Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T00:37:35.367Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:271554141|n:명성 햅쌀 경기미, 특등급, 10kg, 1개",
       "source": "toss",
@@ -170,23 +501,6 @@
       ]
     },
     {
-      "id": "toss:p:2656588529|n:깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
-      "source": "toss",
-      "name": "깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
-      "price": 6650,
-      "listPrice": null,
-      "observedAt": "2026-09-08T10:17:53.223Z",
-      "url": "https://toss.im/_m/nxuYwS9h",
-      "image": "assets/products/0e4e748781e856e37101.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6650,
-          "observedAt": "2026-09-08T10:17:53.223Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:98839025|n:웰쉐프 훈제 닭다리, 180g, 10개",
       "source": "toss",
       "name": "웰쉐프 훈제 닭다리, 180g, 10개",
@@ -229,43 +543,6 @@
         {
           "price": 3360,
           "observedAt": "2026-08-23T00:35:55.242Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:40594131|n:올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "올챌린지 천연펄프 화장지, 3겹, 30m, 30롤, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-08T06:53:13.261Z",
-      "url": "https://toss.im/_m/tmqMRZYu",
-      "image": "assets/products/682d65df4098896b072c.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-08T06:53:13.261Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-08T06:53:13.167Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:02:10.445Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.718Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T04:06:54.614Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T03:50:29.954Z"
         }
       ]
     },
@@ -338,27 +615,6 @@
       ]
     },
     {
-      "id": "toss:p:168691107|n:덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
-      "source": "toss",
-      "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
-      "price": 5500,
-      "listPrice": null,
-      "observedAt": "2026-09-08T04:52:03.658Z",
-      "url": "https://toss.im/_m/Lz6EoMRp",
-      "image": "assets/products/552c4e858d2ec093042c.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 5500,
-          "observedAt": "2026-09-08T04:52:03.658Z"
-        },
-        {
-          "price": 5500,
-          "observedAt": "2026-09-07T06:30:59.056Z"
-        }
-      ]
-    },
-    {
       "id": "p:9052902839|i:26571849171|v:96000441554",
       "source": "coupang",
       "name": "1++ 투뿔 한우선물세트 소고기 구이용 1kg, 1세트",
@@ -418,48 +674,6 @@
       ]
     },
     {
-      "id": "toss:p:2656386087|n:스파클 종이컵, 185ml, 1000개, 1세트",
-      "source": "toss",
-      "name": "스파클 종이컵, 185ml, 1000개, 1세트",
-      "price": 6090,
-      "listPrice": null,
-      "observedAt": "2026-09-08T02:34:16.539Z",
-      "url": "https://toss.im/_m/bC82Z0Vz",
-      "image": "assets/products/aaa7ee9421e46f7893ab.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6090,
-          "observedAt": "2026-09-08T02:34:16.539Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛 15g 3개",
-      "source": "toss",
-      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛 15g 3개",
-      "price": 4800,
-      "listPrice": null,
-      "observedAt": "2026-09-08T02:21:01.110Z",
-      "url": "https://toss.im/_m/536UxdHk",
-      "image": "assets/products/bfa814e07f371c31f28b.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 4800,
-          "observedAt": "2026-09-08T02:21:01.110Z"
-        },
-        {
-          "price": 4800,
-          "observedAt": "2026-09-07T23:02:10.152Z"
-        },
-        {
-          "price": 4800,
-          "observedAt": "2026-09-06T23:45:42.784Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:54630459|n:광천김 곱창김 도시락김, 5g, 27개",
       "source": "toss",
       "name": "광천김 곱창김 도시락김, 5g, 27개",
@@ -498,23 +712,6 @@
         {
           "price": 3400,
           "observedAt": "2026-09-08T00:25:05.212Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
-      "source": "toss",
-      "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
-      "price": 3430,
-      "listPrice": null,
-      "observedAt": "2026-09-08T00:14:01.098Z",
-      "url": "https://toss.im/_m/dHXkxgCa",
-      "image": "assets/products/b441af85588e7b8ec990.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3430,
-          "observedAt": "2026-09-08T00:14:01.098Z"
         }
       ]
     },
@@ -590,133 +787,6 @@
         {
           "price": 9370,
           "observedAt": "2026-09-07T23:39:26.100Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "source": "toss",
-      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:02:10.345Z",
-      "url": "https://toss.im/_m/lAQd8cTt",
-      "image": "assets/products/afec238f20f883e9b61f.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-07T23:02:10.345Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-06T23:01:38.480Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-05T23:01:20.344Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2632743115|n:한입 삼겹살, 500g, 3개",
-      "source": "toss",
-      "name": "한입 삼겹살, 500g, 3개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:02:10.267Z",
-      "url": "https://toss.im/_m/pUfyMDXq",
-      "image": "assets/products/5bdaf61f2bb4a3c609de.jpg",
-      "insight": "14회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-07T23:02:10.267Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:02:51.314Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:01:41.422Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T23:01:38.308Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:15:21.847Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-06T01:14:12.979Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:03:43.032Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T23:01:20.663Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.300Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T09:24:18.216Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:55.028Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-05T06:33:54.935Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:39:39.649Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-04T00:10:39.321Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
-      "source": "toss",
-      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:02:10.000Z",
-      "url": "https://toss.im/_m/dOm6D0dh",
-      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:02:10.000Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.360Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.247Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T02:09:50.499Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T00:37:35.367Z"
         }
       ]
     },
