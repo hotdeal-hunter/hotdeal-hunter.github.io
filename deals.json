@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-08T03:33:21.878Z",
+  "updatedAt": "2026-09-08T04:59:10.657Z",
   "deals": [
+    {
+      "id": "toss:p:151006709|n:옥돌김치 333 포기김치, 3kg, 1개",
+      "source": "toss",
+      "name": "옥돌김치 333 포기김치, 3kg, 1개",
+      "price": 19900,
+      "listPrice": 49900,
+      "observedAt": "2026-09-08T04:57:46.384Z",
+      "url": "https://toss.im/_m/5pw0cCz3",
+      "image": "assets/products/0302d3f67f23fbdea52b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-08T04:57:46.384Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:168691107|n:덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
+      "price": 5500,
+      "listPrice": null,
+      "observedAt": "2026-09-08T04:52:03.658Z",
+      "url": "https://toss.im/_m/Lz6EoMRp",
+      "image": "assets/products/552c4e858d2ec093042c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-09-08T04:52:03.658Z"
+        },
+        {
+          "price": 5500,
+          "observedAt": "2026-09-07T06:30:59.056Z"
+        }
+      ]
+    },
     {
       "id": "p:9052902839|i:26571849171|v:96000441554",
       "source": "coupang",
@@ -802,23 +840,6 @@
         {
           "price": 15600,
           "observedAt": "2026-08-20T00:53:34.040Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:168691107|n:덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
-      "source": "toss",
-      "name": "덴티클린스 컬러풀 이중미세모 칫솔, 10개입, 3세트",
-      "price": 5500,
-      "listPrice": null,
-      "observedAt": "2026-09-07T06:30:59.056Z",
-      "url": "https://toss.im/_m/Lz6EoMRp",
-      "image": "assets/products/552c4e858d2ec093042c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5500,
-          "observedAt": "2026-09-07T06:30:59.056Z"
         }
       ]
     },
