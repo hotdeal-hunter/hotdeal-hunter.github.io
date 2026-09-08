@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T00:15:36.098Z",
+  "updatedAt": "2026-09-08T00:25:15.480Z",
   "deals": [
+    {
+      "id": "p:8051674043|i:25328412156|v:92323257223",
+      "source": "coupang",
+      "name": "엘쏘 대용량 화장품 파우치 수납 고급 가방, 스카이, FREE",
+      "price": 3400,
+      "listPrice": 21900,
+      "observedAt": "2026-09-08T00:25:05.212Z",
+      "url": "https://link.coupang.com/a/gRKv9BHfR6",
+      "image": "assets/products/735c5a251b27950ae4c9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3400,
+          "observedAt": "2026-09-08T00:25:05.212Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
       "source": "toss",
