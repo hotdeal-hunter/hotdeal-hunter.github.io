@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T10:02:38.665Z",
+  "updatedAt": "2026-09-08T10:19:41.175Z",
   "deals": [
+    {
+      "id": "toss:p:2656588529|n:깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
+      "source": "toss",
+      "name": "깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
+      "price": 6650,
+      "listPrice": null,
+      "observedAt": "2026-09-08T10:17:53.223Z",
+      "url": "https://toss.im/_m/nxuYwS9h",
+      "image": "assets/products/0e4e748781e856e37101.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6650,
+          "observedAt": "2026-09-08T10:17:53.223Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2624216657|n:이드르르 스칼프스파 샴푸, 390ml, 1개",
       "source": "toss",
