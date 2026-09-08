@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T23:44:42.853Z",
+  "updatedAt": "2026-09-08T23:54:24.796Z",
   "deals": [
+    {
+      "id": "p:84025689|i:25557075726|v:4703935466",
+      "source": "coupang",
+      "name": "2080 퓨어치약 핑크마일드민트향, 150g, 6개",
+      "price": 5850,
+      "listPrice": 8117,
+      "observedAt": "2026-09-08T23:53:01.336Z",
+      "url": "https://link.coupang.com/a/gTm78zYW96",
+      "image": "assets/products/3f64a6d74b1bb09b822c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5850,
+          "observedAt": "2026-09-08T23:53:01.336Z"
+        }
+      ]
+    },
     {
       "id": "p:9084413972|i:26059826419|v:93041142641",
       "source": "coupang",
