@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T23:15:22.765Z",
+  "updatedAt": "2026-09-08T23:44:42.853Z",
   "deals": [
+    {
+      "id": "p:9084413972|i:26059826419|v:93041142641",
+      "source": "coupang",
+      "name": "클룹 제로소다 오렌지 탄산음료, 250ml, 24개",
+      "price": 8120,
+      "listPrice": 14054,
+      "observedAt": "2026-09-08T23:43:19.189Z",
+      "url": "https://link.coupang.com/a/gTmq9lKMAS",
+      "image": "assets/products/936a785df99022f222f2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8120,
+          "observedAt": "2026-09-08T23:43:19.189Z"
+        }
+      ]
+    },
     {
       "id": "p:9126936859|i:26769400595|v:95058758911",
       "source": "coupang",
