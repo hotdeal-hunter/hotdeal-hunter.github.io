@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T10:19:41.175Z",
+  "updatedAt": "2026-09-08T10:41:50.861Z",
   "deals": [
+    {
+      "id": "toss:p:82720809|n:일동후디스 소화편한 우유 바나나, 190ml, 24개입, 1박스",
+      "source": "toss",
+      "name": "일동후디스 소화편한 우유 바나나, 190ml, 24개입, 1박스",
+      "price": 11900,
+      "listPrice": 33600,
+      "observedAt": "2026-09-08T10:41:40.854Z",
+      "url": "https://toss.im/_m/DOyQc5qB",
+      "image": "assets/products/529740bec0d80e2b0575.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-08T10:41:40.854Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2656588529|n:깊은 육수 3종 선물세트, 분말스틱, 멸치맛, 홍게맛, 황태맛, 3g, 30포, 1세트",
       "source": "toss",
