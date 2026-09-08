@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T12:32:51.496Z",
+  "updatedAt": "2026-09-08T12:57:07.112Z",
   "deals": [
+    {
+      "id": "toss:p:271554141|n:명성 햅쌀 경기미, 특등급, 10kg, 1개",
+      "source": "toss",
+      "name": "명성 햅쌀 경기미, 특등급, 10kg, 1개",
+      "price": 32900,
+      "listPrice": 52900,
+      "observedAt": "2026-09-08T12:56:57.109Z",
+      "url": "https://toss.im/_m/xGY4BCOe",
+      "image": "assets/products/b58f0788fee3749ea197.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 32900,
+          "observedAt": "2026-09-08T12:56:57.109Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:141638399|n:황쉐프 무 동치미, 5kg, 1개",
       "source": "toss",
