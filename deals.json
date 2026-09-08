@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T12:15:17.207Z",
+  "updatedAt": "2026-09-08T12:22:50.481Z",
   "deals": [
+    {
+      "id": "toss:p:2624216657|n:이드르르 스칼프스파 샴푸, 390ml, 1개",
+      "source": "toss",
+      "name": "이드르르 스칼프스파 샴푸, 390ml, 1개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-08T12:21:16.530Z",
+      "url": "https://toss.im/_m/5NYUSeL5",
+      "image": "assets/products/01f154fbd7cff062291c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-08T12:21:16.530Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-08T12:21:16.370Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-08T10:01:07.081Z"
+        }
+      ]
+    },
     {
       "id": "p:6393340038|i:13639089246|v:80891797477",
       "source": "coupang",
@@ -120,23 +145,6 @@
         {
           "price": 6650,
           "observedAt": "2026-09-08T10:17:53.223Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2624216657|n:이드르르 스칼프스파 샴푸, 390ml, 1개",
-      "source": "toss",
-      "name": "이드르르 스칼프스파 샴푸, 390ml, 1개",
-      "price": 14900,
-      "listPrice": null,
-      "observedAt": "2026-09-08T10:01:07.081Z",
-      "url": "https://toss.im/_m/5NYUSeL5",
-      "image": "assets/products/01f154fbd7cff062291c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14900,
-          "observedAt": "2026-09-08T10:01:07.081Z"
         }
       ]
     },
