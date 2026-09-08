@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-08T01:25:27.123Z",
+  "updatedAt": "2026-09-08T02:22:32.708Z",
   "deals": [
+    {
+      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛 15g 3개",
+      "source": "toss",
+      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛 15g 3개",
+      "price": 4800,
+      "listPrice": null,
+      "observedAt": "2026-09-08T02:21:01.110Z",
+      "url": "https://toss.im/_m/536UxdHk",
+      "image": "assets/products/bfa814e07f371c31f28b.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4800,
+          "observedAt": "2026-09-08T02:21:01.110Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-07T23:02:10.152Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-06T23:45:42.784Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:54630459|n:광천김 곱창김 도시락김, 5g, 27개",
       "source": "toss",
@@ -255,27 +280,6 @@
         {
           "price": 9990,
           "observedAt": "2026-09-04T00:10:39.321Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2635264967|n:베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
-      "source": "toss",
-      "name": "베베쿡 사르르쿵 미니, 바나나 15g 3개 + 딸기 15g 3개 + 꼬소미콘칩 구운옥수수맛, 15g, 3개",
-      "price": 4800,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:02:10.152Z",
-      "url": "https://toss.im/_m/536UxdHk",
-      "image": "assets/products/7392c9e4391de17e7699.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4800,
-          "observedAt": "2026-09-07T23:02:10.152Z"
-        },
-        {
-          "price": 4800,
-          "observedAt": "2026-09-06T23:45:42.784Z"
         }
       ]
     },
