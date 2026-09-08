@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-08T03:22:36.942Z",
+  "updatedAt": "2026-09-08T03:33:21.878Z",
   "deals": [
+    {
+      "id": "p:9052902839|i:26571849171|v:96000441554",
+      "source": "coupang",
+      "name": "1++ 투뿔 한우선물세트 소고기 구이용 1kg, 1세트",
+      "price": 79800,
+      "listPrice": 168800,
+      "observedAt": "2026-09-08T03:31:58.840Z",
+      "url": "https://link.coupang.com/a/gRXSa99PyK",
+      "image": "assets/products/dd1279ba2d0688cbdfc0.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 79800,
+          "observedAt": "2026-09-08T03:31:58.840Z"
+        },
+        {
+          "price": 79800,
+          "observedAt": "2026-09-08T03:31:58.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1967695897|n:사조 살코기 참치, 카놀라유, 100g, 10개",
       "source": "toss",
