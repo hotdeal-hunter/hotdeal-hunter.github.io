@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T23:54:24.796Z",
+  "updatedAt": "2026-09-08T23:58:18.921Z",
   "deals": [
+    {
+      "id": "p:8950673405|i:26181551807|v:93161083728",
+      "source": "coupang",
+      "name": "따옴 빙그레 캐옴 고농축 토마토, 120ml, 24개",
+      "price": 8490,
+      "listPrice": 11900,
+      "observedAt": "2026-09-08T23:56:55.395Z",
+      "url": "https://link.coupang.com/a/gTnpqxytxY",
+      "image": "assets/products/273f7afdd60d8cca66d7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8490,
+          "observedAt": "2026-09-08T23:56:55.395Z"
+        }
+      ]
+    },
     {
       "id": "p:84025689|i:25557075726|v:4703935466",
       "source": "coupang",
