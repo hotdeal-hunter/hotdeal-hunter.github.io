@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-08T04:59:10.657Z",
+  "updatedAt": "2026-09-08T05:20:23.872Z",
   "deals": [
+    {
+      "id": "toss:p:1679506921|n:바세린 딥 모이스처 인텐시브 바디로션, 1000ml, 1+1 구성, 총 2개",
+      "source": "toss",
+      "name": "바세린 딥 모이스처 인텐시브 바디로션, 1000ml, 1+1 구성, 총 2개",
+      "price": 12800,
+      "listPrice": 29000,
+      "observedAt": "2026-09-08T05:19:01.078Z",
+      "url": "https://toss.im/_m/V56iTJyC",
+      "image": "assets/products/9820a66ac82062a2f981.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-08T05:19:01.078Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:151006709|n:옥돌김치 333 포기김치, 3kg, 1개",
       "source": "toss",
