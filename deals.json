@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-07T23:43:25.708Z",
+  "updatedAt": "2026-09-08T00:15:36.098Z",
   "deals": [
+    {
+      "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "source": "toss",
+      "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "price": 3430,
+      "listPrice": null,
+      "observedAt": "2026-09-08T00:14:01.098Z",
+      "url": "https://toss.im/_m/dHXkxgCa",
+      "image": "assets/products/b441af85588e7b8ec990.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3430,
+          "observedAt": "2026-09-08T00:14:01.098Z"
+        }
+      ]
+    },
     {
       "id": "p:8165713116|i:22203096903|v:89249238105",
       "source": "coupang",
