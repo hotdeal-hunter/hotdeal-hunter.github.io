@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T07:17:36.150Z",
+  "updatedAt": "2026-09-09T07:27:19.944Z",
   "deals": [
+    {
+      "id": "toss:p:2654480781|n:디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
+      "source": "toss",
+      "name": "디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
+      "price": 4830,
+      "listPrice": null,
+      "observedAt": "2026-09-09T07:25:47.565Z",
+      "url": "https://toss.im/_m/xNYZbW9b",
+      "image": "assets/products/1a0ca1e563ef49aacbb9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4830,
+          "observedAt": "2026-09-09T07:25:47.565Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2452039601|n:쿠킹메이트 키친타월, 200매, 12롤, 2팩",
       "source": "toss",
