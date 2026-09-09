@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T06:49:59.089Z",
+  "updatedAt": "2026-09-09T07:17:36.150Z",
   "deals": [
+    {
+      "id": "toss:p:2452039601|n:쿠킹메이트 키친타월, 200매, 12롤, 2팩",
+      "source": "toss",
+      "name": "쿠킹메이트 키친타월, 200매, 12롤, 2팩",
+      "price": 11900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-09T07:16:13.532Z",
+      "url": "https://toss.im/_m/5NLcfnOe",
+      "image": "assets/products/6cc35ddeff81a30b4545.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-09T07:16:13.532Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2662700625|n:슈베스 위드코튼 유기농 순면커버 생리대 팬티라이너, 20개입, 10팩",
       "source": "toss",
