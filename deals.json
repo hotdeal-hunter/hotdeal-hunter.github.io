@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-09T02:24:44.355Z",
+  "updatedAt": "2026-09-09T03:02:47.015Z",
   "deals": [
+    {
+      "id": "toss:p:293907425|n:클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+      "source": "toss",
+      "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+      "price": 1000,
+      "listPrice": null,
+      "observedAt": "2026-09-09T03:01:28.119Z",
+      "url": "https://toss.im/_m/Lvk5f0Ub",
+      "image": "assets/products/cdcdb4f65f079a1537d1.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1000,
+          "observedAt": "2026-09-09T03:01:28.119Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-09-09T02:12:19.276Z"
+        }
+      ]
+    },
     {
       "id": "p:9546082488|i:28439083458|v:95389884247",
       "source": "coupang",
@@ -15,23 +36,6 @@
         {
           "price": 4330,
           "observedAt": "2026-09-09T02:23:22.198Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:293907425|n:클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
-      "source": "toss",
-      "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
-      "price": 11900,
-      "listPrice": 30000,
-      "observedAt": "2026-09-09T02:12:19.276Z",
-      "url": "https://toss.im/_m/Lvk5f0Ub",
-      "image": "assets/products/cdcdb4f65f079a1537d1.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-09-09T02:12:19.276Z"
         }
       ]
     },
