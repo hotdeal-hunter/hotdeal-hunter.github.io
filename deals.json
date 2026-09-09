@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T10:02:48.994Z",
+  "updatedAt": "2026-09-09T10:29:14.526Z",
   "deals": [
+    {
+      "id": "toss:p:151979059|n:농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
+      "source": "toss",
+      "name": "농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
+      "price": 13900,
+      "listPrice": 30900,
+      "observedAt": "2026-09-09T10:29:05.160Z",
+      "url": "https://toss.im/_m/HffN35Fa",
+      "image": "assets/products/0f3eec62b7c98f437efc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-09T10:29:05.160Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
       "source": "toss",
