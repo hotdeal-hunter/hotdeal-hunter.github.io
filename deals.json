@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-09T01:50:30.519Z",
+  "updatedAt": "2026-09-09T02:13:41.939Z",
   "deals": [
+    {
+      "id": "toss:p:293907425|n:클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+      "source": "toss",
+      "name": "클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
+      "price": 11900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-09T02:12:19.276Z",
+      "url": "https://toss.im/_m/Lvk5f0Ub",
+      "image": "assets/products/cdcdb4f65f079a1537d1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-09T02:12:19.276Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9673471817|i:28923854727|v:95855475789",
+      "source": "coupang",
+      "name": "왁뿌볼 말랑이 만들기 세트 고무공 6cm, 3개, 투명",
+      "price": 3200,
+      "listPrice": 13000,
+      "observedAt": "2026-09-09T02:12:19.027Z",
+      "url": "https://link.coupang.com/a/gTw5hzT6RM",
+      "image": "assets/products/e3c2cee0b479e7dcaff9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3200,
+          "observedAt": "2026-09-09T02:12:19.027Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:119805895|n:애슐리 크리스피 핫도그 소시지탱글, 80g, 10개 + 모짜탱글, 80g, 10개",
       "source": "toss",
