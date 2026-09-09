@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T01:36:26.436Z",
+  "updatedAt": "2026-09-09T01:50:30.519Z",
   "deals": [
+    {
+      "id": "toss:p:119805895|n:애슐리 크리스피 핫도그 소시지탱글, 80g, 10개 + 모짜탱글, 80g, 10개",
+      "source": "toss",
+      "name": "애슐리 크리스피 핫도그 소시지탱글, 80g, 10개 + 모짜탱글, 80g, 10개",
+      "price": 19990,
+      "listPrice": null,
+      "observedAt": "2026-09-09T01:50:25.918Z",
+      "url": "https://toss.im/_m/DgoD1zUt",
+      "image": "assets/products/43ea667000a4d8759a35.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19990,
+          "observedAt": "2026-09-09T01:50:25.918Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:722180287|n:맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
       "source": "toss",
@@ -4246,7 +4263,7 @@
       "listPrice": 30600,
       "observedAt": "2026-09-02T01:55:03.546Z",
       "url": "https://link.coupang.com/a/gHTwwQtfcO",
-      "image": null,
+      "image": "assets/products/587e8d0996e525e4f60f.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -8789,7 +8806,7 @@
       "listPrice": 12900,
       "observedAt": "2026-08-27T01:26:34.959Z",
       "url": "https://link.coupang.com/a/gxT36V0qES",
-      "image": null,
+      "image": "assets/products/0bdb1141da882e8dd85e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -8865,7 +8882,7 @@
       "listPrice": 43844,
       "observedAt": "2026-08-27T00:06:52.673Z",
       "url": "https://link.coupang.com/a/gxOmYQ9kAu",
-      "image": null,
+      "image": "assets/products/401f7a1b1456f33f508d.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -8999,7 +9016,7 @@
       "listPrice": 14762,
       "observedAt": "2026-08-26T13:43:44.702Z",
       "url": "https://link.coupang.com/a/gw5QbvNdPo",
-      "image": null,
+      "image": "assets/products/5a074465e862f356f262.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9109,7 +9126,7 @@
       "listPrice": null,
       "observedAt": "2026-08-26T11:39:08.826Z",
       "url": "https://link.coupang.com/a/gwWV9RyTa8",
-      "image": null,
+      "image": "assets/products/9f9605ed7948b9ca313f.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9126,7 +9143,7 @@
       "listPrice": 17900,
       "observedAt": "2026-08-26T11:27:08.912Z",
       "url": "https://link.coupang.com/a/gwV40oOTSe",
-      "image": null,
+      "image": "assets/products/b3d160266b6ed2205080.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9160,7 +9177,7 @@
       "listPrice": null,
       "observedAt": "2026-08-26T10:58:23.795Z",
       "url": "https://link.coupang.com/a/gwT1B0lVee",
-      "image": null,
+      "image": "assets/products/7f5d34dc7c5121c4f4de.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9211,7 +9228,7 @@
       "listPrice": 38640,
       "observedAt": "2026-08-26T09:53:35.094Z",
       "url": "https://link.coupang.com/a/gwPos4pQRM",
-      "image": null,
+      "image": "assets/products/428d0814317404ffed71.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9279,7 +9296,7 @@
       "listPrice": 22440,
       "observedAt": "2026-08-26T08:22:58.787Z",
       "url": "https://link.coupang.com/a/gwIU2Pz54e",
-      "image": null,
+      "image": "assets/products/6ff6923fca43341b77a6.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9470,7 +9487,7 @@
       "listPrice": 13344,
       "observedAt": "2026-08-26T06:27:42.749Z",
       "url": "https://link.coupang.com/a/gwAGefv51E",
-      "image": null,
+      "image": "assets/products/100b177787d67ac2dc24.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9542,7 +9559,7 @@
       "listPrice": 16900,
       "observedAt": "2026-08-26T04:57:27.660Z",
       "url": "https://link.coupang.com/a/gwuemUoFkO",
-      "image": null,
+      "image": "assets/products/4e7ad865b6038d3dcf9f.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
@@ -9616,7 +9633,7 @@
       "listPrice": 8157,
       "observedAt": "2026-08-26T03:23:16.615Z",
       "url": "https://link.coupang.com/a/gwnu5xutJk",
-      "image": null,
+      "image": "assets/products/4f58a3459fd2048329f8.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -9705,7 +9722,7 @@
       "listPrice": 799000,
       "observedAt": "2026-08-26T00:13:16.418Z",
       "url": "https://link.coupang.com/a/gv9VgTolK8",
-      "image": null,
+      "image": "assets/products/a46afecdcc29ccd8164e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -10317,7 +10334,7 @@
       "listPrice": 13480,
       "observedAt": "2026-08-25T02:46:14.484Z",
       "url": "https://link.coupang.com/a/guFWXTw4JM",
-      "image": null,
+      "image": "assets/products/044b4e4d399f9e80c0b5.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -10389,7 +10406,7 @@
       "listPrice": 30500,
       "observedAt": "2026-08-25T02:01:14.399Z",
       "url": "https://link.coupang.com/a/guCJz9ROIm",
-      "image": null,
+      "image": "assets/products/3ae700a231c0a25e1475.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -12741,7 +12758,7 @@
       "listPrice": null,
       "observedAt": "2026-08-21T09:20:56.956Z",
       "url": "https://link.coupang.com/a/gouxwhZpXo",
-      "image": null,
+      "image": "assets/products/22063b39db07b7cb2f19.jpg",
       "insight": "3회 가격 기록",
       "history": [
         {
@@ -12885,7 +12902,7 @@
       "listPrice": 17900,
       "observedAt": "2026-08-21T06:05:20.904Z",
       "url": "https://link.coupang.com/a/gogyUXLODY",
-      "image": null,
+      "image": "assets/products/1648b73cc7664ee68c40.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -13335,7 +13352,7 @@
       "listPrice": 2906,
       "observedAt": "2026-08-20T13:35:52.878Z",
       "url": "https://link.coupang.com/a/gm7Q4QwrCe",
-      "image": null,
+      "image": "assets/products/804cb6337a42734d2286.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -13369,7 +13386,7 @@
       "listPrice": 10831,
       "observedAt": "2026-08-20T12:14:25.169Z",
       "url": "https://link.coupang.com/a/gm12aofa20",
-      "image": null,
+      "image": "assets/products/73f7d74dd2d90189b110.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -13441,7 +13458,7 @@
       "listPrice": 44124,
       "observedAt": "2026-08-20T10:50:54.243Z",
       "url": "https://link.coupang.com/a/gmV38T4wyi",
-      "image": null,
+      "image": "assets/products/9ac188530bd0ea6a0e50.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -14726,7 +14743,7 @@
       "listPrice": 10688,
       "observedAt": "2026-08-19T05:13:35.786Z",
       "url": "https://link.coupang.com/a/gkS3yXnxjo",
-      "image": null,
+      "image": "assets/products/7644bf2b7d434e6df60b.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -15404,7 +15421,7 @@
       "listPrice": 32700,
       "observedAt": "2026-08-18T04:31:04.004Z",
       "url": "https://link.coupang.com/a/gja65MtPvE",
-      "image": null,
+      "image": "assets/products/cfaf2b93fd1a78aab04b.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
