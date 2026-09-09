@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T01:28:15.393Z",
+  "updatedAt": "2026-09-09T01:32:14.694Z",
   "deals": [
+    {
+      "id": "toss:p:722180287|n:맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
+      "source": "toss",
+      "name": "맛춤상회 토시살, 200g, 2팩 + 안창살, 200g, 3팩",
+      "price": 27900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T01:30:41.290Z",
+      "url": "https://toss.im/_m/xGwrvlRo",
+      "image": "assets/products/0ca2e4ca46aaa334a021.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-09-09T01:30:41.290Z"
+        }
+      ]
+    },
     {
       "id": "p:9289034585|i:27509290256|v:94584859301",
       "source": "coupang",
