@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-09T00:48:38.339Z",
+  "updatedAt": "2026-09-09T01:02:57.732Z",
   "deals": [
+    {
+      "id": "toss:p:82548859|n:해태 구운감자, 27g, 15개",
+      "source": "toss",
+      "name": "해태 구운감자, 27g, 15개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-09T01:01:23.918Z",
+      "url": "https://toss.im/_m/P32dnqOz",
+      "image": "assets/products/caeb29464674ad4c567f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-09T01:01:23.918Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-08T23:02:55.006Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
       "source": "toss",
       "name": "고기중독 양념 LA갈비, 1kg, 1팩",
       "price": 12900,
       "listPrice": null,
-      "observedAt": "2026-09-09T00:44:31.891Z",
+      "observedAt": "2026-09-09T01:01:23.702Z",
       "url": "https://toss.im/_m/dOm6D0dh",
       "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "8회 가격 기록",
+      "insight": "9회 가격 기록",
       "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T01:01:23.702Z"
+        },
         {
           "price": 12900,
           "observedAt": "2026-09-09T00:44:31.891Z"
@@ -132,23 +157,6 @@
         {
           "price": 4750,
           "observedAt": "2026-09-08T23:15:11.929Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82548859|n:해태 구운감자, 27g, 15개",
-      "source": "toss",
-      "name": "해태 구운감자, 27g, 15개",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-08T23:02:55.006Z",
-      "url": "https://toss.im/_m/P32dnqOz",
-      "image": "assets/products/caeb29464674ad4c567f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-08T23:02:55.006Z"
         }
       ]
     },
