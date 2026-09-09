@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T05:45:27.047Z",
+  "updatedAt": "2026-09-09T06:30:30.194Z",
   "deals": [
+    {
+      "id": "toss:p:154990633|n:대한민국농수산 구운란, 대란, 30구, 1판",
+      "source": "toss",
+      "name": "대한민국농수산 구운란, 대란, 30구, 1판",
+      "price": 12900,
+      "listPrice": 27900,
+      "observedAt": "2026-09-09T06:28:59.066Z",
+      "url": "https://toss.im/_m/vEe1V9Wa",
+      "image": "assets/products/cc6ccd529b6cac6e4dda.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T06:28:59.066Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:348300303|n:국내산 한돈 돼지 등갈비, 1kg, 1개",
       "source": "toss",
