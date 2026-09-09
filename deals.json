@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T23:24:52.749Z",
+  "updatedAt": "2026-09-09T23:42:56.806Z",
   "deals": [
+    {
+      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
+      "source": "toss",
+      "name": "햇반 윤기가득쌀밥, 210g, 36개",
+      "price": 34900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T23:41:05.880Z",
+      "url": "https://toss.im/_m/dGNIgSsx",
+      "image": "assets/products/9dfd7031c4f95055cbf2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 34900,
+          "observedAt": "2026-09-09T23:41:05.880Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
       "source": "toss",
