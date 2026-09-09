@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T03:02:47.015Z",
+  "updatedAt": "2026-09-09T04:55:09.956Z",
   "deals": [
+    {
+      "id": "toss:p:2185367369|n:행남자기 라인듀오 2인 홈세트, 14피스, 화이트, 1세트",
+      "source": "toss",
+      "name": "행남자기 라인듀오 2인 홈세트, 14피스, 화이트, 1세트",
+      "price": 17900,
+      "listPrice": 250000,
+      "observedAt": "2026-09-09T04:54:50.860Z",
+      "url": "https://toss.im/_m/9J7irqd1",
+      "image": "assets/products/a05186db7ec3377b200b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-09T04:54:50.860Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:293907425|n:클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
       "source": "toss",
