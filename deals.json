@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-09T10:29:14.526Z",
+  "updatedAt": "2026-09-09T11:21:38.887Z",
   "deals": [
+    {
+      "id": "toss:p:83856041|n:대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+      "source": "toss",
+      "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
+      "price": 8900,
+      "listPrice": 29900,
+      "observedAt": "2026-09-09T11:20:14.963Z",
+      "url": "https://toss.im/_m/5gebLAFj",
+      "image": "assets/products/81132c04076307e95300.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-09T11:20:14.963Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-08-25T01:11:30.498Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:151979059|n:농가살리기 딸기색 찹쌀떡, 60g, 30개입, 1박스",
       "source": "toss",
@@ -10666,23 +10687,6 @@
         {
           "price": 13180,
           "observedAt": "2026-08-25T01:38:03.472Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83856041|n:대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
-      "source": "toss",
-      "name": "대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
-      "price": 8900,
-      "listPrice": 29900,
-      "observedAt": "2026-08-25T01:11:30.498Z",
-      "url": "https://toss.im/_m/5gebLAFj",
-      "image": "assets/products/81132c04076307e95300.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-08-25T01:11:30.498Z"
         }
       ]
     },
