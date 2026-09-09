@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T02:16:30.554Z",
+  "updatedAt": "2026-09-09T02:24:44.355Z",
   "deals": [
+    {
+      "id": "p:9546082488|i:28439083458|v:95389884247",
+      "source": "coupang",
+      "name": "네스카페 에스프레소 커피 원액 블랙, 500ml, 1개",
+      "price": 4330,
+      "listPrice": 7316,
+      "observedAt": "2026-09-09T02:23:22.198Z",
+      "url": "https://link.coupang.com/a/gTxSfqhz9U",
+      "image": "assets/products/27db8cc28760697a0ff5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4330,
+          "observedAt": "2026-09-09T02:23:22.198Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:293907425|n:클라 듀얼 울트라 클린 캡슐세제, 클린코튼 8g 100개입 1개 + 프리지아 8g 100개입 1개, 1세트",
       "source": "toss",
