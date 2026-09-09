@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-09T12:43:44.749Z",
+  "updatedAt": "2026-09-09T13:02:21.055Z",
   "deals": [
+    {
+      "id": "toss:p:2384927931|n:양념닭목살 달콤 숯불간장맛, 500g, 2개",
+      "source": "toss",
+      "name": "양념닭목살 달콤 숯불간장맛, 500g, 2개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T13:00:45.228Z",
+      "url": "https://toss.im/_m/ZV66tCZ1",
+      "image": "assets/products/3d99e9ed127e412c745c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-09T13:00:45.228Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2648747761|n:국내산 양념 닭목살, 매콤고추장맛, 500g, 2개",
+      "source": "toss",
+      "name": "국내산 양념 닭목살, 매콤고추장맛, 500g, 2개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T13:00:44.982Z",
+      "url": "https://toss.im/_m/7O8TBbK",
+      "image": "assets/products/60d57f0d845281e9c967.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-09T13:00:44.982Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:77431489|n:백제 쌀국수, 멸치맛, 92g, 10개",
       "source": "toss",
