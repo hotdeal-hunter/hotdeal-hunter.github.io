@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T05:23:00.382Z",
+  "updatedAt": "2026-09-09T05:45:27.047Z",
   "deals": [
+    {
+      "id": "toss:p:348300303|n:국내산 한돈 돼지 등갈비, 1kg, 1개",
+      "source": "toss",
+      "name": "국내산 한돈 돼지 등갈비, 1kg, 1개",
+      "price": 13500,
+      "listPrice": null,
+      "observedAt": "2026-09-09T05:43:41.596Z",
+      "url": "https://toss.im/_m/xMt7Mbid",
+      "image": "assets/products/688e30c6f7f3e7e44a3c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-09T05:43:41.596Z"
+        }
+      ]
+    },
     {
       "id": "p:7963401939|i:13674823001|v:80926766582",
       "source": "coupang",
