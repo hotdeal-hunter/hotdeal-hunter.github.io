@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T04:55:09.956Z",
+  "updatedAt": "2026-09-09T05:23:00.382Z",
   "deals": [
+    {
+      "id": "p:7963401939|i:13674823001|v:80926766582",
+      "source": "coupang",
+      "name": "닥터지 레드 블레미쉬 시카 S 크림 2X, 70ml, 1개",
+      "price": 7290,
+      "listPrice": 11172,
+      "observedAt": "2026-09-09T05:21:32.494Z",
+      "url": "https://link.coupang.com/a/gTKBKRlYtg",
+      "image": "assets/products/16250c19c9fa9781e105.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7290,
+          "observedAt": "2026-09-09T05:21:32.494Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2185367369|n:행남자기 라인듀오 2인 홈세트, 14피스, 화이트, 1세트",
       "source": "toss",
