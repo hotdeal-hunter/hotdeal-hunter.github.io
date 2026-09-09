@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-09-09T23:01:38.436Z",
+  "updatedAt": "2026-09-09T23:24:52.749Z",
   "deals": [
+    {
+      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
+      "source": "toss",
+      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T23:23:19.106Z",
+      "url": "https://toss.im/_m/dOm6D0dh",
+      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
+      "insight": "12회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T23:23:19.106Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T23:23:18.921Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T23:00:15.623Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T01:01:23.702Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T00:44:31.891Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T00:42:14.516Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T23:00:34.079Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.000Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.360Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.247Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T02:09:50.499Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T00:37:35.367Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
       "source": "toss",
@@ -105,59 +166,6 @@
         {
           "price": 6500,
           "observedAt": "2026-09-04T05:21:52.195Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
-      "source": "toss",
-      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-09T23:00:15.623Z",
-      "url": "https://toss.im/_m/dOm6D0dh",
-      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-09T23:00:15.623Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-09T01:01:23.702Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-09T00:44:31.891Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-09T00:42:14.516Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-08T23:00:34.079Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:02:10.000Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.360Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.247Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T02:09:50.499Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T00:37:35.367Z"
         }
       ]
     },
