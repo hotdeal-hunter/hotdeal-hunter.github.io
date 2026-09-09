@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-09T07:53:08.752Z",
+  "updatedAt": "2026-09-09T09:25:38.887Z",
   "deals": [
+    {
+      "id": "toss:p:2376060177|n:맛팜 국내산 미니족, 400g, 5개",
+      "source": "toss",
+      "name": "맛팜 국내산 미니족, 400g, 5개",
+      "price": 19800,
+      "listPrice": null,
+      "observedAt": "2026-09-09T09:25:30.358Z",
+      "url": "https://toss.im/_m/xb2VSGGp",
+      "image": "assets/products/9d68c9c062e859a29709.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19800,
+          "observedAt": "2026-09-09T09:25:30.358Z"
+        },
+        {
+          "price": 19800,
+          "observedAt": "2026-09-09T09:25:29.959Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
       "source": "toss",
       "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
       "price": 10500,
       "listPrice": null,
-      "observedAt": "2026-09-09T07:51:18.040Z",
+      "observedAt": "2026-09-09T08:20:22.217Z",
       "url": "https://toss.im/_m/p3pa9Nt9",
       "image": "assets/products/5f6aab195331f8a62725.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T08:20:22.217Z"
+        },
         {
           "price": 10500,
           "observedAt": "2026-09-09T07:51:18.040Z"
