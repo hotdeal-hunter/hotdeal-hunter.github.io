@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T07:27:19.944Z",
+  "updatedAt": "2026-09-09T07:53:08.752Z",
   "deals": [
+    {
+      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-09-09T07:51:18.040Z",
+      "url": "https://toss.im/_m/p3pa9Nt9",
+      "image": "assets/products/5f6aab195331f8a62725.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T07:51:18.040Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654480781|n:디어커스 원데이 수세미 에코컷, 그레이, 100매, 2팩",
       "source": "toss",
