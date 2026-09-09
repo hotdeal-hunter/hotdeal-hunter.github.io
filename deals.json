@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T11:21:38.887Z",
+  "updatedAt": "2026-09-09T12:43:44.749Z",
   "deals": [
+    {
+      "id": "toss:p:77431489|n:백제 쌀국수, 멸치맛, 92g, 10개",
+      "source": "toss",
+      "name": "백제 쌀국수, 멸치맛, 92g, 10개",
+      "price": 11900,
+      "listPrice": 15900,
+      "observedAt": "2026-09-09T12:42:20.665Z",
+      "url": "https://toss.im/_m/16dBnUps",
+      "image": "assets/products/f0f3467914b87a814d2e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-09T12:42:20.665Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83856041|n:대한농산 맞춤 혼합곡 21곡, 2kg, 2개",
       "source": "toss",
