@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-09T09:25:38.887Z",
+  "updatedAt": "2026-09-09T10:02:48.994Z",
   "deals": [
+    {
+      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "source": "toss",
+      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "price": 6200,
+      "listPrice": null,
+      "observedAt": "2026-09-09T10:01:13.636Z",
+      "url": "https://toss.im/_m/3dVjSRpe",
+      "image": "assets/products/a335793bbd90c4528ea9.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6200,
+          "observedAt": "2026-09-09T10:01:13.636Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-01T10:19:43.738Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-30T23:00:31.560Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2376060177|n:맛팜 국내산 미니족, 400g, 5개",
       "source": "toss",
@@ -4814,27 +4839,6 @@
         {
           "price": 17900,
           "observedAt": "2026-09-01T10:21:19.428Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "source": "toss",
-      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "price": 9990,
-      "listPrice": 33600,
-      "observedAt": "2026-09-01T10:19:43.738Z",
-      "url": "https://toss.im/_m/3dVjSRpe",
-      "image": "assets/products/a335793bbd90c4528ea9.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-01T10:19:43.738Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-08-30T23:00:31.560Z"
         }
       ]
     },
