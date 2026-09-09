@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-08T23:58:18.921Z",
+  "updatedAt": "2026-09-09T00:46:05.385Z",
   "deals": [
+    {
+      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
+      "source": "toss",
+      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T00:44:31.891Z",
+      "url": "https://toss.im/_m/dOm6D0dh",
+      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T00:44:31.891Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-09T00:42:14.516Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-08T23:00:34.079Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:02:10.000Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.360Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T23:00:21.247Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T02:09:50.499Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-07T00:37:35.367Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8802041287|i:24297078811|v:87019740729",
+      "source": "coupang",
+      "name": "아이깨끗해 핸드워시 순 파우더향 리필용, 1.8L, 2개",
+      "price": 15380,
+      "listPrice": 20238,
+      "observedAt": "2026-09-09T00:44:26.457Z",
+      "url": "https://link.coupang.com/a/gTqNWKW6V2",
+      "image": "assets/products/bd0e10128cb69a51ab3c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15380,
+          "observedAt": "2026-09-09T00:44:26.457Z"
+        }
+      ]
+    },
     {
       "id": "p:8950673405|i:26181551807|v:93161083728",
       "source": "coupang",
@@ -364,43 +426,6 @@
         {
           "price": 4800,
           "observedAt": "2026-09-06T23:45:42.784Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:159913293|n:고기중독 양념 la갈비, 1kg, 1팩",
-      "source": "toss",
-      "name": "고기중독 양념 LA갈비, 1kg, 1팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-08T23:00:34.079Z",
-      "url": "https://toss.im/_m/dOm6D0dh",
-      "image": "assets/products/b58790a3ff3c6b11820f.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-08T23:00:34.079Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:02:10.000Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.360Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T23:00:21.247Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T02:09:50.499Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-07T00:37:35.367Z"
         }
       ]
     },
@@ -15403,23 +15428,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-18T03:38:35.193Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8802041287|i:18774015434|v:91591751047",
-      "source": "coupang",
-      "name": "아이깨끗해 핸드워시 순 파우더향 리필용, 450ml, 3개",
-      "price": 7300,
-      "listPrice": 9786,
-      "observedAt": "2026-08-18T02:43:31.724Z",
-      "url": "https://link.coupang.com/a/gi3qDSHAaa",
-      "image": "assets/products/1c4783fa69fe41315b44.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7300,
-          "observedAt": "2026-08-18T02:43:31.724Z"
         }
       ]
     },
