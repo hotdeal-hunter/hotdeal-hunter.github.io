@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-09T01:02:57.732Z",
+  "updatedAt": "2026-09-09T01:28:15.393Z",
   "deals": [
+    {
+      "id": "p:9289034585|i:27509290256|v:94584859301",
+      "source": "coupang",
+      "name": "리타 토마토 주스, 200ml, 48개",
+      "price": 15010,
+      "listPrice": 45800,
+      "observedAt": "2026-09-09T01:28:06.248Z",
+      "url": "https://link.coupang.com/a/gTtVotWBMW",
+      "image": "assets/products/0f941d62970c0e42ea89.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15010,
+          "observedAt": "2026-09-09T01:28:06.248Z"
+        },
+        {
+          "price": 15010,
+          "observedAt": "2026-09-09T01:28:05.701Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82548859|n:해태 구운감자, 27g, 15개",
       "source": "toss",
