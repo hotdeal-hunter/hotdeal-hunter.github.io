@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-09T06:30:30.194Z",
+  "updatedAt": "2026-09-09T06:49:59.089Z",
   "deals": [
+    {
+      "id": "toss:p:2662700625|n:슈베스 위드코튼 유기농 순면커버 생리대 팬티라이너, 20개입, 10팩",
+      "source": "toss",
+      "name": "슈베스 위드코튼 유기농 순면커버 생리대 팬티라이너, 20개입, 10팩",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-09T06:48:39.648Z",
+      "url": "https://toss.im/_m/fHbMAfkm",
+      "image": "assets/products/79bc090e01223ea48441.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-09T06:48:39.648Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154990633|n:대한민국농수산 구운란, 대란, 30구, 1판",
       "source": "toss",
