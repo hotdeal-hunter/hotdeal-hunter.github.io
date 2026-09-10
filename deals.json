@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-10T02:59:30.393Z",
+  "updatedAt": "2026-09-10T03:16:46.816Z",
   "deals": [
+    {
+      "id": "toss:p:1466192609|n:과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
+      "source": "toss",
+      "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
+      "price": 14880,
+      "listPrice": 32900,
+      "observedAt": "2026-09-10T03:16:37.666Z",
+      "url": "https://toss.im/_m/hHHYjFfr",
+      "image": "assets/products/7645ce0527acffc9c3d5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14880,
+          "observedAt": "2026-09-10T03:16:37.666Z"
+        },
+        {
+          "price": 13800,
+          "observedAt": "2026-08-24T11:07:05.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:428333203|n:마주 총각김치, 2kg, 1박스",
       "source": "toss",
@@ -11130,23 +11151,6 @@
         {
           "price": 14370,
           "observedAt": "2026-08-24T11:16:37.255Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1466192609|n:과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-      "source": "toss",
-      "name": "과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
-      "price": 13800,
-      "listPrice": 32900,
-      "observedAt": "2026-08-24T11:07:05.621Z",
-      "url": "https://toss.im/_m/hHHYjFfr",
-      "image": "assets/products/7645ce0527acffc9c3d5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13800,
-          "observedAt": "2026-08-24T11:07:05.621Z"
         }
       ]
     },
