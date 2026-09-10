@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-09-10T01:29:59.197Z",
+  "updatedAt": "2026-09-10T02:07:05.873Z",
   "deals": [
     {
-      "id": "toss:p:1388926393|n:농심 신라면 5개 + 안성탕면 5개 + 너구리 5개 + 짜파게티 5개",
+      "id": "toss:p:1388926393|n:농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
       "source": "toss",
-      "name": "농심 신라면 5개 + 안성탕면 5개 + 너구리 5개 + 짜파게티 5개",
+      "name": "농심 신라면, 120g, 5개 + 안성탕면, 125g, 5개 + 너구리, 120g, 5개 + 짜파게티, 140g, 5개",
       "price": 15147,
       "listPrice": null,
-      "observedAt": "2026-09-10T01:25:50.087Z",
+      "observedAt": "2026-09-10T02:05:29.703Z",
       "url": "https://toss.im/_m/DoT5iYNz",
-      "image": "assets/products/69a02a548336a030e12f.png",
-      "insight": "가격 기록을 시작한 상품",
+      "image": "assets/products/eb51ee5a2ef228d1fc67.png",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 15147,
+          "observedAt": "2026-09-10T02:05:29.703Z"
+        },
         {
           "price": 15147,
           "observedAt": "2026-09-10T01:25:50.087Z"
