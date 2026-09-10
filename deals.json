@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-10T03:16:46.816Z",
+  "updatedAt": "2026-09-10T03:42:24.382Z",
   "deals": [
+    {
+      "id": "toss:p:58729145|n:썬키스트, 제로 자두자몽소다, 190ml, 30개",
+      "source": "toss",
+      "name": "썬키스트, 제로 자두자몽소다, 190ml, 30개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T03:40:45.849Z",
+      "url": "https://toss.im/_m/NW0cGh6r",
+      "image": "assets/products/fcdd24702b9974feebf2.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-10T03:40:45.849Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-10T00:24:08.134Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1466192609|n:과일꾼 스테비아 레드 방울토마토, 500g, 4팩",
       "source": "toss",
@@ -103,23 +124,6 @@
         {
           "price": 17900,
           "observedAt": "2026-09-10T00:55:38.345Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:58729145|n:썬키스트 제로 자두자몽소다, 190ml, 30개",
-      "source": "toss",
-      "name": "썬키스트 제로 자두자몽소다, 190ml, 30개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-10T00:24:08.134Z",
-      "url": "https://toss.im/_m/NW0cGh6r",
-      "image": "assets/products/a362cbd1bb7648381ad6.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-10T00:24:08.134Z"
         }
       ]
     },
