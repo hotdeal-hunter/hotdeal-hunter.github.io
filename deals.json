@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-10T03:42:24.382Z",
+  "updatedAt": "2026-09-10T05:03:01.588Z",
   "deals": [
+    {
+      "id": "toss:p:2662986015|n:제주 햇 극조생 감귤, 소과, 5kg, 1개",
+      "source": "toss",
+      "name": "제주 햇 극조생 감귤, 소과, 5kg, 1개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T05:01:12.989Z",
+      "url": "https://toss.im/_m/larEQwn3",
+      "image": "assets/products/3a472337e976fdc5c8eb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-10T05:01:12.989Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
+      "source": "toss",
+      "name": "햇반 윤기가득쌀밥, 210g, 36개",
+      "price": 34900,
+      "listPrice": 50900,
+      "observedAt": "2026-09-10T04:08:41.456Z",
+      "url": "https://toss.im/_m/dGNIgSsx",
+      "image": "assets/products/9dfd7031c4f95055cbf2.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T04:08:41.456Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-09T23:41:05.880Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:58729145|n:썬키스트, 제로 자두자몽소다, 190ml, 30개",
       "source": "toss",
@@ -124,23 +162,6 @@
         {
           "price": 17900,
           "observedAt": "2026-09-10T00:55:38.345Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
-      "source": "toss",
-      "name": "햇반 윤기가득쌀밥, 210g, 36개",
-      "price": 34900,
-      "listPrice": null,
-      "observedAt": "2026-09-09T23:41:05.880Z",
-      "url": "https://toss.im/_m/dGNIgSsx",
-      "image": "assets/products/9dfd7031c4f95055cbf2.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 34900,
-          "observedAt": "2026-09-09T23:41:05.880Z"
         }
       ]
     },
