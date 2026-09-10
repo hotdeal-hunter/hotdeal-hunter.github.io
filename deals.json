@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-10T00:55:46.260Z",
+  "updatedAt": "2026-09-10T01:27:08.981Z",
   "deals": [
+    {
+      "id": "toss:p:1388926393|n:농심 신라면 5개 + 안성탕면 5개 + 너구리 5개 + 짜파게티 5개",
+      "source": "toss",
+      "name": "농심 신라면 5개 + 안성탕면 5개 + 너구리 5개 + 짜파게티 5개",
+      "price": 15147,
+      "listPrice": null,
+      "observedAt": "2026-09-10T01:25:50.087Z",
+      "url": "https://toss.im/_m/DoT5iYNz",
+      "image": "assets/products/69a02a548336a030e12f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15147,
+          "observedAt": "2026-09-10T01:25:50.087Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2134216219|n:크리넥스 데코&소프트 3겹, 33m, 24롤, 2팩",
+      "source": "toss",
+      "name": "크리넥스 데코&소프트 3겹, 33m, 24롤, 2팩",
+      "price": 35900,
+      "listPrice": 56600,
+      "observedAt": "2026-09-10T01:25:44.410Z",
+      "url": "https://toss.im/_m/xxqo73zs",
+      "image": "assets/products/8f4e78adcd42f4ba33d0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-09-10T01:25:44.410Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:91281139|n:동원 통그릴 비엔나, 1kg, 2봉",
       "source": "toss",
