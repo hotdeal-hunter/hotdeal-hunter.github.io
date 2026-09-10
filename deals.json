@@ -1,6 +1,244 @@
 {
-  "updatedAt": "2026-09-10T06:03:17.278Z",
+  "updatedAt": "2026-09-10T13:59:33.915Z",
   "deals": [
+    {
+      "id": "toss:p:108666349|n:웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+      "source": "toss",
+      "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
+      "price": 9900,
+      "listPrice": 20000,
+      "observedAt": "2026-09-10T12:50:44.547Z",
+      "url": "https://toss.im/_m/9E4OUPY5",
+      "image": "assets/products/ecf982fc0d0fa4813909.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-10T12:50:44.547Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-20T11:47:15.307Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:91281139|n:동원 통그릴 비엔나, 1kg, 2봉",
+      "source": "toss",
+      "name": "동원 통그릴 비엔나, 1kg, 2봉",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T12:12:54.543Z",
+      "url": "https://toss.im/_m/TyO0Yh0B",
+      "image": "assets/products/4bb794beaa2d2d1b58cb.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-10T12:12:54.543Z"
+        },
+        {
+          "price": 17900,
+          "observedAt": "2026-09-10T12:12:54.452Z"
+        },
+        {
+          "price": 17900,
+          "observedAt": "2026-09-10T00:55:38.345Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:184212345|n:맛춤상회 소고기 모둠 200g 5팩 세트, 갈비살, 200g, 1개 + 토시살, 200g, 1개 + 살치살, 200g, 1개 + 부채살, 200g, 1개 + 우삼겹, 200g, 1개",
+      "source": "toss",
+      "name": "맛춤상회 소고기 모둠 200g 5팩 세트, 갈비살, 200g, 1개 + 토시살, 200g, 1개 + 살치살, 200g, 1개 + 부채살, 200g, 1개 + 우삼겹, 200g, 1개",
+      "price": 29900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T11:38:04.639Z",
+      "url": "https://toss.im/_m/1UH59UEx",
+      "image": "assets/products/9b8c0242160e1caae886.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 29900,
+          "observedAt": "2026-09-10T11:38:04.639Z"
+        },
+        {
+          "price": 29900,
+          "observedAt": "2026-09-10T10:48:49.431Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
+      "source": "toss",
+      "name": "구워먹는 할루미치즈, 200g, 3개",
+      "price": 7600,
+      "listPrice": 21900,
+      "observedAt": "2026-09-10T11:22:04.448Z",
+      "url": "https://toss.im/_m/ZIFOwhQu",
+      "image": "assets/products/b2feabff1761d9a776c6.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-09-10T11:22:04.448Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-07T23:40:57.705Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-05T06:33:54.779Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T06:53:37.150Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:52:39.281Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-09-04T01:51:07.764Z"
+        },
+        {
+          "price": 8890,
+          "observedAt": "2026-08-26T09:50:48.720Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:93418169|n:팜블리 손질 갈치, 200g, 5팩",
+      "source": "toss",
+      "name": "팜블리 손질 갈치, 200g, 5팩",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T11:00:23.691Z",
+      "url": "https://toss.im/_m/Fl7XOgGp",
+      "image": "assets/products/5bfd1dd0e7d3da67000d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-10T11:00:23.691Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:208518667|n:신발 세탁망, 그레이, 19x39cm, 2개",
+      "source": "toss",
+      "name": "신발 세탁망, 그레이, 19x39cm, 2개",
+      "price": 6900,
+      "listPrice": 10220,
+      "observedAt": "2026-09-10T10:22:46.881Z",
+      "url": "https://toss.im/_m/rEIx7hdg",
+      "image": "assets/products/7afb99e1b688ef8327c3.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-10T10:22:46.881Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-08-26T06:52:44.525Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:160967367|n:일동후디스 하이뮨 프로틴 밸런스 액티브 밤티라미수 제로, 250ml, 18개",
+      "source": "toss",
+      "name": "일동후디스 하이뮨 프로틴 밸런스 액티브 밤티라미수 제로, 250ml, 18개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T09:39:28.795Z",
+      "url": "https://toss.im/_m/Zcglds7m",
+      "image": "assets/products/619bc73af56b7f34371f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-10T09:39:28.795Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2395300509|n:뽀롱뽀롱 뽀로로 비타민c, 300정, 1개",
+      "source": "toss",
+      "name": "뽀롱뽀롱 뽀로로 비타민C, 300정, 1개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T09:12:12.247Z",
+      "url": "https://toss.im/_m/ZYoO7gyy",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-10T09:12:12.247Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-10T08:01:36.435Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2569148107|n:산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
+      "source": "toss",
+      "name": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-10T07:18:08.566Z",
+      "url": "https://toss.im/_m/9YpwTfI3",
+      "image": "assets/products/de81112ac4541a61689e.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-10T07:18:08.566Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-10T07:16:42.392Z"
+        },
+        {
+          "price": 12990,
+          "observedAt": "2026-08-26T23:46:54.838Z"
+        },
+        {
+          "price": 12990,
+          "observedAt": "2026-08-26T23:45:29.157Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
+      "source": "toss",
+      "name": "햇반 윤기가득쌀밥, 210g, 36개",
+      "price": 34900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T07:14:26.761Z",
+      "url": "https://toss.im/_m/dGNIgSsx",
+      "image": "assets/products/9dfd7031c4f95055cbf2.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T07:14:26.761Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T04:08:41.456Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-09T23:41:05.880Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2546242511|n:원김치 쪽파김치 가정용, 2kg, 1개",
       "source": "toss",
@@ -36,27 +274,6 @@
         {
           "price": 12900,
           "observedAt": "2026-09-10T05:01:12.989Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
-      "source": "toss",
-      "name": "햇반 윤기가득쌀밥, 210g, 36개",
-      "price": 34900,
-      "listPrice": 50900,
-      "observedAt": "2026-09-10T04:08:41.456Z",
-      "url": "https://toss.im/_m/dGNIgSsx",
-      "image": "assets/products/9dfd7031c4f95055cbf2.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 34900,
-          "observedAt": "2026-09-10T04:08:41.456Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-09T23:41:05.880Z"
         }
       ]
     },
@@ -166,23 +383,6 @@
         {
           "price": 35900,
           "observedAt": "2026-09-10T01:25:44.410Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91281139|n:동원 통그릴 비엔나, 1kg, 2봉",
-      "source": "toss",
-      "name": "동원 통그릴 비엔나, 1kg, 2봉",
-      "price": 17900,
-      "listPrice": null,
-      "observedAt": "2026-09-10T00:55:38.345Z",
-      "url": "https://toss.im/_m/TyO0Yh0B",
-      "image": "assets/products/4bb794beaa2d2d1b58cb.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 17900,
-          "observedAt": "2026-09-10T00:55:38.345Z"
         }
       ]
     },
@@ -1465,43 +1665,6 @@
         {
           "price": 8850,
           "observedAt": "2026-08-24T01:41:40.307Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2387164259|n:구워먹는 할루미치즈, 200g, 3개",
-      "source": "toss",
-      "name": "구워먹는 할루미치즈, 200g, 3개",
-      "price": 7600,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:40:57.705Z",
-      "url": "https://toss.im/_m/ZIFOwhQu",
-      "image": "assets/products/b2feabff1761d9a776c6.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 7600,
-          "observedAt": "2026-09-07T23:40:57.705Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-05T06:33:54.779Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T06:53:37.150Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:52:39.281Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-09-04T01:51:07.764Z"
-        },
-        {
-          "price": 8890,
-          "observedAt": "2026-08-26T09:50:48.720Z"
         }
       ]
     },
@@ -9380,27 +9543,6 @@
       ]
     },
     {
-      "id": "toss:p:2569148107|n:산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
-      "source": "toss",
-      "name": "산들에담다 통영 손질 활 바다장어, 대, 1kg, 1박스",
-      "price": 12990,
-      "listPrice": null,
-      "observedAt": "2026-08-26T23:46:54.838Z",
-      "url": "https://toss.im/_m/9YpwTfI3",
-      "image": "assets/products/de81112ac4541a61689e.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12990,
-          "observedAt": "2026-08-26T23:46:54.838Z"
-        },
-        {
-          "price": 12990,
-          "observedAt": "2026-08-26T23:45:29.157Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:91517543|n:풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
       "source": "toss",
       "name": "풍년보감 고려홍삼정 에브리데이100, 15g, 200포",
@@ -9930,23 +10072,6 @@
         {
           "price": 9960,
           "observedAt": "2026-08-26T06:54:17.735Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:208518667|n:신발 세탁망, 그레이, 19x39cm, 2개",
-      "source": "toss",
-      "name": "신발 세탁망, 그레이, 19x39cm, 2개",
-      "price": 6900,
-      "listPrice": 10220,
-      "observedAt": "2026-08-26T06:52:44.525Z",
-      "url": "https://toss.im/_m/rEIx7hdg",
-      "image": "assets/products/7afb99e1b688ef8327c3.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6900,
-          "observedAt": "2026-08-26T06:52:44.525Z"
         }
       ]
     },
@@ -13863,23 +13988,6 @@
         {
           "price": 12990,
           "observedAt": "2026-08-20T12:07:25.627Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:108666349|n:웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
-      "source": "toss",
-      "name": "웰루츠 냉동 애플망고, 페루산, 1kg, 2개",
-      "price": 9900,
-      "listPrice": 20000,
-      "observedAt": "2026-08-20T11:47:15.307Z",
-      "url": "https://toss.im/_m/9E4OUPY5",
-      "image": "assets/products/ecf982fc0d0fa4813909.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-20T11:47:15.307Z"
         }
       ]
     },
