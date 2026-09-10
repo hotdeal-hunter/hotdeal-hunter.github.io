@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-10T00:25:58.140Z",
+  "updatedAt": "2026-09-10T00:55:46.260Z",
   "deals": [
+    {
+      "id": "toss:p:91281139|n:동원 통그릴 비엔나, 1kg, 2봉",
+      "source": "toss",
+      "name": "동원 통그릴 비엔나, 1kg, 2봉",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-09-10T00:55:38.345Z",
+      "url": "https://toss.im/_m/TyO0Yh0B",
+      "image": "assets/products/4bb794beaa2d2d1b58cb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-10T00:55:38.345Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:58729145|n:썬키스트 제로 자두자몽소다, 190ml, 30개",
       "source": "toss",
