@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-14T10:29:09.353Z",
+  "updatedAt": "2026-09-14T10:33:12.318Z",
   "deals": [
+    {
+      "id": "toss:p:1278632529|n:아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+      "source": "toss",
+      "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
+      "price": 24800,
+      "listPrice": null,
+      "observedAt": "2026-09-14T10:31:38.199Z",
+      "url": "https://toss.im/_m/f1N7riBi",
+      "image": "assets/products/39277782d65cc376c4d2.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 24800,
+          "observedAt": "2026-09-14T10:31:38.199Z"
+        },
+        {
+          "price": 24800,
+          "observedAt": "2026-09-14T09:24:11.291Z"
+        },
+        {
+          "price": 24800,
+          "observedAt": "2026-09-14T01:13:34.647Z"
+        },
+        {
+          "price": 27900,
+          "observedAt": "2026-08-26T01:05:37.397Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
       "source": "toss",
@@ -44,31 +73,6 @@
         {
           "price": 18900,
           "observedAt": "2026-08-27T00:57:28.746Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1278632529|n:아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
-      "source": "toss",
-      "name": "아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
-      "price": 24800,
-      "listPrice": null,
-      "observedAt": "2026-09-14T09:24:11.291Z",
-      "url": "https://toss.im/_m/f1N7riBi",
-      "image": "assets/products/39277782d65cc376c4d2.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 24800,
-          "observedAt": "2026-09-14T09:24:11.291Z"
-        },
-        {
-          "price": 24800,
-          "observedAt": "2026-09-14T01:13:34.647Z"
-        },
-        {
-          "price": 27900,
-          "observedAt": "2026-08-26T01:05:37.397Z"
         }
       ]
     },
