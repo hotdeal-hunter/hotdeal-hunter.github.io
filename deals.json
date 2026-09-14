@@ -1,6 +1,256 @@
 {
-  "updatedAt": "2026-09-14T22:20:58.685Z",
+  "updatedAt": "2026-09-14T23:02:06.751Z",
   "deals": [
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:34.367Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-14T23:00:34.367Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-14T23:00:34.278Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-13T23:00:47.597Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-11T23:00:22.286Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-10T23:01:21.714Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-09T23:00:18.116Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-09T23:00:15.705Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-08T23:00:34.416Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-07T23:02:10.345Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-06T23:01:38.480Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:138396019|n:바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
+      "source": "toss",
+      "name": "바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:31.459Z",
+      "url": "https://toss.im/_m/RIZNVxcq",
+      "image": "assets/products/a74b9b7d72a4f146420a.jpg",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-14T23:00:31.459Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-13T23:32:28.855Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-13T23:00:48.329Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-12T23:21:42.330Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-12T23:01:23.534Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-12T22:59:56.846Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-12T04:59:09.377Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-12T04:57:48.402Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-11T23:01:50.951Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-11T06:36:23.476Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-11T00:17:31.308Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "source": "toss",
+      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "price": 2490,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:31.377Z",
+      "url": "https://toss.im/_m/TWN66DVu",
+      "image": "assets/products/79a16070c3351e21529e.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 2490,
+          "observedAt": "2026-09-14T23:00:31.377Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-13T23:00:48.626Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:21:42.674Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:01:23.892Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T22:59:57.283Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.499Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.360Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-11T23:01:50.563Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:35:22.472Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:25:35.565Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1547331773|n:시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
+      "source": "toss",
+      "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
+      "price": 5000,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:31.263Z",
+      "url": "https://toss.im/_m/lUySKRTp",
+      "image": "assets/products/899f70f6e398cfa8dc0b.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 5000,
+          "observedAt": "2026-09-14T23:00:31.263Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-09-13T23:00:48.146Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-09-12T09:17:00.056Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-09-12T09:15:38.087Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-09-11T23:00:22.205Z"
+        },
+        {
+          "price": 5000,
+          "observedAt": "2026-09-11T07:30:35.210Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1544561987|n:더건강플러스 엑스트라버진 올리브오일, 1l, 1개",
+      "source": "toss",
+      "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:31.172Z",
+      "url": "https://toss.im/_m/JndTDm8s",
+      "image": "assets/products/0def7d8416cd6946e09e.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T23:00:31.172Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T11:16:29.504Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T05:11:08.469Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2663111019|n:수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
+      "price": 4620,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:00:31.014Z",
+      "url": "https://toss.im/_m/znDmc6Ge",
+      "image": "assets/products/9b7ff4bd9cfbec15fbd2.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4620,
+          "observedAt": "2026-09-14T23:00:31.014Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-14T07:28:31.092Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
       "source": "toss",
@@ -119,27 +369,6 @@
       ]
     },
     {
-      "id": "toss:p:1544561987|n:더건강플러스 엑스트라버진 올리브오일, 1l, 1개",
-      "source": "toss",
-      "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-14T11:16:29.504Z",
-      "url": "https://toss.im/_m/JndTDm8s",
-      "image": "assets/products/0def7d8416cd6946e09e.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T11:16:29.504Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T05:11:08.469Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:149697553|n:하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
       "source": "toss",
       "name": "하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
@@ -245,23 +474,6 @@
         {
           "price": 32900,
           "observedAt": "2026-09-14T08:27:42.417Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2663111019|n:수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
-      "price": 4620,
-      "listPrice": null,
-      "observedAt": "2026-09-14T07:28:31.092Z",
-      "url": "https://toss.im/_m/znDmc6Ge",
-      "image": "assets/products/9b7ff4bd9cfbec15fbd2.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4620,
-          "observedAt": "2026-09-14T07:28:31.092Z"
         }
       ]
     },
@@ -439,108 +651,6 @@
       ]
     },
     {
-      "id": "toss:p:138396019|n:바리스타룰스 원데이 무라벨 아메리카노, 350ml, 20개",
-      "source": "toss",
-      "name": "바리스타룰스 원데이 무라벨 아메리카노, 350ml, 20개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:32:28.855Z",
-      "url": "https://toss.im/_m/RIZNVxcq",
-      "image": "assets/products/82c15cd1fa233bad9550.jpg",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-13T23:32:28.855Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-13T23:00:48.329Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-12T23:21:42.330Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-12T23:01:23.534Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-12T22:59:56.846Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-12T04:59:09.377Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-12T04:57:48.402Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-11T23:01:50.951Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-11T06:36:23.476Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-11T00:17:31.308Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "source": "toss",
-      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "price": 2490,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:00:48.626Z",
-      "url": "https://toss.im/_m/TWN66DVu",
-      "image": "assets/products/79a16070c3351e21529e.jpg",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 2490,
-          "observedAt": "2026-09-13T23:00:48.626Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:21:42.674Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:01:23.892Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T22:59:57.283Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.499Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.360Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-11T23:01:50.563Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:35:22.472Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:25:35.565Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:2255836223|n:대천김 견과 김스낵 매콤치즈, 20g, 5개",
       "source": "toss",
       "name": "대천김 견과 김스낵 매콤치즈, 20g, 5개",
@@ -656,39 +766,6 @@
       ]
     },
     {
-      "id": "toss:p:1547331773|n:시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
-      "source": "toss",
-      "name": "시치미 쓱 데일리 물티슈 캡형, 100매, 10팩",
-      "price": 5000,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:00:48.146Z",
-      "url": "https://toss.im/_m/lUySKRTp",
-      "image": "assets/products/899f70f6e398cfa8dc0b.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 5000,
-          "observedAt": "2026-09-13T23:00:48.146Z"
-        },
-        {
-          "price": 5000,
-          "observedAt": "2026-09-12T09:17:00.056Z"
-        },
-        {
-          "price": 5000,
-          "observedAt": "2026-09-12T09:15:38.087Z"
-        },
-        {
-          "price": 5000,
-          "observedAt": "2026-09-11T23:00:22.205Z"
-        },
-        {
-          "price": 5000,
-          "observedAt": "2026-09-11T07:30:35.210Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:376744321|n:맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1l 1개 + 올리브그린 1l 1개 + 뚜껑, 2개",
       "source": "toss",
       "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
@@ -800,55 +877,6 @@
         {
           "price": 12900,
           "observedAt": "2026-09-07T00:37:35.367Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "source": "toss",
-      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:00:47.597Z",
-      "url": "https://toss.im/_m/lAQd8cTt",
-      "image": "assets/products/afec238f20f883e9b61f.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-13T23:00:47.597Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-11T23:00:22.286Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-10T23:01:21.714Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-09T23:00:18.116Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-09T23:00:15.705Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-08T23:00:34.416Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-07T23:02:10.345Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-06T23:01:38.480Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-05T23:01:20.344Z"
         }
       ]
     },
