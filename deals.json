@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-14T12:52:57.151Z",
+  "updatedAt": "2026-09-14T12:55:44.602Z",
   "deals": [
+    {
+      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
+      "source": "toss",
+      "name": "바른 돼지국밥, 500g, 5개",
+      "price": 15900,
+      "listPrice": 26900,
+      "observedAt": "2026-09-14T12:55:35.446Z",
+      "url": "https://toss.im/_m/phUo33E3",
+      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-14T12:55:35.446Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-06T02:38:06.831Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-03T12:07:06.322Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-09-01T12:11:42.944Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:21:40.808Z"
+        },
+        {
+          "price": 11380,
+          "observedAt": "2026-08-23T23:01:15.139Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
       "source": "toss",
@@ -4395,39 +4432,6 @@
         {
           "price": 7990,
           "observedAt": "2026-09-06T02:54:10.381Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
-      "source": "toss",
-      "name": "바른 돼지국밥, 500g, 5개",
-      "price": 11380,
-      "listPrice": 26900,
-      "observedAt": "2026-09-06T02:38:06.831Z",
-      "url": "https://toss.im/_m/phUo33E3",
-      "image": "assets/products/9c74d9b1a86820a5305f.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 11380,
-          "observedAt": "2026-09-06T02:38:06.831Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-09-03T12:07:06.322Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-09-01T12:11:42.944Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:21:40.808Z"
-        },
-        {
-          "price": 11380,
-          "observedAt": "2026-08-23T23:01:15.139Z"
         }
       ]
     },
