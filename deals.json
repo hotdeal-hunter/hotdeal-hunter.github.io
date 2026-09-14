@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-14T10:37:22.108Z",
+  "updatedAt": "2026-09-14T10:41:32.057Z",
   "deals": [
+    {
+      "id": "toss:p:149697553|n:하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
+      "source": "toss",
+      "name": "하이뮨 프로틴밸런스 액티브 다크초코, 330ml, 12개",
+      "price": 19900,
+      "listPrice": 57600,
+      "observedAt": "2026-09-14T10:39:55.440Z",
+      "url": "https://toss.im/_m/xbr35z6v",
+      "image": "assets/products/bf69e54c0428db96dcec.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-14T10:39:55.440Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1278632529|n:아임닭 맛있는 닭가슴살 김치 볶음밥, 200g, 20개",
       "source": "toss",
