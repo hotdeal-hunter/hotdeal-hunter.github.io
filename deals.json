@@ -1,6 +1,47 @@
 {
-  "updatedAt": "2026-09-14T23:23:16.758Z",
+  "updatedAt": "2026-09-14T23:27:22.603Z",
   "deals": [
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:24:33.540Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:24:33.540Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.377Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.243Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:12:24.632Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:11:04.085Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T01:43:01.977Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:138396019|n:바리스타룰스 원데이 무라벨, 아메리카노, 350ml, 20개",
       "source": "toss",
@@ -244,43 +285,6 @@
         {
           "price": 1990,
           "observedAt": "2026-09-11T23:01:50.697Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-14T23:05:55.377Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.377Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.243Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
