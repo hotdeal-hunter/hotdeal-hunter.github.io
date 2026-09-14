@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-14T23:02:06.751Z",
+  "updatedAt": "2026-09-14T23:07:42.375Z",
   "deals": [
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:05:55.377Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.377Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.243Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:12:24.632Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:11:04.085Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T01:43:01.977Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
       "source": "toss",
@@ -567,35 +604,6 @@
         {
           "price": 7630,
           "observedAt": "2026-09-14T03:26:01.186Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-14T02:12:24.632Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/b14d75ba792db0ec966b.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
