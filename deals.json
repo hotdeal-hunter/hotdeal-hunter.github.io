@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-14T23:07:42.375Z",
+  "updatedAt": "2026-09-14T23:13:09.106Z",
   "deals": [
+    {
+      "id": "toss:p:183431921|n:순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
+      "source": "toss",
+      "name": "순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
+      "price": 1990,
+      "listPrice": null,
+      "observedAt": "2026-09-14T23:11:18.909Z",
+      "url": "https://toss.im/_m/NznNtW46",
+      "image": "assets/products/4479da98ea6f498bb15f.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 1990,
+          "observedAt": "2026-09-14T23:11:18.909Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-14T23:11:18.806Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-12T23:20:15.710Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-12T23:18:49.132Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-11T23:01:50.697Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
       "source": "toss",
@@ -1383,31 +1416,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-12T03:30:38.216Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:183431921|n:순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
-      "source": "toss",
-      "name": "순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
-      "price": 1990,
-      "listPrice": null,
-      "observedAt": "2026-09-12T23:20:15.710Z",
-      "url": "https://toss.im/_m/NznNtW46",
-      "image": "assets/products/4479da98ea6f498bb15f.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 1990,
-          "observedAt": "2026-09-12T23:20:15.710Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-12T23:18:49.132Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-11T23:01:50.697Z"
         }
       ]
     },
