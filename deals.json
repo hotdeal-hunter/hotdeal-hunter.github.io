@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-14T10:23:27.308Z",
+  "updatedAt": "2026-09-14T10:26:15.188Z",
   "deals": [
+    {
+      "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
+      "source": "toss",
+      "name": "해표 순알콩 양조간장, 840ml, 4개",
+      "price": 7300,
+      "listPrice": null,
+      "observedAt": "2026-09-14T10:24:49.881Z",
+      "url": "https://toss.im/_m/j7q5s78s",
+      "image": "assets/products/1487860b7418b7059833.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7300,
+          "observedAt": "2026-09-14T10:24:49.881Z"
+        },
+        {
+          "price": 7300,
+          "observedAt": "2026-09-14T08:38:28.946Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
       "source": "toss",
@@ -48,23 +69,6 @@
         {
           "price": 27900,
           "observedAt": "2026-08-26T01:05:37.397Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
-      "source": "toss",
-      "name": "해표 순알콩 양조간장, 840ml, 4개",
-      "price": 7300,
-      "listPrice": null,
-      "observedAt": "2026-09-14T08:38:28.946Z",
-      "url": "https://toss.im/_m/j7q5s78s",
-      "image": "assets/products/1487860b7418b7059833.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7300,
-          "observedAt": "2026-09-14T08:38:28.946Z"
         }
       ]
     },
