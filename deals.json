@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T00:13:49.463Z",
+  "updatedAt": "2026-09-15T01:02:52.046Z",
   "deals": [
+    {
+      "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
+      "source": "toss",
+      "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
+      "price": 13500,
+      "listPrice": null,
+      "observedAt": "2026-09-15T01:01:00.166Z",
+      "url": "https://toss.im/_m/rwfbIBNa",
+      "image": "assets/products/87af2e5fd07aa8325dea.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-15T01:01:00.166Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56324035|n:스파클 생수 무라벨, 1l, 36개",
       "source": "toss",
