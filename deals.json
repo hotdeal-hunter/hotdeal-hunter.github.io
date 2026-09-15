@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-15T10:46:44.839Z",
+  "updatedAt": "2026-09-15T11:07:27.168Z",
   "deals": [
+    {
+      "id": "toss:p:730541229|n:홍주부 삼점게장, 2kg, 1개",
+      "source": "toss",
+      "name": "홍주부 삼점게장, 2kg, 1개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-15T11:06:09.914Z",
+      "url": "https://toss.im/_m/lJClYq86",
+      "image": "assets/products/e332f98f642497386a53.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-15T11:06:09.914Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T23:10:37.497Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T22:59:26.069Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-25T22:59:25.799Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:23:50.203Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-08-21T02:10:58.616Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1013219517|n:별미촌 전라도 오이부추김치, 1kg, 1개",
       "source": "toss",
@@ -12139,39 +12176,6 @@
         {
           "price": 35900,
           "observedAt": "2026-08-21T12:28:36.766Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:730541229|n:한방 삼점 암 꽃게장, 2kg, 1개",
-      "source": "toss",
-      "name": "한방 삼점 암 꽃게장, 2kg, 1개",
-      "price": 8500,
-      "listPrice": null,
-      "observedAt": "2026-08-25T23:10:37.497Z",
-      "url": "https://toss.im/_m/lJClYq86",
-      "image": "assets/products/3e07dabc30bda643f111.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 8500,
-          "observedAt": "2026-08-25T23:10:37.497Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-08-25T22:59:26.069Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-08-25T22:59:25.799Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-08-21T02:23:50.203Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-08-21T02:10:58.616Z"
         }
       ]
     },
