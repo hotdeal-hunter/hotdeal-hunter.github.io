@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T11:07:27.168Z",
+  "updatedAt": "2026-09-15T11:48:27.987Z",
   "deals": [
+    {
+      "id": "toss:p:374076317|n:해성 완도 염장미역줄기, 4kg, 1개",
+      "source": "toss",
+      "name": "해성 완도 염장미역줄기, 4kg, 1개",
+      "price": 7890,
+      "listPrice": 12800,
+      "observedAt": "2026-09-15T11:47:04.293Z",
+      "url": "https://toss.im/_m/f0PTxl4l",
+      "image": "assets/products/03ded120f28a69effc3a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7890,
+          "observedAt": "2026-09-15T11:47:04.293Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:730541229|n:홍주부 삼점게장, 2kg, 1개",
       "source": "toss",
