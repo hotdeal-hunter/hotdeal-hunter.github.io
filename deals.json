@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T03:13:37.226Z",
+  "updatedAt": "2026-09-15T03:31:43.526Z",
   "deals": [
+    {
+      "id": "toss:p:96102995|n:맘스럽 라임 주방세제, 4l, 2개",
+      "source": "toss",
+      "name": "맘스럽 라임 주방세제, 4L, 2개",
+      "price": 4480,
+      "listPrice": null,
+      "observedAt": "2026-09-15T03:31:14.595Z",
+      "url": "https://toss.im/_m/5lQAieE3",
+      "image": "assets/products/640cb80d8b2116d16142.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4480,
+          "observedAt": "2026-09-15T03:31:14.595Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2124695733|n:양계장사람들 난각번호2번 프리미엄 유정란, 특란, 60구, 1개",
       "source": "toss",
