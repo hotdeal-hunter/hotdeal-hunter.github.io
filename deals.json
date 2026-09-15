@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-15T11:55:51.119Z",
+  "updatedAt": "2026-09-15T12:32:22.860Z",
   "deals": [
+    {
+      "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
+      "source": "toss",
+      "name": "농심 신라면, 120g, 20개",
+      "price": 18800,
+      "listPrice": 50000,
+      "observedAt": "2026-09-15T12:32:14.360Z",
+      "url": "https://toss.im/_m/LeSZNvc8",
+      "image": "assets/products/3d72729ead1090320bc7.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 18800,
+          "observedAt": "2026-09-15T12:32:14.360Z"
+        },
+        {
+          "price": 18800,
+          "observedAt": "2026-09-07T06:12:33.330Z"
+        },
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:43:30.951Z"
+        },
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:40:51.970Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
       "source": "toss",
@@ -4277,31 +4306,6 @@
         {
           "price": 15600,
           "observedAt": "2026-08-20T00:53:34.040Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
-      "source": "toss",
-      "name": "농심 신라면, 120g, 20개",
-      "price": 18800,
-      "listPrice": 50000,
-      "observedAt": "2026-09-07T06:12:33.330Z",
-      "url": "https://toss.im/_m/LeSZNvc8",
-      "image": "assets/products/3d72729ead1090320bc7.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 18800,
-          "observedAt": "2026-09-07T06:12:33.330Z"
-        },
-        {
-          "price": 14454,
-          "observedAt": "2026-09-06T00:43:30.951Z"
-        },
-        {
-          "price": 14454,
-          "observedAt": "2026-09-06T00:40:51.970Z"
         }
       ]
     },
