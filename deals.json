@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T02:19:12.599Z",
+  "updatedAt": "2026-09-15T02:22:11.258Z",
   "deals": [
+    {
+      "id": "toss:p:2663104605|n:국내산 햇밤 대, 5kg, 1박스",
+      "source": "toss",
+      "name": "국내산 햇밤 대, 5kg, 1박스",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-15T02:20:26.434Z",
+      "url": "https://toss.im/_m/h1tr8JLD",
+      "image": "assets/products/b521328693daf1105f6a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-15T02:20:26.434Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:184335937|n:한울 정성가득 비빔밥용 나물세트, 125g, 10개",
       "source": "toss",
