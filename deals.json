@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T10:15:32.653Z",
+  "updatedAt": "2026-09-15T10:46:44.839Z",
   "deals": [
+    {
+      "id": "toss:p:1013219517|n:별미촌 전라도 오이부추김치, 1kg, 1개",
+      "source": "toss",
+      "name": "별미촌 전라도 오이부추김치, 1kg, 1개",
+      "price": 9900,
+      "listPrice": 16900,
+      "observedAt": "2026-09-15T10:46:36.244Z",
+      "url": "https://toss.im/_m/1r8piu9x",
+      "image": "assets/products/bc7ef758c967cf5d72da.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-15T10:46:36.244Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2653123937|n:햇배, 대과, 개별망포장, 5kg, 1박스",
       "source": "toss",
