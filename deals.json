@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T05:20:30.602Z",
+  "updatedAt": "2026-09-15T05:47:34.060Z",
   "deals": [
+    {
+      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "source": "toss",
+      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-15T05:46:15.255Z",
+      "url": "https://toss.im/_m/ZrIsv8H9",
+      "image": "assets/products/78c2eeff10fd43a50c99.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T05:46:15.255Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1627413141|n:골드럽 섬유유연제 로즈핑크, 3.2l, 4개",
       "source": "toss",
