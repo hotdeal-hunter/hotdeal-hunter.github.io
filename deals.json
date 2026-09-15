@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T09:39:49.645Z",
+  "updatedAt": "2026-09-15T10:15:32.653Z",
   "deals": [
+    {
+      "id": "toss:p:2653123937|n:햇배, 대과, 개별망포장, 5kg, 1박스",
+      "source": "toss",
+      "name": "햇배, 대과, 개별망포장, 5kg, 1박스",
+      "price": 15800,
+      "listPrice": null,
+      "observedAt": "2026-09-15T10:14:00.177Z",
+      "url": "https://toss.im/_m/FiJjtq3h",
+      "image": "assets/products/b4fbfc0970ad48cd3f5b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15800,
+          "observedAt": "2026-09-15T10:14:00.177Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2621486553|n:셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 2통",
       "source": "toss",
