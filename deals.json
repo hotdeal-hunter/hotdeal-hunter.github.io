@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-14T23:27:22.603Z",
+  "updatedAt": "2026-09-15T00:13:49.463Z",
   "deals": [
+    {
+      "id": "toss:p:56324035|n:스파클 생수 무라벨, 1l, 36개",
+      "source": "toss",
+      "name": "스파클 생수 무라벨, 1L, 36개",
+      "price": 10990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T00:11:57.206Z",
+      "url": "https://toss.im/_m/nrXRePR",
+      "image": "assets/products/94f044c7f6c960c8639b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-15T00:11:57.206Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
       "source": "toss",
