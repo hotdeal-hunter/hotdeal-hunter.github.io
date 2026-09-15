@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-15T03:31:43.526Z",
+  "updatedAt": "2026-09-15T04:09:13.559Z",
   "deals": [
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 11498,
+      "listPrice": 26000,
+      "observedAt": "2026-09-15T04:08:55.141Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 11498,
+          "observedAt": "2026-09-15T04:08:55.141Z"
+        },
+        {
+          "price": 11300,
+          "observedAt": "2026-09-07T09:46:05.792Z"
+        },
+        {
+          "price": 12988,
+          "observedAt": "2026-08-31T10:22:40.217Z"
+        },
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:96102995|n:맘스럽 라임 주방세제, 4l, 2개",
       "source": "toss",
@@ -3959,31 +3988,6 @@
         {
           "price": 34800,
           "observedAt": "2026-09-07T11:07:20.684Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "source": "toss",
-      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "price": 11300,
-      "listPrice": 16500,
-      "observedAt": "2026-09-07T09:46:05.792Z",
-      "url": "https://toss.im/_m/H8jMugyo",
-      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 11300,
-          "observedAt": "2026-09-07T09:46:05.792Z"
-        },
-        {
-          "price": 12988,
-          "observedAt": "2026-08-31T10:22:40.217Z"
-        },
-        {
-          "price": 11780,
-          "observedAt": "2026-08-24T05:32:01.644Z"
         }
       ]
     },
