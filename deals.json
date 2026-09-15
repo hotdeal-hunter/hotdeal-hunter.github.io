@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-15T02:13:01.909Z",
+  "updatedAt": "2026-09-15T02:19:12.599Z",
   "deals": [
+    {
+      "id": "toss:p:184335937|n:한울 정성가득 비빔밥용 나물세트, 125g, 10개",
+      "source": "toss",
+      "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
+      "price": 28900,
+      "listPrice": 44500,
+      "observedAt": "2026-09-15T02:19:03.141Z",
+      "url": "https://toss.im/_m/j0Nc0Nt7",
+      "image": "assets/products/35eb2d2cfe4b0efa0ffb.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 28900,
+          "observedAt": "2026-09-15T02:19:03.141Z"
+        },
+        {
+          "price": 26900,
+          "observedAt": "2026-08-31T05:02:28.675Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:174331261|n:광양 돼지 왕구이, 600g, 2팩",
       "source": "toss",
@@ -7830,23 +7851,6 @@
         {
           "price": 11620,
           "observedAt": "2026-08-31T05:14:27.964Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:184335937|n:한울 정성가득 비빔밥용 나물세트, 125g, 10개",
-      "source": "toss",
-      "name": "한울 정성가득 비빔밥용 나물세트, 125g, 10개",
-      "price": 26900,
-      "listPrice": 44500,
-      "observedAt": "2026-08-31T05:02:28.675Z",
-      "url": "https://toss.im/_m/j0Nc0Nt7",
-      "image": "assets/products/35eb2d2cfe4b0efa0ffb.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 26900,
-          "observedAt": "2026-08-31T05:02:28.675Z"
         }
       ]
     },
