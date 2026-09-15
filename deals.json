@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T05:12:05.217Z",
+  "updatedAt": "2026-09-15T05:20:30.602Z",
   "deals": [
+    {
+      "id": "toss:p:1627413141|n:골드럽 섬유유연제 로즈핑크, 3.2l, 4개",
+      "source": "toss",
+      "name": "골드럽 섬유유연제 로즈핑크, 3.2L, 4개",
+      "price": 11800,
+      "listPrice": 30400,
+      "observedAt": "2026-09-15T05:19:05.977Z",
+      "url": "https://toss.im/_m/PIkPRGyt",
+      "image": "assets/products/6655a29bf3d0d699407c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-09-15T05:19:05.977Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2621486553|n:셰프애찬 수제 청양 맵짤이, 매콤알싸한, 225g, 2통",
       "source": "toss",
