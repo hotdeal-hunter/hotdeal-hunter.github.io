@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-15T08:20:14.388Z",
+  "updatedAt": "2026-09-15T09:39:49.645Z",
   "deals": [
+    {
+      "id": "toss:p:2621486553|n:셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 2통",
+      "source": "toss",
+      "name": "셰프애찬 수제 청양 맵짤이 매콤알싸한, 225g, 2통",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T09:39:44.434Z",
+      "url": "https://toss.im/_m/j1wRtKOz",
+      "image": "assets/products/549f8ed20cb5e5f89a63.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-09-15T09:39:44.434Z"
+        },
+        {
+          "price": 7990,
+          "observedAt": "2026-09-15T05:11:40.861Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:131185405|n:자동회전냄비, 인덕션 가스렌지 호환, 39cm, 1개",
       "source": "toss",
@@ -78,23 +99,6 @@
         {
           "price": 11800,
           "observedAt": "2026-09-15T05:19:05.977Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2621486553|n:셰프애찬 수제 청양 맵짤이, 매콤알싸한, 225g, 2통",
-      "source": "toss",
-      "name": "셰프애찬 수제 청양 맵짤이, 매콤알싸한, 225g, 2통",
-      "price": 7990,
-      "listPrice": null,
-      "observedAt": "2026-09-15T05:11:40.861Z",
-      "url": "https://toss.im/_m/j1wRtKOz",
-      "image": "assets/products/d5b4a44431ab3af3db6f.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7990,
-          "observedAt": "2026-09-15T05:11:40.861Z"
         }
       ]
     },
