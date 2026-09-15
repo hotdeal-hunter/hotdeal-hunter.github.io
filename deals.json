@@ -1,17 +1,361 @@
 {
-  "updatedAt": "2026-09-15T12:32:22.860Z",
+  "updatedAt": "2026-09-15T23:23:17.956Z",
   "deals": [
+    {
+      "id": "toss:p:183431921|n:순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
+      "source": "toss",
+      "name": "순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
+      "price": 1990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:21:44.657Z",
+      "url": "https://toss.im/_m/NznNtW46",
+      "image": "assets/products/4479da98ea6f498bb15f.jpg",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 1990,
+          "observedAt": "2026-09-15T23:21:44.657Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-15T23:20:35.074Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-15T01:34:39.696Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-14T23:11:18.909Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-14T23:11:18.806Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-12T23:20:15.710Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-12T23:18:49.132Z"
+        },
+        {
+          "price": 1990,
+          "observedAt": "2026-09-11T23:01:50.697Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:973653061|n:맛꾼 구운란, 대란, 30구, 1개",
+      "source": "toss",
+      "name": "맛꾼 구운란, 대란, 30구, 1개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:11:19.485Z",
+      "url": "https://toss.im/_m/jE314FWg",
+      "image": "assets/products/8fbafdea400c25280b56.jpg",
+      "insight": "12회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-15T23:11:19.485Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T23:00:48.235Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.776Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.691Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:21:42.423Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:01:23.635Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T22:59:57.015Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.346Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.158Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T23:01:50.873Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:31:46.821Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:17:09.735Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:173490085|n:알참참 구운계란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "알참참 구운계란 대란, 30구, 1개",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:11:19.071Z",
+      "url": "https://toss.im/_m/F1W9Pbsj",
+      "image": "assets/products/24d68c2ff3220953b9cb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-15T23:11:19.071Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "source": "toss",
+      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:04:25.635Z",
+      "url": "https://toss.im/_m/lAQd8cTt",
+      "image": "assets/products/afec238f20f883e9b61f.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-15T23:04:25.635Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-15T23:00:55.943Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-14T23:00:34.367Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-14T23:00:34.278Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-13T23:00:47.597Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-11T23:00:22.286Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-10T23:01:21.714Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-09T23:00:18.116Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-09T23:00:15.705Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-08T23:00:34.416Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-07T23:02:10.345Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-06T23:01:38.480Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-05T23:01:20.344Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "source": "toss",
+      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
+      "price": 2490,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:00:55.861Z",
+      "url": "https://toss.im/_m/TWN66DVu",
+      "image": "assets/products/79a16070c3351e21529e.jpg",
+      "insight": "12회 가격 기록",
+      "history": [
+        {
+          "price": 2490,
+          "observedAt": "2026-09-15T23:00:55.861Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-14T23:21:26.590Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-14T23:00:31.377Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-13T23:00:48.626Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:21:42.674Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:01:23.892Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T22:59:57.283Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.499Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.360Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-11T23:01:50.563Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:35:22.472Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:25:35.565Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:00:55.769Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/b14d75ba792db0ec966b.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-15T23:00:55.769Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:24:33.540Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.377Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.243Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:12:24.632Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:11:04.085Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T01:43:01.977Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "source": "toss",
+      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "price": 7630,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:00:55.633Z",
+      "url": "https://toss.im/_m/vcLEzGoB",
+      "image": "assets/products/89501dbf3f42f1d8ed91.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7630,
+          "observedAt": "2026-09-15T23:00:55.633Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-15T04:56:42.069Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-14T03:26:01.186Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:174331261|n:광양 돼지 왕구이, 600g, 2팩",
+      "source": "toss",
+      "name": "광양 돼지 왕구이, 600g, 2팩",
+      "price": 8000,
+      "listPrice": null,
+      "observedAt": "2026-09-15T23:00:55.376Z",
+      "url": "https://toss.im/_m/p5IkuHgw",
+      "image": "assets/products/9abe37526cefea219078.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-15T23:00:55.376Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-15T01:50:53.313Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
       "source": "toss",
       "name": "농심 신라면, 120g, 20개",
       "price": 18800,
       "listPrice": 50000,
-      "observedAt": "2026-09-15T12:32:14.360Z",
+      "observedAt": "2026-09-15T12:33:33.180Z",
       "url": "https://toss.im/_m/LeSZNvc8",
       "image": "assets/products/3d72729ead1090320bc7.jpg",
-      "insight": "4회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 18800,
+          "observedAt": "2026-09-15T12:33:33.180Z"
+        },
         {
           "price": 18800,
           "observedAt": "2026-09-15T12:32:14.360Z"
@@ -245,27 +589,6 @@
       ]
     },
     {
-      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "source": "toss",
-      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "price": 7630,
-      "listPrice": null,
-      "observedAt": "2026-09-15T04:56:42.069Z",
-      "url": "https://toss.im/_m/vcLEzGoB",
-      "image": "assets/products/89501dbf3f42f1d8ed91.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7630,
-          "observedAt": "2026-09-15T04:56:42.069Z"
-        },
-        {
-          "price": 7630,
-          "observedAt": "2026-09-14T03:26:01.186Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
       "source": "toss",
       "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
@@ -396,60 +719,6 @@
       ]
     },
     {
-      "id": "toss:p:174331261|n:광양 돼지 왕구이, 600g, 2팩",
-      "source": "toss",
-      "name": "광양 돼지 왕구이, 600g, 2팩",
-      "price": 8000,
-      "listPrice": null,
-      "observedAt": "2026-09-15T01:50:53.313Z",
-      "url": "https://toss.im/_m/p5IkuHgw",
-      "image": "assets/products/9abe37526cefea219078.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8000,
-          "observedAt": "2026-09-15T01:50:53.313Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:183431921|n:순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
-      "source": "toss",
-      "name": "순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
-      "price": 1990,
-      "listPrice": null,
-      "observedAt": "2026-09-15T01:34:39.696Z",
-      "url": "https://toss.im/_m/NznNtW46",
-      "image": "assets/products/4479da98ea6f498bb15f.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 1990,
-          "observedAt": "2026-09-15T01:34:39.696Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-14T23:11:18.909Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-14T23:11:18.806Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-12T23:20:15.710Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-12T23:18:49.132Z"
-        },
-        {
-          "price": 1990,
-          "observedAt": "2026-09-11T23:01:50.697Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
       "source": "toss",
       "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
@@ -480,47 +749,6 @@
         {
           "price": 10990,
           "observedAt": "2026-09-15T00:11:57.206Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-14T23:24:33.540Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:24:33.540Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.377Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.243Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
@@ -582,63 +810,6 @@
         {
           "price": 10900,
           "observedAt": "2026-09-11T00:17:31.308Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "source": "toss",
-      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "price": 2490,
-      "listPrice": null,
-      "observedAt": "2026-09-14T23:21:26.590Z",
-      "url": "https://toss.im/_m/TWN66DVu",
-      "image": "assets/products/79a16070c3351e21529e.jpg",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 2490,
-          "observedAt": "2026-09-14T23:21:26.590Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-14T23:00:31.377Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-13T23:00:48.626Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:21:42.674Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:01:23.892Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T22:59:57.283Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.499Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.360Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-11T23:01:50.563Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:35:22.472Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:25:35.565Z"
         }
       ]
     },
@@ -734,63 +905,6 @@
         {
           "price": 4620,
           "observedAt": "2026-09-14T07:28:31.092Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "source": "toss",
-      "name": "꿀이구마 호박 찹쌀 약과, 30g, 30개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-14T23:00:34.367Z",
-      "url": "https://toss.im/_m/lAQd8cTt",
-      "image": "assets/products/afec238f20f883e9b61f.png",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-14T23:00:34.367Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-14T23:00:34.278Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-13T23:00:47.597Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-11T23:00:22.286Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-10T23:01:21.714Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-09T23:00:18.116Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-09T23:00:15.705Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-08T23:00:34.416Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-07T23:02:10.345Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-06T23:01:38.480Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-05T23:01:20.344Z"
         }
       ]
     },
@@ -1202,63 +1316,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-11T10:40:38.449Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:973653061|n:맛꾼 구운란, 대란, 30구, 1개",
-      "source": "toss",
-      "name": "맛꾼 구운란, 대란, 30구, 1개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:00:48.235Z",
-      "url": "https://toss.im/_m/jE314FWg",
-      "image": "assets/products/8fbafdea400c25280b56.jpg",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T23:00:48.235Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.776Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.691Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:21:42.423Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:01:23.635Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T22:59:57.015Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.346Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.158Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T23:01:50.873Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:31:46.821Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:17:09.735Z"
         }
       ]
     },
