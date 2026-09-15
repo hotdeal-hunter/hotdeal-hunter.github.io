@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-15T04:09:13.559Z",
+  "updatedAt": "2026-09-15T05:12:05.217Z",
   "deals": [
+    {
+      "id": "toss:p:2621486553|n:셰프애찬 수제 청양 맵짤이, 매콤알싸한, 225g, 2통",
+      "source": "toss",
+      "name": "셰프애찬 수제 청양 맵짤이, 매콤알싸한, 225g, 2통",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-09-15T05:11:40.861Z",
+      "url": "https://toss.im/_m/j1wRtKOz",
+      "image": "assets/products/d5b4a44431ab3af3db6f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-09-15T05:11:40.861Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "source": "toss",
+      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "price": 7630,
+      "listPrice": null,
+      "observedAt": "2026-09-15T04:56:42.069Z",
+      "url": "https://toss.im/_m/vcLEzGoB",
+      "image": "assets/products/89501dbf3f42f1d8ed91.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7630,
+          "observedAt": "2026-09-15T04:56:42.069Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-14T03:26:01.186Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
       "source": "toss",
@@ -829,23 +867,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-14T05:54:15.022Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "source": "toss",
-      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "price": 7630,
-      "listPrice": null,
-      "observedAt": "2026-09-14T03:26:01.186Z",
-      "url": "https://toss.im/_m/vcLEzGoB",
-      "image": "assets/products/89501dbf3f42f1d8ed91.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7630,
-          "observedAt": "2026-09-14T03:26:01.186Z"
         }
       ]
     },
