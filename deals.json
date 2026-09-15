@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-15T07:11:16.178Z",
+  "updatedAt": "2026-09-15T08:20:14.388Z",
   "deals": [
+    {
+      "id": "toss:p:131185405|n:자동회전냄비, 인덕션 가스렌지 호환, 39cm, 1개",
+      "source": "toss",
+      "name": "자동회전냄비, 인덕션 가스렌지 호환, 39cm, 1개",
+      "price": 65900,
+      "listPrice": null,
+      "observedAt": "2026-09-15T08:18:41.747Z",
+      "url": "https://toss.im/_m/5SZJ7lrw",
+      "image": "assets/products/0f0ca0295bc4440ad85e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 65900,
+          "observedAt": "2026-09-15T08:18:41.747Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:188394327|n:삼육김 광천 올리브 녹차김 도시락김, 4g, 16봉, 2개",
       "source": "toss",
