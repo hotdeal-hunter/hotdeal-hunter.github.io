@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-15T11:48:27.987Z",
+  "updatedAt": "2026-09-15T11:55:51.119Z",
   "deals": [
+    {
+      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "source": "toss",
+      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "price": 7350,
+      "listPrice": null,
+      "observedAt": "2026-09-15T11:54:20.667Z",
+      "url": "https://toss.im/_m/DruYHADx",
+      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7350,
+          "observedAt": "2026-09-15T11:54:20.667Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T05:25:22.321Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T01:10:52.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:374076317|n:해성 완도 염장미역줄기, 4kg, 1개",
       "source": "toss",
@@ -11094,27 +11119,6 @@
         {
           "price": 6800,
           "observedAt": "2026-08-27T05:46:50.973Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:10321923|n:갓튀겨나온 곱빼기 한돈 왕떡갈비, 160g, 5봉",
-      "source": "toss",
-      "name": "갓튀겨나온 곱빼기 한돈 왕떡갈비, 160g, 5봉",
-      "price": 8740,
-      "listPrice": null,
-      "observedAt": "2026-08-27T05:25:22.321Z",
-      "url": "https://toss.im/_m/DruYHADx",
-      "image": "assets/products/2b0424555349b6209cd8.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T05:25:22.321Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T01:10:52.678Z"
         }
       ]
     },
