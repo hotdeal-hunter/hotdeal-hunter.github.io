@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-16T11:28:47.629Z",
+  "updatedAt": "2026-09-16T11:32:53.096Z",
   "deals": [
+    {
+      "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
+      "source": "toss",
+      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-16T11:31:19.923Z",
+      "url": "https://toss.im/_m/NrRC8HSu",
+      "image": "assets/products/dc7b3a6f06fb8993d734.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T11:31:19.923Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T11:31:19.819Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T08:28:02.653Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-30T02:13:44.596Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2452039601|n:쿠킹메이트 키친타월, 200매, 12롤, 2팩",
       "source": "toss",
@@ -218,27 +247,6 @@
         {
           "price": 8740,
           "observedAt": "2026-08-27T01:10:52.678Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
-      "source": "toss",
-      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
-      "price": 12900,
-      "listPrice": 19900,
-      "observedAt": "2026-09-16T08:28:02.653Z",
-      "url": "https://toss.im/_m/NrRC8HSu",
-      "image": "assets/products/dc7b3a6f06fb8993d734.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-16T08:28:02.653Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-30T02:13:44.596Z"
         }
       ]
     },
