@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-16T08:29:27.326Z",
+  "updatedAt": "2026-09-16T08:32:29.401Z",
   "deals": [
+    {
+      "id": "toss:p:1853956085|n:폰타나 홀그레인 머스타드, 200g, 3병",
+      "source": "toss",
+      "name": "폰타나 홀그레인 머스타드, 200g, 3병",
+      "price": 9000,
+      "listPrice": null,
+      "observedAt": "2026-09-16T08:32:09.280Z",
+      "url": "https://toss.im/_m/RvIXEiBo",
+      "image": "assets/products/dd1abc0a495c2781a6eb.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-16T08:32:09.280Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-09-16T04:44:29.486Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "source": "toss",
+      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "price": 7350,
+      "listPrice": null,
+      "observedAt": "2026-09-16T08:30:48.336Z",
+      "url": "https://toss.im/_m/DruYHADx",
+      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.336Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.246Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-15T11:54:20.667Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T05:25:22.321Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T01:10:52.678Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
       "source": "toss",
@@ -210,23 +264,6 @@
         {
           "price": 14200,
           "observedAt": "2026-09-16T05:05:56.894Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1853956085|n:폰타나 홀그레인 머스타드, 200g, 3병",
-      "source": "toss",
-      "name": "폰타나 홀그레인 머스타드, 200g, 3병",
-      "price": 9000,
-      "listPrice": null,
-      "observedAt": "2026-09-16T04:44:29.486Z",
-      "url": "https://toss.im/_m/RvIXEiBo",
-      "image": "assets/products/dd1abc0a495c2781a6eb.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9000,
-          "observedAt": "2026-09-16T04:44:29.486Z"
         }
       ]
     },
@@ -703,31 +740,6 @@
         {
           "price": 14454,
           "observedAt": "2026-09-06T00:40:51.970Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "source": "toss",
-      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "price": 7350,
-      "listPrice": null,
-      "observedAt": "2026-09-15T11:54:20.667Z",
-      "url": "https://toss.im/_m/DruYHADx",
-      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 7350,
-          "observedAt": "2026-09-15T11:54:20.667Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T05:25:22.321Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T01:10:52.678Z"
         }
       ]
     },
