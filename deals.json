@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-16T00:34:18.264Z",
+  "updatedAt": "2026-09-16T00:53:17.556Z",
   "deals": [
+    {
+      "id": "toss:p:2654122295|n:자숙 동해안 홍게, 3.5kg, 1개",
+      "source": "toss",
+      "name": "자숙 동해안 홍게, 3.5kg, 1개",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-09-16T00:52:57.736Z",
+      "url": "https://toss.im/_m/Td34Ymgn",
+      "image": "assets/products/b9a04e274c6b5399838d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-16T00:52:57.736Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-09-16T00:51:31.317Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
       "source": "toss",
