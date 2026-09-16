@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-16T03:22:36.926Z",
+  "updatedAt": "2026-09-16T04:32:46.284Z",
   "deals": [
+    {
+      "id": "toss:p:80754663|n:하이뮨 프로틴 밸런스 액티브 제로 밀크쉐이크, 250ml, 18개",
+      "source": "toss",
+      "name": "하이뮨 프로틴 밸런스 액티브 제로 밀크쉐이크, 250ml, 18개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-16T04:30:58.904Z",
+      "url": "https://toss.im/_m/bKivyAFp",
+      "image": "assets/products/badc01fcf6a1192a7046.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-16T04:30:58.904Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-13T23:51:04.078Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
       "source": "toss",
@@ -1359,23 +1380,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-13T23:51:04.240Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:80754663|n:하이뮨 프로틴 밸런스 액티브 제로, 밀크쉐이크, 250ml, 18개",
-      "source": "toss",
-      "name": "하이뮨 프로틴 밸런스 액티브 제로, 밀크쉐이크, 250ml, 18개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:51:04.078Z",
-      "url": "https://toss.im/_m/bKivyAFp",
-      "image": "assets/products/671a7832c329e191dacf.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-13T23:51:04.078Z"
         }
       ]
     },
