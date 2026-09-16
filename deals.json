@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-09-16T02:34:04.597Z",
+  "updatedAt": "2026-09-16T03:10:15.701Z",
   "deals": [
+    {
+      "id": "toss:p:973653061|n:맛꾼 구운란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "맛꾼 구운란 대란, 30구, 1개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-16T03:08:44.536Z",
+      "url": "https://toss.im/_m/jE314FWg",
+      "image": "assets/products/79be7a902e1228b377eb.jpg",
+      "insight": "14회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-16T03:08:44.536Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-16T03:08:44.439Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-15T23:11:19.485Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T23:00:48.235Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.776Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.691Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:21:42.423Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:01:23.635Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T22:59:57.015Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.346Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.158Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T23:01:50.873Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:31:46.821Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:17:09.735Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
       "source": "toss",
@@ -331,67 +400,6 @@
         {
           "price": 1990,
           "observedAt": "2026-09-11T23:01:50.697Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:973653061|n:맛꾼 구운란, 대란, 30구, 1개",
-      "source": "toss",
-      "name": "맛꾼 구운란, 대란, 30구, 1개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-15T23:11:19.485Z",
-      "url": "https://toss.im/_m/jE314FWg",
-      "image": "assets/products/8fbafdea400c25280b56.jpg",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-15T23:11:19.485Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T23:00:48.235Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.776Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.691Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:21:42.423Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:01:23.635Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T22:59:57.015Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.346Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.158Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T23:01:50.873Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:31:46.821Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:17:09.735Z"
         }
       ]
     },
