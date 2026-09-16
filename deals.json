@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-16T00:53:17.556Z",
+  "updatedAt": "2026-09-16T00:58:06.382Z",
   "deals": [
+    {
+      "id": "toss:p:196443495|n:애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",
+      "source": "toss",
+      "name": "애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",
+      "price": 10990,
+      "listPrice": 20940,
+      "observedAt": "2026-09-16T00:57:57.429Z",
+      "url": "https://toss.im/_m/7SkmFwrh",
+      "image": "assets/products/df38c1bbdedeab67a70a.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-16T00:57:57.429Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-16T00:57:57.012Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654122295|n:자숙 동해안 홍게, 3.5kg, 1개",
       "source": "toss",
