@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-09-15T23:23:17.956Z",
+  "updatedAt": "2026-09-16T00:34:18.264Z",
   "deals": [
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-09-16T00:32:31.460Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T00:32:31.460Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T00:32:31.173Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-15T23:00:55.769Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:24:33.540Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.377Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.243Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:12:24.632Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:11:04.085Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T01:43:01.977Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:183431921|n:순수식품 10억보장 19종 생유산균 프로바이오틱스, 셀레늄, 아연, 30포, 1박스",
       "source": "toss",
@@ -247,51 +300,6 @@
         {
           "price": 2490,
           "observedAt": "2026-09-10T23:25:35.565Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-15T23:00:55.769Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/b14d75ba792db0ec966b.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-15T23:00:55.769Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:24:33.540Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.377Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.243Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
