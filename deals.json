@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-16T06:43:37.595Z",
+  "updatedAt": "2026-09-16T08:29:27.326Z",
   "deals": [
+    {
+      "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
+      "source": "toss",
+      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
+      "price": 12900,
+      "listPrice": 19900,
+      "observedAt": "2026-09-16T08:28:02.653Z",
+      "url": "https://toss.im/_m/NrRC8HSu",
+      "image": "assets/products/dc7b3a6f06fb8993d734.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T08:28:02.653Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-30T02:13:44.596Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2654122295|n:자숙 동해안 홍게, 3.5kg, 1개",
+      "source": "toss",
+      "name": "자숙 동해안 홍게, 3.5kg, 1개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-16T08:18:51.518Z",
+      "url": "https://toss.im/_m/Td34Ymgn",
+      "image": "assets/products/b9a04e274c6b5399838d.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T08:18:51.518Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-09-16T00:52:57.736Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-09-16T00:51:31.317Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:210817975|n:바세린 24h 딥 모이스춰 핸드앤네일 크림, 60ml, 10개",
       "source": "toss",
@@ -562,27 +608,6 @@
         {
           "price": 10990,
           "observedAt": "2026-09-16T00:57:57.012Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2654122295|n:자숙 동해안 홍게, 3.5kg, 1개",
-      "source": "toss",
-      "name": "자숙 동해안 홍게, 3.5kg, 1개",
-      "price": 13900,
-      "listPrice": null,
-      "observedAt": "2026-09-16T00:52:57.736Z",
-      "url": "https://toss.im/_m/Td34Ymgn",
-      "image": "assets/products/b9a04e274c6b5399838d.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 13900,
-          "observedAt": "2026-09-16T00:52:57.736Z"
-        },
-        {
-          "price": 13900,
-          "observedAt": "2026-09-16T00:51:31.317Z"
         }
       ]
     },
@@ -9352,23 +9377,6 @@
         {
           "price": 23800,
           "observedAt": "2026-08-28T06:57:10.069Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:8477329|n:달구벌 돼지 생막창 세트, 500g, 2봉",
-      "source": "toss",
-      "name": "달구벌 돼지 생막창 세트, 500g, 2봉",
-      "price": 12900,
-      "listPrice": 19900,
-      "observedAt": "2026-08-30T02:13:44.596Z",
-      "url": "https://toss.im/_m/NrRC8HSu",
-      "image": "assets/products/dc7b3a6f06fb8993d734.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-08-30T02:13:44.596Z"
         }
       ]
     },
