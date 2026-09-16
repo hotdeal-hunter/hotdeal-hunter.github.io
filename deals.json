@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-16T09:32:52.732Z",
+  "updatedAt": "2026-09-16T10:31:04.251Z",
   "deals": [
+    {
+      "id": "toss:p:2584035853|n:달콤버무린 멸치넛츠, 달콤고소, 100g, 2개",
+      "source": "toss",
+      "name": "달콤버무린 멸치넛츠, 달콤고소, 100g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-16T10:30:57.665Z",
+      "url": "https://toss.im/_m/5O93Qcbx",
+      "image": "assets/products/4256adc8023b026dda71.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-16T10:30:57.665Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-16T10:30:57.392Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
       "source": "toss",
