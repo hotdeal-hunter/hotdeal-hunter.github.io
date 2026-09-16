@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-16T08:36:31.742Z",
+  "updatedAt": "2026-09-16T08:59:56.291Z",
   "deals": [
+    {
+      "id": "toss:p:2668801331|n:프로코 실내건조 7종효소 라벤더 세탁세제, 2.5l, 4개",
+      "source": "toss",
+      "name": "프로코 실내건조 7종효소 라벤더 세탁세제, 2.5L, 4개",
+      "price": 8900,
+      "listPrice": 21900,
+      "observedAt": "2026-09-16T08:59:46.136Z",
+      "url": "https://toss.im/_m/9AZwqNh7",
+      "image": "assets/products/09f8673b3aa5fb8f99b8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-16T08:59:46.136Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1853956085|n:폰타나 홀그레인 머스타드, 200g, 3병",
       "source": "toss",
