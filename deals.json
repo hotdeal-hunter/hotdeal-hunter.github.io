@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-09-16T08:59:56.291Z",
+  "updatedAt": "2026-09-16T09:32:52.732Z",
   "deals": [
+    {
+      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
+      "source": "toss",
+      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
+      "price": 15880,
+      "listPrice": null,
+      "observedAt": "2026-09-16T09:31:19.457Z",
+      "url": "https://toss.im/_m/PY65HwMt",
+      "image": "assets/products/099f247257c8ea1a57a3.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T09:31:19.457Z"
+        },
+        {
+          "price": 12540,
+          "observedAt": "2026-08-28T09:04:24.913Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
+      "price": 9990,
+      "listPrice": 17900,
+      "observedAt": "2026-09-16T09:27:47.455Z",
+      "url": "https://toss.im/_m/dPbc6BO5",
+      "image": "assets/products/b14d75ba792db0ec966b.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T09:27:47.455Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T03:20:50.212Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T01:28:37.854Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T00:32:31.460Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-16T00:32:31.173Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-15T23:00:55.769Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:24:33.540Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.377Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T23:05:55.243Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:12:24.632Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T02:11:04.085Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-14T01:43:01.977Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-04T01:08:43.449Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2668801331|n:프로코 실내건조 7종효소 라벤더 세탁세제, 2.5l, 4개",
       "source": "toss",
@@ -412,67 +498,6 @@
         {
           "price": 4990,
           "observedAt": "2026-09-05T23:01:20.344Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-16T03:20:50.212Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/b14d75ba792db0ec966b.png",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T03:20:50.212Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T01:28:37.854Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T00:32:31.460Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T00:32:31.173Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-15T23:00:55.769Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:24:33.540Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.377Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.243Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
@@ -10607,23 +10632,6 @@
         {
           "price": 24150,
           "observedAt": "2026-08-28T09:32:37.172Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "source": "toss",
-      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "price": 12540,
-      "listPrice": 34000,
-      "observedAt": "2026-08-28T09:04:24.913Z",
-      "url": "https://toss.im/_m/PY65HwMt",
-      "image": "assets/products/099f247257c8ea1a57a3.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12540,
-          "observedAt": "2026-08-28T09:04:24.913Z"
         }
       ]
     },
