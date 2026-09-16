@@ -1,6 +1,75 @@
 {
-  "updatedAt": "2026-09-16T05:57:42.821Z",
+  "updatedAt": "2026-09-16T06:24:44.934Z",
   "deals": [
+    {
+      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시 일랑일랑향, 510ml, 2개",
+      "source": "toss",
+      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시 일랑일랑향, 510ml, 2개",
+      "price": 2490,
+      "listPrice": null,
+      "observedAt": "2026-09-16T06:23:13.930Z",
+      "url": "https://toss.im/_m/TWN66DVu",
+      "image": "assets/products/ad51fac64cea8f501061.jpg",
+      "insight": "14회 가격 기록",
+      "history": [
+        {
+          "price": 2490,
+          "observedAt": "2026-09-16T06:23:13.930Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-16T06:23:13.831Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-15T23:00:55.861Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-14T23:21:26.590Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-14T23:00:31.377Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-13T23:00:48.626Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:21:42.674Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T23:01:23.892Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T22:59:57.283Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.499Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-12T07:53:39.360Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-11T23:01:50.563Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:35:22.472Z"
+        },
+        {
+          "price": 2490,
+          "observedAt": "2026-09-10T23:25:35.565Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1453960863|n:지오클린 레몬 주방세제, 4l, 2개",
       "source": "toss",
@@ -530,67 +599,6 @@
         {
           "price": 6990,
           "observedAt": "2026-09-15T23:11:19.071Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "source": "toss",
-      "name": "수뜰리에 클린 퍼퓸 포밍 핸드 워시, 일랑일랑향, 510ml, 2개",
-      "price": 2490,
-      "listPrice": null,
-      "observedAt": "2026-09-15T23:00:55.861Z",
-      "url": "https://toss.im/_m/TWN66DVu",
-      "image": "assets/products/79a16070c3351e21529e.jpg",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 2490,
-          "observedAt": "2026-09-15T23:00:55.861Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-14T23:21:26.590Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-14T23:00:31.377Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-13T23:00:48.626Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:21:42.674Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T23:01:23.892Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T22:59:57.283Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.499Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-12T07:53:39.360Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-11T23:01:50.563Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:35:22.472Z"
-        },
-        {
-          "price": 2490,
-          "observedAt": "2026-09-10T23:25:35.565Z"
         }
       ]
     },
