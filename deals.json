@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-16T01:31:26.569Z",
+  "updatedAt": "2026-09-16T02:34:04.597Z",
   "deals": [
+    {
+      "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
+      "source": "toss",
+      "name": "초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",
+      "price": 12900,
+      "listPrice": 34900,
+      "observedAt": "2026-09-16T02:33:52.751Z",
+      "url": "https://toss.im/_m/VdJbxles",
+      "image": "assets/products/4347407cf314edb3185f.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-16T02:33:52.751Z"
+        },
+        {
+          "price": 9410,
+          "observedAt": "2026-08-29T23:01:22.318Z"
+        },
+        {
+          "price": 9410,
+          "observedAt": "2026-08-23T08:48:04.930Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:177768671|n:꿀이구마 호박 찹쌀 약과, 30g, 30개",
       "source": "toss",
@@ -9325,27 +9350,6 @@
         {
           "price": 9200,
           "observedAt": "2026-08-29T23:08:56.362Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2323889093|n:초고농축 피죤 체리블라썸 섬유유연제, 1.3l, 4개",
-      "source": "toss",
-      "name": "초고농축 피죤 체리블라썸 섬유유연제, 1.3L, 4개",
-      "price": 9410,
-      "listPrice": null,
-      "observedAt": "2026-08-29T23:01:22.318Z",
-      "url": "https://toss.im/_m/VdJbxles",
-      "image": "assets/products/4347407cf314edb3185f.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9410,
-          "observedAt": "2026-08-29T23:01:22.318Z"
-        },
-        {
-          "price": 9410,
-          "observedAt": "2026-08-23T08:48:04.930Z"
         }
       ]
     },
