@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-16T05:45:48.300Z",
+  "updatedAt": "2026-09-16T05:57:42.821Z",
   "deals": [
+    {
+      "id": "toss:p:1453960863|n:지오클린 레몬 주방세제, 4l, 2개",
+      "source": "toss",
+      "name": "지오클린 레몬 주방세제, 4L, 2개",
+      "price": 9900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-16T05:57:33.082Z",
+      "url": "https://toss.im/_m/BnA6YhVl",
+      "image": "assets/products/28167f2945809cf82419.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-16T05:57:33.082Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647772179|n:광동 평온쌍화, 80ml, 5팩, 1개",
       "source": "toss",
