@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-16T06:24:44.934Z",
+  "updatedAt": "2026-09-16T06:43:37.595Z",
   "deals": [
+    {
+      "id": "toss:p:210817975|n:바세린 24h 딥 모이스춰 핸드앤네일 크림, 60ml, 10개",
+      "source": "toss",
+      "name": "바세린 24h 딥 모이스춰 핸드앤네일 크림, 60ml, 10개",
+      "price": 11800,
+      "listPrice": null,
+      "observedAt": "2026-09-16T06:43:30.926Z",
+      "url": "https://toss.im/_m/NPlDxTux",
+      "image": "assets/products/03edf0669b6050d144a6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-09-16T06:43:30.926Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
+      "source": "toss",
+      "name": "햇반 윤기가득쌀밥, 210g, 36개",
+      "price": 35000,
+      "listPrice": 50900,
+      "observedAt": "2026-09-16T06:29:32.926Z",
+      "url": "https://toss.im/_m/dGNIgSsx",
+      "image": "assets/products/9dfd7031c4f95055cbf2.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 35000,
+          "observedAt": "2026-09-16T06:29:32.926Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T07:14:26.761Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T04:08:41.456Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-09T23:41:05.880Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:117743419|n:수뜰리에 클린 퍼퓸 포밍 핸드 워시 일랑일랑향, 510ml, 2개",
       "source": "toss",
@@ -3135,31 +3181,6 @@
         {
           "price": 12990,
           "observedAt": "2026-08-26T23:45:29.157Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
-      "source": "toss",
-      "name": "햇반 윤기가득쌀밥, 210g, 36개",
-      "price": 34900,
-      "listPrice": null,
-      "observedAt": "2026-09-10T07:14:26.761Z",
-      "url": "https://toss.im/_m/dGNIgSsx",
-      "image": "assets/products/9dfd7031c4f95055cbf2.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 34900,
-          "observedAt": "2026-09-10T07:14:26.761Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-10T04:08:41.456Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-09T23:41:05.880Z"
         }
       ]
     },
