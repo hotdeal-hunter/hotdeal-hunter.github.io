@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-16T00:58:06.382Z",
+  "updatedAt": "2026-09-16T01:27:16.822Z",
   "deals": [
+    {
+      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "source": "toss",
+      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-16T01:25:45.664Z",
+      "url": "https://toss.im/_m/ZrIsv8H9",
+      "image": "assets/products/78c2eeff10fd43a50c99.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.664Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.561Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:14:50.518Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:07:49.286Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T05:46:15.255Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:196443495|n:애슐리 볶음밥, 갈릭스테이크 230g 2봉 + 케이준 230g 2봉 + 통새우 230g 2봉, 6봉",
       "source": "toss",
@@ -593,31 +626,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-31T11:42:28.085Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "source": "toss",
-      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "price": 7700,
-      "listPrice": null,
-      "observedAt": "2026-09-15T06:14:50.518Z",
-      "url": "https://toss.im/_m/ZrIsv8H9",
-      "image": "assets/products/78c2eeff10fd43a50c99.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:14:50.518Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:07:49.286Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T05:46:15.255Z"
         }
       ]
     },
