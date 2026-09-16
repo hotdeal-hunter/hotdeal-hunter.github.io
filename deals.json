@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-16T10:31:04.251Z",
+  "updatedAt": "2026-09-16T11:06:18.195Z",
   "deals": [
+    {
+      "id": "toss:p:161684623|n:득근파티 스팀 통 닭가슴살, 6종 혼합, 100g, 30팩",
+      "source": "toss",
+      "name": "득근파티 스팀 통 닭가슴살, 6종 혼합, 100g, 30팩",
+      "price": 35900,
+      "listPrice": 52900,
+      "observedAt": "2026-09-16T11:04:52.598Z",
+      "url": "https://toss.im/_m/zHppEFTq",
+      "image": "assets/products/e5c433904804585f5685.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-09-16T11:04:52.598Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
+      "source": "toss",
+      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
+      "price": 15880,
+      "listPrice": 34000,
+      "observedAt": "2026-09-16T10:43:56.153Z",
+      "url": "https://toss.im/_m/PY65HwMt",
+      "image": "assets/products/099f247257c8ea1a57a3.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T10:43:56.153Z"
+        },
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T09:31:19.457Z"
+        },
+        {
+          "price": 12540,
+          "observedAt": "2026-08-28T09:04:24.913Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2584035853|n:달콤버무린 멸치넛츠, 달콤고소, 100g, 2개",
       "source": "toss",
@@ -19,27 +61,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-16T10:30:57.392Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "source": "toss",
-      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "price": 15880,
-      "listPrice": null,
-      "observedAt": "2026-09-16T09:31:19.457Z",
-      "url": "https://toss.im/_m/PY65HwMt",
-      "image": "assets/products/099f247257c8ea1a57a3.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 15880,
-          "observedAt": "2026-09-16T09:31:19.457Z"
-        },
-        {
-          "price": 12540,
-          "observedAt": "2026-08-28T09:04:24.913Z"
         }
       ]
     },
