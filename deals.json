@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-16T04:32:46.284Z",
+  "updatedAt": "2026-09-16T04:46:16.701Z",
   "deals": [
+    {
+      "id": "toss:p:1853956085|n:폰타나 홀그레인 머스타드, 200g, 3병",
+      "source": "toss",
+      "name": "폰타나 홀그레인 머스타드, 200g, 3병",
+      "price": 9000,
+      "listPrice": null,
+      "observedAt": "2026-09-16T04:44:29.486Z",
+      "url": "https://toss.im/_m/RvIXEiBo",
+      "image": "assets/products/dd1abc0a495c2781a6eb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-16T04:44:29.486Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "source": "toss",
+      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
+      "price": 7630,
+      "listPrice": 16000,
+      "observedAt": "2026-09-16T04:36:17.866Z",
+      "url": "https://toss.im/_m/vcLEzGoB",
+      "image": "assets/products/89501dbf3f42f1d8ed91.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 7630,
+          "observedAt": "2026-09-16T04:36:17.866Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-16T03:20:50.038Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-16T01:28:37.675Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-15T23:00:55.633Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-15T04:56:42.069Z"
+        },
+        {
+          "price": 7630,
+          "observedAt": "2026-09-14T03:26:01.186Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80754663|n:하이뮨 프로틴 밸런스 액티브 제로 밀크쉐이크, 250ml, 18개",
       "source": "toss",
@@ -198,39 +252,6 @@
         {
           "price": 7700,
           "observedAt": "2026-09-15T05:46:15.255Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:282536649|n:산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "source": "toss",
-      "name": "산과들에 원데이 발란스 그린라벨, 20g, 30봉",
-      "price": 7630,
-      "listPrice": null,
-      "observedAt": "2026-09-16T03:20:50.038Z",
-      "url": "https://toss.im/_m/vcLEzGoB",
-      "image": "assets/products/89501dbf3f42f1d8ed91.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7630,
-          "observedAt": "2026-09-16T03:20:50.038Z"
-        },
-        {
-          "price": 7630,
-          "observedAt": "2026-09-16T01:28:37.675Z"
-        },
-        {
-          "price": 7630,
-          "observedAt": "2026-09-15T23:00:55.633Z"
-        },
-        {
-          "price": 7630,
-          "observedAt": "2026-09-15T04:56:42.069Z"
-        },
-        {
-          "price": 7630,
-          "observedAt": "2026-09-14T03:26:01.186Z"
         }
       ]
     },
