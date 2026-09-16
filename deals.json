@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-16T11:06:18.195Z",
+  "updatedAt": "2026-09-16T11:28:47.629Z",
   "deals": [
+    {
+      "id": "toss:p:2452039601|n:쿠킹메이트 키친타월, 200매, 12롤, 2팩",
+      "source": "toss",
+      "name": "쿠킹메이트 키친타월, 200매, 12롤, 2팩",
+      "price": 11900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-16T11:27:24.598Z",
+      "url": "https://toss.im/_m/5NLcfnOe",
+      "image": "assets/products/6cc35ddeff81a30b4545.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-16T11:27:24.598Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-09-09T07:16:13.532Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:161684623|n:득근파티 스팀 통 닭가슴살, 6종 혼합, 100g, 30팩",
       "source": "toss",
@@ -3626,23 +3647,6 @@
         {
           "price": 4830,
           "observedAt": "2026-09-09T07:25:47.565Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2452039601|n:쿠킹메이트 키친타월, 200매, 12롤, 2팩",
-      "source": "toss",
-      "name": "쿠킹메이트 키친타월, 200매, 12롤, 2팩",
-      "price": 11900,
-      "listPrice": 30000,
-      "observedAt": "2026-09-09T07:16:13.532Z",
-      "url": "https://toss.im/_m/5NLcfnOe",
-      "image": "assets/products/6cc35ddeff81a30b4545.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-09-09T07:16:13.532Z"
         }
       ]
     },
