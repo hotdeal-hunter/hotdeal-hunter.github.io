@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-16T12:33:45.765Z",
+  "updatedAt": "2026-09-16T12:39:43.603Z",
   "deals": [
+    {
+      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 총 2개",
+      "source": "toss",
+      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 총 2개",
+      "price": 15880,
+      "listPrice": null,
+      "observedAt": "2026-09-16T12:39:39.326Z",
+      "url": "https://toss.im/_m/PY65HwMt",
+      "image": "assets/products/3160d919d2a31333caa3.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T12:39:39.326Z"
+        },
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T10:43:56.153Z"
+        },
+        {
+          "price": 15880,
+          "observedAt": "2026-09-16T09:31:19.457Z"
+        },
+        {
+          "price": 12540,
+          "observedAt": "2026-08-28T09:04:24.913Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1066750403|n:20년 장인김치 전라도식 배추김치, 10kg, 1박스",
       "source": "toss",
@@ -90,31 +119,6 @@
         {
           "price": 35900,
           "observedAt": "2026-09-16T11:04:52.598Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:192511797|n:한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "source": "toss",
-      "name": "한끼루 깐새우장, 간장 350g 1개 + 양념 350g 1개, 2개",
-      "price": 15880,
-      "listPrice": 34000,
-      "observedAt": "2026-09-16T10:43:56.153Z",
-      "url": "https://toss.im/_m/PY65HwMt",
-      "image": "assets/products/099f247257c8ea1a57a3.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 15880,
-          "observedAt": "2026-09-16T10:43:56.153Z"
-        },
-        {
-          "price": 15880,
-          "observedAt": "2026-09-16T09:31:19.457Z"
-        },
-        {
-          "price": 12540,
-          "observedAt": "2026-08-28T09:04:24.913Z"
         }
       ]
     },
