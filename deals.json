@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-16T04:46:16.701Z",
+  "updatedAt": "2026-09-16T05:06:06.605Z",
   "deals": [
+    {
+      "id": "toss:p:97834925|n:교동 소고기 미역국, 500g, 5개",
+      "source": "toss",
+      "name": "교동 소고기 미역국, 500g, 5개",
+      "price": 14200,
+      "listPrice": 27500,
+      "observedAt": "2026-09-16T05:05:56.894Z",
+      "url": "https://toss.im/_m/ZDy4GyV1",
+      "image": "assets/products/9a5dba426afcf0dbba6c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14200,
+          "observedAt": "2026-09-16T05:05:56.894Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1853956085|n:폰타나 홀그레인 머스타드, 200g, 3병",
       "source": "toss",
