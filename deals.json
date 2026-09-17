@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T00:15:51.820Z",
+  "updatedAt": "2026-09-17T00:20:43.884Z",
   "deals": [
+    {
+      "id": "toss:p:2309947287|n:씨없는 포도 샤인머스켓 랜덤과, 2kg, 1개",
+      "source": "toss",
+      "name": "씨없는 포도 샤인머스켓 랜덤과, 2kg, 1개",
+      "price": 9700,
+      "listPrice": null,
+      "observedAt": "2026-09-17T00:20:39.210Z",
+      "url": "https://toss.im/_m/xQu1kQPy",
+      "image": "assets/products/21544acd3194c02885e3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9700,
+          "observedAt": "2026-09-17T00:20:39.210Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2656530569|n:제로아워 0kcal 스파클링 유자, 350ml, 24개",
       "source": "toss",
