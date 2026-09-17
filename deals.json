@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T00:20:43.884Z",
+  "updatedAt": "2026-09-17T00:46:41.364Z",
   "deals": [
+    {
+      "id": "toss:p:2665252809|n:곰표 부침가루 2kg 1개 + 튀김가루 2kg 1개 + 밀가루 1kg 2개, 1세트",
+      "source": "toss",
+      "name": "곰표 부침가루 2kg 1개 + 튀김가루 2kg 1개 + 밀가루 1kg 2개, 1세트",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-17T00:45:07.758Z",
+      "url": "https://toss.im/_m/xtYA76qc",
+      "image": "assets/products/6931b5502035e4f81511.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-17T00:45:07.758Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2309947287|n:씨없는 포도 샤인머스켓 랜덤과, 2kg, 1개",
       "source": "toss",
