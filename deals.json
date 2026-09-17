@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-17T12:47:19.859Z",
+  "updatedAt": "2026-09-17T23:05:36.174Z",
   "deals": [
+    {
+      "id": "toss:p:173490085|n:알참참 구운계란 대란, 30구, 1개",
+      "source": "toss",
+      "name": "알참참 구운계란 대란, 30구, 1개",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-17T23:04:04.461Z",
+      "url": "https://toss.im/_m/F1W9Pbsj",
+      "image": "assets/products/24d68c2ff3220953b9cb.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-17T23:04:04.461Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-15T23:11:19.071Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2450656847|n:에이스 퍼플리 세탁세제, 라벤더, 2.5l, 4개",
       "source": "toss",
@@ -1219,23 +1240,6 @@
         {
           "price": 1990,
           "observedAt": "2026-09-11T23:01:50.697Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:173490085|n:알참참 구운계란 대란, 30구, 1개",
-      "source": "toss",
-      "name": "알참참 구운계란 대란, 30구, 1개",
-      "price": 6990,
-      "listPrice": null,
-      "observedAt": "2026-09-15T23:11:19.071Z",
-      "url": "https://toss.im/_m/F1W9Pbsj",
-      "image": "assets/products/24d68c2ff3220953b9cb.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-09-15T23:11:19.071Z"
         }
       ]
     },
