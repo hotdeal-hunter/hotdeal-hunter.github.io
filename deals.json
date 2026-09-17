@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-16T23:19:28.217Z",
+  "updatedAt": "2026-09-17T00:15:51.820Z",
   "deals": [
+    {
+      "id": "toss:p:2656530569|n:제로아워 0kcal 스파클링 유자, 350ml, 24개",
+      "source": "toss",
+      "name": "제로아워 0kcal 스파클링 유자, 350ml, 24개",
+      "price": 6900,
+      "listPrice": null,
+      "observedAt": "2026-09-17T00:14:02.099Z",
+      "url": "https://toss.im/_m/rpmxYzVp",
+      "image": "assets/products/9ea7ac2cb6cfda17818c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-17T00:14:02.099Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2226405417|n:마루닭 닭가슴살 소시지 치즈비엔나, 64g, 10개",
       "source": "toss",
       "name": "마루닭 닭가슴살 소시지 치즈비엔나, 64g, 10개",
       "price": 6600,
       "listPrice": null,
-      "observedAt": "2026-09-16T23:17:42.891Z",
+      "observedAt": "2026-09-16T23:31:11.272Z",
       "url": "https://toss.im/_m/XUjpR3ad",
       "image": "assets/products/307477c80c6652aa49b8.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-16T23:31:11.272Z"
+        },
         {
           "price": 6600,
           "observedAt": "2026-09-16T23:17:42.891Z"
