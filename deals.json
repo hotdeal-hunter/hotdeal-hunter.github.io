@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-17T07:50:55.059Z",
+  "updatedAt": "2026-09-17T10:24:42.005Z",
   "deals": [
+    {
+      "id": "toss:p:1547184655|n:한일전자 파테크 초고출력 헤어 드라이기 rh-4200, 블랙, 1개",
+      "source": "toss",
+      "name": "한일전자 파테크 초고출력 헤어 드라이기 RH-4200, 블랙, 1개",
+      "price": 17700,
+      "listPrice": null,
+      "observedAt": "2026-09-17T10:23:22.366Z",
+      "url": "https://toss.im/_m/5EJzBoDf",
+      "image": "assets/products/59766a4bd55a7f1ef3ee.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17700,
+          "observedAt": "2026-09-17T10:23:22.366Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "source": "toss",
+      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-17T09:35:38.701Z",
+      "url": "https://toss.im/_m/ZrIsv8H9",
+      "image": "assets/products/78c2eeff10fd43a50c99.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-17T09:35:38.701Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T03:20:50.121Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:28:37.768Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:28:37.284Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.664Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.561Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:14:50.518Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:07:49.286Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T05:46:15.255Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647903045|n:던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
       "source": "toss",
@@ -966,51 +1032,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-13T23:51:04.078Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "source": "toss",
-      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "price": 7700,
-      "listPrice": null,
-      "observedAt": "2026-09-16T03:20:50.121Z",
-      "url": "https://toss.im/_m/ZrIsv8H9",
-      "image": "assets/products/78c2eeff10fd43a50c99.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T03:20:50.121Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:28:37.768Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:28:37.284Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:25:45.664Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:25:45.561Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:14:50.518Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:07:49.286Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T05:46:15.255Z"
         }
       ]
     },
