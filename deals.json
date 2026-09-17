@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-17T01:34:02.106Z",
+  "updatedAt": "2026-09-17T02:23:01.693Z",
   "deals": [
+    {
+      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
+      "source": "toss",
+      "name": "햇반 윤기가득쌀밥, 210g, 36개",
+      "price": 35000,
+      "listPrice": null,
+      "observedAt": "2026-09-17T02:21:27.480Z",
+      "url": "https://toss.im/_m/dGNIgSsx",
+      "image": "assets/products/9dfd7031c4f95055cbf2.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 35000,
+          "observedAt": "2026-09-17T02:21:27.480Z"
+        },
+        {
+          "price": 35000,
+          "observedAt": "2026-09-16T06:29:32.926Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T07:14:26.761Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-10T04:08:41.456Z"
+        },
+        {
+          "price": 34900,
+          "observedAt": "2026-09-09T23:41:05.880Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:114352923|n:지도표성경김 재래 식탁김, 4g, 24봉",
       "source": "toss",
@@ -671,35 +704,6 @@
         {
           "price": 11800,
           "observedAt": "2026-09-16T06:43:30.926Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
-      "source": "toss",
-      "name": "햇반 윤기가득쌀밥, 210g, 36개",
-      "price": 35000,
-      "listPrice": 50900,
-      "observedAt": "2026-09-16T06:29:32.926Z",
-      "url": "https://toss.im/_m/dGNIgSsx",
-      "image": "assets/products/9dfd7031c4f95055cbf2.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 35000,
-          "observedAt": "2026-09-16T06:29:32.926Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-10T07:14:26.761Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-10T04:08:41.456Z"
-        },
-        {
-          "price": 34900,
-          "observedAt": "2026-09-09T23:41:05.880Z"
         }
       ]
     },
