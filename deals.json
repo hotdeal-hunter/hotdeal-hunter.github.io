@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-17T02:25:30.937Z",
+  "updatedAt": "2026-09-17T06:03:06.087Z",
   "deals": [
+    {
+      "id": "toss:p:2351755691|n:정미소 저당 두바이 쫀득쿠키, 50g, 8개",
+      "source": "toss",
+      "name": "정미소 저당 두바이 쫀득쿠키, 50g, 8개",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-09-17T06:01:29.318Z",
+      "url": "https://toss.im/_m/x4RVuqUl",
+      "image": "assets/products/1cf7234c1c9aa76816b2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-17T06:01:29.318Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81428401|n:앙쥬 24k 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
+      "source": "toss",
+      "name": "앙쥬 24K 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
+      "price": 36000,
+      "listPrice": null,
+      "observedAt": "2026-09-17T04:27:39.773Z",
+      "url": "https://toss.im/_m/Fo4Roseg",
+      "image": "assets/products/6fc8aa709f4b8d41465c.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 36000,
+          "observedAt": "2026-09-17T04:27:39.773Z"
+        },
+        {
+          "price": 36000,
+          "observedAt": "2026-09-17T02:52:19.936Z"
+        },
+        {
+          "price": 35900,
+          "observedAt": "2026-09-13T02:52:58.611Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
       "source": "toss",
@@ -2422,23 +2464,6 @@
         {
           "price": 11480,
           "observedAt": "2026-08-27T12:35:28.937Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:81428401|n:앙쥬 24k 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
-      "source": "toss",
-      "name": "앙쥬 24K 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
-      "price": 35900,
-      "listPrice": 699000,
-      "observedAt": "2026-09-13T02:52:58.611Z",
-      "url": "https://toss.im/_m/Fo4Roseg",
-      "image": "assets/products/6fc8aa709f4b8d41465c.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 35900,
-          "observedAt": "2026-09-13T02:52:58.611Z"
         }
       ]
     },
