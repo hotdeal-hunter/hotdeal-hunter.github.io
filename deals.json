@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T23:05:36.174Z",
+  "updatedAt": "2026-09-17T23:37:58.293Z",
   "deals": [
+    {
+      "id": "toss:p:84698347|n:웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
+      "source": "toss",
+      "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-17T23:36:09.533Z",
+      "url": "https://toss.im/_m/57AiPJTq",
+      "image": "assets/products/1881d692848c66dae46d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-17T23:36:09.533Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:173490085|n:알참참 구운계란 대란, 30구, 1개",
       "source": "toss",
