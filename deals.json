@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-17T06:03:06.087Z",
+  "updatedAt": "2026-09-17T07:50:55.059Z",
   "deals": [
+    {
+      "id": "toss:p:2647903045|n:던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "source": "toss",
+      "name": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
+      "price": 6600,
+      "listPrice": 24000,
+      "observedAt": "2026-09-17T07:50:42.986Z",
+      "url": "https://toss.im/_m/h0KaHqQ4",
+      "image": "assets/products/5271305fd6d667936d4e.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-17T07:50:42.986Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-07T23:00:18.311Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-07T10:39:33.151Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:96102995|n:맘스럽 라임 주방세제, 4l, 2개",
+      "source": "toss",
+      "name": "맘스럽 라임 주방세제, 4L, 2개",
+      "price": 4480,
+      "listPrice": null,
+      "observedAt": "2026-09-17T07:11:13.755Z",
+      "url": "https://toss.im/_m/5lQAieE3",
+      "image": "assets/products/640cb80d8b2116d16142.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4480,
+          "observedAt": "2026-09-17T07:11:13.755Z"
+        },
+        {
+          "price": 4480,
+          "observedAt": "2026-09-15T03:31:14.595Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2351755691|n:정미소 저당 두바이 쫀득쿠키, 50g, 8개",
       "source": "toss",
@@ -1299,23 +1345,6 @@
         {
           "price": 11780,
           "observedAt": "2026-08-24T05:32:01.644Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:96102995|n:맘스럽 라임 주방세제, 4l, 2개",
-      "source": "toss",
-      "name": "맘스럽 라임 주방세제, 4L, 2개",
-      "price": 4480,
-      "listPrice": null,
-      "observedAt": "2026-09-15T03:31:14.595Z",
-      "url": "https://toss.im/_m/5lQAieE3",
-      "image": "assets/products/640cb80d8b2116d16142.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4480,
-          "observedAt": "2026-09-15T03:31:14.595Z"
         }
       ]
     },
@@ -4753,27 +4782,6 @@
         {
           "price": 4300,
           "observedAt": "2026-09-07T08:08:03.049Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2647903045|n:던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
-      "source": "toss",
-      "name": "던킨 제로 아이스티 화이트피치 6개 + 샤인앤라임 6개, 500ml, 1세트",
-      "price": 6600,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:00:18.311Z",
-      "url": "https://toss.im/_m/h0KaHqQ4",
-      "image": "assets/products/5271305fd6d667936d4e.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6600,
-          "observedAt": "2026-09-07T23:00:18.311Z"
-        },
-        {
-          "price": 6600,
-          "observedAt": "2026-09-07T10:39:33.151Z"
         }
       ]
     },
