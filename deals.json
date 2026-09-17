@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T10:24:42.005Z",
+  "updatedAt": "2026-09-17T11:04:48.344Z",
   "deals": [
+    {
+      "id": "toss:p:2666683839|n:베베쿡 양파콩콩, 30g 5개 + 더 맛있는 빼빼롱뻥 구운옥수수, 40g, 5개",
+      "source": "toss",
+      "name": "베베쿡 양파콩콩, 30g 5개 + 더 맛있는 빼빼롱뻥 구운옥수수, 40g, 5개",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-17T11:03:27.603Z",
+      "url": "https://toss.im/_m/LOw7Xl56",
+      "image": "assets/products/8f713eca2dc5660dcb39.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-17T11:03:27.603Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1547184655|n:한일전자 파테크 초고출력 헤어 드라이기 rh-4200, 블랙, 1개",
       "source": "toss",
