@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T12:17:59.289Z",
+  "updatedAt": "2026-09-17T12:47:19.859Z",
   "deals": [
+    {
+      "id": "toss:p:2450656847|n:에이스 퍼플리 세탁세제, 라벤더, 2.5l, 4개",
+      "source": "toss",
+      "name": "에이스 퍼플리 세탁세제, 라벤더, 2.5L, 4개",
+      "price": 8300,
+      "listPrice": 18900,
+      "observedAt": "2026-09-17T12:45:56.376Z",
+      "url": "https://toss.im/_m/L2gbQ3yD",
+      "image": "assets/products/13925c2288904b417964.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8300,
+          "observedAt": "2026-09-17T12:45:56.376Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:630266045|n:훈제 점보 통 닭다리, 250g, 10팩",
       "source": "toss",
