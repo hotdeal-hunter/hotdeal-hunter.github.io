@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-17T02:23:01.693Z",
+  "updatedAt": "2026-09-17T02:25:30.937Z",
   "deals": [
+    {
+      "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
+      "source": "toss",
+      "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
+      "price": 9900,
+      "listPrice": 23900,
+      "observedAt": "2026-09-17T02:23:10.403Z",
+      "url": "https://toss.im/_m/fGYFn6Iu",
+      "image": "assets/products/43fa44dca7a480d8c90a.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-17T02:23:10.403Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T09:48:35.651Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T09:47:25.043Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T05:30:34.736Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-18T12:58:06.107Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:155697855|n:햇반 윤기가득쌀밥, 210g, 36개",
       "source": "toss",
@@ -6899,35 +6932,6 @@
         {
           "price": 29790,
           "observedAt": "2026-09-03T10:12:37.514Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:287285881|n:뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-      "source": "toss",
-      "name": "뷰카 오브제 듀얼 초미세 탄력모 칫솔, 18개입, 1개",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T09:48:35.651Z",
-      "url": "https://toss.im/_m/fGYFn6Iu",
-      "image": "assets/products/43fa44dca7a480d8c90a.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-03T09:48:35.651Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-03T09:47:25.043Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-03T05:30:34.736Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-08-18T12:58:06.107Z"
         }
       ]
     },
