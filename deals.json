@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-17T12:05:59.438Z",
+  "updatedAt": "2026-09-17T12:17:59.289Z",
   "deals": [
+    {
+      "id": "toss:p:630266045|n:훈제 점보 통 닭다리, 250g, 10팩",
+      "source": "toss",
+      "name": "훈제 점보 통 닭다리, 250g, 10팩",
+      "price": 26900,
+      "listPrice": 39900,
+      "observedAt": "2026-09-17T12:17:49.434Z",
+      "url": "https://toss.im/_m/zlED9FPf",
+      "image": "assets/products/2fdafa0891e506af4e86.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26900,
+          "observedAt": "2026-09-17T12:17:49.434Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
       "source": "toss",
