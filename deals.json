@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T10:16:19.961Z",
+  "updatedAt": "2026-09-18T10:50:18.918Z",
   "deals": [
+    {
+      "id": "toss:p:2665433493|n:발라봄 속건조 히알 듀얼나노엑소좀 청아 앰플, 40ml, 1개",
+      "source": "toss",
+      "name": "발라봄 속건조 히알 듀얼나노엑소좀 청아 앰플, 40ml, 1개",
+      "price": 21900,
+      "listPrice": null,
+      "observedAt": "2026-09-18T10:49:00.855Z",
+      "url": "https://toss.im/_m/F1x2cNKa",
+      "image": "assets/products/c023efc4ac35b9127430.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-09-18T10:49:00.855Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:582840323|n:목이버섯 장아찌, 1kg, 1개",
       "source": "toss",
