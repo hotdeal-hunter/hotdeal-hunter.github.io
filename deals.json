@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-18T07:21:02.297Z",
+  "updatedAt": "2026-09-18T08:13:28.069Z",
   "deals": [
+    {
+      "id": "toss:p:151411627|n:대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
+      "source": "toss",
+      "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
+      "price": 13900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-18T08:12:04.514Z",
+      "url": "https://toss.im/_m/ZQrmm762",
+      "image": "assets/products/efb769a6cf5172229f69.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-18T08:12:04.514Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-18T08:04:01.608Z",
+      "url": "https://toss.im/_m/p3pa9Nt9",
+      "image": "assets/products/5f6aab195331f8a62725.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T08:04:01.608Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T06:14:09.386Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T08:20:22.217Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T07:51:18.040Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:352707723|n:코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
       "source": "toss",
@@ -48,31 +94,6 @@
         {
           "price": 8990,
           "observedAt": "2026-08-25T06:08:24.313Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "source": "toss",
-      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-18T06:14:09.386Z",
-      "url": "https://toss.im/_m/p3pa9Nt9",
-      "image": "assets/products/5f6aab195331f8a62725.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T06:14:09.386Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T08:20:22.217Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T07:51:18.040Z"
         }
       ]
     },
