@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-18T06:15:43.924Z",
+  "updatedAt": "2026-09-18T07:21:02.297Z",
   "deals": [
+    {
+      "id": "toss:p:352707723|n:코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
+      "source": "toss",
+      "name": "코피코 커피맛 캔디 블리스터 팩, 32g, 12개입, 1박스",
+      "price": 9490,
+      "listPrice": 12000,
+      "observedAt": "2026-09-18T07:20:51.363Z",
+      "url": "https://toss.im/_m/z2xxdCcq",
+      "image": "assets/products/5c42e6257243eae8f420.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-09-18T07:20:51.363Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-18T06:47:15.452Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T06:47:15.452Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:02:53.879Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:01:44.315Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
       "source": "toss",
@@ -170,35 +220,6 @@
         {
           "price": 8990,
           "observedAt": "2026-09-18T02:10:46.178Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-18T03:02:53.879Z",
-      "url": "https://toss.im/_m/FfYhvmlm",
-      "image": "assets/products/0aec288a2657b25b3611.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:02:53.879Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:01:44.315Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.637Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.313Z"
         }
       ]
     },
