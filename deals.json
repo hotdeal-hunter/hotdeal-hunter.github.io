@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-18T01:22:42.637Z",
+  "updatedAt": "2026-09-18T01:33:27.728Z",
   "deals": [
+    {
+      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
+      "source": "toss",
+      "name": "풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-18T01:33:23.015Z",
+      "url": "https://toss.im/_m/lwdjjFp8",
+      "image": "assets/products/bfcfaebcd50a913d8f80.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-18T01:33:23.015Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T08:36:32.752Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T07:18:14.196Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T04:54:21.047Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T03:47:12.659Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
       "source": "toss",
@@ -16457,35 +16490,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-20T09:11:06.141Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
-      "source": "toss",
-      "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
-      "price": 11050,
-      "listPrice": null,
-      "observedAt": "2026-08-20T08:36:32.752Z",
-      "url": "https://toss.im/_m/lwdjjFp8",
-      "image": "assets/products/5a739411792c67228c6a.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 11050,
-          "observedAt": "2026-08-20T08:36:32.752Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-20T07:18:14.196Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T04:54:21.047Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T03:47:12.659Z"
         }
       ]
     },
