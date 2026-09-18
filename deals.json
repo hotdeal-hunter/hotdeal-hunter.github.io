@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-18T09:12:44.521Z",
+  "updatedAt": "2026-09-18T09:48:10.119Z",
   "deals": [
+    {
+      "id": "toss:p:2463027951|n:하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
+      "source": "toss",
+      "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-18T09:46:37.696Z",
+      "url": "https://toss.im/_m/rO64NhYq",
+      "image": "assets/products/5295e8d01e9569186cc5.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-18T09:46:37.696Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-18T09:46:37.557Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-18T04:04:32.149Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:91990287|n:바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",
       "source": "toss",
@@ -262,23 +287,6 @@
         {
           "price": 16500,
           "observedAt": "2026-09-01T05:28:26.884Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2463027951|n:하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-      "source": "toss",
-      "name": "하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-18T04:04:32.149Z",
-      "url": "https://toss.im/_m/rO64NhYq",
-      "image": "assets/products/5295e8d01e9569186cc5.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-18T04:04:32.149Z"
         }
       ]
     },
