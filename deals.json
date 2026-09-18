@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T00:37:19.813Z",
+  "updatedAt": "2026-09-18T01:22:42.637Z",
   "deals": [
+    {
+      "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "source": "toss",
+      "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "price": 6860,
+      "listPrice": null,
+      "observedAt": "2026-09-18T01:20:54.128Z",
+      "url": "https://toss.im/_m/7VOCHZRk",
+      "image": "assets/products/c9eb2827795aad856dec.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T01:20:54.128Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2568209885|n:샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
       "source": "toss",
