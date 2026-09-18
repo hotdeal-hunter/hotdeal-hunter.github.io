@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-18T03:01:30.019Z",
+  "updatedAt": "2026-09-18T03:04:36.035Z",
   "deals": [
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-18T03:02:53.879Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:02:53.879Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:01:44.315Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:693289701|n:뷰카 클래식 고불소 구취 케어 치약, 아쿠아 민트향, 110g, 4개",
       "source": "toss",
@@ -13289,27 +13318,6 @@
         {
           "price": 13500,
           "observedAt": "2026-08-25T07:01:40.158Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 8990,
-      "listPrice": null,
-      "observedAt": "2026-08-25T06:08:24.637Z",
-      "url": "https://toss.im/_m/FfYhvmlm",
-      "image": "assets/products/0aec288a2657b25b3611.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.637Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.313Z"
         }
       ]
     },
