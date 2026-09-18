@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T01:33:27.728Z",
+  "updatedAt": "2026-09-18T02:12:20.513Z",
   "deals": [
+    {
+      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
+      "source": "toss",
+      "name": "한우 사골 도가니탕, 500g, 5팩",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-09-18T02:10:46.178Z",
+      "url": "https://toss.im/_m/vjQb5olm",
+      "image": "assets/products/00ee6ceac2c77c4531a9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T02:10:46.178Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
       "source": "toss",
