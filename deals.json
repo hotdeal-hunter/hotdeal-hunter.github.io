@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T09:05:23.193Z",
+  "updatedAt": "2026-09-18T09:12:44.521Z",
   "deals": [
+    {
+      "id": "toss:p:91990287|n:바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",
+      "source": "toss",
+      "name": "바스 차량용 탈취제 컴팩트, 코튼향, 140g, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-18T09:11:24.017Z",
+      "url": "https://toss.im/_m/bkclH5As",
+      "image": "assets/products/8b17aad7e6fcd2743a1b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-18T09:11:24.017Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:162254533|n:동원샘물 생수, 라벨랜덤, 2l, 6개",
       "source": "toss",
