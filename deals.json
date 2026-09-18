@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-18T04:28:34.190Z",
+  "updatedAt": "2026-09-18T04:38:03.414Z",
   "deals": [
+    {
+      "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
+      "source": "toss",
+      "name": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-18T04:36:45.709Z",
+      "url": "https://toss.im/_m/B4fehJe1",
+      "image": "assets/products/3676bdf3c08907d9c397.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.709Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.439Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
       "source": "toss",
