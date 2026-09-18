@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-17T23:53:25.418Z",
+  "updatedAt": "2026-09-18T00:37:19.813Z",
   "deals": [
+    {
+      "id": "toss:p:2568209885|n:샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
+      "source": "toss",
+      "name": "샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
+      "price": 6000,
+      "listPrice": null,
+      "observedAt": "2026-09-18T00:35:44.955Z",
+      "url": "https://toss.im/_m/HMFbECNa",
+      "image": "assets/products/34ccbcd4dd2b6cb8044a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6000,
+          "observedAt": "2026-09-18T00:35:44.955Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2634936417|n:필라델피아 크림치즈 미니, 41g, 16개",
       "source": "toss",
       "name": "필라델피아 크림치즈 미니, 41g, 16개",
       "price": 8500,
       "listPrice": null,
-      "observedAt": "2026-09-17T23:53:18.530Z",
+      "observedAt": "2026-09-18T00:13:26.838Z",
       "url": "https://toss.im/_m/tlE6mnWl",
       "image": "assets/products/4507b82fbfed4d829c4e.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:13:26.838Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:12:16.469Z"
+        },
         {
           "price": 8500,
           "observedAt": "2026-09-17T23:53:18.530Z"
@@ -5632,23 +5657,6 @@
         {
           "price": 27900,
           "observedAt": "2026-08-25T10:33:24.515Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:282544349|n:샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
-      "source": "toss",
-      "name": "샐리의법칙 트리플 순면이좋은날 생리대, 중형, 16매, 5팩",
-      "price": 7990,
-      "listPrice": null,
-      "observedAt": "2026-09-06T02:54:10.381Z",
-      "url": "https://toss.im/_m/heOeXoBd",
-      "image": "assets/products/632e0c27dd047d5cd226.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7990,
-          "observedAt": "2026-09-06T02:54:10.381Z"
         }
       ]
     },
