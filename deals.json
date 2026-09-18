@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T04:55:58.683Z",
+  "updatedAt": "2026-09-18T05:27:30.275Z",
   "deals": [
+    {
+      "id": "toss:p:269834091|n:양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란, 60구, 1박스",
+      "source": "toss",
+      "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란, 60구, 1박스",
+      "price": 33000,
+      "listPrice": 49300,
+      "observedAt": "2026-09-18T05:27:20.429Z",
+      "url": "https://toss.im/_m/ZPAkDpu7",
+      "image": "assets/products/461dacb5a692c3f82fd9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 33000,
+          "observedAt": "2026-09-18T05:27:20.429Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
       "source": "toss",
@@ -9168,23 +9185,6 @@
         {
           "price": 11620,
           "observedAt": "2026-08-31T01:39:35.901Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:269834089|n:양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란 달걀, 40구, 1박스",
-      "source": "toss",
-      "name": "양계장청년 난각1번 자연방사 상황버섯 먹여 키운 무항생제 유정란 달걀, 40구, 1박스",
-      "price": 22500,
-      "listPrice": 32200,
-      "observedAt": "2026-08-31T01:27:31.782Z",
-      "url": "https://toss.im/_m/ZRx06aFp",
-      "image": "assets/products/ba147a11851207fa82b5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 22500,
-          "observedAt": "2026-08-31T01:27:31.782Z"
         }
       ]
     },
