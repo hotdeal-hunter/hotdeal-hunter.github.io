@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T12:15:00.180Z",
+  "updatedAt": "2026-09-18T12:17:30.864Z",
   "deals": [
+    {
+      "id": "toss:p:282534643|n:산과들에 하루견과 마이포켓넛츠, 20g, 50봉",
+      "source": "toss",
+      "name": "산과들에 하루견과 마이포켓넛츠, 20g, 50봉",
+      "price": 14900,
+      "listPrice": 22000,
+      "observedAt": "2026-09-18T12:17:20.796Z",
+      "url": "https://toss.im/_m/NDPNKoze",
+      "image": "assets/products/648384cadfc4cdba399e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-18T12:17:20.796Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81428401|n:앙쥬 24k 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
       "source": "toss",
