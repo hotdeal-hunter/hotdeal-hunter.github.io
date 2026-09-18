@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-18T02:12:20.513Z",
+  "updatedAt": "2026-09-18T02:28:55.630Z",
   "deals": [
+    {
+      "id": "toss:p:480512523|n:순삭 떡볶이, 보통맛, 200g, 5팩",
+      "source": "toss",
+      "name": "순삭 떡볶이, 보통맛, 200g, 5팩",
+      "price": 8500,
+      "listPrice": 20900,
+      "observedAt": "2026-09-18T02:28:45.686Z",
+      "url": "https://toss.im/_m/Jo2XySHj",
+      "image": "assets/products/ef3d927092341d95cd0c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T02:28:45.686Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "source": "toss",
+      "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "price": 6860,
+      "listPrice": null,
+      "observedAt": "2026-09-18T02:16:06.520Z",
+      "url": "https://toss.im/_m/7VOCHZRk",
+      "image": "assets/products/c9eb2827795aad856dec.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T02:16:06.520Z"
+        },
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T01:20:54.128Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
       "source": "toss",
@@ -48,23 +86,6 @@
         {
           "price": 11050,
           "observedAt": "2026-08-19T03:47:12.659Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
-      "source": "toss",
-      "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
-      "price": 6860,
-      "listPrice": null,
-      "observedAt": "2026-09-18T01:20:54.128Z",
-      "url": "https://toss.im/_m/7VOCHZRk",
-      "image": "assets/products/c9eb2827795aad856dec.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6860,
-          "observedAt": "2026-09-18T01:20:54.128Z"
         }
       ]
     },
