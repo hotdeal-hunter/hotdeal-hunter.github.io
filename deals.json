@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-18T12:05:57.843Z",
+  "updatedAt": "2026-09-18T12:15:00.180Z",
   "deals": [
+    {
+      "id": "toss:p:81428401|n:앙쥬 24k 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
+      "source": "toss",
+      "name": "앙쥬 24K 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
+      "price": 36000,
+      "listPrice": null,
+      "observedAt": "2026-09-18T12:13:14.111Z",
+      "url": "https://toss.im/_m/Fo4Roseg",
+      "image": "assets/products/6fc8aa709f4b8d41465c.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 36000,
+          "observedAt": "2026-09-18T12:13:14.111Z"
+        },
+        {
+          "price": 36000,
+          "observedAt": "2026-09-18T12:13:13.974Z"
+        },
+        {
+          "price": 36000,
+          "observedAt": "2026-09-17T04:27:39.773Z"
+        },
+        {
+          "price": 36000,
+          "observedAt": "2026-09-17T02:52:19.936Z"
+        },
+        {
+          "price": 35900,
+          "observedAt": "2026-09-13T02:52:58.611Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2664022831|n:이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
       "source": "toss",
@@ -760,31 +793,6 @@
         {
           "price": 13900,
           "observedAt": "2026-09-17T06:01:29.318Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:81428401|n:앙쥬 24k 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
-      "source": "toss",
-      "name": "앙쥬 24K 골드 스킨케어 8종세트, 쇼핑백 증정, 1세트",
-      "price": 36000,
-      "listPrice": null,
-      "observedAt": "2026-09-17T04:27:39.773Z",
-      "url": "https://toss.im/_m/Fo4Roseg",
-      "image": "assets/products/6fc8aa709f4b8d41465c.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 36000,
-          "observedAt": "2026-09-17T04:27:39.773Z"
-        },
-        {
-          "price": 36000,
-          "observedAt": "2026-09-17T02:52:19.936Z"
-        },
-        {
-          "price": 35900,
-          "observedAt": "2026-09-13T02:52:58.611Z"
         }
       ]
     },
