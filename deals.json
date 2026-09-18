@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-18T10:50:18.918Z",
+  "updatedAt": "2026-09-18T12:05:57.843Z",
   "deals": [
+    {
+      "id": "toss:p:2664022831|n:이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
+      "source": "toss",
+      "name": "이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
+      "price": 6190,
+      "listPrice": null,
+      "observedAt": "2026-09-18T12:04:22.315Z",
+      "url": "https://toss.im/_m/HnhGUHgx",
+      "image": "assets/products/5e7edee090fff8ceda0d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6190,
+          "observedAt": "2026-09-18T12:04:22.315Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:151411627|n:대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
+      "source": "toss",
+      "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-09-18T11:01:02.484Z",
+      "url": "https://toss.im/_m/ZQrmm762",
+      "image": "assets/products/efb769a6cf5172229f69.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-18T11:01:02.484Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-09-18T08:12:04.514Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665433493|n:발라봄 속건조 히알 듀얼나노엑소좀 청아 앰플, 40ml, 1개",
       "source": "toss",
@@ -116,23 +154,6 @@
         {
           "price": 6990,
           "observedAt": "2026-08-26T01:37:12.418Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:151411627|n:대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
-      "source": "toss",
-      "name": "대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
-      "price": 13900,
-      "listPrice": 30000,
-      "observedAt": "2026-09-18T08:12:04.514Z",
-      "url": "https://toss.im/_m/ZQrmm762",
-      "image": "assets/products/efb769a6cf5172229f69.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13900,
-          "observedAt": "2026-09-18T08:12:04.514Z"
         }
       ]
     },
