@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-18T02:28:55.630Z",
+  "updatedAt": "2026-09-18T03:01:30.019Z",
   "deals": [
+    {
+      "id": "toss:p:693289701|n:뷰카 클래식 고불소 구취 케어 치약, 아쿠아 민트향, 110g, 4개",
+      "source": "toss",
+      "name": "뷰카 클래식 고불소 구취 케어 치약, 아쿠아 민트향, 110g, 4개",
+      "price": 9900,
+      "listPrice": 20900,
+      "observedAt": "2026-09-18T03:00:06.476Z",
+      "url": "https://toss.im/_m/TJgZfknw",
+      "image": "assets/products/2fa603f53dcb3a577b64.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-18T03:00:06.476Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-18T03:00:06.101Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:480512523|n:순삭 떡볶이, 보통맛, 200g, 5팩",
       "source": "toss",
