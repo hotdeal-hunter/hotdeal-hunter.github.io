@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-18T08:13:28.069Z",
+  "updatedAt": "2026-09-18T08:41:48.050Z",
   "deals": [
+    {
+      "id": "toss:p:149938367|n:자동 변기세정제 맥스, 320g, 4개",
+      "source": "toss",
+      "name": "자동 변기세정제 맥스, 320g, 4개",
+      "price": 6990,
+      "listPrice": 14900,
+      "observedAt": "2026-09-18T08:40:24.732Z",
+      "url": "https://toss.im/_m/bUgR6xKy",
+      "image": "assets/products/7ab9e64aa80a7055d059.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-18T08:40:24.732Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-08-26T01:37:12.418Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:151411627|n:대한 쭈꾸미볶음, 보통맛, 300g, 2팩",
       "source": "toss",
@@ -13025,23 +13046,6 @@
         {
           "price": 7990,
           "observedAt": "2026-08-26T02:34:24.995Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:149938367|n:자동 변기세정제 맥스, 320g, 4개",
-      "source": "toss",
-      "name": "자동 변기세정제 맥스, 320g, 4개",
-      "price": 6990,
-      "listPrice": 14900,
-      "observedAt": "2026-08-26T01:37:12.418Z",
-      "url": "https://toss.im/_m/bUgR6xKy",
-      "image": "assets/products/7ab9e64aa80a7055d059.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-08-26T01:37:12.418Z"
         }
       ]
     },
