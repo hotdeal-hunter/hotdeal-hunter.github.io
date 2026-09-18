@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T09:48:10.119Z",
+  "updatedAt": "2026-09-18T10:16:19.961Z",
   "deals": [
+    {
+      "id": "toss:p:582840323|n:목이버섯 장아찌, 1kg, 1개",
+      "source": "toss",
+      "name": "목이버섯 장아찌, 1kg, 1개",
+      "price": 8900,
+      "listPrice": 15900,
+      "observedAt": "2026-09-18T10:16:09.800Z",
+      "url": "https://toss.im/_m/fk6E2yix",
+      "image": "assets/products/88582d1460354ec84884.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-18T10:16:09.800Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2463027951|n:하루한콩 구운 병아리콩, 군옥수수맛, 15g, 22개입, 1개",
       "source": "toss",
