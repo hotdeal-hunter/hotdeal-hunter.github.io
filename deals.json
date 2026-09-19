@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T12:59:13.812Z",
+  "updatedAt": "2026-09-19T13:03:38.805Z",
   "deals": [
+    {
+      "id": "toss:p:2277258473|n:딘시 비건 마일드 선크림, spf50+pa++++, 50ml, 1개",
+      "source": "toss",
+      "name": "딘시 비건 마일드 선크림, SPF50+PA++++, 50ml, 1개",
+      "price": 3400,
+      "listPrice": null,
+      "observedAt": "2026-09-19T13:01:57.418Z",
+      "url": "https://toss.im/_m/HZP8k4ry",
+      "image": "assets/products/6eeffc11f269555f2c39.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3400,
+          "observedAt": "2026-09-19T13:01:57.418Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2387653819|n:도가니탕의 정석, 500g, 5개",
       "source": "toss",
