@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T04:09:50.286Z",
+  "updatedAt": "2026-09-19T04:29:05.069Z",
   "deals": [
+    {
+      "id": "toss:p:2671005115|n:광양농협 썬샤인 광양 좋은쌀, 20kg, 1개",
+      "source": "toss",
+      "name": "광양농협 썬샤인 광양 좋은쌀, 20kg, 1개",
+      "price": 38800,
+      "listPrice": null,
+      "observedAt": "2026-09-19T04:28:57.367Z",
+      "url": "https://toss.im/_m/P4ID4nGC",
+      "image": "assets/products/54ff5d3435184a8b8f5f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 38800,
+          "observedAt": "2026-09-19T04:28:57.367Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
       "source": "toss",
