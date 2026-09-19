@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T01:45:35.086Z",
+  "updatedAt": "2026-09-19T02:30:36.303Z",
   "deals": [
+    {
+      "id": "toss:p:813877077|n:라버비 초고농축 건조기시트, 허그코튼, 120매입, 2개",
+      "source": "toss",
+      "name": "라버비 초고농축 건조기시트, 허그코튼, 120매입, 2개",
+      "price": 15900,
+      "listPrice": 79600,
+      "observedAt": "2026-09-19T02:29:11.481Z",
+      "url": "https://toss.im/_m/zmI9BI8q",
+      "image": "assets/products/61fd7935d201004e6f26.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-19T02:29:11.481Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1745762463|n:썬키스트 코코피치, 300ml, 20개",
       "source": "toss",
