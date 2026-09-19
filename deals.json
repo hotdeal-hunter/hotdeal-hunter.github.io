@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T01:34:39.300Z",
+  "updatedAt": "2026-09-19T01:45:35.086Z",
   "deals": [
+    {
+      "id": "toss:p:1745762463|n:썬키스트 코코피치, 300ml, 20개",
+      "source": "toss",
+      "name": "썬키스트 코코피치, 300ml, 20개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-19T01:44:14.321Z",
+      "url": "https://toss.im/_m/BuOuYWE3",
+      "image": "assets/products/86baf8e9b8e966ba08aa.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T01:44:14.321Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78009791|n:비비고 왕교자, 1.05kg, 3개",
       "source": "toss",
