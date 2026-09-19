@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-19T06:36:11.835Z",
+  "updatedAt": "2026-09-19T06:59:03.402Z",
   "deals": [
+    {
+      "id": "toss:p:99546995|n:대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+      "source": "toss",
+      "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
+      "price": 9900,
+      "listPrice": 18900,
+      "observedAt": "2026-09-19T06:57:38.638Z",
+      "url": "https://toss.im/_m/JTj1Lwsy",
+      "image": "assets/products/82544dbe3eab0287eccb.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T06:57:38.638Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-03T12:57:38.819Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
       "source": "toss",
@@ -7751,23 +7772,6 @@
         {
           "price": 8700,
           "observedAt": "2026-09-03T13:00:28.754Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:99546995|n:대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
-      "source": "toss",
-      "name": "대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T12:57:38.819Z",
-      "url": "https://toss.im/_m/JTj1Lwsy",
-      "image": "assets/products/82544dbe3eab0287eccb.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-09-03T12:57:38.819Z"
         }
       ]
     },
