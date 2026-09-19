@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T11:12:49.689Z",
+  "updatedAt": "2026-09-19T11:38:53.501Z",
   "deals": [
+    {
+      "id": "toss:p:2656611391|n:문천식의 가마솥 특 소곱창전골, 700g, 3개",
+      "source": "toss",
+      "name": "문천식의 가마솥 특 소곱창전골, 700g, 3개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-19T11:36:52.092Z",
+      "url": "https://toss.im/_m/dNorVs6A",
+      "image": "assets/products/34e02c8580bb479305ae.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-19T11:36:52.092Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1143215759|n:아미고 나쵸 그랩앤고 치즈콤보, 100g, 6입",
       "source": "toss",
