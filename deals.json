@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-19T06:59:03.402Z",
+  "updatedAt": "2026-09-19T08:36:30.573Z",
   "deals": [
+    {
+      "id": "toss:p:1482258049|n:펩시 클리어 스퀘어 데스크 선풍기 pep-zero33, 화이트, 1개",
+      "source": "toss",
+      "name": "펩시 클리어 스퀘어 데스크 선풍기 PEP-ZERO33, 화이트, 1개",
+      "price": 4900,
+      "listPrice": 39900,
+      "observedAt": "2026-09-19T08:36:08.350Z",
+      "url": "https://toss.im/_m/VASRSx76",
+      "image": "assets/products/b5dcb9d6e062c260ef7b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-19T08:36:08.350Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:78009791|n:비비고 왕교자, 1.05kg, 3개",
+      "source": "toss",
+      "name": "비비고 왕교자, 1.05kg, 3개",
+      "price": 25555,
+      "listPrice": null,
+      "observedAt": "2026-09-19T08:33:52.066Z",
+      "url": "https://toss.im/_m/BnAcn283",
+      "image": "assets/products/2871318386d267db850a.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 25555,
+          "observedAt": "2026-09-19T08:33:52.066Z"
+        },
+        {
+          "price": 25555,
+          "observedAt": "2026-09-19T01:31:49.828Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:99546995|n:대박농수산 제주 햇 브로콜리, 특품, 1kg, 1박스",
       "source": "toss",
@@ -318,23 +356,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-19T01:44:14.321Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:78009791|n:비비고 왕교자, 1.05kg, 3개",
-      "source": "toss",
-      "name": "비비고 왕교자, 1.05kg, 3개",
-      "price": 25555,
-      "listPrice": 44900,
-      "observedAt": "2026-09-19T01:31:49.828Z",
-      "url": "https://toss.im/_m/BnAcn283",
-      "image": "assets/products/2871318386d267db850a.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 25555,
-          "observedAt": "2026-09-19T01:31:49.828Z"
         }
       ]
     },
