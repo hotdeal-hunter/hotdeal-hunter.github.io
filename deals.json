@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T00:14:04.689Z",
+  "updatedAt": "2026-09-19T00:42:39.830Z",
   "deals": [
+    {
+      "id": "toss:p:1132535611|n:풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+      "source": "toss",
+      "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+      "price": 6500,
+      "listPrice": null,
+      "observedAt": "2026-09-19T00:41:05.842Z",
+      "url": "https://toss.im/_m/PjhX0aQa",
+      "image": "assets/products/7a6694b7fb63dc054b1e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-09-19T00:41:05.842Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
       "source": "toss",
