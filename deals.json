@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T02:30:36.303Z",
+  "updatedAt": "2026-09-19T02:43:01.281Z",
   "deals": [
+    {
+      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
+      "price": 5950,
+      "listPrice": null,
+      "observedAt": "2026-09-19T02:41:26.792Z",
+      "url": "https://toss.im/_m/P0Ennavs",
+      "image": "assets/products/b58e6e575fa11fc98721.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-09-19T02:41:26.792Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:813877077|n:라버비 초고농축 건조기시트, 허그코튼, 120매입, 2개",
       "source": "toss",
