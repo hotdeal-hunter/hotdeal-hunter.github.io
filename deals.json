@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-19T04:00:37.745Z",
+  "updatedAt": "2026-09-19T04:09:50.286Z",
   "deals": [
+    {
+      "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
+      "source": "toss",
+      "name": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-19T04:08:00.771Z",
+      "url": "https://toss.im/_m/B4fehJe1",
+      "image": "assets/products/9e3e9509ca661b3fd899.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-19T04:08:00.771Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.709Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.439Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2274662771|n:소소락 시대 순살 돈까스, 130g, 10개",
       "source": "toss",
@@ -920,27 +945,6 @@
         {
           "price": 33000,
           "observedAt": "2026-09-18T05:27:20.429Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
-      "source": "toss",
-      "name": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
-      "price": 8330,
-      "listPrice": null,
-      "observedAt": "2026-09-18T04:36:45.709Z",
-      "url": "https://toss.im/_m/B4fehJe1",
-      "image": "assets/products/3676bdf3c08907d9c397.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-18T04:36:45.709Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-18T04:36:45.439Z"
         }
       ]
     },
