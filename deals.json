@@ -1,20 +1,53 @@
 {
-  "updatedAt": "2026-09-19T02:43:01.281Z",
+  "updatedAt": "2026-09-19T02:50:27.225Z",
   "deals": [
     {
       "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
       "source": "toss",
       "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
-      "price": 5950,
+      "price": 1488,
       "listPrice": null,
-      "observedAt": "2026-09-19T02:41:26.792Z",
+      "observedAt": "2026-09-19T02:50:20.064Z",
       "url": "https://toss.im/_m/P0Ennavs",
       "image": "assets/products/b58e6e575fa11fc98721.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 1488,
+          "observedAt": "2026-09-19T02:50:20.064Z"
+        },
         {
           "price": 5950,
           "observedAt": "2026-09-19T02:41:26.792Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
+      "source": "toss",
+      "name": "한우 사골 도가니탕, 500g, 5팩",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-09-19T02:45:39.728Z",
+      "url": "https://toss.im/_m/vjQb5olm",
+      "image": "assets/products/00ee6ceac2c77c4531a9.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-09-19T02:45:39.728Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T23:00:42.241Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T03:13:31.372Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T02:10:46.178Z"
         }
       ]
     },
@@ -255,31 +288,6 @@
         {
           "price": 10500,
           "observedAt": "2026-09-09T07:51:18.040Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
-      "source": "toss",
-      "name": "한우 사골 도가니탕, 500g, 5팩",
-      "price": 8990,
-      "listPrice": null,
-      "observedAt": "2026-09-18T23:00:42.241Z",
-      "url": "https://toss.im/_m/vjQb5olm",
-      "image": "assets/products/00ee6ceac2c77c4531a9.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T23:00:42.241Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T03:13:31.372Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T02:10:46.178Z"
         }
       ]
     },
