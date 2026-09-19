@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T01:10:57.723Z",
+  "updatedAt": "2026-09-19T01:27:53.036Z",
   "deals": [
     {
       "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
@@ -7,11 +7,15 @@
       "name": "고주바 중멸치, 1.5kg, 1개",
       "price": 7000,
       "listPrice": null,
-      "observedAt": "2026-09-19T01:10:50.869Z",
+      "observedAt": "2026-09-19T01:26:18.939Z",
       "url": "https://toss.im/_m/7PpYdswy",
       "image": "assets/products/953ccc911ab87da77583.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:26:18.939Z"
+        },
         {
           "price": 7000,
           "observedAt": "2026-09-19T01:10:50.869Z"
