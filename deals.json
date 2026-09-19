@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-18T23:11:44.299Z",
+  "updatedAt": "2026-09-19T00:14:04.689Z",
   "deals": [
+    {
+      "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
+      "source": "toss",
+      "name": "화과방 큐빅양갱, 40g, 24개입, 1개",
+      "price": 9000,
+      "listPrice": null,
+      "observedAt": "2026-09-19T00:13:57.059Z",
+      "url": "https://toss.im/_m/NpMkSXJ3",
+      "image": "assets/products/e29157b3ecb05c0ce8b0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-19T00:13:57.059Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
       "source": "toss",
