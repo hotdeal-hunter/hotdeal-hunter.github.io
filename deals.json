@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-19T23:02:39.264Z",
+  "updatedAt": "2026-09-19T23:11:48.819Z",
   "deals": [
+    {
+      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
+      "source": "toss",
+      "name": "고주바 중멸치, 1.5kg, 1개",
+      "price": 7000,
+      "listPrice": null,
+      "observedAt": "2026-09-19T23:11:17.889Z",
+      "url": "https://toss.im/_m/7PpYdswy",
+      "image": "assets/products/953ccc911ab87da77583.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.889Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.730Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:26:18.939Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:10:50.869Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
+      "source": "toss",
+      "name": "화과방 큐빅양갱, 40g, 24개입, 1개",
+      "price": 9000,
+      "listPrice": null,
+      "observedAt": "2026-09-19T23:03:55.376Z",
+      "url": "https://toss.im/_m/NpMkSXJ3",
+      "image": "assets/products/e29157b3ecb05c0ce8b0.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-19T23:03:55.376Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-09-19T00:13:57.059Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:84698347|n:웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
       "source": "toss",
@@ -708,44 +758,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-04T01:08:43.449Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
-      "source": "toss",
-      "name": "고주바 중멸치, 1.5kg, 1개",
-      "price": 7000,
-      "listPrice": null,
-      "observedAt": "2026-09-19T01:26:18.939Z",
-      "url": "https://toss.im/_m/7PpYdswy",
-      "image": "assets/products/953ccc911ab87da77583.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:26:18.939Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:10:50.869Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
-      "source": "toss",
-      "name": "화과방 큐빅양갱, 40g, 24개입, 1개",
-      "price": 9000,
-      "listPrice": null,
-      "observedAt": "2026-09-19T00:13:57.059Z",
-      "url": "https://toss.im/_m/NpMkSXJ3",
-      "image": "assets/products/e29157b3ecb05c0ce8b0.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9000,
-          "observedAt": "2026-09-19T00:13:57.059Z"
         }
       ]
     },
