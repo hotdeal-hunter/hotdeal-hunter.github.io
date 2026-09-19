@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T05:24:15.536Z",
+  "updatedAt": "2026-09-19T05:48:23.715Z",
   "deals": [
+    {
+      "id": "toss:p:1089671253|n:터치 프리미엄 워싱소다, 5kg, 1팩",
+      "source": "toss",
+      "name": "터치 프리미엄 워싱소다, 5kg, 1팩",
+      "price": 6900,
+      "listPrice": 15900,
+      "observedAt": "2026-09-19T05:46:58.763Z",
+      "url": "https://toss.im/_m/Zlz32Qt2",
+      "image": "assets/products/ef2b304e6639ac07a910.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-19T05:46:58.763Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2470557021|n:복음자리 식물성 크림치즈, 딸기 190g 1개 + 블루베리 190g 1개, 2개",
       "source": "toss",
