@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-19T04:29:05.069Z",
+  "updatedAt": "2026-09-19T05:24:15.536Z",
   "deals": [
+    {
+      "id": "toss:p:2470557021|n:복음자리 식물성 크림치즈, 딸기 190g 1개 + 블루베리 190g 1개, 2개",
+      "source": "toss",
+      "name": "복음자리 식물성 크림치즈, 딸기 190g 1개 + 블루베리 190g 1개, 2개",
+      "price": 12500,
+      "listPrice": 16000,
+      "observedAt": "2026-09-19T05:22:50.787Z",
+      "url": "https://toss.im/_m/vFCyAuTb",
+      "image": "assets/products/7ce614bd4b138ad1d37f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12500,
+          "observedAt": "2026-09-19T05:22:50.787Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2671005115|n:광양농협 썬샤인 광양 좋은쌀, 20kg, 1개",
       "source": "toss",
       "name": "광양농협 썬샤인 광양 좋은쌀, 20kg, 1개",
       "price": 38800,
       "listPrice": null,
-      "observedAt": "2026-09-19T04:28:57.367Z",
+      "observedAt": "2026-09-19T04:56:46.425Z",
       "url": "https://toss.im/_m/P4ID4nGC",
       "image": "assets/products/54ff5d3435184a8b8f5f.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 38800,
+          "observedAt": "2026-09-19T04:56:46.425Z"
+        },
         {
           "price": 38800,
           "observedAt": "2026-09-19T04:28:57.367Z"
