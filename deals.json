@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T10:44:44.387Z",
+  "updatedAt": "2026-09-19T11:12:49.689Z",
   "deals": [
+    {
+      "id": "toss:p:1143215759|n:아미고 나쵸 그랩앤고 치즈콤보, 100g, 6입",
+      "source": "toss",
+      "name": "아미고 나쵸 그랩앤고 치즈콤보, 100g, 6입",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-09-19T11:11:14.734Z",
+      "url": "https://toss.im/_m/3sURkpBC",
+      "image": "assets/products/17595ed8769b80d08fb7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-09-19T11:11:14.734Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:336188801|n:프로즌 원팩 곱도리탕, 590g, 2개",
       "source": "toss",
