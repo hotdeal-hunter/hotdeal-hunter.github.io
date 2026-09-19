@@ -1,17 +1,63 @@
 {
-  "updatedAt": "2026-09-19T11:38:53.501Z",
+  "updatedAt": "2026-09-19T12:28:23.186Z",
   "deals": [
+    {
+      "id": "toss:p:1045081871|n:샘트리 맛 병아리콩 오리지널, 400g, 1개",
+      "source": "toss",
+      "name": "샘트리 맛 병아리콩 오리지널, 400g, 1개",
+      "price": 9900,
+      "listPrice": 20000,
+      "observedAt": "2026-09-19T12:28:08.158Z",
+      "url": "https://toss.im/_m/TjAxl3Vu",
+      "image": "assets/products/5e880f4d26bdd5a799d7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T12:28:08.158Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T04:34:54.719Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664022831|n:이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
+      "source": "toss",
+      "name": "이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
+      "price": 6190,
+      "listPrice": null,
+      "observedAt": "2026-09-19T12:24:33.952Z",
+      "url": "https://toss.im/_m/HnhGUHgx",
+      "image": "assets/products/5e7edee090fff8ceda0d.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6190,
+          "observedAt": "2026-09-19T12:24:33.952Z"
+        },
+        {
+          "price": 6190,
+          "observedAt": "2026-09-18T12:04:22.315Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2656611391|n:문천식의 가마솥 특 소곱창전골, 700g, 3개",
       "source": "toss",
       "name": "문천식의 가마솥 특 소곱창전골, 700g, 3개",
       "price": 12900,
       "listPrice": null,
-      "observedAt": "2026-09-19T11:36:52.092Z",
+      "observedAt": "2026-09-19T12:01:07.342Z",
       "url": "https://toss.im/_m/dNorVs6A",
       "image": "assets/products/34e02c8580bb479305ae.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-19T12:01:07.342Z"
+        },
         {
           "price": 12900,
           "observedAt": "2026-09-19T11:36:52.092Z"
@@ -878,23 +924,6 @@
         {
           "price": 35900,
           "observedAt": "2026-09-13T02:52:58.611Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664022831|n:이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
-      "source": "toss",
-      "name": "이지앤프리 맛쿡 냉동밥 보관용기, 400ml, 퍼플&오렌지, 24개",
-      "price": 6190,
-      "listPrice": null,
-      "observedAt": "2026-09-18T12:04:22.315Z",
-      "url": "https://toss.im/_m/HnhGUHgx",
-      "image": "assets/products/5e7edee090fff8ceda0d.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6190,
-          "observedAt": "2026-09-18T12:04:22.315Z"
         }
       ]
     },
@@ -13975,23 +14004,6 @@
         {
           "price": 21940,
           "observedAt": "2026-08-25T04:58:13.860Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1045081871|n:샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
-      "source": "toss",
-      "name": "샘트리 맛 병아리콩 오리지널, 개별포장, 400g, 1개",
-      "price": 9900,
-      "listPrice": 20000,
-      "observedAt": "2026-08-25T04:34:54.719Z",
-      "url": "https://toss.im/_m/TjAxl3Vu",
-      "image": "assets/products/410570d26acb55de908d.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-25T04:34:54.719Z"
         }
       ]
     },
