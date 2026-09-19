@@ -1,6 +1,104 @@
 {
-  "updatedAt": "2026-09-19T02:50:27.225Z",
+  "updatedAt": "2026-09-19T04:00:37.745Z",
   "deals": [
+    {
+      "id": "toss:p:2274662771|n:소소락 시대 순살 돈까스, 130g, 10개",
+      "source": "toss",
+      "name": "소소락 시대 순살 돈까스, 130g, 10개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-19T03:59:04.956Z",
+      "url": "https://toss.im/_m/PEysL1TD",
+      "image": "assets/products/d0874922d42c2e9d9245.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-19T03:59:04.956Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:973653061|n:맛꾼 구운란, 대란, 30구, 1개",
+      "source": "toss",
+      "name": "맛꾼 구운란, 대란, 30구, 1개",
+      "price": 12900,
+      "listPrice": 19900,
+      "observedAt": "2026-09-19T03:22:14.498Z",
+      "url": "https://toss.im/_m/jE314FWg",
+      "image": "assets/products/8fbafdea400c25280b56.jpg",
+      "insight": "17회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-19T03:22:14.498Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-17T01:07:46.424Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-16T23:16:30.308Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-16T03:08:44.536Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-16T03:08:44.439Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-15T23:11:19.485Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T23:00:48.235Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.776Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-13T00:45:11.691Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:21:42.423Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T23:01:23.635Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T22:59:57.015Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.346Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-12T01:15:42.158Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T23:01:50.873Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:31:46.821Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-11T01:17:09.735Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
       "source": "toss",
@@ -1398,83 +1496,6 @@
         {
           "price": 8000,
           "observedAt": "2026-09-15T01:50:53.313Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:973653061|n:맛꾼 구운란, 대란, 30구, 1개",
-      "source": "toss",
-      "name": "맛꾼 구운란, 대란, 30구, 1개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-17T01:07:46.424Z",
-      "url": "https://toss.im/_m/jE314FWg",
-      "image": "assets/products/8fbafdea400c25280b56.jpg",
-      "insight": "16회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-17T01:07:46.424Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-16T23:16:30.308Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-16T03:08:44.536Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-16T03:08:44.439Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-15T23:11:19.485Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T23:00:48.235Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.776Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-13T00:45:11.691Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:21:42.423Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T23:01:23.635Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T22:59:57.015Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.346Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-12T01:15:42.158Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T23:01:50.873Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:31:46.821Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-11T01:17:09.735Z"
         }
       ]
     },
