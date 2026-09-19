@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-19T00:42:39.830Z",
+  "updatedAt": "2026-09-19T01:10:57.723Z",
   "deals": [
+    {
+      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
+      "source": "toss",
+      "name": "고주바 중멸치, 1.5kg, 1개",
+      "price": 7000,
+      "listPrice": null,
+      "observedAt": "2026-09-19T01:10:50.869Z",
+      "url": "https://toss.im/_m/7PpYdswy",
+      "image": "assets/products/953ccc911ab87da77583.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:10:50.869Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1132535611|n:풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
       "source": "toss",
