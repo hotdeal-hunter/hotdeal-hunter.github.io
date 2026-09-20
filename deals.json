@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T23:09:48.838Z",
+  "updatedAt": "2026-09-20T23:32:23.857Z",
   "deals": [
+    {
+      "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "source": "toss",
+      "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "price": 8000,
+      "listPrice": null,
+      "observedAt": "2026-09-20T23:31:59.946Z",
+      "url": "https://toss.im/_m/R9U8CgD9",
+      "image": "assets/products/df91cda94a2062b880d0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-20T23:31:59.946Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
       "source": "toss",
