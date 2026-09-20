@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-09-20T02:06:05.707Z",
+  "updatedAt": "2026-09-20T03:34:47.747Z",
   "deals": [
+    {
+      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "source": "toss",
+      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "price": 22900,
+      "listPrice": null,
+      "observedAt": "2026-09-20T03:33:21.512Z",
+      "url": "https://toss.im/_m/HDdsSzdC",
+      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-20T03:33:21.512Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T06:06:13.349Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T05:27:11.725Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:941322045|n:일상미담 한우 1++등급 꼬들안심, 냉동, 200g, 2팩",
+      "source": "toss",
+      "name": "일상미담 한우 1++등급 꼬들안심, 냉동, 200g, 2팩",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-20T03:29:41.587Z",
+      "url": "https://toss.im/_m/9oYt61Sv",
+      "image": "assets/products/5b9941eabf94bc3819dd.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-20T03:29:41.587Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-20T00:34:20.824Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2546242511|n:원김치 쪽파김치, 가정용, 2kg, 1개",
+      "source": "toss",
+      "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+      "price": 9900,
+      "listPrice": 14900,
+      "observedAt": "2026-09-20T02:35:32.363Z",
+      "url": "https://toss.im/_m/1VrbHKKj",
+      "image": "assets/products/2f8f35e552695d23305a.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-20T02:35:32.363Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-12T10:12:01.930Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-10T06:01:26.620Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T23:00:31.441Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2330365531|n:피죤 스프레이 섬유탈취제, 미스틱레인 430ml 1개 + 플라워페스티벌 430ml 1개 + 아이스플라워 430ml 1개, 3개",
       "source": "toss",
@@ -49,23 +124,6 @@
         {
           "price": 19500,
           "observedAt": "2026-09-20T01:27:54.023Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:941322045|n:일상미담 한우 1++등급 꼬들안심, 냉동, 200g, 2팩",
-      "source": "toss",
-      "name": "일상미담 한우 1++등급 꼬들안심, 냉동, 200g, 2팩",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-20T00:34:20.824Z",
-      "url": "https://toss.im/_m/9oYt61Sv",
-      "image": "assets/products/5b9941eabf94bc3819dd.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-20T00:34:20.824Z"
         }
       ]
     },
@@ -4018,31 +4076,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-17T09:55:48.859Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2546242511|n:원김치 쪽파김치, 가정용, 2kg, 1개",
-      "source": "toss",
-      "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-      "price": 9900,
-      "listPrice": 14900,
-      "observedAt": "2026-09-12T10:12:01.930Z",
-      "url": "https://toss.im/_m/1VrbHKKj",
-      "image": "assets/products/2f8f35e552695d23305a.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-12T10:12:01.930Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-10T06:01:26.620Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-03T23:00:31.441Z"
         }
       ]
     },
@@ -9734,27 +9767,6 @@
         {
           "price": 12890,
           "observedAt": "2026-08-31T06:46:38.512Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "source": "toss",
-      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "price": 22900,
-      "listPrice": null,
-      "observedAt": "2026-08-31T06:06:13.349Z",
-      "url": "https://toss.im/_m/HDdsSzdC",
-      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T06:06:13.349Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T05:27:11.725Z"
         }
       ]
     },
