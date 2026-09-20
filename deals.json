@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-09-20T11:12:13.656Z",
+  "updatedAt": "2026-09-20T12:34:54.034Z",
   "deals": [
+    {
+      "id": "toss:p:2666338293|n:제주돼지 갈비맛 양념구이, 1kg, 1개",
+      "source": "toss",
+      "name": "제주돼지 갈비맛 양념구이, 1kg, 1개",
+      "price": 11800,
+      "listPrice": 16900,
+      "observedAt": "2026-09-20T12:34:37.248Z",
+      "url": "https://toss.im/_m/J3qe8X9x",
+      "image": "assets/products/bf40f9d69e73e0e08797.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-09-20T12:34:37.248Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "source": "toss",
+      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "price": 6200,
+      "listPrice": null,
+      "observedAt": "2026-09-20T12:32:20.159Z",
+      "url": "https://toss.im/_m/3dVjSRpe",
+      "image": "assets/products/a335793bbd90c4528ea9.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 6200,
+          "observedAt": "2026-09-20T12:32:20.159Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-19T06:34:46.657Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:37:11.950Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:31:15.474Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-09T10:01:13.636Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-01T10:19:43.738Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-30T23:00:31.560Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "source": "toss",
+      "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
+      "price": 19480,
+      "listPrice": 24900,
+      "observedAt": "2026-09-20T11:56:11.848Z",
+      "url": "https://toss.im/_m/LRHITabg",
+      "image": "assets/products/bba5525df9e1e37a3099.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 19480,
+          "observedAt": "2026-09-20T11:56:11.848Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-14T09:50:58.736Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-02T05:13:41.249Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-08-27T00:57:28.746Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
@@ -789,43 +876,6 @@
         {
           "price": 7900,
           "observedAt": "2026-09-03T12:57:38.819Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "source": "toss",
-      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "price": 6200,
-      "listPrice": 33600,
-      "observedAt": "2026-09-19T06:34:46.657Z",
-      "url": "https://toss.im/_m/3dVjSRpe",
-      "image": "assets/products/a335793bbd90c4528ea9.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 6200,
-          "observedAt": "2026-09-19T06:34:46.657Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:37:11.950Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:31:15.474Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-09T10:01:13.636Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-01T10:19:43.738Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-08-30T23:00:31.560Z"
         }
       ]
     },
@@ -3330,31 +3380,6 @@
         {
           "price": 7300,
           "observedAt": "2026-09-14T08:38:28.946Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:83311609|n:맘스터치 시그니처 치킨텐더, 1kg, 2개",
-      "source": "toss",
-      "name": "맘스터치 시그니처 치킨텐더, 1kg, 2개",
-      "price": 19900,
-      "listPrice": 24900,
-      "observedAt": "2026-09-14T09:50:58.736Z",
-      "url": "https://toss.im/_m/LRHITabg",
-      "image": "assets/products/bba5525df9e1e37a3099.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-14T09:50:58.736Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-02T05:13:41.249Z"
-        },
-        {
-          "price": 18900,
-          "observedAt": "2026-08-27T00:57:28.746Z"
         }
       ]
     },
