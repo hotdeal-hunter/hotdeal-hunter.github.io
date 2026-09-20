@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T00:34:51.740Z",
+  "updatedAt": "2026-09-20T01:29:23.455Z",
   "deals": [
+    {
+      "id": "toss:p:167745387|n:한계란 무항생제 유정란, 난각번호 1번, 40구, 1개",
+      "source": "toss",
+      "name": "한계란 무항생제 유정란, 난각번호 1번, 40구, 1개",
+      "price": 19500,
+      "listPrice": 31900,
+      "observedAt": "2026-09-20T01:27:54.023Z",
+      "url": "https://toss.im/_m/75mVCRpn",
+      "image": "assets/products/20e6e361e7add24b7a18.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19500,
+          "observedAt": "2026-09-20T01:27:54.023Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:941322045|n:일상미담 한우 1++등급 꼬들안심, 냉동, 200g, 2팩",
       "source": "toss",
