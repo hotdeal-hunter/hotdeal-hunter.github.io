@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-19T23:11:48.819Z",
+  "updatedAt": "2026-09-20T00:13:24.842Z",
   "deals": [
+    {
+      "id": "toss:p:77519639|n:농심 안성탕면, 125g, 20개",
+      "source": "toss",
+      "name": "농심 안성탕면, 125g, 20개",
+      "price": 12177,
+      "listPrice": null,
+      "observedAt": "2026-09-20T00:13:12.214Z",
+      "url": "https://toss.im/_m/HJVx1MTo",
+      "image": "assets/products/546d3835e3054e68e4f3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12177,
+          "observedAt": "2026-09-20T00:13:12.214Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:78009791|n:비비고 왕교자, 1.05kg, 3개",
+      "source": "toss",
+      "name": "비비고 왕교자, 1.05kg, 3개",
+      "price": 25650,
+      "listPrice": null,
+      "observedAt": "2026-09-20T00:00:49.920Z",
+      "url": "https://toss.im/_m/BnAcn283",
+      "image": "assets/products/2871318386d267db850a.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 25650,
+          "observedAt": "2026-09-20T00:00:49.920Z"
+        },
+        {
+          "price": 25555,
+          "observedAt": "2026-09-19T08:33:52.066Z"
+        },
+        {
+          "price": 25555,
+          "observedAt": "2026-09-19T01:31:49.828Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
       "source": "toss",
@@ -353,27 +395,6 @@
         {
           "price": 4900,
           "observedAt": "2026-09-19T08:36:08.350Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:78009791|n:비비고 왕교자, 1.05kg, 3개",
-      "source": "toss",
-      "name": "비비고 왕교자, 1.05kg, 3개",
-      "price": 25555,
-      "listPrice": null,
-      "observedAt": "2026-09-19T08:33:52.066Z",
-      "url": "https://toss.im/_m/BnAcn283",
-      "image": "assets/products/2871318386d267db850a.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 25555,
-          "observedAt": "2026-09-19T08:33:52.066Z"
-        },
-        {
-          "price": 25555,
-          "observedAt": "2026-09-19T01:31:49.828Z"
         }
       ]
     },
