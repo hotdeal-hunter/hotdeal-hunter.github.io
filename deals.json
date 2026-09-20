@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-20T04:39:27.770Z",
+  "updatedAt": "2026-09-20T04:42:34.920Z",
   "deals": [
+    {
+      "id": "toss:p:166493497|n:운동화 세탁망, 40x20cm, 2개",
+      "source": "toss",
+      "name": "운동화 세탁망, 40x20cm, 2개",
+      "price": 6800,
+      "listPrice": 13500,
+      "observedAt": "2026-09-20T04:40:53.990Z",
+      "url": "https://toss.im/_m/Zxr180en",
+      "image": "assets/products/a7cebb07dab522002855.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6800,
+          "observedAt": "2026-09-20T04:40:53.990Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654367995|n:칼로쿡 ih 멀티핸들 플레이팅 냄비&팬 9p 세트, 아이보리, 1세트",
       "source": "toss",
       "name": "칼로쿡 IH 멀티핸들 플레이팅 냄비&팬 9P 세트, 아이보리, 1세트",
       "price": 54900,
       "listPrice": null,
-      "observedAt": "2026-09-20T04:38:02.831Z",
+      "observedAt": "2026-09-20T04:39:44.265Z",
       "url": "https://toss.im/_m/74IPofH",
       "image": "assets/products/615b7a15942af52fd2c9.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 54900,
+          "observedAt": "2026-09-20T04:39:44.265Z"
+        },
         {
           "price": 54900,
           "observedAt": "2026-09-20T04:38:02.831Z"
