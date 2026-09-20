@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T08:16:14.788Z",
+  "updatedAt": "2026-09-20T09:37:39.255Z",
   "deals": [
+    {
+      "id": "toss:p:187794421|n:파머스넷 호박고구마, 한입, 5kg, 1박스",
+      "source": "toss",
+      "name": "파머스넷 호박고구마, 한입, 5kg, 1박스",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-09-20T09:37:13.169Z",
+      "url": "https://toss.im/_m/72xPt48g",
+      "image": "assets/products/22367f12aa884be6ba0c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-09-20T09:37:13.169Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:185325621|n:이천농산 황토특선미 2026년 햅쌀, 상등급, 10kg, 1개",
       "source": "toss",
