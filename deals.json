@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T04:42:34.920Z",
+  "updatedAt": "2026-09-20T05:09:47.820Z",
   "deals": [
+    {
+      "id": "toss:p:2648344233|n:비바더마 미백 탄력 주름개선 수분케어 데일리 진정 마스크팩 혼합 5종, 50매, 1세트",
+      "source": "toss",
+      "name": "비바더마 미백 탄력 주름개선 수분케어 데일리 진정 마스크팩 혼합 5종, 50매, 1세트",
+      "price": 5500,
+      "listPrice": null,
+      "observedAt": "2026-09-20T05:08:26.564Z",
+      "url": "https://toss.im/_m/Bbcu6rVa",
+      "image": "assets/products/d7284131ba79386607a0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-09-20T05:08:26.564Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:166493497|n:운동화 세탁망, 40x20cm, 2개",
       "source": "toss",
