@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T03:34:47.747Z",
+  "updatedAt": "2026-09-20T03:37:53.480Z",
   "deals": [
+    {
+      "id": "toss:p:1497133353|n:비엣꿀 베트남 천연벌꿀 아카시아꿀, 2kg, 1개",
+      "source": "toss",
+      "name": "비엣꿀 베트남 천연벌꿀 아카시아꿀, 2kg, 1개",
+      "price": 13900,
+      "listPrice": 21900,
+      "observedAt": "2026-09-20T03:36:12.005Z",
+      "url": "https://toss.im/_m/fbUaYFsB",
+      "image": "assets/products/a4848a0bb256032c5081.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-20T03:36:12.005Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
       "source": "toss",
