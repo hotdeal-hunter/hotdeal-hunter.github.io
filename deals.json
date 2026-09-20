@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T01:29:23.455Z",
+  "updatedAt": "2026-09-20T01:36:18.273Z",
   "deals": [
+    {
+      "id": "toss:p:1245249015|n:롯데웰푸드 구구 크러스트 홈, 660ml, 6개",
+      "source": "toss",
+      "name": "롯데웰푸드 구구 크러스트 홈, 660ml, 6개",
+      "price": 23300,
+      "listPrice": null,
+      "observedAt": "2026-09-20T01:34:36.630Z",
+      "url": "https://toss.im/_m/N4xJyQEj",
+      "image": "assets/products/12796b5f89937266186f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23300,
+          "observedAt": "2026-09-20T01:34:36.630Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:167745387|n:한계란 무항생제 유정란, 난각번호 1번, 40구, 1개",
       "source": "toss",
