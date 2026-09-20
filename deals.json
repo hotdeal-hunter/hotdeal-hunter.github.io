@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-20T05:09:47.820Z",
+  "updatedAt": "2026-09-20T05:39:41.073Z",
   "deals": [
+    {
+      "id": "toss:p:2666339693|n:아임닭 탱글탱글 닭가슴살 비엔나, 120g, 10팩",
+      "source": "toss",
+      "name": "아임닭 탱글탱글 닭가슴살 비엔나, 120g, 10팩",
+      "price": 15900,
+      "listPrice": 39000,
+      "observedAt": "2026-09-20T05:38:11.005Z",
+      "url": "https://toss.im/_m/VigNfeze",
+      "image": "assets/products/2e5932df8abcd81a7194.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-20T05:38:11.005Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2648344233|n:비바더마 미백 탄력 주름개선 수분케어 데일리 진정 마스크팩 혼합 5종, 50매, 1세트",
       "source": "toss",
       "name": "비바더마 미백 탄력 주름개선 수분케어 데일리 진정 마스크팩 혼합 5종, 50매, 1세트",
       "price": 5500,
       "listPrice": null,
-      "observedAt": "2026-09-20T05:08:26.564Z",
+      "observedAt": "2026-09-20T05:34:34.500Z",
       "url": "https://toss.im/_m/Bbcu6rVa",
       "image": "assets/products/d7284131ba79386607a0.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 5500,
+          "observedAt": "2026-09-20T05:34:34.500Z"
+        },
         {
           "price": 5500,
           "observedAt": "2026-09-20T05:08:26.564Z"
