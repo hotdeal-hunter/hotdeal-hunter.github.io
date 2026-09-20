@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T05:39:41.073Z",
+  "updatedAt": "2026-09-20T06:07:06.332Z",
   "deals": [
+    {
+      "id": "toss:p:2174124499|n:던킨 미니 글레이즈드, 15g, 10개, 3팩",
+      "source": "toss",
+      "name": "던킨 미니 글레이즈드, 15g, 10개, 3팩",
+      "price": 13480,
+      "listPrice": 28800,
+      "observedAt": "2026-09-20T06:05:36.934Z",
+      "url": "https://toss.im/_m/tyt3AH8n",
+      "image": "assets/products/29624e822d60f8d952fc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13480,
+          "observedAt": "2026-09-20T06:05:36.934Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2666339693|n:아임닭 탱글탱글 닭가슴살 비엔나, 120g, 10팩",
       "source": "toss",
