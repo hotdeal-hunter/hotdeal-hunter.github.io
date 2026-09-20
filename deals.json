@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T03:37:53.480Z",
+  "updatedAt": "2026-09-20T04:39:27.770Z",
   "deals": [
+    {
+      "id": "toss:p:2654367995|n:칼로쿡 ih 멀티핸들 플레이팅 냄비&팬 9p 세트, 아이보리, 1세트",
+      "source": "toss",
+      "name": "칼로쿡 IH 멀티핸들 플레이팅 냄비&팬 9P 세트, 아이보리, 1세트",
+      "price": 54900,
+      "listPrice": null,
+      "observedAt": "2026-09-20T04:38:02.831Z",
+      "url": "https://toss.im/_m/74IPofH",
+      "image": "assets/products/615b7a15942af52fd2c9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 54900,
+          "observedAt": "2026-09-20T04:38:02.831Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1497133353|n:비엣꿀 베트남 천연벌꿀 아카시아꿀, 2kg, 1개",
       "source": "toss",
