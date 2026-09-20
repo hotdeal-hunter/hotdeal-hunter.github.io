@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-20T10:53:06.405Z",
+  "updatedAt": "2026-09-20T11:12:13.656Z",
   "deals": [
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-20T11:11:52.628Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.628Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.539Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T06:47:15.452Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:02:53.879Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:01:44.315Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:77519639|n:농심 안성탕면, 125g, 20개",
+      "source": "toss",
+      "name": "농심 안성탕면, 125g, 20개",
+      "price": 12177,
+      "listPrice": null,
+      "observedAt": "2026-09-20T11:10:40.008Z",
+      "url": "https://toss.im/_m/HJVx1MTo",
+      "image": "assets/products/546d3835e3054e68e4f3.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12177,
+          "observedAt": "2026-09-20T11:10:40.008Z"
+        },
+        {
+          "price": 12177,
+          "observedAt": "2026-09-20T00:13:12.214Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1450980065|n:호정가 찹쌀약과 세트, 1kg, 1박스",
       "source": "toss",
@@ -326,23 +388,6 @@
         {
           "price": 19500,
           "observedAt": "2026-09-20T01:27:54.023Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:77519639|n:농심 안성탕면, 125g, 20개",
-      "source": "toss",
-      "name": "농심 안성탕면, 125g, 20개",
-      "price": 12177,
-      "listPrice": null,
-      "observedAt": "2026-09-20T00:13:12.214Z",
-      "url": "https://toss.im/_m/HJVx1MTo",
-      "image": "assets/products/546d3835e3054e68e4f3.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12177,
-          "observedAt": "2026-09-20T00:13:12.214Z"
         }
       ]
     },
@@ -1503,39 +1548,6 @@
         {
           "price": 9490,
           "observedAt": "2026-09-18T07:20:51.363Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-18T06:47:15.452Z",
-      "url": "https://toss.im/_m/FfYhvmlm",
-      "image": "assets/products/0aec288a2657b25b3611.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T06:47:15.452Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:02:53.879Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:01:44.315Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.637Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.313Z"
         }
       ]
     },
