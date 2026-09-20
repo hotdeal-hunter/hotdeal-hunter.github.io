@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T12:34:54.034Z",
+  "updatedAt": "2026-09-20T13:28:07.789Z",
   "deals": [
+    {
+      "id": "toss:p:2649936127|n:산들에담다 gap 노지 감귤, 특품, 로얄과, 5kg, 1박스",
+      "source": "toss",
+      "name": "산들에담다 GAP 노지 감귤, 특품, 로얄과, 5kg, 1박스",
+      "price": 13790,
+      "listPrice": 59900,
+      "observedAt": "2026-09-20T13:27:52.894Z",
+      "url": "https://toss.im/_m/rz4NMls4",
+      "image": "assets/products/f46e4fcdb1f27bb740e7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13790,
+          "observedAt": "2026-09-20T13:27:52.894Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2666338293|n:제주돼지 갈비맛 양념구이, 1kg, 1개",
       "source": "toss",
