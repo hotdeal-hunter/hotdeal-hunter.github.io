@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-09-20T06:07:06.332Z",
+  "updatedAt": "2026-09-20T08:16:14.788Z",
   "deals": [
+    {
+      "id": "toss:p:185325621|n:이천농산 황토특선미 2026년 햅쌀, 상등급, 10kg, 1개",
+      "source": "toss",
+      "name": "이천농산 황토특선미 2026년 햅쌀, 상등급, 10kg, 1개",
+      "price": 34900,
+      "listPrice": 50000,
+      "observedAt": "2026-09-20T08:14:50.228Z",
+      "url": "https://toss.im/_m/ZCdCbv7b",
+      "image": "assets/products/49c9be75f23ae8ca9d88.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 34900,
+          "observedAt": "2026-09-20T08:14:50.228Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "source": "toss",
+      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "price": 7350,
+      "listPrice": null,
+      "observedAt": "2026-09-20T07:34:24.922Z",
+      "url": "https://toss.im/_m/DruYHADx",
+      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 7350,
+          "observedAt": "2026-09-20T07:34:24.922Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.336Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.246Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-15T11:54:20.667Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T05:25:22.321Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T01:10:52.678Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "source": "toss",
+      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "price": 22900,
+      "listPrice": null,
+      "observedAt": "2026-09-20T07:06:08.843Z",
+      "url": "https://toss.im/_m/HDdsSzdC",
+      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-20T07:06:08.843Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-09-20T03:33:21.512Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T06:06:13.349Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T05:27:11.725Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2174124499|n:던킨 미니 글레이즈드, 15g, 10개, 3팩",
       "source": "toss",
@@ -108,31 +191,6 @@
         {
           "price": 13900,
           "observedAt": "2026-09-20T03:36:12.005Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "source": "toss",
-      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "price": 22900,
-      "listPrice": null,
-      "observedAt": "2026-09-20T03:33:21.512Z",
-      "url": "https://toss.im/_m/HDdsSzdC",
-      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 22900,
-          "observedAt": "2026-09-20T03:33:21.512Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T06:06:13.349Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T05:27:11.725Z"
         }
       ]
     },
@@ -2297,39 +2355,6 @@
         {
           "price": 9000,
           "observedAt": "2026-09-16T04:44:29.486Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "source": "toss",
-      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "price": 7350,
-      "listPrice": null,
-      "observedAt": "2026-09-16T08:30:48.336Z",
-      "url": "https://toss.im/_m/DruYHADx",
-      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7350,
-          "observedAt": "2026-09-16T08:30:48.336Z"
-        },
-        {
-          "price": 7350,
-          "observedAt": "2026-09-16T08:30:48.246Z"
-        },
-        {
-          "price": 7350,
-          "observedAt": "2026-09-15T11:54:20.667Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T05:25:22.321Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T01:10:52.678Z"
         }
       ]
     },
