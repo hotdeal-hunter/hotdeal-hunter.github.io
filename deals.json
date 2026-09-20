@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-20T13:28:07.789Z",
+  "updatedAt": "2026-09-20T23:07:09.638Z",
   "deals": [
+    {
+      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
+      "source": "toss",
+      "name": "고주바 중멸치, 1.5kg, 1개",
+      "price": 7000,
+      "listPrice": null,
+      "observedAt": "2026-09-20T23:06:46.040Z",
+      "url": "https://toss.im/_m/7PpYdswy",
+      "image": "assets/products/953ccc911ab87da77583.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-20T23:06:46.040Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-20T23:05:36.040Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.889Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.730Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:26:18.939Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:10:50.869Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2649936127|n:산들에담다 gap 노지 감귤, 특품, 로얄과, 5kg, 1박스",
       "source": "toss",
@@ -517,35 +554,6 @@
         {
           "price": 25555,
           "observedAt": "2026-09-19T01:31:49.828Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
-      "source": "toss",
-      "name": "고주바 중멸치, 1.5kg, 1개",
-      "price": 7000,
-      "listPrice": null,
-      "observedAt": "2026-09-19T23:11:17.889Z",
-      "url": "https://toss.im/_m/7PpYdswy",
-      "image": "assets/products/953ccc911ab87da77583.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T23:11:17.889Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T23:11:17.730Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:26:18.939Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:10:50.869Z"
         }
       ]
     },
