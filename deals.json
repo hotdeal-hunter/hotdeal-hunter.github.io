@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-20T01:36:18.273Z",
+  "updatedAt": "2026-09-20T02:06:05.707Z",
   "deals": [
+    {
+      "id": "toss:p:2330365531|n:피죤 스프레이 섬유탈취제, 미스틱레인 430ml 1개 + 플라워페스티벌 430ml 1개 + 아이스플라워 430ml 1개, 3개",
+      "source": "toss",
+      "name": "피죤 스프레이 섬유탈취제, 미스틱레인 430ml 1개 + 플라워페스티벌 430ml 1개 + 아이스플라워 430ml 1개, 3개",
+      "price": 11900,
+      "listPrice": 19900,
+      "observedAt": "2026-09-20T02:05:51.525Z",
+      "url": "https://toss.im/_m/xaNSt9js",
+      "image": "assets/products/b0dacd6de3345df96c7e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-20T02:05:51.525Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1245249015|n:롯데웰푸드 구구 크러스트 홈, 660ml, 6개",
       "source": "toss",
