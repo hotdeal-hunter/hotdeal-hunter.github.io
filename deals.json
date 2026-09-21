@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T07:27:40.148Z",
+  "updatedAt": "2026-09-21T07:31:33.352Z",
   "deals": [
+    {
+      "id": "p:9731680084|i:29121694166|v:96046017972",
+      "source": "coupang",
+      "name": "(임박특가/소비기한 26.12.02)[하동관] 한우 암소 곰탕, 8개, 500g",
+      "price": 39900,
+      "listPrice": 96000,
+      "observedAt": "2026-09-21T07:30:09.329Z",
+      "url": "https://link.coupang.com/a/hdOD4vkVy0",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 39900,
+          "observedAt": "2026-09-21T07:30:09.329Z"
+        }
+      ]
+    },
     {
       "id": "p:9265142480|i:29066689760|v:95883432300",
       "source": "coupang",
