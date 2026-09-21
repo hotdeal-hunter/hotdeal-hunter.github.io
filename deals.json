@@ -1,6 +1,369 @@
 {
-  "updatedAt": "2026-09-21T22:42:13.062Z",
+  "updatedAt": "2026-09-21T23:03:59.453Z",
   "deals": [
+    {
+      "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "source": "toss",
+      "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:02:24.369Z",
+      "url": "https://toss.im/_m/pLNdrABC",
+      "image": "assets/products/57e14cfe40df7194a575.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T23:02:24.369Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T23:01:12.793Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T07:36:25.208Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "source": "toss",
+      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "price": 11500,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:12.438Z",
+      "url": "https://toss.im/_m/LueW0Bwn",
+      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T23:01:12.438Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T03:50:31.552Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:12.353Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T23:01:12.353Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T12:54:50.229Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T07:42:47.996Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "source": "toss",
+      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:12.264Z",
+      "url": "https://toss.im/_m/jetxq8h8",
+      "image": "assets/products/035b44bcf34eaef152f6.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T23:01:12.264Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T06:01:24.860Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "source": "toss",
+      "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "price": 8000,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:12.178Z",
+      "url": "https://toss.im/_m/R9U8CgD9",
+      "image": "assets/products/df91cda94a2062b880d0.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-21T23:01:12.178Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-21T23:00:01.105Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-20T23:31:59.946Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:12.091Z",
+      "url": "https://toss.im/_m/jRG6sksj",
+      "image": "assets/products/bc77e3a6b57560eff14f.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:12.091Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T00:16:27.916Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T01:29:14.698Z"
+        },
+        {
+          "price": 10800,
+          "observedAt": "2026-08-19T00:39:11.374Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T08:16:13.284Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T05:58:19.506Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
+      "source": "toss",
+      "name": "한우 사골 도가니탕, 500g, 5팩",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:11.969Z",
+      "url": "https://toss.im/_m/vjQb5olm",
+      "image": "assets/products/00ee6ceac2c77c4531a9.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-09-21T23:01:11.969Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-20T23:08:23.652Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-19T23:00:53.937Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-19T02:45:39.728Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T23:00:42.241Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T03:13:31.372Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T02:10:46.178Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:11.429Z",
+      "url": "https://toss.im/_m/p3pa9Nt9",
+      "image": "assets/products/5f6aab195331f8a62725.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:11.429Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-20T23:08:23.551Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-19T23:00:53.774Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.797Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.695Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:00:42.158Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T08:04:01.608Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T06:14:09.386Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T08:20:22.217Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T07:51:18.040Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
+      "source": "toss",
+      "name": "고주바 중멸치, 1.5kg, 1개",
+      "price": 7000,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:11.316Z",
+      "url": "https://toss.im/_m/7PpYdswy",
+      "image": "assets/products/953ccc911ab87da77583.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-21T23:01:11.316Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-20T23:06:46.040Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-20T23:05:36.040Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.889Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T23:11:17.730Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:26:18.939Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-19T01:10:50.869Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
+      "source": "toss",
+      "name": "화과방 큐빅양갱, 40g, 24개입, 1개",
+      "price": 9000,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:11.218Z",
+      "url": "https://toss.im/_m/NpMkSXJ3",
+      "image": "assets/products/e29157b3ecb05c0ce8b0.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-21T23:01:11.218Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-09-20T23:08:23.170Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-09-19T23:03:55.376Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-09-19T00:13:57.059Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:84698347|n:웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
+      "source": "toss",
+      "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:01:11.064Z",
+      "url": "https://toss.im/_m/57AiPJTq",
+      "image": "assets/products/1881d692848c66dae46d.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T23:01:11.064Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-20T23:08:23.303Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T23:02:12.265Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T23:02:12.164Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-19T23:00:53.858Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-18T23:00:41.913Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-17T23:36:09.533Z"
+        }
+      ]
+    },
     {
       "id": "p:9479077009|i:28220839899|v:80424522593",
       "source": "coupang",
@@ -32,31 +395,6 @@
         {
           "price": 8120,
           "observedAt": "2026-09-21T22:28:43.298Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민 사과맛, 60개, 2개",
-      "source": "toss",
-      "name": "일양약품 우리가족 멀티비타민 사과맛, 60개, 2개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T12:54:50.229Z",
-      "url": "https://toss.im/_m/tevYh07h",
-      "image": "assets/products/12b361d6960982fc27f6.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T12:54:50.229Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T07:42:47.996Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T06:36:05.468Z"
         }
       ]
     },
@@ -483,23 +821,6 @@
       ]
     },
     {
-      "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
-      "source": "toss",
-      "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
-      "price": 9900,
-      "listPrice": 23200,
-      "observedAt": "2026-09-21T07:36:25.208Z",
-      "url": "https://toss.im/_m/pLNdrABC",
-      "image": "assets/products/57e14cfe40df7194a575.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-21T07:36:25.208Z"
-        }
-      ]
-    },
-    {
       "id": "p:9731680084|i:29121694166|v:96046017972",
       "source": "coupang",
       "name": "(임박특가/소비기한 26.12.02)[하동관] 한우 암소 곰탕, 8개, 500g",
@@ -610,23 +931,6 @@
       ]
     },
     {
-      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "source": "toss",
-      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-09-21T06:01:24.860Z",
-      "url": "https://toss.im/_m/jetxq8h8",
-      "image": "assets/products/035b44bcf34eaef152f6.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-09-21T06:01:24.860Z"
-        }
-      ]
-    },
-    {
       "id": "p:7730299430|i:21095187159|v:91191721583",
       "source": "coupang",
       "name": "해태제과 버터링 골드, 194g, 4개",
@@ -725,23 +1029,6 @@
         {
           "price": 6570,
           "observedAt": "2026-09-21T04:47:58.960Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "source": "toss",
-      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "price": 11500,
-      "listPrice": null,
-      "observedAt": "2026-09-21T03:50:31.552Z",
-      "url": "https://toss.im/_m/LueW0Bwn",
-      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11500,
-          "observedAt": "2026-09-21T03:50:31.552Z"
         }
       ]
     },
@@ -846,142 +1133,6 @@
       ]
     },
     {
-      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "source": "toss",
-      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T00:16:27.916Z",
-      "url": "https://toss.im/_m/jRG6sksj",
-      "image": "assets/products/bc77e3a6b57560eff14f.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T00:16:27.916Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-01T01:29:14.698Z"
-        },
-        {
-          "price": 10800,
-          "observedAt": "2026-08-19T00:39:11.374Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T08:16:13.284Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T05:58:19.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
-      "source": "toss",
-      "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
-      "price": 8000,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:31:59.946Z",
-      "url": "https://toss.im/_m/R9U8CgD9",
-      "image": "assets/products/df91cda94a2062b880d0.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8000,
-          "observedAt": "2026-09-20T23:31:59.946Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
-      "source": "toss",
-      "name": "한우 사골 도가니탕, 500g, 5팩",
-      "price": 8990,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.652Z",
-      "url": "https://toss.im/_m/vjQb5olm",
-      "image": "assets/products/00ee6ceac2c77c4531a9.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 8990,
-          "observedAt": "2026-09-20T23:08:23.652Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-19T23:00:53.937Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-19T02:45:39.728Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T23:00:42.241Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T03:13:31.372Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T02:10:46.178Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "source": "toss",
-      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.551Z",
-      "url": "https://toss.im/_m/p3pa9Nt9",
-      "image": "assets/products/5f6aab195331f8a62725.jpg",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-20T23:08:23.551Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-19T23:00:53.774Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.797Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.695Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:00:42.158Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T08:04:01.608Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T06:14:09.386Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T08:20:22.217Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T07:51:18.040Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1132535611|n:풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
       "source": "toss",
       "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
@@ -1032,105 +1183,6 @@
         {
           "price": 6000,
           "observedAt": "2026-09-18T00:35:44.955Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:84698347|n:웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
-      "source": "toss",
-      "name": "웰니스바이오 홍삼진액365, 10g, 100포, 1박스",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.303Z",
-      "url": "https://toss.im/_m/57AiPJTq",
-      "image": "assets/products/1881d692848c66dae46d.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-20T23:08:23.303Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-19T23:02:12.265Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-19T23:02:12.164Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-19T23:00:53.858Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-18T23:00:41.913Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-17T23:36:09.533Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120068267|n:화과방 큐빅양갱, 40g, 24개입, 1개",
-      "source": "toss",
-      "name": "화과방 큐빅양갱, 40g, 24개입, 1개",
-      "price": 9000,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.170Z",
-      "url": "https://toss.im/_m/NpMkSXJ3",
-      "image": "assets/products/e29157b3ecb05c0ce8b0.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 9000,
-          "observedAt": "2026-09-20T23:08:23.170Z"
-        },
-        {
-          "price": 9000,
-          "observedAt": "2026-09-19T23:03:55.376Z"
-        },
-        {
-          "price": 9000,
-          "observedAt": "2026-09-19T00:13:57.059Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2300000755|n:고주바 중멸치, 1.5kg, 1개",
-      "source": "toss",
-      "name": "고주바 중멸치, 1.5kg, 1개",
-      "price": 7000,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:06:46.040Z",
-      "url": "https://toss.im/_m/7PpYdswy",
-      "image": "assets/products/953ccc911ab87da77583.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 7000,
-          "observedAt": "2026-09-20T23:06:46.040Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-20T23:05:36.040Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T23:11:17.889Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T23:11:17.730Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:26:18.939Z"
-        },
-        {
-          "price": 7000,
-          "observedAt": "2026-09-19T01:10:50.869Z"
         }
       ]
     },
