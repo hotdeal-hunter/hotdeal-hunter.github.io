@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T10:33:05.316Z",
+  "updatedAt": "2026-09-21T10:35:38.659Z",
   "deals": [
+    {
+      "id": "p:5624329357|i:19225420144|v:86342068577",
+      "source": "coupang",
+      "name": "롯데웰푸드 셀렉션 더 싱글 초코 아이스크림 (냉동), 50ml, 10개입, 4박스",
+      "price": 18600,
+      "listPrice": 48000,
+      "observedAt": "2026-09-21T10:34:26.327Z",
+      "url": "https://link.coupang.com/a/hd1OyCqr5U",
+      "image": "assets/products/8fb5f1ff6a5a4b07958b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18600,
+          "observedAt": "2026-09-21T10:34:26.327Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:74601|n:나누담 물받이 밀폐용기, 3000ml, 2개",
       "source": "toss",
