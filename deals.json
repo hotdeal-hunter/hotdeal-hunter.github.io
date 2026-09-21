@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T05:20:54.002Z",
+  "updatedAt": "2026-09-21T05:30:35.858Z",
   "deals": [
+    {
+      "id": "p:7032499563|i:18777202173|v:85908663884",
+      "source": "coupang",
+      "name": "CLA 데일리 보건용 마스크 대형 KF94, 25개입, 4개, 화이트",
+      "price": 9500,
+      "listPrice": 17744,
+      "observedAt": "2026-09-21T05:29:12.125Z",
+      "url": "https://link.coupang.com/a/hdF0bnvzTU",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9500,
+          "observedAt": "2026-09-21T05:29:12.125Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
       "source": "toss",
