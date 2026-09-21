@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T04:49:23.757Z",
+  "updatedAt": "2026-09-21T04:52:17.693Z",
   "deals": [
+    {
+      "id": "p:8115350013|i:23006850028|v:90040728607",
+      "source": "coupang",
+      "name": "스크럽대디 마미 수세미 랜덤발송, 3개입, 2개",
+      "price": 13000,
+      "listPrice": 25849,
+      "observedAt": "2026-09-21T04:50:45.430Z",
+      "url": "https://link.coupang.com/a/hdDfQqYRQ4",
+      "image": "assets/products/182e646dc78c3cbcac89.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13000,
+          "observedAt": "2026-09-21T04:50:45.430Z"
+        }
+      ]
+    },
     {
       "id": "p:9201032523|i:27166746179|v:94054610274",
       "source": "coupang",
