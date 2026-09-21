@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T11:35:50.021Z",
+  "updatedAt": "2026-09-21T11:54:59.284Z",
   "deals": [
+    {
+      "id": "p:1207037903|i:21947678535|v:3008436224",
+      "source": "coupang",
+      "name": "깨끗한나라 벚꽃 로맨틱 천연펄프 3겹 고급롤화장지, 27m, 30개입, 1개",
+      "price": 12990,
+      "listPrice": 15297,
+      "observedAt": "2026-09-21T11:53:32.938Z",
+      "url": "https://link.coupang.com/a/hd7s3IlNkq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-09-21T11:53:32.938Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:313865465|n:행복담기 훈제 메추리알, 15g, 40개",
       "source": "toss",
