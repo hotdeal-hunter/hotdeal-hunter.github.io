@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T08:59:55.261Z",
+  "updatedAt": "2026-09-21T09:05:03.502Z",
   "deals": [
+    {
+      "id": "p:116173944|i:19224582435|v:86341245167",
+      "source": "coupang",
+      "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 4개",
+      "price": 18600,
+      "listPrice": 24449,
+      "observedAt": "2026-09-21T09:03:39.152Z",
+      "url": "https://link.coupang.com/a/hdVkkmNZCK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18600,
+          "observedAt": "2026-09-21T09:03:39.152Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:240823709|n:이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
       "source": "toss",
@@ -9963,23 +9980,6 @@
         {
           "price": 7900,
           "observedAt": "2026-09-01T06:53:40.082Z"
-        }
-      ]
-    },
-    {
-      "id": "p:116173944|i:351024085|v:3855512693",
-      "source": "coupang",
-      "name": "롯데웰푸드 티코 밀크초코 아이스크림 (냉동), 34ml, 15개입, 1개",
-      "price": 4540,
-      "listPrice": 6994,
-      "observedAt": "2026-09-01T06:33:25.111Z",
-      "url": "https://link.coupang.com/a/gGyvK6LuNg",
-      "image": "assets/products/2de9a636714207e388d8.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4540,
-          "observedAt": "2026-09-01T06:33:25.111Z"
         }
       ]
     },
