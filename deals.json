@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T08:15:42.890Z",
+  "updatedAt": "2026-09-21T08:28:55.053Z",
   "deals": [
+    {
+      "id": "toss:p:2653238241|n:수입 우육 5종세트, 안심 200g + 소갈비살 200g + 우삼겹 200g + 업진살 200g + 부채살 200g, 1세트",
+      "source": "toss",
+      "name": "수입 우육 5종세트, 안심 200g + 소갈비살 200g + 우삼겹 200g + 업진살 200g + 부채살 200g, 1세트",
+      "price": 26800,
+      "listPrice": null,
+      "observedAt": "2026-09-21T08:27:36.658Z",
+      "url": "https://toss.im/_m/zAOSOJro",
+      "image": "assets/products/b225c8211bb33238f100.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26800,
+          "observedAt": "2026-09-21T08:27:36.658Z"
+        }
+      ]
+    },
     {
       "id": "p:8367073894|i:24175708331|v:91193685703",
       "source": "coupang",
