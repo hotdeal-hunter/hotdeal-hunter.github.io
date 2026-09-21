@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T05:57:40.867Z",
+  "updatedAt": "2026-09-21T06:02:59.801Z",
   "deals": [
+    {
+      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "source": "toss",
+      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-21T06:01:24.860Z",
+      "url": "https://toss.im/_m/jetxq8h8",
+      "image": "assets/products/035b44bcf34eaef152f6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T06:01:24.860Z"
+        }
+      ]
+    },
     {
       "id": "p:7730299430|i:21095187159|v:91191721583",
       "source": "coupang",
