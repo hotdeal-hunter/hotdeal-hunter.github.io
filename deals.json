@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-21T08:28:55.053Z",
+  "updatedAt": "2026-09-21T08:59:55.261Z",
   "deals": [
+    {
+      "id": "toss:p:240823709|n:이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
+      "source": "toss",
+      "name": "이진물산 볶은 땅콩, 24/28, 1kg, 1봉",
+      "price": 7400,
+      "listPrice": 10900,
+      "observedAt": "2026-09-21T08:58:29.955Z",
+      "url": "https://toss.im/_m/Xf4nRx9d",
+      "image": "assets/products/db9021ac66fee17aaf35.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-21T08:58:29.955Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8367073894|i:24175708331|v:91193685703",
+      "source": "coupang",
+      "name": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰",
+      "price": 170100,
+      "listPrice": null,
+      "observedAt": "2026-09-21T08:44:26.778Z",
+      "url": "https://link.coupang.com/a/hdTXdQJdiC",
+      "image": "assets/products/6d672fa8335f8feeac8b.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 170100,
+          "observedAt": "2026-09-21T08:44:26.778Z"
+        },
+        {
+          "price": 170100,
+          "observedAt": "2026-09-21T08:44:23.221Z"
+        },
+        {
+          "price": 170100,
+          "observedAt": "2026-09-21T08:14:19.165Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2653238241|n:수입 우육 5종세트, 안심 200g + 소갈비살 200g + 우삼겹 200g + 업진살 200g + 부채살 200g, 1세트",
       "source": "toss",
@@ -15,23 +57,6 @@
         {
           "price": 26800,
           "observedAt": "2026-09-21T08:27:36.658Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8367073894|i:24175708331|v:91193685703",
-      "source": "coupang",
-      "name": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰, MXP93KH/A, 화이트",
-      "price": 170100,
-      "listPrice": 227687,
-      "observedAt": "2026-09-21T08:14:19.165Z",
-      "url": "https://link.coupang.com/a/hdRNJ9nnNs",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 170100,
-          "observedAt": "2026-09-21T08:14:19.165Z"
         }
       ]
     },
