@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-21T23:28:15.128Z",
+  "updatedAt": "2026-09-21T23:52:42.824Z",
   "deals": [
+    {
+      "id": "toss:p:154977175|n:대한민국농수산 소고기 모둠, 1kg, 1세트",
+      "source": "toss",
+      "name": "대한민국농수산 소고기 모둠, 1kg, 1세트",
+      "price": 30900,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:51:07.967Z",
+      "url": "https://toss.im/_m/t0SmYh1h",
+      "image": "assets/products/a5ac356e196853561db0.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 30900,
+          "observedAt": "2026-09-21T23:51:07.967Z"
+        },
+        {
+          "price": 38900,
+          "observedAt": "2026-09-13T06:53:20.872Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2611001463|n:클리어 키친타월, 100매, 3겹, 18팩",
       "source": "toss",
@@ -4796,23 +4817,6 @@
         {
           "price": 8700,
           "observedAt": "2026-08-18T00:28:38.930Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:154977175|n:대한민국농수산 배터지게 푸짐한 소고기 모둠, 1kg, 1세트",
-      "source": "toss",
-      "name": "대한민국농수산 배터지게 푸짐한 소고기 모둠, 1kg, 1세트",
-      "price": 38900,
-      "listPrice": 69900,
-      "observedAt": "2026-09-13T06:53:20.872Z",
-      "url": "https://toss.im/_m/t0SmYh1h",
-      "image": "assets/products/37bd6a17561dd58518f7.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 38900,
-          "observedAt": "2026-09-13T06:53:20.872Z"
         }
       ]
     },
