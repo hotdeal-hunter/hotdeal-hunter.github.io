@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T07:31:33.352Z",
+  "updatedAt": "2026-09-21T07:37:50.104Z",
   "deals": [
+    {
+      "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "source": "toss",
+      "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "price": 9900,
+      "listPrice": 23200,
+      "observedAt": "2026-09-21T07:36:25.208Z",
+      "url": "https://toss.im/_m/pLNdrABC",
+      "image": "assets/products/57e14cfe40df7194a575.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T07:36:25.208Z"
+        }
+      ]
+    },
     {
       "id": "p:9731680084|i:29121694166|v:96046017972",
       "source": "coupang",
