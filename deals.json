@@ -1,17 +1,54 @@
 {
-  "updatedAt": "2026-09-21T02:35:52.009Z",
+  "updatedAt": "2026-09-21T03:28:27.259Z",
   "deals": [
+    {
+      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
+      "source": "toss",
+      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
+      "price": 21900,
+      "listPrice": 45900,
+      "observedAt": "2026-09-21T03:28:15.216Z",
+      "url": "https://toss.im/_m/p50vVAIn",
+      "image": "assets/products/f134c5cfc4ae3be91f64.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-09-21T03:28:15.216Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-09-06T10:37:42.599Z"
+        },
+        {
+          "price": 18900,
+          "observedAt": "2026-09-06T08:37:56.292Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-24T23:01:23.508Z"
+        },
+        {
+          "price": 15320,
+          "observedAt": "2026-08-17T10:39:50.885Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
       "source": "toss",
       "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
       "price": 8422,
       "listPrice": null,
-      "observedAt": "2026-09-21T02:34:18.282Z",
+      "observedAt": "2026-09-21T02:36:07.276Z",
       "url": "https://toss.im/_m/x6Wm3art",
       "image": "assets/products/7d2c7b9eb83f25f7426e.png",
-      "insight": "2회 가격 기록",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:36:07.276Z"
+        },
         {
           "price": 8422,
           "observedAt": "2026-09-21T02:34:18.282Z"
@@ -6873,35 +6910,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-06T10:33:54.080Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:13020417|n:애슐리 볶음밥 올인원 10종 세트, 1개",
-      "source": "toss",
-      "name": "애슐리 볶음밥 올인원 10종 세트, 1개",
-      "price": 18900,
-      "listPrice": 45900,
-      "observedAt": "2026-09-06T10:37:42.599Z",
-      "url": "https://toss.im/_m/p50vVAIn",
-      "image": "assets/products/f134c5cfc4ae3be91f64.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 18900,
-          "observedAt": "2026-09-06T10:37:42.599Z"
-        },
-        {
-          "price": 18900,
-          "observedAt": "2026-09-06T08:37:56.292Z"
-        },
-        {
-          "price": 15320,
-          "observedAt": "2026-08-24T23:01:23.508Z"
-        },
-        {
-          "price": 15320,
-          "observedAt": "2026-08-17T10:39:50.885Z"
         }
       ]
     },
