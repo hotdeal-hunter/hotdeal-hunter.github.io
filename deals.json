@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-21T04:00:22.712Z",
+  "updatedAt": "2026-09-21T04:49:23.757Z",
   "deals": [
+    {
+      "id": "p:9201032523|i:27166746179|v:94054610274",
+      "source": "coupang",
+      "name": "그린스토아 넥가드 목 경추 스트레칭 자세교정 보조쿠션",
+      "price": 6570,
+      "listPrice": 14071,
+      "observedAt": "2026-09-21T04:47:58.960Z",
+      "url": "https://link.coupang.com/a/hdC3yhNl1g",
+      "image": "assets/products/e98e70939037234680ba.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6570,
+          "observedAt": "2026-09-21T04:47:58.960Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2648836879|n:하우스 샤인머스켓, 4-6수, 2kg, 1박스",
       "source": "toss",
       "name": "하우스 샤인머스켓, 4-6수, 2kg, 1박스",
       "price": 9900,
       "listPrice": null,
-      "observedAt": "2026-09-21T03:59:04.795Z",
+      "observedAt": "2026-09-21T04:00:38.119Z",
       "url": "https://toss.im/_m/N4euYeRy",
       "image": "assets/products/f161c51aab8320cee4bd.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T04:00:38.119Z"
+        },
         {
           "price": 9900,
           "observedAt": "2026-09-21T03:59:04.795Z"
