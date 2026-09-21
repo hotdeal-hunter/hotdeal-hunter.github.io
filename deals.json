@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-21T12:41:26.648Z",
+  "updatedAt": "2026-09-21T12:56:08.720Z",
   "deals": [
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T12:54:50.229Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/12b361d6960982fc27f6.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T12:54:50.229Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T07:42:47.996Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
     {
       "id": "p:9479298795|i:28221620726|v:95501518211",
       "source": "coupang",
@@ -420,27 +445,6 @@
         {
           "price": 11900,
           "observedAt": "2026-08-17T04:07:06.630Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "source": "toss",
-      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T07:42:47.996Z",
-      "url": "https://toss.im/_m/tevYh07h",
-      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T07:42:47.996Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T06:36:05.468Z"
         }
       ]
     },
