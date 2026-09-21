@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T10:35:38.659Z",
+  "updatedAt": "2026-09-21T10:44:13.677Z",
   "deals": [
+    {
+      "id": "p:8904044754|i:26003071747|v:92985186941",
+      "source": "coupang",
+      "name": "해표 순알콩 국간장, 840ml, 1개",
+      "price": 2170,
+      "listPrice": 3604,
+      "observedAt": "2026-09-21T10:42:49.205Z",
+      "url": "https://link.coupang.com/a/hd2pIwmZWu",
+      "image": "assets/products/5652f8bba4eab9686f77.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2170,
+          "observedAt": "2026-09-21T10:42:49.205Z"
+        }
+      ]
+    },
     {
       "id": "p:5624329357|i:19225420144|v:86342068577",
       "source": "coupang",
