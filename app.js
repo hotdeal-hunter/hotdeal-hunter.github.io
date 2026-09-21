@@ -1,3 +1,4 @@
+import { canDisplayDeal } from "./deal-visibility.mjs";
 const state = { source: "all", query: "", deals: [] };
 const list = document.querySelector("#deal-list");
 const empty = document.querySelector("#empty-state");
@@ -58,7 +59,7 @@ function card(deal) {
   const discount = discountOf(deal);
   const monthly = monthlyStats(deal);
   const priceInsight = monthly
-    ? monthly.isCurrentMin ? "1달 최저가격" : `최근 1달 최저 ${won.format(monthly.min)}`
+    ? monthly.isCurrentMin ? "최근 30일 수집 기록 중 최저" : `최근 30일 수집 최저 ${won.format(monthly.min)}`
     : null;
   const sourceName = deal.source === "toss" ? "토스" : "쿠팡";
   const image = deal.image
@@ -78,8 +79,9 @@ function card(deal) {
         </div>
         <div class="history">
           ${priceInsight ? `<strong>${escapeHtml(priceInsight)}</strong>` : ""}
-          <span>${timeAgo(deal.observedAt)}</span>
+          <span>${timeAgo(deal.observedAt)} 수집</span>
         </div>
+        <p>가격 조건: ${escapeHtml(deal.priceConditions || "회원·쿠폰·카드·배송비 조건 미확인 — 구매처에서 확인")}</p>
         ${historyChart(deal, monthly)}
       </div>
     </a>`;
@@ -88,6 +90,7 @@ function card(deal) {
 function render() {
   const query = state.query.toLocaleLowerCase("ko-KR");
   const filtered = state.deals.filter((deal) => {
+    if (!canDisplayDeal(deal)) return false;
     const sourceMatches = state.source === "all" || deal.source === state.source;
     return sourceMatches && deal.name.toLocaleLowerCase("ko-KR").includes(query);
   });
@@ -114,8 +117,9 @@ try {
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   const payload = await response.json();
   state.deals = payload.deals;
-  updatedAt.textContent = `마지막 업데이트 ${dateTime.format(new Date(payload.updatedAt))}`;
+  updatedAt.textContent = `목록 업데이트 ${dateTime.format(new Date(payload.updatedAt))} · 상품별 가격 수집 시점은 각 카드에 표시`;
   render();
+  setInterval(render, 60_000);
 } catch (error) {
   updatedAt.textContent = "상품 정보를 불러오지 못했습니다.";
   empty.hidden = false;
