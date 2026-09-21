@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-21T06:05:32.352Z",
+  "updatedAt": "2026-09-21T06:37:39.975Z",
   "deals": [
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T06:36:05.468Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:147160049|n:프렘 더 슬림 음식물처리기, p260, 화이트, 1개",
+      "source": "toss",
+      "name": "프렘 더 슬림 음식물처리기, P260, 화이트, 1개",
+      "price": 179000,
+      "listPrice": 399000,
+      "observedAt": "2026-09-21T06:36:01.905Z",
+      "url": "https://toss.im/_m/HCsxTVm8",
+      "image": "assets/products/93341047e9073cb56425.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 179000,
+          "observedAt": "2026-09-21T06:36:01.905Z"
+        }
+      ]
+    },
     {
       "id": "p:7935419308|i:21842146312|v:88947875653",
       "source": "coupang",
