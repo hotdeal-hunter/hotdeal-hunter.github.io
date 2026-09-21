@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T10:12:17.472Z",
+  "updatedAt": "2026-09-21T10:16:13.133Z",
   "deals": [
+    {
+      "id": "toss:p:2648849781|n:푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매, 1팩",
+      "source": "toss",
+      "name": "푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매, 1팩",
+      "price": 6300,
+      "listPrice": null,
+      "observedAt": "2026-09-21T10:15:58.164Z",
+      "url": "https://toss.im/_m/bPoZ2jf3",
+      "image": "assets/products/193977cd61ad03fa5f50.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6300,
+          "observedAt": "2026-09-21T10:15:58.164Z"
+        }
+      ]
+    },
     {
       "id": "p:7455919074|i:24108242235|v:85984112985",
       "source": "coupang",
