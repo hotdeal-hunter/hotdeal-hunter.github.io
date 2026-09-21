@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-09-21T23:03:59.453Z",
+  "updatedAt": "2026-09-21T23:28:15.128Z",
   "deals": [
+    {
+      "id": "toss:p:2611001463|n:클리어 키친타월, 100매, 3겹, 18팩",
+      "source": "toss",
+      "name": "클리어 키친타월, 100매, 3겹, 18팩",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:28:10.553Z",
+      "url": "https://toss.im/_m/fqhGEjOa",
+      "image": "assets/products/231f7b533a83a07776ed.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-21T23:28:10.553Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T02:46:47.817Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T02:46:47.727Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-13T11:41:09.450Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-11T05:30:45.295Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "source": "toss",
+      "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "price": 8422,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:23:16.444Z",
+      "url": "https://toss.im/_m/x6Wm3art",
+      "image": "assets/products/7d2c7b9eb83f25f7426e.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T23:23:16.444Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:36:07.276Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:18.282Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:15.253Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T23:13:46.419Z",
+      "url": "https://toss.im/_m/jRG6sksj",
+      "image": "assets/products/bc77e3a6b57560eff14f.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:13:46.419Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:12.091Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T00:16:27.916Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T01:29:14.698Z"
+        },
+        {
+          "price": 10800,
+          "observedAt": "2026-08-19T00:39:11.374Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T08:16:13.284Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T05:58:19.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
       "source": "toss",
@@ -119,43 +222,6 @@
         {
           "price": 8000,
           "observedAt": "2026-09-20T23:31:59.946Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "source": "toss",
-      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T23:01:12.091Z",
-      "url": "https://toss.im/_m/jRG6sksj",
-      "image": "assets/products/bc77e3a6b57560eff14f.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:01:12.091Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T00:16:27.916Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-01T01:29:14.698Z"
-        },
-        {
-          "price": 10800,
-          "observedAt": "2026-08-19T00:39:11.374Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T08:16:13.284Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T05:58:19.506Z"
         }
       ]
     },
@@ -1062,31 +1128,6 @@
         {
           "price": 15320,
           "observedAt": "2026-08-17T10:39:50.885Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
-      "source": "toss",
-      "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
-      "price": 8422,
-      "listPrice": null,
-      "observedAt": "2026-09-21T02:36:07.276Z",
-      "url": "https://toss.im/_m/x6Wm3art",
-      "image": "assets/products/7d2c7b9eb83f25f7426e.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:36:07.276Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:34:18.282Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:34:15.253Z"
         }
       ]
     },
@@ -3942,35 +3983,6 @@
         {
           "price": 23900,
           "observedAt": "2026-09-15T03:13:26.076Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2611001463|n:클리어 키친타월, 100매, 3겹, 18팩",
-      "source": "toss",
-      "name": "클리어 키친타월, 100매, 3겹, 18팩",
-      "price": 7700,
-      "listPrice": null,
-      "observedAt": "2026-09-15T02:46:47.817Z",
-      "url": "https://toss.im/_m/fqhGEjOa",
-      "image": "assets/products/231f7b533a83a07776ed.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T02:46:47.817Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T02:46:47.727Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-13T11:41:09.450Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-11T05:30:45.295Z"
         }
       ]
     },
