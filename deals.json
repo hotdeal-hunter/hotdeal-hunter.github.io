@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T04:52:17.693Z",
+  "updatedAt": "2026-09-21T05:12:19.736Z",
   "deals": [
+    {
+      "id": "p:8634115517|i:25057663168|v:92061938846",
+      "source": "coupang",
+      "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 5개",
+      "price": 15100,
+      "listPrice": 29900,
+      "observedAt": "2026-09-21T05:10:55.420Z",
+      "url": "https://link.coupang.com/a/hdEHcfPHI4",
+      "image": "assets/products/c8eed217320504aa7f1c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15100,
+          "observedAt": "2026-09-21T05:10:55.420Z"
+        }
+      ]
+    },
     {
       "id": "p:8115350013|i:23006850028|v:90040728607",
       "source": "coupang",
