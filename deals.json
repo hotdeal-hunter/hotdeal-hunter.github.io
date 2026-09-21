@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T12:56:08.720Z",
+  "updatedAt": "2026-09-21T22:30:07.634Z",
   "deals": [
+    {
+      "id": "p:7104758439|i:17744154836|v:3086686843",
+      "source": "coupang",
+      "name": "고로고로 초강력 테이프클리너 리필, 6개, 단일 색상",
+      "price": 8120,
+      "listPrice": 11286,
+      "observedAt": "2026-09-21T22:28:43.298Z",
+      "url": "https://link.coupang.com/a/heQRfETOdo",
+      "image": "assets/products/2005f51fd914d1adda41.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8120,
+          "observedAt": "2026-09-21T22:28:43.298Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민 사과맛, 60개, 2개",
       "source": "toss",
