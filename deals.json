@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T05:12:19.736Z",
+  "updatedAt": "2026-09-21T05:20:54.002Z",
   "deals": [
+    {
+      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "source": "toss",
+      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-21T05:19:35.171Z",
+      "url": "https://toss.im/_m/P84FeeS4",
+      "image": "assets/products/b34973f870709e2f0d21.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-21T05:19:35.171Z"
+        }
+      ]
+    },
     {
       "id": "p:8634115517|i:25057663168|v:92061938846",
       "source": "coupang",
