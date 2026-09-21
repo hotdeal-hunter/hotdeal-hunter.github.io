@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T05:30:35.858Z",
+  "updatedAt": "2026-09-21T05:57:40.867Z",
   "deals": [
+    {
+      "id": "p:7730299430|i:21095187159|v:91191721583",
+      "source": "coupang",
+      "name": "해태제과 버터링 골드, 194g, 4개",
+      "price": 8070,
+      "listPrice": 10430,
+      "observedAt": "2026-09-21T05:56:14.830Z",
+      "url": "https://link.coupang.com/a/hdHV0ubn9o",
+      "image": "assets/products/fc73a6c9a5e666417f60.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8070,
+          "observedAt": "2026-09-21T05:56:14.830Z"
+        }
+      ]
+    },
     {
       "id": "p:7032499563|i:18777202173|v:85908663884",
       "source": "coupang",
@@ -9,7 +26,7 @@
       "listPrice": 17744,
       "observedAt": "2026-09-21T05:29:12.125Z",
       "url": "https://link.coupang.com/a/hdF0bnvzTU",
-      "image": null,
+      "image": "assets/products/6edd8de3de6af8a80ed5.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
