@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T06:40:14.169Z",
+  "updatedAt": "2026-09-21T06:56:57.318Z",
   "deals": [
+    {
+      "id": "p:263159269|i:20844008601|v:87911625316",
+      "source": "coupang",
+      "name": "포미 착즙 토마토 주스, 750ml, 2개",
+      "price": 4500,
+      "listPrice": 6431,
+      "observedAt": "2026-09-21T06:55:32.671Z",
+      "url": "https://link.coupang.com/a/hdMaJt5OU0",
+      "image": "assets/products/380d5e22cbb1e4e39f83.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-09-21T06:55:32.671Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
       "source": "toss",
