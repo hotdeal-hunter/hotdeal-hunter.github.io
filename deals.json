@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T22:30:07.634Z",
+  "updatedAt": "2026-09-21T22:42:13.062Z",
   "deals": [
+    {
+      "id": "p:9479077009|i:28220839899|v:80424522593",
+      "source": "coupang",
+      "name": "[브랜드인증] 겐조 플라워 바이 겐조 오 드 퍼퓸, 100ml, 1개",
+      "price": 63010,
+      "listPrice": 91900,
+      "observedAt": "2026-09-21T22:40:49.149Z",
+      "url": "https://link.coupang.com/a/heRIQCH7RY",
+      "image": "assets/products/625dd6d65d88df017da7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 63010,
+          "observedAt": "2026-09-21T22:40:49.149Z"
+        }
+      ]
+    },
     {
       "id": "p:7104758439|i:17744154836|v:3086686843",
       "source": "coupang",
