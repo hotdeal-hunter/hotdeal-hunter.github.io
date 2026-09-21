@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T23:52:42.824Z",
+  "updatedAt": "2026-09-21T23:57:51.843Z",
   "deals": [
+    {
+      "id": "p:7492413512|i:19814907627|v:86916976093",
+      "source": "coupang",
+      "name": "하늘청 식혜 오리지날, 1.8L, 2개",
+      "price": 9780,
+      "listPrice": 13957,
+      "observedAt": "2026-09-21T23:57:40.093Z",
+      "url": "https://link.coupang.com/a/heXdkDJFGm",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9780,
+          "observedAt": "2026-09-21T23:57:40.093Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154977175|n:대한민국농수산 소고기 모둠, 1kg, 1세트",
       "source": "toss",
