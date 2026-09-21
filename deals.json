@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-21T00:16:40.556Z",
+  "updatedAt": "2026-09-21T00:44:50.665Z",
   "deals": [
+    {
+      "id": "toss:p:1190284773|n:순살 양념 목살구이, 600g, 3개",
+      "source": "toss",
+      "name": "순살 양념 목살구이, 600g, 3개",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-21T00:44:26.088Z",
+      "url": "https://toss.im/_m/ZC14DW3A",
+      "image": "assets/products/689c6d632ecdce70b84a.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-21T00:44:26.088Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-08-24T12:50:40.048Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
       "source": "toss",
@@ -14803,23 +14824,6 @@
         {
           "price": 11890,
           "observedAt": "2026-08-24T12:50:40.327Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1190284773|n:순살 양념 목살구이, 600g, 3개",
-      "source": "toss",
-      "name": "순살 양념 목살구이, 600g, 3개",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-08-24T12:50:40.048Z",
-      "url": "https://toss.im/_m/ZC14DW3A",
-      "image": "assets/products/689c6d632ecdce70b84a.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-08-24T12:50:40.048Z"
         }
       ]
     },
