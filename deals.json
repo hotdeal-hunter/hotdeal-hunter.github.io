@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-21T06:56:57.318Z",
+  "updatedAt": "2026-09-21T07:27:40.148Z",
   "deals": [
+    {
+      "id": "p:9265142480|i:29066689760|v:95883432300",
+      "source": "coupang",
+      "name": "[임박특가] 40년전통 통 모짜렐라 청양치즈 국산 쌀 어묵바 (1팩2개) 26/11/19까지, 170g, 3개",
+      "price": 12720,
+      "listPrice": 26900,
+      "observedAt": "2026-09-21T07:26:16.423Z",
+      "url": "https://link.coupang.com/a/hdOmSnFX1o",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12720,
+          "observedAt": "2026-09-21T07:26:16.423Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
+      "source": "toss",
+      "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
+      "price": 3990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T07:01:53.827Z",
+      "url": "https://toss.im/_m/jXbUUEgd",
+      "image": "assets/products/f68cbbe0861182ff9fc5.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-09-21T07:01:53.827Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-18T23:00:41.842Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-18T04:54:24.539Z"
+        }
+      ]
+    },
     {
       "id": "p:263159269|i:20844008601|v:87911625316",
       "source": "coupang",
@@ -1684,27 +1726,6 @@
         {
           "price": 6860,
           "observedAt": "2026-09-18T01:20:54.128Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
-      "source": "toss",
-      "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
-      "price": 3990,
-      "listPrice": null,
-      "observedAt": "2026-09-18T23:00:41.842Z",
-      "url": "https://toss.im/_m/jXbUUEgd",
-      "image": "assets/products/f68cbbe0861182ff9fc5.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3990,
-          "observedAt": "2026-09-18T23:00:41.842Z"
-        },
-        {
-          "price": 3990,
-          "observedAt": "2026-09-18T04:54:24.539Z"
         }
       ]
     },
