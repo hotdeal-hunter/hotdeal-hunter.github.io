@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T09:47:54.469Z",
+  "updatedAt": "2026-09-21T09:53:12.657Z",
   "deals": [
+    {
+      "id": "toss:p:11544595|n:바른세탁소 액체세제 라임향, 2.5l, 4개",
+      "source": "toss",
+      "name": "바른세탁소 액체세제 라임향, 2.5L, 4개",
+      "price": 5950,
+      "listPrice": null,
+      "observedAt": "2026-09-21T09:51:37.844Z",
+      "url": "https://toss.im/_m/Xtb0RLSk",
+      "image": "assets/products/a16bf63dabe009581f53.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-09-21T09:51:37.844Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:165846379|n:맛장군 오늘담근 생김치 겉절이, 2kg, 1개",
       "source": "toss",
