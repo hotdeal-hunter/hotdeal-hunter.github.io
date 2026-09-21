@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-09-21T07:37:50.104Z",
+  "updatedAt": "2026-09-21T08:15:42.890Z",
   "deals": [
+    {
+      "id": "p:8367073894|i:24175708331|v:91193685703",
+      "source": "coupang",
+      "name": "Apple 2024 에어팟 4 액티브 노이즈 캔슬링 블루투스 이어폰, MXP93KH/A, 화이트",
+      "price": 170100,
+      "listPrice": 227687,
+      "observedAt": "2026-09-21T08:14:19.165Z",
+      "url": "https://link.coupang.com/a/hdRNJ9nnNs",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 170100,
+          "observedAt": "2026-09-21T08:14:19.165Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
+      "source": "toss",
+      "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-21T08:01:34.384Z",
+      "url": "https://toss.im/_m/VXnJfNt7",
+      "image": "assets/products/c9057499c176ef243ad5.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-21T08:01:34.384Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-09-21T03:53:12.077Z"
+        },
+        {
+          "price": 12000,
+          "observedAt": "2026-09-14T12:31:01.318Z"
+        },
+        {
+          "price": 12150,
+          "observedAt": "2026-08-29T12:55:32.444Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-17T13:16:24.053Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-17T04:07:06.630Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-21T07:42:47.996Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T07:42:47.996Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
       "source": "toss",
@@ -91,23 +166,6 @@
         {
           "price": 4500,
           "observedAt": "2026-09-21T06:55:32.671Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "source": "toss",
-      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T06:36:05.468Z",
-      "url": "https://toss.im/_m/tevYh07h",
-      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T06:36:05.468Z"
         }
       ]
     },
@@ -282,39 +340,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-21T03:59:04.795Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82506439|n:후디스 소화 편한 우유 오리지널, 190ml, 24개",
-      "source": "toss",
-      "name": "후디스 소화 편한 우유 오리지널, 190ml, 24개",
-      "price": 11900,
-      "listPrice": 33600,
-      "observedAt": "2026-09-21T03:53:12.077Z",
-      "url": "https://toss.im/_m/VXnJfNt7",
-      "image": "assets/products/c9057499c176ef243ad5.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-09-21T03:53:12.077Z"
-        },
-        {
-          "price": 12000,
-          "observedAt": "2026-09-14T12:31:01.318Z"
-        },
-        {
-          "price": 12150,
-          "observedAt": "2026-08-29T12:55:32.444Z"
-        },
-        {
-          "price": 11900,
-          "observedAt": "2026-08-17T13:16:24.053Z"
-        },
-        {
-          "price": 11900,
-          "observedAt": "2026-08-17T04:07:06.630Z"
         }
       ]
     },
