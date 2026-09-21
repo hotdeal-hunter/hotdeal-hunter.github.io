@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-21T09:53:12.657Z",
+  "updatedAt": "2026-09-21T10:12:17.472Z",
   "deals": [
+    {
+      "id": "p:7455919074|i:24108242235|v:85984112985",
+      "source": "coupang",
+      "name": "베베숲 오리진 유아물티슈 캡형, 50g, 100매, 10개",
+      "price": 10900,
+      "listPrice": 13015,
+      "observedAt": "2026-09-21T10:12:04.473Z",
+      "url": "https://link.coupang.com/a/hd0dtHXthA",
+      "image": "assets/products/90bd22bae9af6a5f69f6.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-21T10:12:04.473Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:11544595|n:바른세탁소 액체세제 라임향, 2.5l, 4개",
       "source": "toss",
