@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-21T01:11:39.786Z",
+  "updatedAt": "2026-09-21T02:35:52.009Z",
   "deals": [
+    {
+      "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "source": "toss",
+      "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "price": 8422,
+      "listPrice": null,
+      "observedAt": "2026-09-21T02:34:18.282Z",
+      "url": "https://toss.im/_m/x6Wm3art",
+      "image": "assets/products/7d2c7b9eb83f25f7426e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:18.282Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:15.253Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
       "source": "toss",
       "name": "호정가 우리쌀약과, 1kg, 1세트",
       "price": 4990,
       "listPrice": null,
-      "observedAt": "2026-09-21T01:11:30.043Z",
+      "observedAt": "2026-09-21T01:41:54.360Z",
       "url": "https://toss.im/_m/vv0QMhAd",
       "image": "assets/products/6025ddd810b8dfabebf6.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T01:41:54.360Z"
+        },
         {
           "price": 4990,
           "observedAt": "2026-09-21T01:11:30.043Z"
