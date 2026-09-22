@@ -1,6 +1,74 @@
 {
-  "updatedAt": "2026-09-22T11:19:43.143Z",
+  "updatedAt": "2026-09-22T22:41:09.840Z",
   "deals": [
+    {
+      "id": "p:116654440|i:19307647959|v:86421969406",
+      "source": "coupang",
+      "name": "프레지덩 스프레더블 치즈 포션, 17.5g, 8개입, 4개",
+      "price": 10800,
+      "listPrice": 22000,
+      "observedAt": "2026-09-22T22:40:59.581Z",
+      "url": "https://link.coupang.com/a/hgwDFjb6e4",
+      "image": "assets/products/9dc1eecb581fb2ed3953.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10800,
+          "observedAt": "2026-09-22T22:40:59.581Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8607929952|i:25087105603|v:83921553399",
+      "source": "coupang",
+      "name": "시치미 쓱 데일리 물티슈 캡형, 50g, 100개입, 10개",
+      "price": 4900,
+      "listPrice": 11516,
+      "observedAt": "2026-09-22T22:13:09.600Z",
+      "url": "https://link.coupang.com/a/hguEmxfogm",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4900,
+          "observedAt": "2026-09-22T22:13:09.600Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:394223675|n:뉴트리디데이 메가 칼슘 마그네슘 아연 비타민d, 100정, 3개",
+      "source": "toss",
+      "name": "뉴트리디데이 메가 칼슘 마그네슘 아연 비타민D, 100정, 3개",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-09-22T12:01:31.136Z",
+      "url": "https://toss.im/_m/FmNbD7zt",
+      "image": "assets/products/d0cf8dde63d781857335.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-22T12:01:31.136Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8533893094|i:25799974880|v:82964261057",
+      "source": "coupang",
+      "name": "전두유 더진한 국산콩 무가당 두유, 190ml, 64개",
+      "price": 24400,
+      "listPrice": 28739,
+      "observedAt": "2026-09-22T11:57:48.457Z",
+      "url": "https://link.coupang.com/a/hfMFYLjRGm",
+      "image": "assets/products/440aa4dce0fd5b631834.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24400,
+          "observedAt": "2026-09-22T11:57:48.457Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2597149613|n:특란 무항생제 무정란 계란, 30구, 2세트",
       "source": "toss",
@@ -582,7 +650,7 @@
       "listPrice": 21413,
       "observedAt": "2026-09-22T06:43:58.925Z",
       "url": "https://link.coupang.com/a/hfqfyfJEaq",
-      "image": null,
+      "image": "assets/products/9f9c7855646694a0f74c.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
