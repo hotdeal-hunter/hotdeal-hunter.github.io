@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-22T08:33:43.994Z",
+  "updatedAt": "2026-09-22T08:58:27.232Z",
   "deals": [
+    {
+      "id": "toss:p:2236447519|n:케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "source": "toss",
+      "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "price": 12255,
+      "listPrice": 54000,
+      "observedAt": "2026-09-22T08:58:17.129Z",
+      "url": "https://toss.im/_m/PUhhQqjx",
+      "image": "assets/products/864448bc5fc6a2267a7f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12255,
+          "observedAt": "2026-09-22T08:58:17.129Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7664690949|i:20429261314|v:87510437343",
+      "source": "coupang",
+      "name": "테팔 인덕션 티타늄 1X 원픽 냄비팬 꿀고구마 옐로, 22cm, 1개",
+      "price": 27900,
+      "listPrice": 35457,
+      "observedAt": "2026-09-22T08:43:05.478Z",
+      "url": "https://link.coupang.com/a/hfyLgXQAAm",
+      "image": "assets/products/926a12c3d8e32ab79cb5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-09-22T08:43:05.478Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
       "source": "toss",
