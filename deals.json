@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-09-22T08:58:27.232Z",
+  "updatedAt": "2026-09-22T09:52:45.627Z",
   "deals": [
+    {
+      "id": "p:8366346679|i:24172777644|v:91191007751",
+      "source": "coupang",
+      "name": "샤크 에보파워 핸디 무선 청소기, 미드나잇블루, WV210KR",
+      "price": 93320,
+      "listPrice": 111386,
+      "observedAt": "2026-09-22T09:52:35.077Z",
+      "url": "https://link.coupang.com/a/hfDJaJWTjU",
+      "image": "assets/products/4ffdfe585c24f33cd63c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 93320,
+          "observedAt": "2026-09-22T09:52:35.077Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:841263669|n:캘빈클라인 스트레치 코튼 드로즈 u2662gxwb, 블랙, l, 3개",
+      "source": "toss",
+      "name": "캘빈클라인 스트레치 코튼 드로즈 U2662GXWB, 블랙, L, 3개",
+      "price": 24900,
+      "listPrice": null,
+      "observedAt": "2026-09-22T09:49:12.187Z",
+      "url": "https://toss.im/_m/Rr7XD5ND",
+      "image": "assets/products/c50fbe2bb3129e061927.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-09-22T09:49:12.187Z"
+        },
+        {
+          "price": 24900,
+          "observedAt": "2026-09-22T09:46:41.173Z"
+        },
+        {
+          "price": 24900,
+          "observedAt": "2026-08-21T12:28:37.384Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81490299|n:리치 오트밀 미니바이트, 1kg, 1개",
+      "source": "toss",
+      "name": "리치 오트밀 미니바이트, 1kg, 1개",
+      "price": 3500,
+      "listPrice": null,
+      "observedAt": "2026-09-22T09:32:37.803Z",
+      "url": "https://toss.im/_m/Dxh8hY2g",
+      "image": "assets/products/879698b787f18a1983b4.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 3500,
+          "observedAt": "2026-09-22T09:32:37.803Z"
+        },
+        {
+          "price": 3500,
+          "observedAt": "2026-09-22T09:31:24.523Z"
+        },
+        {
+          "price": 3500,
+          "observedAt": "2026-09-22T09:31:24.435Z"
+        },
+        {
+          "price": 3500,
+          "observedAt": "2026-09-22T09:31:20.492Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1073214585|n:서울식품 뻥이요 골드 오리지널, 60g, 15개",
+      "source": "toss",
+      "name": "서울식품 뻥이요 골드 오리지널, 60g, 15개",
+      "price": 4235,
+      "listPrice": null,
+      "observedAt": "2026-09-22T09:24:08.030Z",
+      "url": "https://toss.im/_m/p7BOPUT6",
+      "image": "assets/products/2f83cb426ac72ac94479.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4235,
+          "observedAt": "2026-09-22T09:24:08.030Z"
+        },
+        {
+          "price": 4235,
+          "observedAt": "2026-09-22T09:24:03.840Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2236447519|n:케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
       "source": "toss",
@@ -460,7 +552,7 @@
       "listPrice": 52633,
       "observedAt": "2026-09-22T02:32:01.774Z",
       "url": "https://link.coupang.com/a/he8fgbja0G",
-      "image": null,
+      "image": "assets/products/d3300443fddb7199e3c5.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -17675,23 +17767,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-21T12:28:37.579Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:841263669|n:캘빈클라인 스트레치 코튼 드로즈 u2662gxwb, 블랙, l, 3개",
-      "source": "toss",
-      "name": "캘빈클라인 스트레치 코튼 드로즈 U2662GXWB, 블랙, L, 3개",
-      "price": 24900,
-      "listPrice": null,
-      "observedAt": "2026-08-21T12:28:37.384Z",
-      "url": "https://toss.im/_m/Rr7XD5ND",
-      "image": "assets/products/c50fbe2bb3129e061927.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 24900,
-          "observedAt": "2026-08-21T12:28:37.384Z"
         }
       ]
     },
