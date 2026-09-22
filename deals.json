@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-22T10:42:59.472Z",
+  "updatedAt": "2026-09-22T11:19:43.143Z",
   "deals": [
+    {
+      "id": "toss:p:2597149613|n:특란 무항생제 무정란 계란, 30구, 2세트",
+      "source": "toss",
+      "name": "특란 무항생제 무정란 계란, 30구, 2세트",
+      "price": 22300,
+      "listPrice": 31800,
+      "observedAt": "2026-09-22T11:19:32.631Z",
+      "url": "https://toss.im/_m/z8HWMCRq",
+      "image": "assets/products/3b373e45186244903a8e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22300,
+          "observedAt": "2026-09-22T11:19:32.631Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2148622311|n:잘마른 몸통 오징어, 200g 내외, 1봉",
+      "source": "toss",
+      "name": "잘마른 몸통 오징어, 200g 내외, 1봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-22T11:14:49.346Z",
+      "url": "https://toss.im/_m/Z1tJq4pj",
+      "image": "assets/products/ff2cd2723899961f762d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-22T11:14:49.346Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664052605|n:이지앤프리 블랙 에디션 김치통, 블랙, 3.2l, 2통",
+      "source": "toss",
+      "name": "이지앤프리 블랙 에디션 김치통, 블랙, 3.2L, 2통",
+      "price": 4800,
+      "listPrice": null,
+      "observedAt": "2026-09-22T11:01:48.512Z",
+      "url": "https://toss.im/_m/J1yFTiY6",
+      "image": "assets/products/4acb171861ac6887b72a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4800,
+          "observedAt": "2026-09-22T11:01:48.512Z"
+        },
+        {
+          "price": 4800,
+          "observedAt": "2026-09-22T11:01:44.234Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9210672620|i:27208279169|v:94370694303",
+      "source": "coupang",
+      "name": "뽀시래기 고양이 전연령용 엘라이신 든든한 사료, 면역/항산화, 15kg, 1개",
+      "price": 9990,
+      "listPrice": 42830,
+      "observedAt": "2026-09-22T10:47:40.018Z",
+      "url": "https://link.coupang.com/a/hfHFd6YTQW",
+      "image": "assets/products/b401c56fbf9c3991b435.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-09-22T10:47:40.018Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:78232271|n:허만두 김치손만두, 1.4kg, 2개",
       "source": "toss",
