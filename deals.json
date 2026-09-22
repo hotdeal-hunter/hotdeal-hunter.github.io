@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-22T07:29:57.623Z",
+  "updatedAt": "2026-09-22T08:33:43.994Z",
   "deals": [
+    {
+      "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "source": "toss",
+      "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "price": 6490,
+      "listPrice": null,
+      "observedAt": "2026-09-22T08:33:35.991Z",
+      "url": "https://toss.im/_m/TeIxfZQf",
+      "image": "assets/products/47d14ec0d7ef6b4bcfcf.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6490,
+          "observedAt": "2026-09-22T08:33:35.991Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:106052031|n:대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+      "source": "toss",
+      "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+      "price": 6440,
+      "listPrice": null,
+      "observedAt": "2026-09-22T07:33:37.173Z",
+      "url": "https://toss.im/_m/fxLxwrf2",
+      "image": "assets/products/da0ba253a9fb7d6b7d93.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6440,
+          "observedAt": "2026-09-22T07:33:37.173Z"
+        }
+      ]
+    },
     {
       "id": "p:8936455900|i:26128399204|v:93108707126",
       "source": "coupang",
@@ -283,7 +317,7 @@
       "listPrice": 10554,
       "observedAt": "2026-09-22T06:24:16.558Z",
       "url": "https://link.coupang.com/a/hfoQemznGu",
-      "image": null,
+      "image": "assets/products/4c4d86f6ed29675b0e7b.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
