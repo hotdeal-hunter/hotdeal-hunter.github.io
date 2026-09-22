@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-22T05:18:24.034Z",
+  "updatedAt": "2026-09-22T05:55:08.194Z",
   "deals": [
     {
-      "id": "p:7759264942|i:20920652640|v:87987509001",
-      "source": "coupang",
-      "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
-      "price": 6720,
-      "listPrice": 8264,
-      "observedAt": "2026-09-22T05:18:13.255Z",
-      "url": "https://link.coupang.com/a/hfj7zKxGCq",
-      "image": "assets/products/402a6e4182dcd292822d.jpg",
+      "id": "toss:p:81741539|n:c2y 퓨어 아쿠아 휩 클렌징 폼, 120ml, 4개",
+      "source": "toss",
+      "name": "C2Y 퓨어 아쿠아 휩 클렌징 폼, 120ml, 4개",
+      "price": 9800,
+      "listPrice": 25800,
+      "observedAt": "2026-09-22T05:54:53.166Z",
+      "url": "https://toss.im/_m/VJa5Jaqm",
+      "image": "assets/products/2b2c13585fba50259941.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
-          "price": 6720,
-          "observedAt": "2026-09-22T05:18:13.255Z"
+          "price": 9800,
+          "observedAt": "2026-09-22T05:54:53.166Z"
         }
       ]
     },
@@ -24,11 +24,15 @@
       "name": "대한민국농수산 소고기 모둠, 1kg, 1세트",
       "price": 30900,
       "listPrice": null,
-      "observedAt": "2026-09-22T05:04:22.984Z",
+      "observedAt": "2026-09-22T05:47:50.512Z",
       "url": "https://toss.im/_m/t0SmYh1h",
       "image": "assets/products/a5ac356e196853561db0.png",
-      "insight": "4회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 30900,
+          "observedAt": "2026-09-22T05:47:50.512Z"
+        },
         {
           "price": 30900,
           "observedAt": "2026-09-22T05:04:22.984Z"
@@ -44,6 +48,23 @@
         {
           "price": 38900,
           "observedAt": "2026-09-13T06:53:20.872Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7759264942|i:20920652640|v:87987509001",
+      "source": "coupang",
+      "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
+      "price": 6720,
+      "listPrice": 8264,
+      "observedAt": "2026-09-22T05:18:13.255Z",
+      "url": "https://link.coupang.com/a/hfj7zKxGCq",
+      "image": "assets/products/402a6e4182dcd292822d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6720,
+          "observedAt": "2026-09-22T05:18:13.255Z"
         }
       ]
     },
