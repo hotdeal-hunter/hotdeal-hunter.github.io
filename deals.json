@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-22T10:22:44.831Z",
+  "updatedAt": "2026-09-22T10:42:59.472Z",
   "deals": [
+    {
+      "id": "toss:p:78232271|n:허만두 김치손만두, 1.4kg, 2개",
+      "source": "toss",
+      "name": "허만두 김치손만두, 1.4kg, 2개",
+      "price": 15300,
+      "listPrice": 25900,
+      "observedAt": "2026-09-22T10:42:49.499Z",
+      "url": "https://toss.im/_m/dzGKjJ0b",
+      "image": "assets/products/f7aec795064114e3a5d8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15300,
+          "observedAt": "2026-09-22T10:42:49.499Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9200397531|i:27164098718|v:-",
+      "source": "coupang",
+      "name": "라라스윗 미니생초코 바닐라빈 아이스크림 (냉동), 10개입, 38ml, 1개",
+      "price": 7590,
+      "listPrice": null,
+      "observedAt": "2026-09-22T10:31:12.035Z",
+      "url": "https://link.coupang.com/a/hfGuf0ZO3g",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7590,
+          "observedAt": "2026-09-22T10:31:12.035Z"
+        },
+        {
+          "price": 7590,
+          "observedAt": "2026-09-22T10:31:07.837Z"
+        }
+      ]
+    },
     {
       "id": "p:7122266513|i:19714292493|v:86818589119",
       "source": "coupang",
