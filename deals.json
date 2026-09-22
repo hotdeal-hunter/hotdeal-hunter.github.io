@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-22T00:28:20.908Z",
+  "updatedAt": "2026-09-22T00:37:06.490Z",
   "deals": [
+    {
+      "id": "toss:p:2613879061|n:산지로드 숯불 매콤오돌뼈, 300g, 4팩",
+      "source": "toss",
+      "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
+      "price": 13900,
+      "listPrice": 22900,
+      "observedAt": "2026-09-22T00:35:41.555Z",
+      "url": "https://toss.im/_m/PgvFrkaw",
+      "image": "assets/products/69571b99c122821debb5.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-22T00:35:41.555Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-09-07T01:27:24.782Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8327467458|i:24040228958|v:91060469767",
+      "source": "coupang",
+      "name": "통잉 여성 산리오 시리즈 기모 털실내화 ST47845, 화이트, 230mm",
+      "price": 3710,
+      "listPrice": 39800,
+      "observedAt": "2026-09-22T00:35:41.335Z",
+      "url": "https://link.coupang.com/a/heZVMJIeMC",
+      "image": "assets/products/8df9f90d326218a5c74e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3710,
+          "observedAt": "2026-09-22T00:35:41.335Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2649203175|n:드마엘 퓨어 코마사 프리미엄 데일리 삭스, 화이트, 여성용(225-245), 10켤레",
       "source": "toss",
@@ -7389,23 +7427,6 @@
         {
           "price": 17900,
           "observedAt": "2026-09-07T02:10:54.226Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2613879061|n:산지로드 숯불 매콤오돌뼈, 300g, 4팩",
-      "source": "toss",
-      "name": "산지로드 숯불 매콤오돌뼈, 300g, 4팩",
-      "price": 13900,
-      "listPrice": 22900,
-      "observedAt": "2026-09-07T01:27:24.782Z",
-      "url": "https://toss.im/_m/PgvFrkaw",
-      "image": "assets/products/69571b99c122821debb5.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13900,
-          "observedAt": "2026-09-07T01:27:24.782Z"
         }
       ]
     },
