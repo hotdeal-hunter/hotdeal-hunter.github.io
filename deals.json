@@ -1,17 +1,21 @@
 {
-  "updatedAt": "2026-09-22T00:25:43.721Z",
+  "updatedAt": "2026-09-22T00:28:20.908Z",
   "deals": [
     {
       "id": "toss:p:2649203175|n:드마엘 퓨어 코마사 프리미엄 데일리 삭스, 화이트, 여성용(225-245), 10켤레",
       "source": "toss",
       "name": "드마엘 퓨어 코마사 프리미엄 데일리 삭스, 화이트, 여성용(225-245), 10켤레",
-      "price": 6160,
+      "price": 616,
       "listPrice": null,
-      "observedAt": "2026-09-22T00:24:07.314Z",
+      "observedAt": "2026-09-22T00:26:00.488Z",
       "url": "https://toss.im/_m/l9L0FB56",
       "image": "assets/products/7f3c217af7443cd87e29.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 616,
+          "observedAt": "2026-09-22T00:26:00.488Z"
+        },
         {
           "price": 6160,
           "observedAt": "2026-09-22T00:24:07.314Z"
