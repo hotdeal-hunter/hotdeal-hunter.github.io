@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-09-22T00:40:03.438Z",
+  "updatedAt": "2026-09-22T05:18:24.034Z",
   "deals": [
+    {
+      "id": "p:7759264942|i:20920652640|v:87987509001",
+      "source": "coupang",
+      "name": "깨끗한나라 톡톡 뽑아쓰는 무표백 천연펄프 키친타올, 100매, 6개",
+      "price": 6720,
+      "listPrice": 8264,
+      "observedAt": "2026-09-22T05:18:13.255Z",
+      "url": "https://link.coupang.com/a/hfj7zKxGCq",
+      "image": "assets/products/402a6e4182dcd292822d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6720,
+          "observedAt": "2026-09-22T05:18:13.255Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:154977175|n:대한민국농수산 소고기 모둠, 1kg, 1세트",
+      "source": "toss",
+      "name": "대한민국농수산 소고기 모둠, 1kg, 1세트",
+      "price": 30900,
+      "listPrice": null,
+      "observedAt": "2026-09-22T05:04:22.984Z",
+      "url": "https://toss.im/_m/t0SmYh1h",
+      "image": "assets/products/a5ac356e196853561db0.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 30900,
+          "observedAt": "2026-09-22T05:04:22.984Z"
+        },
+        {
+          "price": 30900,
+          "observedAt": "2026-09-22T02:32:05.273Z"
+        },
+        {
+          "price": 30900,
+          "observedAt": "2026-09-21T23:51:07.967Z"
+        },
+        {
+          "price": 38900,
+          "observedAt": "2026-09-13T06:53:20.872Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:204630379|n:외갓집 진심 부대찌개, 700g, 2팩",
+      "source": "toss",
+      "name": "외갓집 진심 부대찌개, 700g, 2팩",
+      "price": 9490,
+      "listPrice": 20000,
+      "observedAt": "2026-09-22T05:04:19.785Z",
+      "url": "https://toss.im/_m/NmDA7YYq",
+      "image": "assets/products/abfa67d76ba018735e13.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-09-22T05:04:19.785Z"
+        },
+        {
+          "price": 4490,
+          "observedAt": "2026-08-26T02:46:23.983Z"
+        },
+        {
+          "price": 8980,
+          "observedAt": "2026-08-26T02:46:23.640Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7802578430|i:21135886197|v:88197555611",
+      "source": "coupang",
+      "name": "바겐슈타이거 인덕션 티프 올스텐 곰솥냄비, 28cm, 단일색상, 1개",
+      "price": 22960,
+      "listPrice": 52633,
+      "observedAt": "2026-09-22T02:32:01.774Z",
+      "url": "https://link.coupang.com/a/he8fgbja0G",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22960,
+          "observedAt": "2026-09-22T02:32:01.774Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2613879061|n:산지로드 숯불 매콤오돌뼈, 300g, 4팩",
       "source": "toss",
@@ -74,27 +162,6 @@
         {
           "price": 9780,
           "observedAt": "2026-09-21T23:57:40.093Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:154977175|n:대한민국농수산 소고기 모둠, 1kg, 1세트",
-      "source": "toss",
-      "name": "대한민국농수산 소고기 모둠, 1kg, 1세트",
-      "price": 30900,
-      "listPrice": null,
-      "observedAt": "2026-09-21T23:51:07.967Z",
-      "url": "https://toss.im/_m/t0SmYh1h",
-      "image": "assets/products/a5ac356e196853561db0.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 30900,
-          "observedAt": "2026-09-21T23:51:07.967Z"
-        },
-        {
-          "price": 38900,
-          "observedAt": "2026-09-13T06:53:20.872Z"
         }
       ]
     },
@@ -14729,27 +14796,6 @@
         {
           "price": 6270,
           "observedAt": "2026-08-26T03:02:04.687Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:204630379|n:외갓집 진심 부대찌개, 700g, 2팩",
-      "source": "toss",
-      "name": "외갓집 진심 부대찌개, 700g, 2팩",
-      "price": 4490,
-      "listPrice": null,
-      "observedAt": "2026-08-26T02:46:23.983Z",
-      "url": "https://toss.im/_m/NmDA7YYq",
-      "image": "assets/products/abfa67d76ba018735e13.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4490,
-          "observedAt": "2026-08-26T02:46:23.983Z"
-        },
-        {
-          "price": 8980,
-          "observedAt": "2026-08-26T02:46:23.640Z"
         }
       ]
     },
