@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T23:42:05.498Z",
+  "updatedAt": "2026-09-22T23:56:10.878Z",
   "deals": [
     {
       "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
@@ -7,11 +7,19 @@
       "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
       "price": 58810,
       "listPrice": null,
-      "observedAt": "2026-09-22T23:42:00.956Z",
+      "observedAt": "2026-09-22T23:54:50.953Z",
       "url": "https://toss.im/_m/hoV8jeJu",
       "image": "assets/products/f5b3ffa5a6bcf4c5fe29.png",
-      "insight": "4회 가격 기록",
+      "insight": "6회 가격 기록",
       "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.953Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.764Z"
+        },
         {
           "price": 58810,
           "observedAt": "2026-09-22T23:42:00.956Z"
@@ -27,6 +35,23 @@
         {
           "price": 58810,
           "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
+    {
+      "id": "p:2088245556|i:3547159168|v:71533102847",
+      "source": "coupang",
+      "name": "JMW 무빙쿠션 데일리 고데기 W2010ME + 캡, RealBlack + CopperOrange",
+      "price": 43680,
+      "listPrice": 65412,
+      "observedAt": "2026-09-22T23:54:47.507Z",
+      "url": "https://link.coupang.com/a/hgBUDzuokm",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 43680,
+          "observedAt": "2026-09-22T23:54:47.507Z"
         }
       ]
     },
