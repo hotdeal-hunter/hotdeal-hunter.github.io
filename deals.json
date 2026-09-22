@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-22T06:24:27.069Z",
+  "updatedAt": "2026-09-22T07:11:55.638Z",
   "deals": [
+    {
+      "id": "p:6789548230|i:17028873257|v:-",
+      "source": "coupang",
+      "name": "케라시스 케라마이드 극손상 클리닉 트리트먼트, 200ml, 2개",
+      "price": 4570,
+      "listPrice": null,
+      "observedAt": "2026-09-22T07:11:48.553Z",
+      "url": "https://link.coupang.com/a/hfseQmoqpo",
+      "image": "assets/products/02132b17c6ff2b7ed83c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4570,
+          "observedAt": "2026-09-22T07:11:48.553Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9360391674|i:27781295673|v:94741611561",
+      "source": "coupang",
+      "name": "오리온 촉촉한황치즈칩 16p, 320g, 3개",
+      "price": 15720,
+      "listPrice": 21413,
+      "observedAt": "2026-09-22T06:43:58.925Z",
+      "url": "https://link.coupang.com/a/hfqfyfJEaq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15720,
+          "observedAt": "2026-09-22T06:43:58.925Z"
+        }
+      ]
+    },
     {
       "id": "p:8674061534|i:27265449556|v:94232230826",
       "source": "coupang",
