@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-22T05:55:08.194Z",
+  "updatedAt": "2026-09-22T06:24:27.069Z",
   "deals": [
+    {
+      "id": "p:8674061534|i:27265449556|v:94232230826",
+      "source": "coupang",
+      "name": "더빅토리아 청귤 탄산음료, 500ml, 20개",
+      "price": 8770,
+      "listPrice": 10554,
+      "observedAt": "2026-09-22T06:24:16.558Z",
+      "url": "https://link.coupang.com/a/hfoQemznGu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8770,
+          "observedAt": "2026-09-22T06:24:16.558Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 11900,
+      "listPrice": 16500,
+      "observedAt": "2026-09-22T06:17:10.529Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-22T06:17:10.529Z"
+        },
+        {
+          "price": 11498,
+          "observedAt": "2026-09-15T04:08:55.141Z"
+        },
+        {
+          "price": 11300,
+          "observedAt": "2026-09-07T09:46:05.792Z"
+        },
+        {
+          "price": 12988,
+          "observedAt": "2026-08-31T10:22:40.217Z"
+        },
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81741539|n:c2y 퓨어 아쿠아 휩 클렌징 폼, 120ml, 4개",
       "source": "toss",
@@ -4122,35 +4172,6 @@
         {
           "price": 11800,
           "observedAt": "2026-09-15T05:19:05.977Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "source": "toss",
-      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "price": 11498,
-      "listPrice": 26000,
-      "observedAt": "2026-09-15T04:08:55.141Z",
-      "url": "https://toss.im/_m/H8jMugyo",
-      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 11498,
-          "observedAt": "2026-09-15T04:08:55.141Z"
-        },
-        {
-          "price": 11300,
-          "observedAt": "2026-09-07T09:46:05.792Z"
-        },
-        {
-          "price": 12988,
-          "observedAt": "2026-08-31T10:22:40.217Z"
-        },
-        {
-          "price": 11780,
-          "observedAt": "2026-08-24T05:32:01.644Z"
         }
       ]
     },
