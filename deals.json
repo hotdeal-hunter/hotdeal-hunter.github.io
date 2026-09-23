@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-23T09:17:57.413Z",
+  "updatedAt": "2026-09-23T09:35:42.171Z",
   "deals": [
+    {
+      "id": "p:7609927663|i:20260496318|v:95337269099",
+      "source": "coupang",
+      "name": "씨앤피 뮤제너 카밍 앰플 미스트, 100ml, 1개",
+      "price": 7870,
+      "listPrice": 17500,
+      "observedAt": "2026-09-23T09:35:31.826Z",
+      "url": "https://link.coupang.com/a/hhhpEfo6Oi",
+      "image": "assets/products/044dfa7ee56a772bfacc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7870,
+          "observedAt": "2026-09-23T09:35:31.826Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8570539610|i:24733185951|v:93604116679",
+      "source": "coupang",
+      "name": "곰도리 온열안대 오리지널 케어 플러스, 40개입, 1세트",
+      "price": 5900,
+      "listPrice": 8466,
+      "observedAt": "2026-09-23T09:21:30.822Z",
+      "url": "https://link.coupang.com/a/hhgpyboLXU",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-23T09:21:30.822Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2144910565|n:이디야커피 말차 초코 라떼, 300ml, 20개",
       "source": "toss",
