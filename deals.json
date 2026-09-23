@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-23T09:35:42.171Z",
+  "updatedAt": "2026-09-23T10:16:29.857Z",
   "deals": [
+    {
+      "id": "toss:p:100264313|n:사조참치, 마일드참치, 85g, 8개",
+      "source": "toss",
+      "name": "사조참치, 마일드참치, 85g, 8개",
+      "price": 12900,
+      "listPrice": 19500,
+      "observedAt": "2026-09-23T10:16:19.723Z",
+      "url": "https://toss.shopping/_m/LkGXbaj2",
+      "image": "assets/products/2b601c90cba990a8b4b8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-23T10:16:19.723Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:987368793|n:본오본 어쏘티드 초콜릿, 50개입, 1개",
+      "source": "toss",
+      "name": "본오본 어쏘티드 초콜릿, 50개입, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T09:50:50.921Z",
+      "url": "https://toss.shopping/_m/pHk9TOFa",
+      "image": "assets/products/25e670ef25ffae57a8ef.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-23T09:50:50.921Z"
+        }
+      ]
+    },
     {
       "id": "p:7609927663|i:20260496318|v:95337269099",
       "source": "coupang",
