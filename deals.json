@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-23T04:46:12.043Z",
+  "updatedAt": "2026-09-23T04:55:57.881Z",
   "deals": [
+    {
+      "id": "p:8609383737|i:24969418996|v:91587649353",
+      "source": "coupang",
+      "name": "씨그램 레몬 무라벨, 350ml, 24개",
+      "price": 9680,
+      "listPrice": null,
+      "observedAt": "2026-09-23T04:55:48.680Z",
+      "url": "https://link.coupang.com/a/hgXqk7UBX2",
+      "image": "assets/products/5b3daa0b6e49c6d77ef8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9680,
+          "observedAt": "2026-09-23T04:55:48.680Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9559625896|i:28557835668|v:95502497433",
+      "source": "coupang",
+      "name": "해태제과 오예스 미니 크림소다맛, 192g, 3개",
+      "price": 6660,
+      "listPrice": 9520,
+      "observedAt": "2026-09-23T04:48:36.718Z",
+      "url": "https://link.coupang.com/a/hgWUqW5xdY",
+      "image": "assets/products/9b84810f41dfaba155e9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6660,
+          "observedAt": "2026-09-23T04:48:36.718Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1476164255|n:선비찬 두부송송 청국장찌개, 550g, 3개",
       "source": "toss",
