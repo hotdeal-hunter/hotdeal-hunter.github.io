@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-23T10:16:29.857Z",
+  "updatedAt": "2026-09-23T10:44:38.551Z",
   "deals": [
+    {
+      "id": "toss:p:2662754769|n:장우컴퍼니 게이밍 조립pc 컴퓨터 본체, jwc-003, r5 7500f, rtx 5060 ti, 블랙, 1tb, 16gb, free dos, 1개",
+      "source": "toss",
+      "name": "장우컴퍼니 게이밍 조립PC 컴퓨터 본체, JWC-003, R5 7500F, RTX 5060 TI, 블랙, 1TB, 16GB, Free DOS, 1개",
+      "price": 1697000,
+      "listPrice": null,
+      "observedAt": "2026-09-23T10:44:34.028Z",
+      "url": "https://toss.shopping/_m/XPOFRhdv",
+      "image": "assets/products/0ea9feb90b8c3f4f51a3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1697000,
+          "observedAt": "2026-09-23T10:44:34.028Z"
+        }
+      ]
+    },
+    {
+      "id": "p:191600841|i:20794510069|v:87864008974",
+      "source": "coupang",
+      "name": "오리온 태양의 맛 썬, 30g, 15개",
+      "price": 7800,
+      "listPrice": 10376,
+      "observedAt": "2026-09-23T10:40:47.520Z",
+      "url": "https://link.coupang.com/a/hhl4NOlj2a",
+      "image": "assets/products/cff3775271b70722580c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7800,
+          "observedAt": "2026-09-23T10:40:47.520Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:100264313|n:사조참치, 마일드참치, 85g, 8개",
       "source": "toss",
