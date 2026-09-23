@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-22T23:56:10.878Z",
+  "updatedAt": "2026-09-23T00:58:30.587Z",
   "deals": [
+    {
+      "id": "toss:p:79166055|n:오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
+      "source": "toss",
+      "name": "오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
+      "price": 14900,
+      "listPrice": 24900,
+      "observedAt": "2026-09-23T00:58:20.576Z",
+      "url": "https://toss.im/_m/pwbfXrZ4",
+      "image": "assets/products/51776a4edc8cf23c198c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-23T00:58:20.576Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
       "source": "toss",
       "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
       "price": 58810,
       "listPrice": null,
-      "observedAt": "2026-09-22T23:54:50.953Z",
+      "observedAt": "2026-09-23T00:38:52.789Z",
       "url": "https://toss.im/_m/hoV8jeJu",
       "image": "assets/products/f5b3ffa5a6bcf4c5fe29.png",
-      "insight": "6회 가격 기록",
+      "insight": "7회 가격 기록",
       "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T00:38:52.789Z"
+        },
         {
           "price": 58810,
           "observedAt": "2026-09-22T23:54:50.953Z"
@@ -35,6 +56,23 @@
         {
           "price": 58810,
           "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665308059|n:초코무초 청키앤츄이, 10개입, 370g, 1팩",
+      "source": "toss",
+      "name": "초코무초 청키앤츄이, 10개입, 370g, 1팩",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T00:12:23.383Z",
+      "url": "https://toss.im/_m/LejgKcye",
+      "image": "assets/products/8a75434391c6c6a3e9a3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-23T00:12:23.383Z"
         }
       ]
     },
