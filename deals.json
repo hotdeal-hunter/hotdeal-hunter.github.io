@@ -1,6 +1,106 @@
 {
-  "updatedAt": "2026-09-23T04:55:57.881Z",
+  "updatedAt": "2026-09-23T05:52:00.029Z",
   "deals": [
+    {
+      "id": "toss:p:378329083|n:ahc 프리미어 앰플 인 아이크림 코어 리프팅, 12ml, 10개",
+      "source": "toss",
+      "name": "AHC 프리미어 앰플 인 아이크림 코어 리프팅, 12ml, 10개",
+      "price": 19900,
+      "listPrice": 110000,
+      "observedAt": "2026-09-23T05:51:48.084Z",
+      "url": "https://toss.im/_m/dlqapBIe",
+      "image": "assets/products/cba951294e57aaeea249.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T05:51:48.084Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2611001463|n:클리어 키친타월, 100매, 3겹, 18팩",
+      "source": "toss",
+      "name": "클리어 키친타월, 100매, 3겹, 18팩",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-23T05:41:23.971Z",
+      "url": "https://toss.im/_m/fqhGEjOa",
+      "image": "assets/products/231f7b533a83a07776ed.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-23T05:41:23.971Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-23T05:41:20.600Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-21T23:28:10.553Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T02:46:47.817Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T02:46:47.727Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-13T11:41:09.450Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-11T05:30:45.295Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7837898479|i:21329101466|v:88387702404",
+      "source": "coupang",
+      "name": "해태제과 후렌치파이 딸기, 384g, 5개",
+      "price": 17490,
+      "listPrice": null,
+      "observedAt": "2026-09-23T05:22:49.974Z",
+      "url": "https://link.coupang.com/a/hgZl3djUqG",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 17490,
+          "observedAt": "2026-09-23T05:22:49.974Z"
+        },
+        {
+          "price": 17490,
+          "observedAt": "2026-09-23T05:22:46.308Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "source": "toss",
+      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T05:14:53.938Z",
+      "url": "https://toss.im/_m/NJ8THqjn",
+      "image": "assets/products/33ee5587280f52967854.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T05:14:53.938Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T03:53:54.828Z"
+        }
+      ]
+    },
     {
       "id": "p:8609383737|i:24969418996|v:91587649353",
       "source": "coupang",
@@ -66,23 +166,6 @@
         {
           "price": 6600,
           "observedAt": "2026-09-23T04:26:19.746Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "source": "toss",
-      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-09-23T03:53:54.828Z",
-      "url": "https://toss.im/_m/NJ8THqjn",
-      "image": "assets/products/33ee5587280f52967854.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-23T03:53:54.828Z"
         }
       ]
     },
@@ -1651,39 +1734,6 @@
         {
           "price": 9780,
           "observedAt": "2026-09-21T23:57:40.093Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2611001463|n:클리어 키친타월, 100매, 3겹, 18팩",
-      "source": "toss",
-      "name": "클리어 키친타월, 100매, 3겹, 18팩",
-      "price": 7700,
-      "listPrice": null,
-      "observedAt": "2026-09-21T23:28:10.553Z",
-      "url": "https://toss.im/_m/fqhGEjOa",
-      "image": "assets/products/231f7b533a83a07776ed.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 7700,
-          "observedAt": "2026-09-21T23:28:10.553Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T02:46:47.817Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T02:46:47.727Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-13T11:41:09.450Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-11T05:30:45.295Z"
         }
       ]
     },
