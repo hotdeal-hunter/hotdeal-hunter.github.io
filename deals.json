@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-23T08:33:44.008Z",
+  "updatedAt": "2026-09-23T09:17:57.413Z",
   "deals": [
+    {
+      "id": "toss:p:2144910565|n:이디야커피 말차 초코 라떼, 300ml, 20개",
+      "source": "toss",
+      "name": "이디야커피 말차 초코 라떼, 300ml, 20개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T09:17:53.053Z",
+      "url": "https://toss.shopping/_m/PCNL0wVb",
+      "image": "assets/products/84ebcd52b7d56607b499.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-23T09:17:53.053Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-23T09:17:49.280Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9219560266|i:27242893490|v:94209841092",
+      "source": "coupang",
+      "name": "피지 모락셀라 섬유유연제 필요없는 실내건조 냄새제거 부스터 캡슐세제 화이트머스크향, 26개입, 1개",
+      "price": 12900,
+      "listPrice": 14837,
+      "observedAt": "2026-09-23T09:06:01.258Z",
+      "url": "https://link.coupang.com/a/hhfiUmOixo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-23T09:06:01.258Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:96005353|n:hbaf 시즈닝 아몬드, 허니버터 120g 1개 + 와사비 120g 1개 + 군옥수수 120g 1개 + 마늘빵 120g 1개 + 카라멜 120g 1개, 1세트",
       "source": "toss",
