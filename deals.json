@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-23T06:05:17.365Z",
+  "updatedAt": "2026-09-23T07:05:33.903Z",
   "deals": [
+    {
+      "id": "toss:p:1990349171|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 1.25l, 12개",
+      "source": "toss",
+      "name": "롯데칠성음료 펩시 제로슈거 라임, 업소용, 1.25L, 12개",
+      "price": 15890,
+      "listPrice": 19900,
+      "observedAt": "2026-09-23T07:05:23.817Z",
+      "url": "https://toss.shopping/_m/X2qgSh6g",
+      "image": "assets/products/ddcbeb0515053a042683.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15890,
+          "observedAt": "2026-09-23T07:05:23.817Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9688432|i:22426759578|v:89471446911",
+      "source": "coupang",
+      "name": "아토팜 MLE 페이스 유아로션, 80ml, 1개",
+      "price": 7970,
+      "listPrice": 17176,
+      "observedAt": "2026-09-23T06:26:07.378Z",
+      "url": "https://link.coupang.com/a/hg3SswvPVc",
+      "image": "assets/products/1cfd4da582bf32544f35.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7970,
+          "observedAt": "2026-09-23T06:26:07.378Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1461481173|n:에이투 본플렉스 골전도 무선 이어폰, ipx7 방수, 블랙, 1개",
       "source": "toss",
@@ -3435,99 +3469,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-19T01:44:14.321Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187174093|n:롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "source": "toss",
-      "name": "롯데칠성음료 펩시 제로슈거 라임 업소용, 245ml, 30개",
-      "price": 9990,
-      "listPrice": null,
-      "observedAt": "2026-09-19T01:30:27.488Z",
-      "url": "https://toss.im/_m/dPbc6BO5",
-      "image": "assets/products/f80671f6f9bc8bb7a25a.png",
-      "insight": "20회 가격 기록",
-      "history": [
-        {
-          "price": 9990,
-          "observedAt": "2026-09-19T01:30:27.488Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-19T01:30:27.389Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-18T23:00:41.572Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-17T01:07:46.852Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T23:16:30.685Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T23:05:30.084Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T23:05:29.957Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T09:27:47.455Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T03:20:50.212Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T01:28:37.854Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T00:32:31.460Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-16T00:32:31.173Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-15T23:00:55.769Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:24:33.540Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.377Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T23:05:55.243Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:12:24.632Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T02:11:04.085Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-14T01:43:01.977Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-04T01:08:43.449Z"
         }
       ]
     },
