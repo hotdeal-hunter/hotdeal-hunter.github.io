@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-23T00:58:30.587Z",
+  "updatedAt": "2026-09-23T01:13:54.051Z",
   "deals": [
+    {
+      "id": "p:7168704316|i:15509101|v:90861125615",
+      "source": "coupang",
+      "name": "파워에이드 제로, 600ml, 20개",
+      "price": 14990,
+      "listPrice": 18671,
+      "observedAt": "2026-09-23T01:13:44.242Z",
+      "url": "https://link.coupang.com/a/hgHypABeRE",
+      "image": "assets/products/7fb32706069785814958.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14990,
+          "observedAt": "2026-09-23T01:13:44.242Z"
+        },
+        {
+          "price": 14530,
+          "observedAt": "2026-08-23T04:35:41.224Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7925691042|i:21788011136|v:88836699390",
+      "source": "coupang",
+      "name": "전두유 국산 검은콩 무가당 두유, 190ml, 64개",
+      "price": 22860,
+      "listPrice": 32908,
+      "observedAt": "2026-09-23T01:12:22.929Z",
+      "url": "https://link.coupang.com/a/hgHsppj9jw",
+      "image": "assets/products/5433c84d83214c67cb92.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22860,
+          "observedAt": "2026-09-23T01:12:22.929Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:79166055|n:오프라이스 한촌 사골 양지고기 설렁탕, 500g, 5개",
       "source": "toss",
@@ -17422,23 +17460,6 @@
         {
           "price": 19340,
           "observedAt": "2026-08-23T04:59:34.789Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7168704316|i:15509101|v:90861125615",
-      "source": "coupang",
-      "name": "파워에이드 제로, 600ml, 20개",
-      "price": 14530,
-      "listPrice": 18413,
-      "observedAt": "2026-08-23T04:35:41.224Z",
-      "url": "https://link.coupang.com/a/grtXHXzdy8",
-      "image": "assets/products/7fb32706069785814958.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14530,
-          "observedAt": "2026-08-23T04:35:41.224Z"
         }
       ]
     },
