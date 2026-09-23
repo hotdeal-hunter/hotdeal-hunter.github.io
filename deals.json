@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-09-23T10:44:38.551Z",
+  "updatedAt": "2026-09-23T12:12:41.622Z",
   "deals": [
+    {
+      "id": "p:1570637864|i:22351685806|v:89396794624",
+      "source": "coupang",
+      "name": "포포팬시 위드뽀로로 빼꼼 타포린백, 핑크, 미니(310 x 245 x 130 mm), 1개",
+      "price": 1800,
+      "listPrice": 4000,
+      "observedAt": "2026-09-23T12:12:31.494Z",
+      "url": "https://link.coupang.com/a/hhsDd1YxqK",
+      "image": "assets/products/427ff0500bfc9c5b24d5.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1800,
+          "observedAt": "2026-09-23T12:12:31.494Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2668360889|n:리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
+      "source": "toss",
+      "name": "리프레쉬 맥반석오징어, 13-25미 내외, 300g, 1봉",
+      "price": 14900,
+      "listPrice": 26990,
+      "observedAt": "2026-09-23T12:12:31.191Z",
+      "url": "https://toss.shopping/_m/3YRJ1C9B",
+      "image": "assets/products/f933cf2bbf8eb7223829.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-23T12:12:31.191Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9391860017|i:24339427562|v:88377301288",
+      "source": "coupang",
+      "name": "스프라이트 제로 사이다, 350ml, 24개",
+      "price": 12840,
+      "listPrice": 15235,
+      "observedAt": "2026-09-23T11:50:23.648Z",
+      "url": "https://link.coupang.com/a/hhq3aOXSJE",
+      "image": "assets/products/4453c05c49ef40cd9cf9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12840,
+          "observedAt": "2026-09-23T11:50:23.648Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80606383|n:세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "source": "toss",
+      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "price": 11875,
+      "listPrice": null,
+      "observedAt": "2026-09-23T10:50:33.547Z",
+      "url": "https://toss.shopping/_m/9HqPa5V9",
+      "image": "assets/products/d6207341a39e07d7b92d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11875,
+          "observedAt": "2026-09-23T10:50:33.547Z"
+        },
+        {
+          "price": 11875,
+          "observedAt": "2026-09-23T07:33:27.194Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2662754769|n:장우컴퍼니 게이밍 조립pc 컴퓨터 본체, jwc-003, r5 7500f, rtx 5060 ti, 블랙, 1tb, 16gb, free dos, 1개",
       "source": "toss",
@@ -176,23 +248,6 @@
         {
           "price": 9680,
           "observedAt": "2026-09-23T04:55:48.680Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:80606383|n:세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
-      "source": "toss",
-      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
-      "price": 11875,
-      "listPrice": null,
-      "observedAt": "2026-09-23T07:33:27.194Z",
-      "url": "https://toss.shopping/_m/9HqPa5V9",
-      "image": "assets/products/d6207341a39e07d7b92d.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11875,
-          "observedAt": "2026-09-23T07:33:27.194Z"
         }
       ]
     },
