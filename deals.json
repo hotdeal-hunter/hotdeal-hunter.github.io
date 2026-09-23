@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-23T05:52:00.029Z",
+  "updatedAt": "2026-09-23T06:05:17.365Z",
   "deals": [
+    {
+      "id": "toss:p:1461481173|n:에이투 본플렉스 골전도 무선 이어폰, ipx7 방수, 블랙, 1개",
+      "source": "toss",
+      "name": "에이투 본플렉스 골전도 무선 이어폰, IPX7 방수, 블랙, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T06:05:12.780Z",
+      "url": "https://toss.im/_m/jY7wnsc6",
+      "image": "assets/products/96c0f8264f0b0f9fc1b8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T06:05:12.780Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1955584555|i:11022299394|v:81926528267",
+      "source": "coupang",
+      "name": "나우푸드 비오틴 5000mcg 베지 캡슐, 120정, 3개",
+      "price": 25290,
+      "listPrice": 33350,
+      "observedAt": "2026-09-23T05:55:34.245Z",
+      "url": "https://link.coupang.com/a/hg1G58PiHk",
+      "image": "assets/products/74cbb9d626174f4c95e5.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 25290,
+          "observedAt": "2026-09-23T05:55:34.245Z"
+        },
+        {
+          "price": 25290,
+          "observedAt": "2026-09-23T05:55:33.765Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:378329083|n:ahc 프리미어 앰플 인 아이크림 코어 리프팅, 12ml, 10개",
       "source": "toss",
