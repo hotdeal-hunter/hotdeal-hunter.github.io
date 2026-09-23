@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-23T03:04:59.462Z",
+  "updatedAt": "2026-09-23T04:46:12.043Z",
   "deals": [
+    {
+      "id": "toss:p:1476164255|n:선비찬 두부송송 청국장찌개, 550g, 3개",
+      "source": "toss",
+      "name": "선비찬 두부송송 청국장찌개, 550g, 3개",
+      "price": 11700,
+      "listPrice": 18900,
+      "observedAt": "2026-09-23T04:46:02.045Z",
+      "url": "https://toss.im/_m/dsiaUrwx",
+      "image": "assets/products/418dd1c9e3f617fa5b45.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11700,
+          "observedAt": "2026-09-23T04:46:02.045Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2568667485|n:크라운 빙수하임 말차팥빙수, 284g, 2개",
+      "source": "toss",
+      "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
+      "price": 6600,
+      "listPrice": null,
+      "observedAt": "2026-09-23T04:26:19.746Z",
+      "url": "https://toss.im/_m/ZuhVQXYv",
+      "image": "assets/products/42317a9d6ad28c3e5b14.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-23T04:26:19.746Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "source": "toss",
+      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T03:53:54.828Z",
+      "url": "https://toss.im/_m/NJ8THqjn",
+      "image": "assets/products/33ee5587280f52967854.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T03:53:54.828Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
+      "source": "toss",
+      "name": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 총 6개",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-23T03:23:48.731Z",
+      "url": "https://toss.im/_m/B4fehJe1",
+      "image": "assets/products/3676bdf3c08907d9c397.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T03:23:48.731Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T03:23:48.646Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-19T04:08:00.771Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.709Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-18T04:36:45.439Z"
+        }
+      ]
+    },
     {
       "id": "p:130164876|i:21326386046|v:4949572331",
       "source": "coupang",
@@ -260,7 +344,7 @@
       "listPrice": 65412,
       "observedAt": "2026-09-22T23:54:47.507Z",
       "url": "https://link.coupang.com/a/hgBUDzuokm",
-      "image": null,
+      "image": "assets/products/2c3e654ea6d3192f9a92.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -825,7 +909,7 @@
       "listPrice": 11516,
       "observedAt": "2026-09-22T22:13:09.600Z",
       "url": "https://link.coupang.com/a/hguEmxfogm",
-      "image": null,
+      "image": "assets/products/99b3087d605080b6f9da.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -965,7 +1049,7 @@
       "listPrice": null,
       "observedAt": "2026-09-22T10:31:12.035Z",
       "url": "https://link.coupang.com/a/hfGuf0ZO3g",
-      "image": null,
+      "image": "assets/products/8281cd480e319448a9b9.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
@@ -1681,7 +1765,7 @@
       "listPrice": 22000,
       "observedAt": "2026-09-21T12:40:01.358Z",
       "url": "https://link.coupang.com/a/heaMYzNZo4",
-      "image": null,
+      "image": "assets/products/262715b457730907deb7.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3097,31 +3181,6 @@
         {
           "price": 38800,
           "observedAt": "2026-09-19T04:28:57.367Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2649638869|n:카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
-      "source": "toss",
-      "name": "카멕스 립밤 스틱, 4.25g, 클래식 3개 + 체리 3개, 6개",
-      "price": 8330,
-      "listPrice": null,
-      "observedAt": "2026-09-19T04:08:00.771Z",
-      "url": "https://toss.im/_m/B4fehJe1",
-      "image": "assets/products/9e3e9509ca661b3fd899.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-19T04:08:00.771Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-18T04:36:45.709Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-18T04:36:45.439Z"
         }
       ]
     },
