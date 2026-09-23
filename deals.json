@@ -1,6 +1,98 @@
 {
-  "updatedAt": "2026-09-23T12:39:40.388Z",
+  "updatedAt": "2026-09-23T23:00:20.949Z",
   "deals": [
+    {
+      "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "source": "toss",
+      "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
+      "price": 8000,
+      "listPrice": null,
+      "observedAt": "2026-09-23T23:00:16.335Z",
+      "url": "https://toss.im/_m/R9U8CgD9",
+      "image": "assets/products/df91cda94a2062b880d0.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-23T23:00:16.335Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-22T23:03:33.184Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-22T23:02:16.356Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-22T07:16:44.350Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-21T23:01:12.178Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-21T23:00:01.105Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-20T23:31:59.946Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9668297694|i:28906370177|v:95838497843",
+      "source": "coupang",
+      "name": "[1+1 교차가능] 헬로키티 소프 샌들, 01_헬로키티소프샌들, 핑크190+핑크190, 190",
+      "price": 4480,
+      "listPrice": 5900,
+      "observedAt": "2026-09-23T23:00:10.228Z",
+      "url": "https://link.coupang.com/a/hicUFVGDyS",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4480,
+          "observedAt": "2026-09-23T23:00:10.228Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6055556563|i:18219837366|v:78393638789",
+      "source": "coupang",
+      "name": "샤워메이트 뉴 산양유 비누 버베나, 90g, 12개입",
+      "price": 6860,
+      "listPrice": 9866,
+      "observedAt": "2026-09-23T22:08:52.425Z",
+      "url": "https://link.coupang.com/a/hh9fph2gEe",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6860,
+          "observedAt": "2026-09-23T22:08:52.425Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8082354412|i:22797021713|v:89831979173",
+      "source": "coupang",
+      "name": "EZn이지엔 프리미엄 더블지퍼백, 특대(XL), 50개입, 1개",
+      "price": 9490,
+      "listPrice": 12595,
+      "observedAt": "2026-09-23T13:24:38.061Z",
+      "url": "https://link.coupang.com/a/hhxMJ5Cssm",
+      "image": "assets/products/4abb8de18b628a29e7e2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-09-23T13:24:38.061Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:186987203|n:푸드앳홈 양념명란젓 파지, 1kg, 1개",
       "source": "toss",
@@ -892,43 +984,6 @@
         {
           "price": 5950,
           "observedAt": "2026-09-22T23:14:07.649Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
-      "source": "toss",
-      "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
-      "price": 8000,
-      "listPrice": null,
-      "observedAt": "2026-09-22T23:03:33.184Z",
-      "url": "https://toss.im/_m/R9U8CgD9",
-      "image": "assets/products/df91cda94a2062b880d0.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 8000,
-          "observedAt": "2026-09-22T23:03:33.184Z"
-        },
-        {
-          "price": 8000,
-          "observedAt": "2026-09-22T23:02:16.356Z"
-        },
-        {
-          "price": 8000,
-          "observedAt": "2026-09-22T07:16:44.350Z"
-        },
-        {
-          "price": 8000,
-          "observedAt": "2026-09-21T23:01:12.178Z"
-        },
-        {
-          "price": 8000,
-          "observedAt": "2026-09-21T23:00:01.105Z"
-        },
-        {
-          "price": 8000,
-          "observedAt": "2026-09-20T23:31:59.946Z"
         }
       ]
     },
