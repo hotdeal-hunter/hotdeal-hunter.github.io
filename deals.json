@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-23T07:05:33.903Z",
+  "updatedAt": "2026-09-23T08:33:44.008Z",
   "deals": [
+    {
+      "id": "toss:p:96005353|n:hbaf 시즈닝 아몬드, 허니버터 120g 1개 + 와사비 120g 1개 + 군옥수수 120g 1개 + 마늘빵 120g 1개 + 카라멜 120g 1개, 1세트",
+      "source": "toss",
+      "name": "HBAF 시즈닝 아몬드, 허니버터 120g 1개 + 와사비 120g 1개 + 군옥수수 120g 1개 + 마늘빵 120g 1개 + 카라멜 120g 1개, 1세트",
+      "price": 13900,
+      "listPrice": 27000,
+      "observedAt": "2026-09-23T08:33:31.172Z",
+      "url": "https://toss.shopping/_m/xtXiZklm",
+      "image": "assets/products/812490c176362e1607ad.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-23T08:33:31.172Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8609383737|i:24969418996|v:91587649353",
+      "source": "coupang",
+      "name": "씨그램 레몬 무라벨, 350ml, 24개",
+      "price": 9680,
+      "listPrice": 12852,
+      "observedAt": "2026-09-23T07:56:34.338Z",
+      "url": "https://link.coupang.com/a/hhaldzI17c",
+      "image": "assets/products/5b3daa0b6e49c6d77ef8.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9680,
+          "observedAt": "2026-09-23T07:56:34.338Z"
+        },
+        {
+          "price": 9680,
+          "observedAt": "2026-09-23T04:55:48.680Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80606383|n:세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "source": "toss",
+      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "price": 11875,
+      "listPrice": null,
+      "observedAt": "2026-09-23T07:33:27.194Z",
+      "url": "https://toss.shopping/_m/9HqPa5V9",
+      "image": "assets/products/d6207341a39e07d7b92d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11875,
+          "observedAt": "2026-09-23T07:33:27.194Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1990349171|n:롯데칠성음료 펩시 제로슈거 라임, 업소용, 1.25l, 12개",
       "source": "toss",
@@ -170,23 +225,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-23T03:53:54.828Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8609383737|i:24969418996|v:91587649353",
-      "source": "coupang",
-      "name": "씨그램 레몬 무라벨, 350ml, 24개",
-      "price": 9680,
-      "listPrice": null,
-      "observedAt": "2026-09-23T04:55:48.680Z",
-      "url": "https://link.coupang.com/a/hgXqk7UBX2",
-      "image": "assets/products/5b3daa0b6e49c6d77ef8.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9680,
-          "observedAt": "2026-09-23T04:55:48.680Z"
         }
       ]
     },
