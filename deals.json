@@ -1,6 +1,185 @@
 {
-  "updatedAt": "2026-09-23T01:13:54.051Z",
+  "updatedAt": "2026-09-23T03:04:59.462Z",
   "deals": [
+    {
+      "id": "p:130164876|i:21326386046|v:4949572331",
+      "source": "coupang",
+      "name": "듀라셀 알카라인 AA 건전지, 20개입, 1개",
+      "price": 9730,
+      "listPrice": 13337,
+      "observedAt": "2026-09-23T03:04:48.498Z",
+      "url": "https://link.coupang.com/a/hgPuwQjIAu",
+      "image": "assets/products/302f0ccb4834f0f71c9b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9730,
+          "observedAt": "2026-09-23T03:04:48.498Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:121250967|n:베라 무해력 4zero 클래식, 3겹, 30롤, 25m, 2팩",
+      "source": "toss",
+      "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
+      "price": 18590,
+      "listPrice": 40000,
+      "observedAt": "2026-09-23T02:35:36.147Z",
+      "url": "https://toss.im/_m/DQNvKOSj",
+      "image": "assets/products/91b41f357a1660af3e38.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 18590,
+          "observedAt": "2026-09-23T02:35:36.147Z"
+        },
+        {
+          "price": 16040,
+          "observedAt": "2026-08-20T23:46:08.767Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:21073121|n:독일 콕스타 스타크 다지기, 1개",
+      "source": "toss",
+      "name": "독일 콕스타 스타크 다지기, 1개",
+      "price": 35900,
+      "listPrice": null,
+      "observedAt": "2026-09-23T02:30:53.543Z",
+      "url": "https://toss.im/_m/9ocgFsDz",
+      "image": "assets/products/0a12632056dee9cd19c1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-09-23T02:30:53.543Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1648066|i:11765202388|v:92620800914",
+      "source": "coupang",
+      "name": "팁코 쇼군 NFC 오렌지 주스 100%, 1L, 5개",
+      "price": 15610,
+      "listPrice": null,
+      "observedAt": "2026-09-23T02:18:03.933Z",
+      "url": "https://link.coupang.com/a/hgL9qzhCRo",
+      "image": "assets/products/aa8a1a92773c98fb5382.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 15610,
+          "observedAt": "2026-09-23T02:18:03.933Z"
+        },
+        {
+          "price": 15610,
+          "observedAt": "2026-09-23T02:18:00.380Z"
+        },
+        {
+          "price": 15610,
+          "observedAt": "2026-09-23T01:55:53.377Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
+      "price": 5950,
+      "listPrice": null,
+      "observedAt": "2026-09-23T01:55:59.192Z",
+      "url": "https://toss.im/_m/P0Ennavs",
+      "image": "assets/products/b58e6e575fa11fc98721.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-09-23T01:55:59.192Z"
+        },
+        {
+          "price": 1488,
+          "observedAt": "2026-09-19T02:50:20.064Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-19T02:41:26.792Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "source": "toss",
+      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-23T01:23:20.865Z",
+      "url": "https://toss.im/_m/P84FeeS4",
+      "image": "assets/products/b34973f870709e2f0d21.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:23:20.865Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:20:57.968Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-21T05:19:35.171Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
+      "source": "toss",
+      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
+      "price": 58810,
+      "listPrice": null,
+      "observedAt": "2026-09-23T01:23:20.773Z",
+      "url": "https://toss.im/_m/hoV8jeJu",
+      "image": "assets/products/f5b3ffa5a6bcf4c5fe29.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.773Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.665Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T00:38:52.789Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.953Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.764Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:42:00.956Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:48:59.194Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:36:29.604Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
     {
       "id": "p:7168704316|i:15509101|v:90861125615",
       "source": "coupang",
@@ -53,47 +232,6 @@
         {
           "price": 14900,
           "observedAt": "2026-09-23T00:58:20.576Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
-      "source": "toss",
-      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
-      "price": 58810,
-      "listPrice": null,
-      "observedAt": "2026-09-23T00:38:52.789Z",
-      "url": "https://toss.im/_m/hoV8jeJu",
-      "image": "assets/products/f5b3ffa5a6bcf4c5fe29.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T00:38:52.789Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.953Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.764Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:42:00.956Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:48:59.194Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:36:29.604Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-18T02:20:20.467Z"
         }
       ]
     },
@@ -2081,23 +2219,6 @@
       ]
     },
     {
-      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "source": "toss",
-      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "price": 8330,
-      "listPrice": null,
-      "observedAt": "2026-09-21T05:19:35.171Z",
-      "url": "https://toss.im/_m/P84FeeS4",
-      "image": "assets/products/b34973f870709e2f0d21.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-21T05:19:35.171Z"
-        }
-      ]
-    },
-    {
       "id": "p:8634115517|i:25057663168|v:92061938846",
       "source": "coupang",
       "name": "하인즈 50% 슈가 앤 솔트 토마토 케찹, 435g, 5개",
@@ -3099,27 +3220,6 @@
         {
           "price": 7400,
           "observedAt": "2026-09-11T01:17:09.735Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
-      "price": 1488,
-      "listPrice": null,
-      "observedAt": "2026-09-19T02:50:20.064Z",
-      "url": "https://toss.im/_m/P0Ennavs",
-      "image": "assets/products/b58e6e575fa11fc98721.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 1488,
-          "observedAt": "2026-09-19T02:50:20.064Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-19T02:41:26.792Z"
         }
       ]
     },
@@ -18846,23 +18946,6 @@
         {
           "price": 5580,
           "observedAt": "2026-08-21T00:36:38.897Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:121250967|n:베라 무해력 4zero 클래식, 3겹, 30롤, 25m, 2팩",
-      "source": "toss",
-      "name": "베라 무해력 4ZERO 클래식, 3겹, 30롤, 25m, 2팩",
-      "price": 16040,
-      "listPrice": null,
-      "observedAt": "2026-08-20T23:46:08.767Z",
-      "url": "https://toss.im/_m/DQNvKOSj",
-      "image": "assets/products/91b41f357a1660af3e38.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16040,
-          "observedAt": "2026-08-20T23:46:08.767Z"
         }
       ]
     },
