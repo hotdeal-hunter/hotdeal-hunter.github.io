@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-23T12:12:41.622Z",
+  "updatedAt": "2026-09-23T12:39:40.388Z",
   "deals": [
+    {
+      "id": "toss:p:186987203|n:푸드앳홈 양념명란젓 파지, 1kg, 1개",
+      "source": "toss",
+      "name": "푸드앳홈 양념명란젓 파지, 1kg, 1개",
+      "price": 12900,
+      "listPrice": 26900,
+      "observedAt": "2026-09-23T12:39:30.499Z",
+      "url": "https://toss.im/_m/lUDbL3Ty",
+      "image": "assets/products/63acdecd9603aebd906d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-23T12:39:30.499Z"
+        },
+        {
+          "price": 12700,
+          "observedAt": "2026-08-21T00:48:30.327Z"
+        }
+      ]
+    },
     {
       "id": "p:1570637864|i:22351685806|v:89396794624",
       "source": "coupang",
@@ -19250,23 +19271,6 @@
         {
           "price": 5000,
           "observedAt": "2026-08-21T00:54:15.722Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:186987203|n:푸드앳홈 양념명란젓 파지, 1kg, 1개",
-      "source": "toss",
-      "name": "푸드앳홈 양념명란젓 파지, 1kg, 1개",
-      "price": 12700,
-      "listPrice": 26900,
-      "observedAt": "2026-08-21T00:48:30.327Z",
-      "url": "https://toss.im/_m/lUDbL3Ty",
-      "image": "assets/products/63acdecd9603aebd906d.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12700,
-          "observedAt": "2026-08-21T00:48:30.327Z"
         }
       ]
     },
