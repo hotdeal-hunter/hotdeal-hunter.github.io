@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-24T06:16:55.019Z",
+  "updatedAt": "2026-09-24T06:38:14.032Z",
   "deals": [
+    {
+      "id": "p:2166512128|i:266636515|v:87612470706",
+      "source": "coupang",
+      "name": "에스앤비골든 카레 매운맛, 220g, 2개",
+      "price": 4980,
+      "listPrice": null,
+      "observedAt": "2026-09-24T06:38:06.852Z",
+      "url": "https://link.coupang.com/a/hiJDCPE2vY",
+      "image": "assets/products/1a7dbcfbf55abe8abb36.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-24T06:38:06.852Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6568173877|i:14733344818|v:87612478192",
+      "source": "coupang",
+      "name": "에스앤비골든 카레 순한맛, 220g, 2개",
+      "price": 4980,
+      "listPrice": null,
+      "observedAt": "2026-09-24T06:38:06.633Z",
+      "url": "https://link.coupang.com/a/hiJDB7bIRg",
+      "image": "assets/products/d940ea9d573542663335.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-24T06:38:06.633Z"
+        }
+      ]
+    },
     {
       "id": "p:1421929678|i:24672529784|v:92846307337",
       "source": "coupang",
