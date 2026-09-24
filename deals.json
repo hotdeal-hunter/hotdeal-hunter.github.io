@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-09-24T10:04:54.807Z",
+  "updatedAt": "2026-09-24T10:38:59.500Z",
   "deals": [
+    {
+      "id": "p:8416829422|i:24340835497|v:91356336418",
+      "source": "coupang",
+      "name": "하우스레시피 바인 가방걸이 스탠드행거, 화이트, 45.5 x 28.5 x 100 cm",
+      "price": 17550,
+      "listPrice": 22411,
+      "observedAt": "2026-09-24T10:38:49.354Z",
+      "url": "https://link.coupang.com/a/hi0P7iJL2q",
+      "image": "assets/products/db01d4486cdc35e30360.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17550,
+          "observedAt": "2026-09-24T10:38:49.354Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:864503867|n:봄내푸드 춘천닭갈비, 500g, 2개",
+      "source": "toss",
+      "name": "봄내푸드 춘천닭갈비, 500g, 2개",
+      "price": 9800,
+      "listPrice": 22000,
+      "observedAt": "2026-09-24T10:35:08.580Z",
+      "url": "https://toss.shopping/_m/DkreeaC4",
+      "image": "assets/products/b4447ec2a0ae1f500e49.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9800,
+          "observedAt": "2026-09-24T10:35:08.580Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2668815917|n:캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, m, 1세트",
+      "source": "toss",
+      "name": "캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, M, 1세트",
+      "price": 22900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T10:17:48.338Z",
+      "url": "https://toss.shopping/_m/7GoQjlpm",
+      "image": "assets/products/78c6803fc0cda941c8ab.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-24T10:17:48.338Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-09-24T10:17:48.257Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-09-24T09:54:07.695Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654210221|n:랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
       "source": "toss",
@@ -15,23 +74,6 @@
         {
           "price": 9500,
           "observedAt": "2026-09-24T10:04:42.854Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2668815917|n:캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, m, 1세트",
-      "source": "toss",
-      "name": "캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, M, 1세트",
-      "price": 22900,
-      "listPrice": null,
-      "observedAt": "2026-09-24T09:54:07.695Z",
-      "url": "https://toss.shopping/_m/7GoQjlpm",
-      "image": "assets/products/78c6803fc0cda941c8ab.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 22900,
-          "observedAt": "2026-09-24T09:54:07.695Z"
         }
       ]
     },
