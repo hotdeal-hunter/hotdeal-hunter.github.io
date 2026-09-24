@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-24T01:33:43.220Z",
+  "updatedAt": "2026-09-24T02:56:07.304Z",
   "deals": [
+    {
+      "id": "p:7869554357|i:18421340090|v:86493937947",
+      "source": "coupang",
+      "name": "동원샘물 생수 무라벨, 500ml, 80개",
+      "price": 12220,
+      "listPrice": 15848,
+      "observedAt": "2026-09-24T02:55:54.631Z",
+      "url": "https://link.coupang.com/a/hitK8GnNWS",
+      "image": "assets/products/d62dbc2d37d9e9f2141f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12220,
+          "observedAt": "2026-09-24T02:55:54.631Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
+      "source": "toss",
+      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+      "price": 9810,
+      "listPrice": null,
+      "observedAt": "2026-09-24T02:49:04.170Z",
+      "url": "https://toss.shopping/_m/p6Anavj2",
+      "image": "assets/products/3c5ad945bcacd245ef2e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9810,
+          "observedAt": "2026-09-24T02:49:04.170Z"
+        },
+        {
+          "price": 9810,
+          "observedAt": "2026-09-23T23:32:03.948Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634936417|n:필라델피아 크림치즈 미니, 41g, 16개",
+      "source": "toss",
+      "name": "필라델피아 크림치즈 미니, 41g, 16개",
+      "price": 8390,
+      "listPrice": 21500,
+      "observedAt": "2026-09-24T01:38:38.760Z",
+      "url": "https://toss.im/_m/tlE6mnWl",
+      "image": "assets/products/4507b82fbfed4d829c4e.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8390,
+          "observedAt": "2026-09-24T01:38:38.760Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:13:26.838Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:12:16.469Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-17T23:53:18.530Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8401537057|i:24286075071|v:91302330501",
+      "source": "coupang",
+      "name": "슈펜키즈 아동용 WARM UP 패딩 아웃도어 슬립온 HPKV7EFV4U, 36 Light Beige, 190",
+      "price": 4740,
+      "listPrice": 39900,
+      "observedAt": "2026-09-24T01:37:17.245Z",
+      "url": "https://link.coupang.com/a/hin8Nl6Him",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4740,
+          "observedAt": "2026-09-24T01:37:17.245Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82767883|n:바시앙 플래티넘 화이트닝 크림, 50ml, 1개",
       "source": "toss",
@@ -69,23 +153,6 @@
         {
           "price": 11500,
           "observedAt": "2026-09-21T03:50:31.552Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
-      "source": "toss",
-      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-      "price": 9810,
-      "listPrice": null,
-      "observedAt": "2026-09-23T23:32:03.948Z",
-      "url": "https://toss.shopping/_m/p6Anavj2",
-      "image": "assets/products/3c5ad945bcacd245ef2e.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9810,
-          "observedAt": "2026-09-23T23:32:03.948Z"
         }
       ]
     },
@@ -4443,31 +4510,6 @@
         {
           "price": 11050,
           "observedAt": "2026-08-19T03:47:12.659Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2634936417|n:필라델피아 크림치즈 미니, 41g, 16개",
-      "source": "toss",
-      "name": "필라델피아 크림치즈 미니, 41g, 16개",
-      "price": 8500,
-      "listPrice": null,
-      "observedAt": "2026-09-18T00:13:26.838Z",
-      "url": "https://toss.im/_m/tlE6mnWl",
-      "image": "assets/products/4507b82fbfed4d829c4e.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8500,
-          "observedAt": "2026-09-18T00:13:26.838Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-09-18T00:12:16.469Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-09-17T23:53:18.530Z"
         }
       ]
     },
