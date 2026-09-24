@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-09-24T08:08:34.829Z",
+  "updatedAt": "2026-09-24T09:10:21.032Z",
   "deals": [
+    {
+      "id": "toss:p:2387171175|n:맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
+      "source": "toss",
+      "name": "맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
+      "price": 5530,
+      "listPrice": 25900,
+      "observedAt": "2026-09-24T09:10:09.034Z",
+      "url": "https://toss.im/_m/PZb36mTa",
+      "image": "assets/products/2eed248bf10d06c69685.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 5530,
+          "observedAt": "2026-09-24T09:10:09.034Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-22T23:01:05.752Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-12T23:36:12.314Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-12T23:36:12.228Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-11T23:01:51.031Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-11T04:51:30.091Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-09-11T03:41:32.859Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9242914|i:28289169446|v:4322652672",
+      "source": "coupang",
+      "name": "오랄비 고탄력 초미세모 그린티 랜덤색상, 6개입, 2개",
+      "price": 9900,
+      "listPrice": 13180,
+      "observedAt": "2026-09-24T08:54:38.146Z",
+      "url": "https://link.coupang.com/a/hiToveHwTQ",
+      "image": "assets/products/6391e3683f4c370dbdf3.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-24T08:54:38.146Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-21T07:24:45.018Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
+      "source": "toss",
+      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+      "price": 10900,
+      "listPrice": 25900,
+      "observedAt": "2026-09-24T08:38:07.886Z",
+      "url": "https://toss.shopping/_m/p6Anavj2",
+      "image": "assets/products/3c5ad945bcacd245ef2e.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-24T08:38:07.886Z"
+        },
+        {
+          "price": 9810,
+          "observedAt": "2026-09-24T02:49:04.170Z"
+        },
+        {
+          "price": 9810,
+          "observedAt": "2026-09-23T23:32:03.948Z"
+        }
+      ]
+    },
     {
       "id": "p:6786584425|i:26569420674|v:93542990229",
       "source": "coupang",
@@ -638,27 +725,6 @@
         {
           "price": 12220,
           "observedAt": "2026-09-24T02:55:54.631Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
-      "source": "toss",
-      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-      "price": 9810,
-      "listPrice": null,
-      "observedAt": "2026-09-24T02:49:04.170Z",
-      "url": "https://toss.shopping/_m/p6Anavj2",
-      "image": "assets/products/3c5ad945bcacd245ef2e.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9810,
-          "observedAt": "2026-09-24T02:49:04.170Z"
-        },
-        {
-          "price": 9810,
-          "observedAt": "2026-09-23T23:32:03.948Z"
         }
       ]
     },
@@ -2003,43 +2069,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-21T06:01:24.860Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2387171175|n:맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
-      "source": "toss",
-      "name": "맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
-      "price": 5530,
-      "listPrice": null,
-      "observedAt": "2026-09-22T23:01:05.752Z",
-      "url": "https://toss.im/_m/PZb36mTa",
-      "image": "assets/products/2eed248bf10d06c69685.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 5530,
-          "observedAt": "2026-09-22T23:01:05.752Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-09-12T23:36:12.314Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-09-12T23:36:12.228Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-09-11T23:01:51.031Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-09-11T04:51:30.091Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-09-11T03:41:32.859Z"
         }
       ]
     },
@@ -19601,23 +19630,6 @@
         {
           "price": 39500,
           "observedAt": "2026-08-21T07:53:57.482Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9242914|i:28289169446|v:4322652672",
-      "source": "coupang",
-      "name": "오랄비 고탄력 초미세모 그린티 랜덤색상, 6개입, 2개",
-      "price": 9900,
-      "listPrice": 13176,
-      "observedAt": "2026-08-21T07:24:45.018Z",
-      "url": "https://link.coupang.com/a/gomeHyvvG0",
-      "image": "assets/products/6391e3683f4c370dbdf3.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-21T07:24:45.018Z"
         }
       ]
     },
