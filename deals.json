@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-09-24T05:57:50.371Z",
+  "updatedAt": "2026-09-24T06:16:55.019Z",
   "deals": [
+    {
+      "id": "p:1421929678|i:24672529784|v:92846307337",
+      "source": "coupang",
+      "name": "스머커즈 딸기 프리저브 잼, 510g, 2개",
+      "price": 6510,
+      "listPrice": 8650,
+      "observedAt": "2026-09-24T06:16:44.544Z",
+      "url": "https://link.coupang.com/a/hiH6WD8m5s",
+      "image": "assets/products/b69697cde1cb327227c3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6510,
+          "observedAt": "2026-09-24T06:16:44.544Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "source": "toss",
+      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
+      "price": 7350,
+      "listPrice": 19900,
+      "observedAt": "2026-09-24T06:16:44.424Z",
+      "url": "https://toss.im/_m/DruYHADx",
+      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 7350,
+          "observedAt": "2026-09-24T06:16:44.424Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-20T07:34:24.922Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.336Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-16T08:30:48.246Z"
+        },
+        {
+          "price": 7350,
+          "observedAt": "2026-09-15T11:54:20.667Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T05:25:22.321Z"
+        },
+        {
+          "price": 8740,
+          "observedAt": "2026-08-27T01:10:52.678Z"
+        }
+      ]
+    },
+    {
+      "id": "p:241327316|i:767290358|v:4936450628",
+      "source": "coupang",
+      "name": "밀크바오밥 바디로션 베이비파우더향, 500ml, 1개",
+      "price": 7630,
+      "listPrice": 10234,
+      "observedAt": "2026-09-24T06:00:15.367Z",
+      "url": "https://link.coupang.com/a/hiGVTO0q84",
+      "image": "assets/products/095f22f829c784b33b02.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7630,
+          "observedAt": "2026-09-24T06:00:15.367Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665196153|n:란센 무선 전동식 발각질제거기, bpl-03, 1개",
       "source": "toss",
@@ -3587,43 +3662,6 @@
         {
           "price": 34900,
           "observedAt": "2026-09-20T08:14:50.228Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:10321923|n:노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "source": "toss",
-      "name": "노랑 곱빼기 왕 떡갈비, 160g, 5봉",
-      "price": 7350,
-      "listPrice": null,
-      "observedAt": "2026-09-20T07:34:24.922Z",
-      "url": "https://toss.im/_m/DruYHADx",
-      "image": "assets/products/7d8a797340f41c9fc03c.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 7350,
-          "observedAt": "2026-09-20T07:34:24.922Z"
-        },
-        {
-          "price": 7350,
-          "observedAt": "2026-09-16T08:30:48.336Z"
-        },
-        {
-          "price": 7350,
-          "observedAt": "2026-09-16T08:30:48.246Z"
-        },
-        {
-          "price": 7350,
-          "observedAt": "2026-09-15T11:54:20.667Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T05:25:22.321Z"
-        },
-        {
-          "price": 8740,
-          "observedAt": "2026-08-27T01:10:52.678Z"
         }
       ]
     },
