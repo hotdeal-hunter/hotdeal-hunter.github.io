@@ -1,17 +1,50 @@
 {
-  "updatedAt": "2026-09-24T23:23:22.602Z",
+  "updatedAt": "2026-09-24T23:32:00.599Z",
   "deals": [
+    {
+      "id": "p:2140167813|i:3634663228|v:71620215807",
+      "source": "coupang",
+      "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
+      "price": 6990,
+      "listPrice": 10056,
+      "observedAt": "2026-09-24T23:31:49.905Z",
+      "url": "https://link.coupang.com/a/hjT4ZHEokC",
+      "image": "assets/products/4e7ad865b6038d3dcf9f.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-24T23:31:49.905Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-26T04:57:27.660Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-26T01:17:40.907Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1992400491|n:에센스웨어 pd pps gan c타입 25w 초고속 충전기 c to c 60w 1m 케이블 세트, 화이트, 1세트",
       "source": "toss",
       "name": "에센스웨어 PD PPS GaN C타입 25W 초고속 충전기 C to C 60W 1M 케이블 세트, 화이트, 1세트",
       "price": 3430,
       "listPrice": null,
-      "observedAt": "2026-09-24T23:23:17.778Z",
+      "observedAt": "2026-09-24T23:24:41.843Z",
       "url": "https://toss.shopping/_m/xv7FGyrs",
       "image": "assets/products/ce360d7b13085f2606bb.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 3430,
+          "observedAt": "2026-09-24T23:24:41.843Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-24T23:24:41.714Z"
+        },
         {
           "price": 3430,
           "observedAt": "2026-09-24T23:23:17.778Z"
@@ -16966,27 +16999,6 @@
         {
           "price": 199000,
           "observedAt": "2026-08-26T05:31:22.424Z"
-        }
-      ]
-    },
-    {
-      "id": "p:2140167813|i:3634663228|v:71620215807",
-      "source": "coupang",
-      "name": "스카치브라이트 베이직 제로 스크래치 스펀지 수세미, 8개입, 1개",
-      "price": 5990,
-      "listPrice": 16900,
-      "observedAt": "2026-08-26T04:57:27.660Z",
-      "url": "https://link.coupang.com/a/gwuemUoFkO",
-      "image": "assets/products/4e7ad865b6038d3dcf9f.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-08-26T04:57:27.660Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-08-26T01:17:40.907Z"
         }
       ]
     },
