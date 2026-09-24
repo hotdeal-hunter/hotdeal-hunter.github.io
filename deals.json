@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-24T09:10:21.032Z",
+  "updatedAt": "2026-09-24T10:04:54.807Z",
   "deals": [
+    {
+      "id": "toss:p:2654210221|n:랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
+      "source": "toss",
+      "name": "랑카스 하이올레익 땅콩버터 100%, 스무스, 500g, 2개",
+      "price": 9500,
+      "listPrice": 25900,
+      "observedAt": "2026-09-24T10:04:42.854Z",
+      "url": "https://toss.shopping/_m/T6ciy4tc",
+      "image": "assets/products/9ab521c9589b2018c69a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9500,
+          "observedAt": "2026-09-24T10:04:42.854Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2668815917|n:캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, m, 1세트",
+      "source": "toss",
+      "name": "캘빈클라인 남성 코튼 스트레치 드로즈 3종세트, 블랙, M, 1세트",
+      "price": 22900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T09:54:07.695Z",
+      "url": "https://toss.shopping/_m/7GoQjlpm",
+      "image": "assets/products/78c6803fc0cda941c8ab.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-24T09:54:07.695Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2387171175|n:맥스앤맥스 퍼플톡톡 밀폐용기 20종세트, 350mm 5개, 450mm 5개, 500ml 5개, 600ml 5개, 1세트",
       "source": "toss",
