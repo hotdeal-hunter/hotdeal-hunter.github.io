@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-24T06:38:14.032Z",
+  "updatedAt": "2026-09-24T06:51:30.023Z",
   "deals": [
+    {
+      "id": "p:1601751214|i:22948704040|v:86285548424",
+      "source": "coupang",
+      "name": "[2입기획] 미샤 수퍼 아쿠아 울트라 히알론 클렌징 폼, 200ml, 2개",
+      "price": 7000,
+      "listPrice": null,
+      "observedAt": "2026-09-24T06:51:25.457Z",
+      "url": "https://link.coupang.com/a/hiKABtHq3M",
+      "image": "assets/products/f77545525866273d9ac4.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7000,
+          "observedAt": "2026-09-24T06:51:25.457Z"
+        },
+        {
+          "price": 7000,
+          "observedAt": "2026-09-24T06:51:20.674Z"
+        }
+      ]
+    },
     {
       "id": "p:2166512128|i:266636515|v:87612470706",
       "source": "coupang",
       "name": "에스앤비골든 카레 매운맛, 220g, 2개",
       "price": 4980,
       "listPrice": null,
-      "observedAt": "2026-09-24T06:38:06.852Z",
-      "url": "https://link.coupang.com/a/hiJDCPE2vY",
+      "observedAt": "2026-09-24T06:51:25.160Z",
+      "url": "https://link.coupang.com/a/hiKAAbEynA",
       "image": "assets/products/1a7dbcfbf55abe8abb36.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-24T06:51:25.160Z"
+        },
         {
           "price": 4980,
           "observedAt": "2026-09-24T06:38:06.852Z"
@@ -24,14 +49,35 @@
       "name": "에스앤비골든 카레 순한맛, 220g, 2개",
       "price": 4980,
       "listPrice": null,
-      "observedAt": "2026-09-24T06:38:06.633Z",
-      "url": "https://link.coupang.com/a/hiJDB7bIRg",
+      "observedAt": "2026-09-24T06:51:24.911Z",
+      "url": "https://link.coupang.com/a/hiKAyXV1iK",
       "image": "assets/products/d940ea9d573542663335.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 4980,
+          "observedAt": "2026-09-24T06:51:24.911Z"
+        },
+        {
+          "price": 4980,
           "observedAt": "2026-09-24T06:38:06.633Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9678344877|i:28945685930|v:95876472427",
+      "source": "coupang",
+      "name": "쿠크다스 쵸코케이크, 202g, 3개",
+      "price": 10200,
+      "listPrice": null,
+      "observedAt": "2026-09-24T06:46:29.945Z",
+      "url": "https://link.coupang.com/a/hiKeMDbUrI",
+      "image": "assets/products/cdea6b7a46a4548b38bf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10200,
+          "observedAt": "2026-09-24T06:46:29.945Z"
         }
       ]
     },
