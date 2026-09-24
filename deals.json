@@ -1,17 +1,117 @@
 {
-  "updatedAt": "2026-09-24T03:30:57.290Z",
+  "updatedAt": "2026-09-24T04:47:25.993Z",
   "deals": [
+    {
+      "id": "toss:p:601564181|n:이브네 코트니 생리대, 중형, 16매입, 4팩",
+      "source": "toss",
+      "name": "이브네 코트니 생리대, 중형, 16매입, 4팩",
+      "price": 7900,
+      "listPrice": 21600,
+      "observedAt": "2026-09-24T04:46:00.995Z",
+      "url": "https://toss.shopping/_m/HRIIwOWD",
+      "image": "assets/products/f54c49ecc8b07e90bbb9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-24T04:46:00.995Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7259790971|i:18488795283|v:85628431060",
+      "source": "coupang",
+      "name": "풀무원 지구식단 얇은 두유면, 150g, 3개",
+      "price": 4000,
+      "listPrice": 5632,
+      "observedAt": "2026-09-24T04:46:00.771Z",
+      "url": "https://link.coupang.com/a/hiBCXhalem",
+      "image": "assets/products/7130e12343c4123e11bf.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4000,
+          "observedAt": "2026-09-24T04:46:00.771Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:224107823|n:동원 양반 100밥 흑미밥, 130g, 36개",
+      "source": "toss",
+      "name": "동원 양반 100밥 흑미밥, 130g, 36개",
+      "price": 28099,
+      "listPrice": null,
+      "observedAt": "2026-09-24T04:38:53.496Z",
+      "url": "https://toss.shopping/_m/HXwAORI4",
+      "image": "assets/products/f49a95d120aa61641d03.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 28099,
+          "observedAt": "2026-09-24T04:38:53.496Z"
+        },
+        {
+          "price": 28099,
+          "observedAt": "2026-09-24T04:38:49.086Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634936417|n:필라델피아 크림치즈 미니, 41g, 16개",
+      "source": "toss",
+      "name": "필라델피아 크림치즈 미니, 41g, 16개",
+      "price": 8390,
+      "listPrice": null,
+      "observedAt": "2026-09-24T04:38:53.383Z",
+      "url": "https://toss.im/_m/tlE6mnWl",
+      "image": "assets/products/4507b82fbfed4d829c4e.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 8390,
+          "observedAt": "2026-09-24T04:38:53.383Z"
+        },
+        {
+          "price": 8390,
+          "observedAt": "2026-09-24T04:07:11.925Z"
+        },
+        {
+          "price": 8390,
+          "observedAt": "2026-09-24T04:01:23.692Z"
+        },
+        {
+          "price": 8390,
+          "observedAt": "2026-09-24T01:38:38.760Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:13:26.838Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-18T00:12:16.469Z"
+        },
+        {
+          "price": 8500,
+          "observedAt": "2026-09-17T23:53:18.530Z"
+        }
+      ]
+    },
     {
       "id": "p:9699430550|i:28215122051|v:95593699309",
       "source": "coupang",
       "name": "샤오커오라 무설탕 비타민C 민트 박하 12가지맛 믹스 미니 과일 사탕 캔디 중형, 500g, 1개",
       "price": 10070,
       "listPrice": null,
-      "observedAt": "2026-09-24T03:30:49.963Z",
-      "url": "https://link.coupang.com/a/hiwfS5GArQ",
+      "observedAt": "2026-09-24T04:38:53.205Z",
+      "url": "https://link.coupang.com/a/hiA7nBCUjQ",
       "image": "assets/products/4963b4aca7f0fb008268.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 10070,
+          "observedAt": "2026-09-24T04:38:53.205Z"
+        },
         {
           "price": 10070,
           "observedAt": "2026-09-24T03:30:49.963Z"
@@ -24,14 +124,81 @@
       "name": "정품 샤오커오라 캔디 사탕 간식 무설탕 알사탕 개별포장 비타민C, 500g, 1개",
       "price": 10030,
       "listPrice": null,
-      "observedAt": "2026-09-24T03:30:49.305Z",
-      "url": "https://link.coupang.com/a/hiwfQCbkiW",
+      "observedAt": "2026-09-24T04:38:52.972Z",
+      "url": "https://link.coupang.com/a/hiA7mNHtXU",
       "image": "assets/products/6067159e2415b94e2b9f.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 10030,
+          "observedAt": "2026-09-24T04:38:52.972Z"
+        },
+        {
+          "price": 10030,
           "observedAt": "2026-09-24T03:30:49.305Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "source": "toss",
+      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T04:13:22.913Z",
+      "url": "https://toss.im/_m/NJ8THqjn",
+      "image": "assets/products/33ee5587280f52967854.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-24T04:13:22.913Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-24T04:13:22.805Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T05:14:53.938Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T03:53:54.828Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8296710271|i:23930765582|v:91089112047",
+      "source": "coupang",
+      "name": "한일의료기 프리미엄 카본 탄소 전기매트 HLD-BB220S(24), 애쉬그레이, 싱글(100 × 180 cm)",
+      "price": 29900,
+      "listPrice": 40853,
+      "observedAt": "2026-09-24T04:11:54.900Z",
+      "url": "https://link.coupang.com/a/hizbS7TbEW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29900,
+          "observedAt": "2026-09-24T04:11:54.900Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:196181957|n:올바른 슈퍼 프로바이오틱스 생유산균 19 비타민d, 30포, 2박스",
+      "source": "toss",
+      "name": "올바른 슈퍼 프로바이오틱스 생유산균 19 비타민D, 30포, 2박스",
+      "price": 8900,
+      "listPrice": 39900,
+      "observedAt": "2026-09-24T03:55:20.770Z",
+      "url": "https://toss.shopping/_m/9HAqIY9C",
+      "image": "assets/products/3c6bb40384e0caf08305.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T03:55:20.770Z"
         }
       ]
     },
@@ -202,35 +369,6 @@
         {
           "price": 9810,
           "observedAt": "2026-09-23T23:32:03.948Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2634936417|n:필라델피아 크림치즈 미니, 41g, 16개",
-      "source": "toss",
-      "name": "필라델피아 크림치즈 미니, 41g, 16개",
-      "price": 8390,
-      "listPrice": 21500,
-      "observedAt": "2026-09-24T01:38:38.760Z",
-      "url": "https://toss.im/_m/tlE6mnWl",
-      "image": "assets/products/4507b82fbfed4d829c4e.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 8390,
-          "observedAt": "2026-09-24T01:38:38.760Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-09-18T00:13:26.838Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-09-18T00:12:16.469Z"
-        },
-        {
-          "price": 8500,
-          "observedAt": "2026-09-17T23:53:18.530Z"
         }
       ]
     },
@@ -1141,27 +1279,6 @@
         {
           "price": 17490,
           "observedAt": "2026-09-23T05:22:46.308Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "source": "toss",
-      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-09-23T05:14:53.938Z",
-      "url": "https://toss.im/_m/NJ8THqjn",
-      "image": "assets/products/33ee5587280f52967854.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-23T05:14:53.938Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-23T03:53:54.828Z"
         }
       ]
     },
