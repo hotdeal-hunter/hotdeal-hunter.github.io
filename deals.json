@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-24T06:51:30.023Z",
+  "updatedAt": "2026-09-24T07:25:06.795Z",
   "deals": [
+    {
+      "id": "p:345494284|i:13734917032|v:3002625519",
+      "source": "coupang",
+      "name": "존바바토스 아티산 오 드 뚜왈렛, 75ml, 1개",
+      "price": 31270,
+      "listPrice": 43611,
+      "observedAt": "2026-09-24T07:24:56.546Z",
+      "url": "https://link.coupang.com/a/hiMY6w8aIe",
+      "image": "assets/products/df61ec2b3f168dfa553b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 31270,
+          "observedAt": "2026-09-24T07:24:56.546Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2222593991|n:대한민국농수산 바나나, 3kg, 1박스",
+      "source": "toss",
+      "name": "대한민국농수산 바나나, 3kg, 1박스",
+      "price": 8900,
+      "listPrice": 29900,
+      "observedAt": "2026-09-24T07:21:14.549Z",
+      "url": "https://toss.shopping/_m/j0KNsqir",
+      "image": "assets/products/5afbdc586c4c7b1fb27f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T07:21:14.549Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2662754769|n:장우컴퍼니 게이밍 조립pc 컴퓨터 본체, jwc-003, r5 7500f, rtx 5060 ti, 블랙, 1tb, 16gb, free dos, 1개",
+      "source": "toss",
+      "name": "장우컴퍼니 게이밍 조립PC 컴퓨터 본체, JWC-003, R5 7500F, RTX 5060 TI, 블랙, 1TB, 16GB, Free DOS, 1개",
+      "price": 1697000,
+      "listPrice": null,
+      "observedAt": "2026-09-24T07:19:00.913Z",
+      "url": "https://toss.shopping/_m/XPOFRhdv",
+      "image": "assets/products/0ea9feb90b8c3f4f51a3.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1697000,
+          "observedAt": "2026-09-24T07:19:00.913Z"
+        },
+        {
+          "price": 1697000,
+          "observedAt": "2026-09-23T10:44:34.028Z"
+        }
+      ]
+    },
     {
       "id": "p:1601751214|i:22948704040|v:86285548424",
       "source": "coupang",
@@ -1143,23 +1198,6 @@
         {
           "price": 11875,
           "observedAt": "2026-09-23T07:33:27.194Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2662754769|n:장우컴퍼니 게이밍 조립pc 컴퓨터 본체, jwc-003, r5 7500f, rtx 5060 ti, 블랙, 1tb, 16gb, free dos, 1개",
-      "source": "toss",
-      "name": "장우컴퍼니 게이밍 조립PC 컴퓨터 본체, JWC-003, R5 7500F, RTX 5060 TI, 블랙, 1TB, 16GB, Free DOS, 1개",
-      "price": 1697000,
-      "listPrice": null,
-      "observedAt": "2026-09-23T10:44:34.028Z",
-      "url": "https://toss.shopping/_m/XPOFRhdv",
-      "image": "assets/products/0ea9feb90b8c3f4f51a3.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 1697000,
-          "observedAt": "2026-09-23T10:44:34.028Z"
         }
       ]
     },
