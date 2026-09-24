@@ -1,6 +1,134 @@
 {
-  "updatedAt": "2026-09-24T03:03:32.878Z",
+  "updatedAt": "2026-09-24T03:30:57.290Z",
   "deals": [
+    {
+      "id": "p:9699430550|i:28215122051|v:95593699309",
+      "source": "coupang",
+      "name": "샤오커오라 무설탕 비타민C 민트 박하 12가지맛 믹스 미니 과일 사탕 캔디 중형, 500g, 1개",
+      "price": 10070,
+      "listPrice": null,
+      "observedAt": "2026-09-24T03:30:49.963Z",
+      "url": "https://link.coupang.com/a/hiwfS5GArQ",
+      "image": "assets/products/4963b4aca7f0fb008268.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10070,
+          "observedAt": "2026-09-24T03:30:49.963Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9699430550|i:29007208160|v:95150020560",
+      "source": "coupang",
+      "name": "정품 샤오커오라 캔디 사탕 간식 무설탕 알사탕 개별포장 비타민C, 500g, 1개",
+      "price": 10030,
+      "listPrice": null,
+      "observedAt": "2026-09-24T03:30:49.305Z",
+      "url": "https://link.coupang.com/a/hiwfQCbkiW",
+      "image": "assets/products/6067159e2415b94e2b9f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10030,
+          "observedAt": "2026-09-24T03:30:49.305Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "price": 5990,
+      "listPrice": 17600,
+      "observedAt": "2026-09-24T03:20:12.096Z",
+      "url": "https://toss.im/_m/jRG6sksj",
+      "image": "assets/products/bc77e3a6b57560eff14f.png",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T03:20:12.096Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:05:22.842Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:01:39.216Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:16:32.701Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:04:54.169Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:04:54.016Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:01:05.849Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T07:16:44.547Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:13:46.419Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:12.091Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T00:16:27.916Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T01:29:14.698Z"
+        },
+        {
+          "price": 10800,
+          "observedAt": "2026-08-19T00:39:11.374Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T08:16:13.284Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T05:58:19.506Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7689459535|i:23703359331|v:90775018693",
+      "source": "coupang",
+      "name": "파이어립 화재집압 소방패치 콘센트형",
+      "price": 4400,
+      "listPrice": null,
+      "observedAt": "2026-09-24T03:16:35.224Z",
+      "url": "https://link.coupang.com/a/hiveKidqQS",
+      "image": "assets/products/5a16827f743475f4b962.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4400,
+          "observedAt": "2026-09-24T03:16:35.224Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-24T03:16:31.513Z"
+        }
+      ]
+    },
     {
       "id": "p:7757115239|i:20909737628|v:3038558667",
       "source": "coupang",
@@ -114,7 +242,7 @@
       "listPrice": 39900,
       "observedAt": "2026-09-24T01:37:17.245Z",
       "url": "https://link.coupang.com/a/hin8Nl6Him",
-      "image": null,
+      "image": "assets/products/524df340ad9cb32cb2e7.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -318,75 +446,6 @@
         {
           "price": 9000,
           "observedAt": "2026-09-19T00:13:57.059Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "source": "toss",
-      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-23T23:05:22.842Z",
-      "url": "https://toss.im/_m/jRG6sksj",
-      "image": "assets/products/bc77e3a6b57560eff14f.png",
-      "insight": "14회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:05:22.842Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:01:39.216Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:16:32.701Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:04:54.169Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:04:54.016Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:01:05.849Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T07:16:44.547Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:13:46.419Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:01:12.091Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T00:16:27.916Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-01T01:29:14.698Z"
-        },
-        {
-          "price": 10800,
-          "observedAt": "2026-08-19T00:39:11.374Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T08:16:13.284Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T05:58:19.506Z"
         }
       ]
     },
