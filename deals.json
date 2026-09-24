@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-09-24T07:25:06.795Z",
+  "updatedAt": "2026-09-24T08:08:34.829Z",
   "deals": [
+    {
+      "id": "p:6786584425|i:26569420674|v:93542990229",
+      "source": "coupang",
+      "name": "Apple 정품 애플워치 트레일 루프",
+      "price": 51340,
+      "listPrice": null,
+      "observedAt": "2026-09-24T08:08:28.511Z",
+      "url": "https://link.coupang.com/a/hiP5Y4gbzE",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 51340,
+          "observedAt": "2026-09-24T08:08:28.511Z"
+        },
+        {
+          "price": 51340,
+          "observedAt": "2026-09-24T08:08:24.389Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8550987215|i:26569420923|v:93542990141",
+      "source": "coupang",
+      "name": "Apple 정품 애플워치 알파인 루프, 라이트 블루 / 내추럴 티타늄, 49mm, Small, 1개",
+      "price": 51340,
+      "listPrice": 145000,
+      "observedAt": "2026-09-24T07:39:10.106Z",
+      "url": "https://link.coupang.com/a/hiNZ8oZ8Dc",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 51340,
+          "observedAt": "2026-09-24T07:39:10.106Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665196153|n:란센 무선 전동식 발각질제거기, bpl-03, 1개",
+      "source": "toss",
+      "name": "란센 무선 전동식 발각질제거기, BPL-03, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T07:31:04.349Z",
+      "url": "https://toss.shopping/_m/3eS5PxCf",
+      "image": "assets/products/921f2a560b29317c0da3.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T07:31:04.349Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T05:57:45.658Z"
+        }
+      ]
+    },
     {
       "id": "p:345494284|i:13734917032|v:3002625519",
       "source": "coupang",
@@ -208,23 +267,6 @@
         {
           "price": 7630,
           "observedAt": "2026-09-24T06:00:15.367Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665196153|n:란센 무선 전동식 발각질제거기, bpl-03, 1개",
-      "source": "toss",
-      "name": "란센 무선 전동식 발각질제거기, BPL-03, 1개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-24T05:57:45.658Z",
-      "url": "https://toss.shopping/_m/3eS5PxCf",
-      "image": "assets/products/921f2a560b29317c0da3.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-24T05:57:45.658Z"
         }
       ]
     },
