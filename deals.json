@@ -1,6 +1,94 @@
 {
-  "updatedAt": "2026-09-24T10:38:59.500Z",
+  "updatedAt": "2026-09-24T12:01:54.892Z",
   "deals": [
+    {
+      "id": "p:8633888332|i:24426376824|v:95189053018",
+      "source": "coupang",
+      "name": "칼로쿡 전자레인지 저당질 밥솥 4인용, 민트, 1개",
+      "price": 15390,
+      "listPrice": 17832,
+      "observedAt": "2026-09-24T12:01:44.577Z",
+      "url": "https://link.coupang.com/a/hi6LuYlf3s",
+      "image": "assets/products/dc89f88148b5adcc16e2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15390,
+          "observedAt": "2026-09-24T12:01:44.577Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:994625015|n:청우 쫀득초코칩, 800g, 1개",
+      "source": "toss",
+      "name": "청우 쫀득초코칩, 800g, 1개",
+      "price": 9900,
+      "listPrice": 20000,
+      "observedAt": "2026-09-24T11:24:35.274Z",
+      "url": "https://toss.shopping/_m/vwqvzcd1",
+      "image": "assets/products/9c7d25e25651c943d9f0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-24T11:24:35.274Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2275306349|n:구이삼 소곱창 모둠 한판, 610g, 1팩",
+      "source": "toss",
+      "name": "구이삼 소곱창 모둠 한판, 610g, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T11:10:37.722Z",
+      "url": "https://toss.shopping/_m/BNDUU8An",
+      "image": "assets/products/98e6313193280b3a844f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-24T11:10:37.722Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1544561987|n:더건강플러스 엑스트라버진 올리브오일, 1l, 1개",
+      "source": "toss",
+      "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
+      "price": 8900,
+      "listPrice": 39800,
+      "observedAt": "2026-09-24T11:01:06.862Z",
+      "url": "https://toss.im/_m/JndTDm8s",
+      "image": "assets/products/0def7d8416cd6946e09e.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T11:01:06.862Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-18T23:00:41.760Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T23:21:26.367Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T23:00:31.172Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T11:16:29.504Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-14T05:11:08.469Z"
+        }
+      ]
+    },
     {
       "id": "p:8416829422|i:24340835497|v:91356336418",
       "source": "coupang",
@@ -4573,39 +4661,6 @@
         {
           "price": 6860,
           "observedAt": "2026-09-18T01:20:54.128Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1544561987|n:더건강플러스 엑스트라버진 올리브오일, 1l, 1개",
-      "source": "toss",
-      "name": "더건강플러스 엑스트라버진 올리브오일, 1L, 1개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-18T23:00:41.760Z",
-      "url": "https://toss.im/_m/JndTDm8s",
-      "image": "assets/products/0def7d8416cd6946e09e.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-18T23:00:41.760Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T23:21:26.367Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T23:00:31.172Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T11:16:29.504Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-14T05:11:08.469Z"
         }
       ]
     },
