@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-24T02:56:07.304Z",
+  "updatedAt": "2026-09-24T03:03:32.878Z",
   "deals": [
+    {
+      "id": "p:7757115239|i:20909737628|v:3038558667",
+      "source": "coupang",
+      "name": "매일두유 99.9 플레인, 190ml, 24개",
+      "price": 12020,
+      "listPrice": null,
+      "observedAt": "2026-09-24T03:03:28.121Z",
+      "url": "https://link.coupang.com/a/hiuiDRmZgq",
+      "image": "assets/products/8a15190cf8122deea5d5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12020,
+          "observedAt": "2026-09-24T03:03:28.121Z"
+        },
+        {
+          "price": 12020,
+          "observedAt": "2026-09-24T03:03:24.554Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2265353843|n:동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
+      "source": "toss",
+      "name": "동구밭 샴푸 앤 트리트먼트바 세트, 로즈마리향 100g 2개 + 네롤리향 100g 2개, 4개",
+      "price": 13900,
+      "listPrice": 58000,
+      "observedAt": "2026-09-24T02:59:40.949Z",
+      "url": "https://toss.shopping/_m/xqsXwKEf",
+      "image": "assets/products/8863750803470f172454.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-24T02:59:40.949Z"
+        }
+      ]
+    },
     {
       "id": "p:7869554357|i:18421340090|v:86493937947",
       "source": "coupang",
