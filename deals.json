@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-24T12:01:54.892Z",
+  "updatedAt": "2026-09-24T13:24:31.636Z",
   "deals": [
+    {
+      "id": "p:7771483157|i:28604973749|v:95548520771",
+      "source": "coupang",
+      "name": "스너글 딥클린 캡슐 세탁세제 허거블 코튼 클린 앤 케어, 27개입, 1개",
+      "price": 8740,
+      "listPrice": 13189,
+      "observedAt": "2026-09-24T13:24:21.192Z",
+      "url": "https://link.coupang.com/a/hjcFvu39si",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8740,
+          "observedAt": "2026-09-24T13:24:21.192Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2617084093|n:애슐리 케이준 컬리 프라이즈, 740g, 2개",
+      "source": "toss",
+      "name": "애슐리 케이준 컬리 프라이즈, 740g, 2개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T12:13:40.601Z",
+      "url": "https://toss.shopping/_m/VML1MaUp",
+      "image": "assets/products/0fd9d4865ec0b7dbdbb4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-24T12:13:40.601Z"
+        }
+      ]
+    },
     {
       "id": "p:8633888332|i:24426376824|v:95189053018",
       "source": "coupang",
