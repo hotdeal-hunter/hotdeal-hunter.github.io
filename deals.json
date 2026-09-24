@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-23T23:32:11.118Z",
+  "updatedAt": "2026-09-24T01:33:43.220Z",
   "deals": [
+    {
+      "id": "toss:p:82767883|n:바시앙 플래티넘 화이트닝 크림, 50ml, 1개",
+      "source": "toss",
+      "name": "바시앙 플래티넘 화이트닝 크림, 50ml, 1개",
+      "price": 9030,
+      "listPrice": null,
+      "observedAt": "2026-09-24T01:33:36.001Z",
+      "url": "https://toss.shopping/_m/1hYeWvRj",
+      "image": "assets/products/6fa5300427a3cc9a20c2.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9030,
+          "observedAt": "2026-09-24T01:33:36.001Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8190464845|i:24674270854|v:90464552477",
+      "source": "coupang",
+      "name": "번개표 절전형 뉴 개별 스위치 멀티탭 4구 WI-MC31645, 1.5m, 블랙, 1개",
+      "price": 10730,
+      "listPrice": 16748,
+      "observedAt": "2026-09-24T00:17:14.206Z",
+      "url": "https://link.coupang.com/a/hiip750ynQ",
+      "image": "assets/products/2149c033a8ee3d71e1d1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10730,
+          "observedAt": "2026-09-24T00:17:14.206Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "source": "toss",
+      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "price": 11500,
+      "listPrice": null,
+      "observedAt": "2026-09-23T23:33:32.744Z",
+      "url": "https://toss.im/_m/LueW0Bwn",
+      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 11500,
+          "observedAt": "2026-09-23T23:33:32.744Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-23T23:01:38.695Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-22T23:01:06.058Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-22T07:16:44.751Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T23:01:12.438Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T03:50:31.552Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
       "source": "toss",
@@ -359,39 +430,6 @@
         {
           "price": 10500,
           "observedAt": "2026-09-09T07:51:18.040Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "source": "toss",
-      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "price": 11500,
-      "listPrice": null,
-      "observedAt": "2026-09-23T23:01:38.695Z",
-      "url": "https://toss.im/_m/LueW0Bwn",
-      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 11500,
-          "observedAt": "2026-09-23T23:01:38.695Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-22T23:01:06.058Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-22T07:16:44.751Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-21T23:01:12.438Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-21T03:50:31.552Z"
         }
       ]
     },
