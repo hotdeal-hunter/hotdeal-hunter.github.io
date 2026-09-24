@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-24T04:47:25.993Z",
+  "updatedAt": "2026-09-24T05:57:50.371Z",
   "deals": [
+    {
+      "id": "toss:p:2665196153|n:란센 무선 전동식 발각질제거기, bpl-03, 1개",
+      "source": "toss",
+      "name": "란센 무선 전동식 발각질제거기, BPL-03, 1개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T05:57:45.658Z",
+      "url": "https://toss.shopping/_m/3eS5PxCf",
+      "image": "assets/products/921f2a560b29317c0da3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-24T05:57:45.658Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2499509987|n:그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
+      "source": "toss",
+      "name": "그린너트 두쫀쿠 스프레드, 피스타치오, 180g, 1개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-24T05:48:05.342Z",
+      "url": "https://toss.shopping/_m/7vz6rZyx",
+      "image": "assets/products/dede40c23b939dbc4676.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-24T05:48:05.342Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-24T05:48:01.112Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:601564181|n:이브네 코트니 생리대, 중형, 16매입, 4팩",
       "source": "toss",
