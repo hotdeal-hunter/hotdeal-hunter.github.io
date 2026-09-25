@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T22:12:29.294Z",
+  "updatedAt": "2026-09-25T22:20:59.881Z",
   "deals": [
+    {
+      "id": "p:9075178164|i:26845391099|v:93896742187",
+      "source": "coupang",
+      "name": "오뚜기 더핫 열라면 용기 105g, 36개",
+      "price": 20010,
+      "listPrice": 68400,
+      "observedAt": "2026-09-25T22:12:42.223Z",
+      "url": "https://link.coupang.com/a/hltkrwrYwS",
+      "image": "assets/products/965083e46b5203f0607f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20010,
+          "observedAt": "2026-09-25T22:12:42.223Z"
+        }
+      ]
+    },
     {
       "id": "p:8144862586|i:20576555220|v:95811263166",
       "source": "coupang",
