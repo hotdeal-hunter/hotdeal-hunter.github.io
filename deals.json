@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T11:30:45.216Z",
+  "updatedAt": "2026-09-25T11:43:42.189Z",
   "deals": [
+    {
+      "id": "toss:p:2649549599|n:허니맘 24종 무첨가 주방세제, 4l, 2개",
+      "source": "toss",
+      "name": "허니맘 24종 무첨가 주방세제, 4L, 2개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T11:37:53.144Z",
+      "url": "https://toss.shopping/_m/RxBbwNwt",
+      "image": "assets/products/2777a6c96fc20e793ba9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-25T11:37:53.144Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
       "source": "toss",
