@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T07:27:04.726Z",
+  "updatedAt": "2026-09-25T07:50:21.310Z",
   "deals": [
+    {
+      "id": "toss:p:2308009371|n:육중대 듀록 흑돼지 삼겹살, 500g, 4개",
+      "source": "toss",
+      "name": "육중대 듀록 흑돼지 삼겹살, 500g, 4개",
+      "price": 22900,
+      "listPrice": 45900,
+      "observedAt": "2026-09-25T07:44:24.339Z",
+      "url": "https://toss.shopping/_m/3uW4Gjut",
+      "image": "assets/products/851f74900a60dd5d6bdc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-25T07:44:24.339Z"
+        }
+      ]
+    },
     {
       "id": "p:8397786919|i:24273734134|v:91290208790",
       "source": "coupang",
