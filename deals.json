@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T08:23:13.319Z",
+  "updatedAt": "2026-09-25T08:40:47.175Z",
   "deals": [
+    {
+      "id": "p:6945689800|i:16857235874|v:88777355005",
+      "source": "coupang",
+      "name": "탄씨엔쯔 탄스트라이더 KJCAB64002189 휴대용 스틸체어 폴딩캠핑의자+보관가방 세트, 블랙, 2개",
+      "price": 13190,
+      "listPrice": 19616,
+      "observedAt": "2026-09-25T08:40:37.294Z",
+      "url": "https://link.coupang.com/a/hkxitHxO1s",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13190,
+          "observedAt": "2026-09-25T08:40:37.294Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
       "source": "toss",
