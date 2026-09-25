@@ -1,6 +1,89 @@
 {
-  "updatedAt": "2026-09-25T10:07:19.062Z",
+  "updatedAt": "2026-09-25T11:30:45.216Z",
   "deals": [
+    {
+      "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "source": "toss",
+      "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
+      "price": 6860,
+      "listPrice": null,
+      "observedAt": "2026-09-25T11:30:37.728Z",
+      "url": "https://toss.im/_m/7VOCHZRk",
+      "image": "assets/products/c9eb2827795aad856dec.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6860,
+          "observedAt": "2026-09-25T11:30:37.728Z"
+        },
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T23:00:42.080Z"
+        },
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T02:16:06.520Z"
+        },
+        {
+          "price": 6860,
+          "observedAt": "2026-09-18T01:20:54.128Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:39263115|n:스테인리스 주방칼 6종, 블랙, 1세트",
+      "source": "toss",
+      "name": "스테인리스 주방칼 6종, 블랙, 1세트",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T10:30:45.742Z",
+      "url": "https://toss.im/_m/zkocgvbc",
+      "image": "assets/products/0d7aff370996d3021535.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-25T10:30:45.742Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-25T04:10:08.804Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-08-20T12:28:11.710Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2568667485|n:크라운 빙수하임 말차팥빙수, 284g, 2개",
+      "source": "toss",
+      "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
+      "price": 6600,
+      "listPrice": 19500,
+      "observedAt": "2026-09-25T10:17:59.508Z",
+      "url": "https://toss.im/_m/ZuhVQXYv",
+      "image": "assets/products/42317a9d6ad28c3e5b14.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-09-25T10:17:59.508Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-24T23:01:09.833Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-23T23:01:38.859Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-23T04:26:19.746Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:79891667|n:푸드공식 오리지널 어포튀각, 90g, 4개",
       "source": "toss",
@@ -434,27 +517,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-25T04:38:20.961Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:39263115|n:스테인리스 주방칼 6종, 블랙, 1세트",
-      "source": "toss",
-      "name": "스테인리스 주방칼 6종, 블랙, 1세트",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-25T04:10:08.804Z",
-      "url": "https://toss.im/_m/zkocgvbc",
-      "image": "assets/products/0d7aff370996d3021535.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-25T04:10:08.804Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-08-20T12:28:11.710Z"
         }
       ]
     },
@@ -1117,31 +1179,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-21T07:36:25.208Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2568667485|n:크라운 빙수하임 말차팥빙수, 284g, 2개",
-      "source": "toss",
-      "name": "크라운 빙수하임 말차팥빙수, 284g, 2개",
-      "price": 6600,
-      "listPrice": null,
-      "observedAt": "2026-09-24T23:01:09.833Z",
-      "url": "https://toss.im/_m/ZuhVQXYv",
-      "image": "assets/products/42317a9d6ad28c3e5b14.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6600,
-          "observedAt": "2026-09-24T23:01:09.833Z"
-        },
-        {
-          "price": 6600,
-          "observedAt": "2026-09-23T23:01:38.859Z"
-        },
-        {
-          "price": 6600,
-          "observedAt": "2026-09-23T04:26:19.746Z"
         }
       ]
     },
@@ -5358,31 +5395,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-19T01:44:14.321Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:16707551|n:베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
-      "source": "toss",
-      "name": "베베앙 데일리 비데 물티슈 캡형, 60매, 10팩",
-      "price": 6860,
-      "listPrice": null,
-      "observedAt": "2026-09-18T23:00:42.080Z",
-      "url": "https://toss.im/_m/7VOCHZRk",
-      "image": "assets/products/c9eb2827795aad856dec.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6860,
-          "observedAt": "2026-09-18T23:00:42.080Z"
-        },
-        {
-          "price": 6860,
-          "observedAt": "2026-09-18T02:16:06.520Z"
-        },
-        {
-          "price": 6860,
-          "observedAt": "2026-09-18T01:20:54.128Z"
         }
       ]
     },
