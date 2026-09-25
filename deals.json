@@ -1,6 +1,131 @@
 {
-  "updatedAt": "2026-09-25T06:13:14.840Z",
+  "updatedAt": "2026-09-25T07:27:04.726Z",
   "deals": [
+    {
+      "id": "p:8397786919|i:24273734134|v:91290208790",
+      "source": "coupang",
+      "name": "닥터버들 미니헤드 칫솔 세트, 12개입, 1개",
+      "price": 10810,
+      "listPrice": 14650,
+      "observedAt": "2026-09-25T07:21:06.399Z",
+      "url": "https://link.coupang.com/a/hkrB9jDZ1w",
+      "image": "assets/products/06186674020b19312a40.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10810,
+          "observedAt": "2026-09-25T07:21:06.399Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1132535611|n:풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+      "source": "toss",
+      "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
+      "price": 6500,
+      "listPrice": 20000,
+      "observedAt": "2026-09-25T07:16:30.188Z",
+      "url": "https://toss.im/_m/PjhX0aQa",
+      "image": "assets/products/7a6694b7fb63dc054b1e.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6500,
+          "observedAt": "2026-09-25T07:16:30.188Z"
+        },
+        {
+          "price": 6500,
+          "observedAt": "2026-09-20T23:08:23.462Z"
+        },
+        {
+          "price": 6500,
+          "observedAt": "2026-09-19T23:00:53.542Z"
+        },
+        {
+          "price": 6500,
+          "observedAt": "2026-09-19T00:41:05.842Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "price": 8800,
+      "listPrice": null,
+      "observedAt": "2026-09-25T07:03:53.817Z",
+      "url": "https://toss.im/_m/FExS9gh8",
+      "image": "assets/products/7631b88b8e7000216fe6.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T07:03:53.817Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T02:43:01.161Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T02:04:13.159Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-04T02:22:33.564Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2402315977|n:이브이 패션밴드, 48매입, 5개",
+      "source": "toss",
+      "name": "이브이 패션밴드, 48매입, 5개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T06:32:59.744Z",
+      "url": "https://toss.shopping/_m/brWUETlo",
+      "image": "assets/products/45545e8ec732e546647e.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T06:32:59.744Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:31:48.709Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:30:24.810Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2402326029|n:팽도리 패션밴드, 48매입, 5개",
+      "source": "toss",
+      "name": "팽도리 패션밴드, 48매입, 5개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T06:32:59.648Z",
+      "url": "https://toss.shopping/_m/NIKcwPBp",
+      "image": "assets/products/2b886c105b85b55f61ce.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T06:32:59.648Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:31:48.805Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:30:25.086Z"
+        }
+      ]
+    },
     {
       "id": "p:6612343792|i:18037611250|v:85192001677",
       "source": "coupang",
@@ -297,31 +422,6 @@
       ]
     },
     {
-      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "source": "toss",
-      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "price": 8800,
-      "listPrice": null,
-      "observedAt": "2026-09-25T02:43:01.161Z",
-      "url": "https://toss.im/_m/FExS9gh8",
-      "image": "assets/products/7631b88b8e7000216fe6.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8800,
-          "observedAt": "2026-09-25T02:43:01.161Z"
-        },
-        {
-          "price": 8800,
-          "observedAt": "2026-09-25T02:04:13.159Z"
-        },
-        {
-          "price": 8800,
-          "observedAt": "2026-09-04T02:22:33.564Z"
-        }
-      ]
-    },
-    {
       "id": "p:9046858036|i:24938167113|v:91915065709",
       "source": "coupang",
       "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
@@ -339,48 +439,6 @@
         {
           "price": 13030,
           "observedAt": "2026-08-17T11:29:05.118Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2402326029|n:팽도리 패션밴드, 48매입, 5개",
-      "source": "toss",
-      "name": "팽도리 패션밴드, 48매입, 5개",
-      "price": 3900,
-      "listPrice": null,
-      "observedAt": "2026-09-25T01:31:48.805Z",
-      "url": "https://toss.shopping/_m/NIKcwPBp",
-      "image": "assets/products/2b886c105b85b55f61ce.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3900,
-          "observedAt": "2026-09-25T01:31:48.805Z"
-        },
-        {
-          "price": 3900,
-          "observedAt": "2026-09-25T01:30:25.086Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2402315977|n:이브이 패션밴드, 48매입, 5개",
-      "source": "toss",
-      "name": "이브이 패션밴드, 48매입, 5개",
-      "price": 3900,
-      "listPrice": null,
-      "observedAt": "2026-09-25T01:31:48.709Z",
-      "url": "https://toss.shopping/_m/brWUETlo",
-      "image": "assets/products/45545e8ec732e546647e.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3900,
-          "observedAt": "2026-09-25T01:31:48.709Z"
-        },
-        {
-          "price": 3900,
-          "observedAt": "2026-09-25T01:30:24.810Z"
         }
       ]
     },
@@ -4352,31 +4410,6 @@
         {
           "price": 16900,
           "observedAt": "2026-08-24T12:50:40.048Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1132535611|n:풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
-      "source": "toss",
-      "name": "풍연 굳지않는 쑥+백미 절편세트, 50g, 20개",
-      "price": 6500,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.462Z",
-      "url": "https://toss.im/_m/PjhX0aQa",
-      "image": "assets/products/7a6694b7fb63dc054b1e.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6500,
-          "observedAt": "2026-09-20T23:08:23.462Z"
-        },
-        {
-          "price": 6500,
-          "observedAt": "2026-09-19T23:00:53.542Z"
-        },
-        {
-          "price": 6500,
-          "observedAt": "2026-09-19T00:41:05.842Z"
         }
       ]
     },
