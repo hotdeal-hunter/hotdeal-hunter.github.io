@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-25T00:44:25.576Z",
+  "updatedAt": "2026-09-25T00:53:05.582Z",
   "deals": [
+    {
+      "id": "p:8708021872|i:25288252560|v:92283740245",
+      "source": "coupang",
+      "name": "브리즈문 캠핑 3중 방습 프리미엄 참나무 장작 + 우드 착화제 20g, 10kg, 1세트",
+      "price": 6460,
+      "listPrice": 10760,
+      "observedAt": "2026-09-25T00:52:55.402Z",
+      "url": "https://link.coupang.com/a/hjZSgWkt64",
+      "image": "assets/products/be0ec5793bb0f16c981a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6460,
+          "observedAt": "2026-09-25T00:52:55.402Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2236975425|n:홍로 세척사과, 16-25과 내외, 3kg, 1박스",
+      "source": "toss",
+      "name": "홍로 세척사과, 16-25과 내외, 3kg, 1박스",
+      "price": 11800,
+      "listPrice": null,
+      "observedAt": "2026-09-25T00:50:27.239Z",
+      "url": "https://toss.shopping/_m/NDCDISDt",
+      "image": "assets/products/06b9c3bcba1f36723eab.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-09-25T00:50:27.239Z"
+        }
+      ]
+    },
     {
       "id": "p:8325261673|i:24032582117|v:91020558472",
       "source": "coupang",
