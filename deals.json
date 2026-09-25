@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T04:38:28.698Z",
+  "updatedAt": "2026-09-25T04:58:29.712Z",
   "deals": [
+    {
+      "id": "p:8688096911|i:24887551758|v:91894226056",
+      "source": "coupang",
+      "name": "주니 유아용 뚜껑 일체형 2세대 자기주도컵, 210ml, 1개, 핑크",
+      "price": 21000,
+      "listPrice": 24753,
+      "observedAt": "2026-09-25T04:52:27.302Z",
+      "url": "https://link.coupang.com/a/hkgZxtYdAO",
+      "image": "assets/products/0365490c531c628490a1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21000,
+          "observedAt": "2026-09-25T04:52:27.302Z"
+        }
+      ]
+    },
     {
       "id": "p:7473901049|i:18626509077|v:85761885625",
       "source": "coupang",
