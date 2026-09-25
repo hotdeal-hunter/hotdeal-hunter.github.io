@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T22:20:59.881Z",
+  "updatedAt": "2026-09-25T22:30:28.488Z",
   "deals": [
+    {
+      "id": "p:6847640764|i:3757660115|v:94360674081",
+      "source": "coupang",
+      "name": "방앗간청년 압력으로 볶은 도라지차, 200g, 1개입, 1개",
+      "price": 8110,
+      "listPrice": 17130,
+      "observedAt": "2026-09-25T22:24:41.909Z",
+      "url": "https://link.coupang.com/a/hlubAGoZ8C",
+      "image": "assets/products/343065638c26b78995ad.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8110,
+          "observedAt": "2026-09-25T22:24:41.909Z"
+        }
+      ]
+    },
     {
       "id": "p:9075178164|i:26845391099|v:93896742187",
       "source": "coupang",
