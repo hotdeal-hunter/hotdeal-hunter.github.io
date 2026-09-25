@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-09-25T23:27:42.169Z",
+  "updatedAt": "2026-09-25T23:41:48.665Z",
   "deals": [
+    {
+      "id": "p:8135495195|i:23109283440|v:90142540227",
+      "source": "coupang",
+      "name": "[비건라이프] 비트 울트라 콤팩트 실내건조 캡슐세제 힐링 카모마일향, 50개입, 1개",
+      "price": 9030,
+      "listPrice": 13005,
+      "observedAt": "2026-09-25T23:41:38.912Z",
+      "url": "https://link.coupang.com/a/hlzGxa1vxI",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9030,
+          "observedAt": "2026-09-25T23:41:38.912Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "source": "toss",
+      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
+      "price": 11500,
+      "listPrice": null,
+      "observedAt": "2026-09-25T23:39:25.999Z",
+      "url": "https://toss.im/_m/LueW0Bwn",
+      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 11500,
+          "observedAt": "2026-09-25T23:39:25.999Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-25T23:21:28.344Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-25T23:21:28.257Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-24T23:01:09.657Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-23T23:33:32.744Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-23T23:01:38.695Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-22T23:01:06.058Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-22T07:16:44.751Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T23:01:12.438Z"
+        },
+        {
+          "price": 11500,
+          "observedAt": "2026-09-21T03:50:31.552Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2648849781|n:푸드어홀릭 네이처 스킨 마스크팩, 보습세트, 60매, 1팩",
       "source": "toss",
@@ -195,55 +265,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-14T05:11:08.469Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:354176105|n:던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "source": "toss",
-      "name": "던킨 미니도넛, 딸기 듬뿍 250g 1팩 + 바바리안 250g 1팩 + 글레이즈드 135g 1팩, 3팩",
-      "price": 11500,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:21:28.344Z",
-      "url": "https://toss.im/_m/LueW0Bwn",
-      "image": "assets/products/bab58e9e969a1ee7d7e6.jpg",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 11500,
-          "observedAt": "2026-09-25T23:21:28.344Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-25T23:21:28.257Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-24T23:01:09.657Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-23T23:33:32.744Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-23T23:01:38.695Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-22T23:01:06.058Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-22T07:16:44.751Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-21T23:01:12.438Z"
-        },
-        {
-          "price": 11500,
-          "observedAt": "2026-09-21T03:50:31.552Z"
         }
       ]
     },
