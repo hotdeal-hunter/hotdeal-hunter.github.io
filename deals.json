@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T08:40:47.175Z",
+  "updatedAt": "2026-09-25T09:16:29.282Z",
   "deals": [
+    {
+      "id": "toss:p:81048649|n:럽센트 스크럽 워시 플라워마켓, 화이트 튤립향, 500ml, 2개",
+      "source": "toss",
+      "name": "럽센트 스크럽 워시 플라워마켓, 화이트 튤립향, 500ml, 2개",
+      "price": 14900,
+      "listPrice": 54000,
+      "observedAt": "2026-09-25T09:10:45.451Z",
+      "url": "https://toss.shopping/_m/l3Y2mrPz",
+      "image": "assets/products/1e43f154b23bac54bed2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-25T09:10:45.451Z"
+        }
+      ]
+    },
     {
       "id": "p:6945689800|i:16857235874|v:88777355005",
       "source": "coupang",
