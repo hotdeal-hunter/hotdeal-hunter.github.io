@@ -1,6 +1,154 @@
 {
-  "updatedAt": "2026-09-25T02:13:52.135Z",
+  "updatedAt": "2026-09-25T03:59:28.911Z",
   "deals": [
+    {
+      "id": "p:9561955619|i:28534975083|v:95913684843",
+      "source": "coupang",
+      "name": "선우글로벌 황치즈고구마깡, 50g, 6개",
+      "price": 7480,
+      "listPrice": null,
+      "observedAt": "2026-09-25T03:53:43.412Z",
+      "url": "https://link.coupang.com/a/hkcNj98K5s",
+      "image": "assets/products/b3e875e6199d4b5dad86.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7480,
+          "observedAt": "2026-09-25T03:53:43.412Z"
+        },
+        {
+          "price": 7480,
+          "observedAt": "2026-09-25T03:53:40.058Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 5990,
+      "listPrice": 17800,
+      "observedAt": "2026-09-25T03:50:11.156Z",
+      "url": "https://toss.im/_m/p3pa9Nt9",
+      "image": "assets/products/5f6aab195331f8a62725.jpg",
+      "insight": "16회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-25T03:50:11.156Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:39:06.672Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:39:06.549Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:01:09.732Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:01:38.767Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:01:05.631Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:11.429Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-20T23:08:23.551Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-19T23:00:53.774Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.797Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.695Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:00:42.158Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T08:04:01.608Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T06:14:09.386Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T08:20:22.217Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T07:51:18.040Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8325261673|i:24032582117|v:91020558472",
+      "source": "coupang",
+      "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
+      "price": 9050,
+      "listPrice": 10960,
+      "observedAt": "2026-09-25T03:33:03.348Z",
+      "url": "https://link.coupang.com/a/hkbjLDQDK0",
+      "image": "assets/products/206dc6060188347b4466.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9050,
+          "observedAt": "2026-09-25T03:33:03.348Z"
+        },
+        {
+          "price": 9050,
+          "observedAt": "2026-09-25T00:44:20.976Z"
+        },
+        {
+          "price": 9050,
+          "observedAt": "2026-09-25T00:44:17.307Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "price": 8800,
+      "listPrice": null,
+      "observedAt": "2026-09-25T02:43:01.161Z",
+      "url": "https://toss.im/_m/FExS9gh8",
+      "image": "assets/products/7631b88b8e7000216fe6.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T02:43:01.161Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T02:04:13.159Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-04T02:22:33.564Z"
+        }
+      ]
+    },
     {
       "id": "p:9046858036|i:24938167113|v:91915065709",
       "source": "coupang",
@@ -19,27 +167,6 @@
         {
           "price": 13030,
           "observedAt": "2026-08-17T11:29:05.118Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "source": "toss",
-      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "price": 8800,
-      "listPrice": 30000,
-      "observedAt": "2026-09-25T02:04:13.159Z",
-      "url": "https://toss.im/_m/FExS9gh8",
-      "image": "assets/products/7631b88b8e7000216fe6.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8800,
-          "observedAt": "2026-09-25T02:04:13.159Z"
-        },
-        {
-          "price": 8800,
-          "observedAt": "2026-09-04T02:22:33.564Z"
         }
       ]
     },
@@ -116,27 +243,6 @@
         {
           "price": 11800,
           "observedAt": "2026-09-25T00:50:27.239Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8325261673|i:24032582117|v:91020558472",
-      "source": "coupang",
-      "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
-      "price": 9050,
-      "listPrice": null,
-      "observedAt": "2026-09-25T00:44:20.976Z",
-      "url": "https://link.coupang.com/a/hjZghG8FYO",
-      "image": "assets/products/206dc6060188347b4466.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9050,
-          "observedAt": "2026-09-25T00:44:20.976Z"
-        },
-        {
-          "price": 9050,
-          "observedAt": "2026-09-25T00:44:17.307Z"
         }
       ]
     },
@@ -233,79 +339,6 @@
         {
           "price": 1980,
           "observedAt": "2026-09-24T23:50:55.845Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "source": "toss",
-      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-24T23:39:06.672Z",
-      "url": "https://toss.im/_m/p3pa9Nt9",
-      "image": "assets/products/5f6aab195331f8a62725.jpg",
-      "insight": "15회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T23:39:06.672Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T23:39:06.549Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T23:01:09.732Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:01:38.767Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:01:05.631Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:01:11.429Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-20T23:08:23.551Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-19T23:00:53.774Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.797Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.695Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:00:42.158Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T08:04:01.608Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T06:14:09.386Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T08:20:22.217Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T07:51:18.040Z"
         }
       ]
     },
