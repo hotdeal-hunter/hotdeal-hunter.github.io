@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-25T04:16:14.544Z",
+  "updatedAt": "2026-09-25T04:38:28.698Z",
   "deals": [
+    {
+      "id": "p:7473901049|i:18626509077|v:85761885625",
+      "source": "coupang",
+      "name": "솔리몬 스퀴즈드 레몬즙, 500ml, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T04:38:24.355Z",
+      "url": "https://link.coupang.com/a/hkfZh1xnW0",
+      "image": "assets/products/9538d3fcfd8da4c4ca6a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-25T04:38:24.355Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-25T04:38:20.961Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:39263115|n:스테인리스 주방칼 6종, 블랙, 1세트",
       "source": "toss",
