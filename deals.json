@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T11:43:42.189Z",
+  "updatedAt": "2026-09-25T12:18:39.720Z",
   "deals": [
+    {
+      "id": "p:6274513174|i:18777115288|v:78396843281",
+      "source": "coupang",
+      "name": "배스킨라빈스 베리베리 스트로베리 우유, 190ml, 24개",
+      "price": 12660,
+      "listPrice": 15810,
+      "observedAt": "2026-09-25T12:18:29.759Z",
+      "url": "https://link.coupang.com/a/hkMRK5TjI4",
+      "image": "assets/products/d20092fc24306a839598.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12660,
+          "observedAt": "2026-09-25T12:18:29.759Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2649549599|n:허니맘 24종 무첨가 주방세제, 4l, 2개",
       "source": "toss",
