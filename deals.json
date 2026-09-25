@@ -1,6 +1,90 @@
 {
-  "updatedAt": "2026-09-25T00:53:05.582Z",
+  "updatedAt": "2026-09-25T02:13:52.135Z",
   "deals": [
+    {
+      "id": "p:9046858036|i:24938167113|v:91915065709",
+      "source": "coupang",
+      "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+      "price": 12330,
+      "listPrice": 15517,
+      "observedAt": "2026-09-25T02:13:38.945Z",
+      "url": "https://link.coupang.com/a/hj5DYxOeYK",
+      "image": "assets/products/3a4288813d3a30962e15.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12330,
+          "observedAt": "2026-09-25T02:13:38.945Z"
+        },
+        {
+          "price": 13030,
+          "observedAt": "2026-08-17T11:29:05.118Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "source": "toss",
+      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
+      "price": 8800,
+      "listPrice": 30000,
+      "observedAt": "2026-09-25T02:04:13.159Z",
+      "url": "https://toss.im/_m/FExS9gh8",
+      "image": "assets/products/7631b88b8e7000216fe6.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8800,
+          "observedAt": "2026-09-25T02:04:13.159Z"
+        },
+        {
+          "price": 8800,
+          "observedAt": "2026-09-04T02:22:33.564Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2402326029|n:팽도리 패션밴드, 48매입, 5개",
+      "source": "toss",
+      "name": "팽도리 패션밴드, 48매입, 5개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T01:31:48.805Z",
+      "url": "https://toss.shopping/_m/NIKcwPBp",
+      "image": "assets/products/2b886c105b85b55f61ce.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:31:48.805Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:30:25.086Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2402315977|n:이브이 패션밴드, 48매입, 5개",
+      "source": "toss",
+      "name": "이브이 패션밴드, 48매입, 5개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T01:31:48.709Z",
+      "url": "https://toss.shopping/_m/brWUETlo",
+      "image": "assets/products/45545e8ec732e546647e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:31:48.709Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-25T01:30:24.810Z"
+        }
+      ]
+    },
     {
       "id": "p:8708021872|i:25288252560|v:92283740245",
       "source": "coupang",
@@ -11306,23 +11390,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-04T02:40:59.902Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:31367569|n:파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "source": "toss",
-      "name": "파이토메이드 저자극 초극세 프리미엄 칫솔, 10개입, 3세트",
-      "price": 8800,
-      "listPrice": 30000,
-      "observedAt": "2026-09-04T02:22:33.564Z",
-      "url": "https://toss.im/_m/FExS9gh8",
-      "image": "assets/products/7631b88b8e7000216fe6.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8800,
-          "observedAt": "2026-09-04T02:22:33.564Z"
         }
       ]
     },
@@ -22864,23 +22931,6 @@
         {
           "price": 6330,
           "observedAt": "2026-08-17T12:17:17.420Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9046858036|i:24938167113|v:91915065709",
-      "source": "coupang",
-      "name": "코카콜라 제로 제로 무라벨",
-      "price": 13030,
-      "listPrice": 15607,
-      "observedAt": "2026-08-17T11:29:05.118Z",
-      "url": "https://link.coupang.com/a/ghZ5cPUDh6",
-      "image": "assets/products/3a4288813d3a30962e15.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13030,
-          "observedAt": "2026-08-17T11:29:05.118Z"
         }
       ]
     },
