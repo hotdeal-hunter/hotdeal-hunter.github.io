@@ -1,6 +1,81 @@
 {
-  "updatedAt": "2026-09-25T05:55:28.718Z",
+  "updatedAt": "2026-09-25T06:10:42.294Z",
   "deals": [
+    {
+      "id": "p:6612343792|i:18037611250|v:85192001677",
+      "source": "coupang",
+      "name": "르샤트라1802 인퓨전 초고농축 실내건조 섬유유연제 피오니부케향 리필, 2L, 2개",
+      "price": 10810,
+      "listPrice": 13325,
+      "observedAt": "2026-09-25T06:08:24.240Z",
+      "url": "https://link.coupang.com/a/hkmp2dTrG0",
+      "image": "assets/products/4200c97ba80a339ddae8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10810,
+          "observedAt": "2026-09-25T06:08:24.240Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "source": "toss",
+      "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "price": 6490,
+      "listPrice": null,
+      "observedAt": "2026-09-25T06:04:50.178Z",
+      "url": "https://toss.im/_m/TeIxfZQf",
+      "image": "assets/products/47d14ec0d7ef6b4bcfcf.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6490,
+          "observedAt": "2026-09-25T06:04:50.178Z"
+        },
+        {
+          "price": 6490,
+          "observedAt": "2026-09-25T06:03:40.973Z"
+        },
+        {
+          "price": 6490,
+          "observedAt": "2026-09-22T08:33:35.991Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
+      "source": "toss",
+      "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
+      "price": 3990,
+      "listPrice": null,
+      "observedAt": "2026-09-25T06:04:50.047Z",
+      "url": "https://toss.im/_m/jXbUUEgd",
+      "image": "assets/products/f68cbbe0861182ff9fc5.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-09-25T06:04:50.047Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-25T06:03:40.835Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-21T07:01:53.827Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-18T23:00:41.842Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-18T04:54:24.539Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:125534245|n:종표 쫄깃 국수, 1.5kg, 1개",
       "source": "toss",
@@ -3183,23 +3258,6 @@
       ]
     },
     {
-      "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
-      "source": "toss",
-      "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
-      "price": 6490,
-      "listPrice": null,
-      "observedAt": "2026-09-22T08:33:35.991Z",
-      "url": "https://toss.im/_m/TeIxfZQf",
-      "image": "assets/products/47d14ec0d7ef6b4bcfcf.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6490,
-          "observedAt": "2026-09-22T08:33:35.991Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:106052031|n:대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
       "source": "toss",
       "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
@@ -4104,31 +4162,6 @@
         {
           "price": 12720,
           "observedAt": "2026-09-21T07:26:16.423Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
-      "source": "toss",
-      "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
-      "price": 3990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T07:01:53.827Z",
-      "url": "https://toss.im/_m/jXbUUEgd",
-      "image": "assets/products/f68cbbe0861182ff9fc5.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 3990,
-          "observedAt": "2026-09-21T07:01:53.827Z"
-        },
-        {
-          "price": 3990,
-          "observedAt": "2026-09-18T23:00:41.842Z"
-        },
-        {
-          "price": 3990,
-          "observedAt": "2026-09-18T04:54:24.539Z"
         }
       ]
     },
