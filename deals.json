@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-25T07:50:21.310Z",
+  "updatedAt": "2026-09-25T08:14:28.847Z",
   "deals": [
+    {
+      "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
+      "source": "toss",
+      "name": "에브리워터 무라벨, 500ml, 40개",
+      "price": 4400,
+      "listPrice": null,
+      "observedAt": "2026-09-25T08:13:43.802Z",
+      "url": "https://toss.shopping/_m/l15lbhSg",
+      "image": "assets/products/a11cd6225dc9d4a79a58.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4400,
+          "observedAt": "2026-09-25T08:13:43.802Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7716106743|i:28047916197|v:85166614448",
+      "source": "coupang",
+      "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
+      "price": 4580,
+      "listPrice": 6449,
+      "observedAt": "2026-09-25T08:08:51.077Z",
+      "url": "https://link.coupang.com/a/hku1H9e4bs",
+      "image": "assets/products/2997805fe331069c6824.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4580,
+          "observedAt": "2026-09-25T08:08:51.077Z"
+        },
+        {
+          "price": 4580,
+          "observedAt": "2026-09-25T08:08:50.343Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2308009371|n:육중대 듀록 흑돼지 삼겹살, 500g, 4개",
       "source": "toss",
@@ -10015,23 +10053,6 @@
         {
           "price": 34800,
           "observedAt": "2026-09-07T11:07:20.684Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8402130018|i:28047916197|v:85166614448",
-      "source": "coupang",
-      "name": "오뚜기 델리 토마토 케찹, 800g, 2개",
-      "price": 4580,
-      "listPrice": 6480,
-      "observedAt": "2026-09-07T08:06:24.573Z",
-      "url": "https://link.coupang.com/a/gQCz77dGai",
-      "image": "assets/products/63a2178dde813fe6733b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4580,
-          "observedAt": "2026-09-07T08:06:24.573Z"
         }
       ]
     },
