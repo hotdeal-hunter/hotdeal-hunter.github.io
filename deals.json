@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T12:36:10.182Z",
+  "updatedAt": "2026-09-25T22:12:29.294Z",
   "deals": [
+    {
+      "id": "p:8144862586|i:20576555220|v:95811263166",
+      "source": "coupang",
+      "name": "분다버그 핑크 그레이프푸르트 탄산음료, 375ml, 12개",
+      "price": 18630,
+      "listPrice": 26058,
+      "observedAt": "2026-09-25T22:06:29.260Z",
+      "url": "https://link.coupang.com/a/hlsSUdwXwO",
+      "image": "assets/products/338269c2b3808ae1a9b2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18630,
+          "observedAt": "2026-09-25T22:06:29.260Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
       "source": "toss",
@@ -1625,7 +1642,7 @@
       "listPrice": null,
       "observedAt": "2026-09-24T08:08:28.511Z",
       "url": "https://link.coupang.com/a/hiP5Y4gbzE",
-      "image": null,
+      "image": "assets/products/2303a80f61f65cca79cc.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
