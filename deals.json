@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-25T12:18:39.720Z",
+  "updatedAt": "2026-09-25T12:36:10.182Z",
   "deals": [
+    {
+      "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
+      "source": "toss",
+      "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
+      "price": 16400,
+      "listPrice": 34900,
+      "observedAt": "2026-09-25T12:30:12.411Z",
+      "url": "https://toss.im/_m/rmxF9VZv",
+      "image": "assets/products/ad69c1745b1dd977c34f.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 16400,
+          "observedAt": "2026-09-25T12:30:12.411Z"
+        },
+        {
+          "price": 16500,
+          "observedAt": "2026-09-18T04:28:24.422Z"
+        },
+        {
+          "price": 16500,
+          "observedAt": "2026-09-08T11:18:17.289Z"
+        },
+        {
+          "price": 16500,
+          "observedAt": "2026-09-01T05:28:26.884Z"
+        }
+      ]
+    },
     {
       "id": "p:6274513174|i:18777115288|v:78396843281",
       "source": "coupang",
@@ -5792,31 +5821,6 @@
         {
           "price": 33000,
           "observedAt": "2026-09-18T05:27:20.429Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2299495817|n:맛생각 시골 전통 된장찌개, 600g, 5개",
-      "source": "toss",
-      "name": "맛생각 시골 전통 된장찌개, 600g, 5개",
-      "price": 16500,
-      "listPrice": 34900,
-      "observedAt": "2026-09-18T04:28:24.422Z",
-      "url": "https://toss.im/_m/rmxF9VZv",
-      "image": "assets/products/ad69c1745b1dd977c34f.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 16500,
-          "observedAt": "2026-09-18T04:28:24.422Z"
-        },
-        {
-          "price": 16500,
-          "observedAt": "2026-09-08T11:18:17.289Z"
-        },
-        {
-          "price": 16500,
-          "observedAt": "2026-09-01T05:28:26.884Z"
         }
       ]
     },
