@@ -1,6 +1,154 @@
 {
-  "updatedAt": "2026-09-24T23:32:00.599Z",
+  "updatedAt": "2026-09-25T00:30:56.055Z",
   "deals": [
+    {
+      "id": "p:9015937489|i:26431486703|v:93407255804",
+      "source": "coupang",
+      "name": "뉴에라 아동용 MLB 스몰 로고 맨투맨 뉴욕 양키스",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T00:30:50.825Z",
+      "url": "https://link.coupang.com/a/hjYisxTKSa",
+      "image": "assets/products/7a6069c49fca4ca99c4c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-25T00:30:50.825Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-25T00:30:46.967Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
+      "source": "toss",
+      "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
+      "price": 13500,
+      "listPrice": null,
+      "observedAt": "2026-09-25T00:30:50.740Z",
+      "url": "https://toss.im/_m/rwfbIBNa",
+      "image": "assets/products/87af2e5fd07aa8325dea.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-25T00:30:50.740Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-25T00:30:50.641Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-24T23:47:29.598Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-24T23:46:13.201Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-15T01:01:00.166Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8288863602|i:22962310687|v:87760149070",
+      "source": "coupang",
+      "name": "친수 칠리소스, 250g, 2개",
+      "price": 1980,
+      "listPrice": 3362,
+      "observedAt": "2026-09-24T23:50:56.112Z",
+      "url": "https://link.coupang.com/a/hjVrDb2tjg",
+      "image": "assets/products/b28157156a09866ae783.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 1980,
+          "observedAt": "2026-09-24T23:50:56.112Z"
+        },
+        {
+          "price": 1980,
+          "observedAt": "2026-09-24T23:50:55.845Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "source": "toss",
+      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-24T23:39:06.672Z",
+      "url": "https://toss.im/_m/p3pa9Nt9",
+      "image": "assets/products/5f6aab195331f8a62725.jpg",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:39:06.672Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:39:06.549Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:01:09.732Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:01:38.767Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:01:05.631Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:11.429Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-20T23:08:23.551Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-19T23:00:53.774Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.797Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:10:12.695Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T23:00:42.158Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T08:04:01.608Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-18T06:14:09.386Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T08:20:22.217Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-09-09T07:51:18.040Z"
+        }
+      ]
+    },
     {
       "id": "p:2140167813|i:3634663228|v:71620215807",
       "source": "coupang",
@@ -432,71 +580,6 @@
         {
           "price": 6600,
           "observedAt": "2026-09-23T04:26:19.746Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:120852333|n:오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "source": "toss",
-      "name": "오즈랜드 우리곡물 크리스피롤 23곡, 660g, 1박스",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-24T23:01:09.732Z",
-      "url": "https://toss.im/_m/p3pa9Nt9",
-      "image": "assets/products/5f6aab195331f8a62725.jpg",
-      "insight": "13회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T23:01:09.732Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:01:38.767Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:01:05.631Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:01:11.429Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-20T23:08:23.551Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-19T23:00:53.774Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.797Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:10:12.695Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T23:00:42.158Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T08:04:01.608Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-18T06:14:09.386Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T08:20:22.217Z"
-        },
-        {
-          "price": 10500,
-          "observedAt": "2026-09-09T07:51:18.040Z"
         }
       ]
     },
@@ -6493,23 +6576,6 @@
         {
           "price": 26900,
           "observedAt": "2026-08-31T05:02:28.675Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
-      "source": "toss",
-      "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
-      "price": 13500,
-      "listPrice": null,
-      "observedAt": "2026-09-15T01:01:00.166Z",
-      "url": "https://toss.im/_m/rwfbIBNa",
-      "image": "assets/products/87af2e5fd07aa8325dea.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13500,
-          "observedAt": "2026-09-15T01:01:00.166Z"
         }
       ]
     },
