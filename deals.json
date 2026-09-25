@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T04:58:29.712Z",
+  "updatedAt": "2026-09-25T05:09:16.020Z",
   "deals": [
+    {
+      "id": "toss:p:206319527|n:해남 호풍미 호박고구마, 대, 5kg, 1박스",
+      "source": "toss",
+      "name": "해남 호풍미 호박고구마, 대, 5kg, 1박스",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T05:03:22.469Z",
+      "url": "https://toss.shopping/_m/fsEn5cPz",
+      "image": "assets/products/11cb44ed7f96a176f6e1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-25T05:03:22.469Z"
+        }
+      ]
+    },
     {
       "id": "p:8688096911|i:24887551758|v:91894226056",
       "source": "coupang",
