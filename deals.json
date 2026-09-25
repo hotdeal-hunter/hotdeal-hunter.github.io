@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-25T00:30:56.055Z",
+  "updatedAt": "2026-09-25T00:44:25.576Z",
   "deals": [
+    {
+      "id": "p:8325261673|i:24032582117|v:91020558472",
+      "source": "coupang",
+      "name": "마이카페라떼 원데이 로어슈거 클래식라떼, 210ml, 10개",
+      "price": 9050,
+      "listPrice": null,
+      "observedAt": "2026-09-25T00:44:20.976Z",
+      "url": "https://link.coupang.com/a/hjZghG8FYO",
+      "image": "assets/products/206dc6060188347b4466.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9050,
+          "observedAt": "2026-09-25T00:44:20.976Z"
+        },
+        {
+          "price": 9050,
+          "observedAt": "2026-09-25T00:44:17.307Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8745169929|i:20215060008|v:70281398857",
+      "source": "coupang",
+      "name": "닥터유 한입쏙 단백질바, 380g, 1개",
+      "price": 7660,
+      "listPrice": null,
+      "observedAt": "2026-09-25T00:38:14.250Z",
+      "url": "https://link.coupang.com/a/hjYPcKH0Ts",
+      "image": "assets/products/a8cb98e4f4bf5138bd50.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7660,
+          "observedAt": "2026-09-25T00:38:14.250Z"
+        },
+        {
+          "price": 7660,
+          "observedAt": "2026-09-25T00:38:10.472Z"
+        }
+      ]
+    },
     {
       "id": "p:9015937489|i:26431486703|v:93407255804",
       "source": "coupang",
