@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-25T23:41:48.665Z",
+  "updatedAt": "2026-09-25T23:57:15.734Z",
   "deals": [
+    {
+      "id": "toss:p:2666326575|n:농협 햇 수미 감자 대, 10kg, 1박스",
+      "source": "toss",
+      "name": "농협 햇 수미 감자 대, 10kg, 1박스",
+      "price": 8200,
+      "listPrice": null,
+      "observedAt": "2026-09-25T23:52:26.552Z",
+      "url": "https://toss.shopping/_m/RsVwpES1",
+      "image": "assets/products/f10deccd6a798adb06b3.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8200,
+          "observedAt": "2026-09-25T23:52:26.552Z"
+        },
+        {
+          "price": 8200,
+          "observedAt": "2026-09-25T23:51:05.699Z"
+        }
+      ]
+    },
     {
       "id": "p:8135495195|i:23109283440|v:90142540227",
       "source": "coupang",
