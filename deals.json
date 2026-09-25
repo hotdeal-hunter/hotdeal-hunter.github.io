@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-25T05:09:16.020Z",
+  "updatedAt": "2026-09-25T05:55:28.718Z",
   "deals": [
+    {
+      "id": "toss:p:125534245|n:종표 쫄깃 국수, 1.5kg, 1개",
+      "source": "toss",
+      "name": "종표 쫄깃 국수, 1.5kg, 1개",
+      "price": 6900,
+      "listPrice": 12900,
+      "observedAt": "2026-09-25T05:55:01.561Z",
+      "url": "https://toss.im/_m/rqdeeXro",
+      "image": "assets/products/0c2c46817c5052af0939.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-25T05:55:01.561Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-08-19T09:05:25.510Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:206319527|n:해남 호풍미 호박고구마, 대, 5kg, 1박스",
       "source": "toss",
@@ -21764,23 +21785,6 @@
         {
           "price": 59514,
           "observedAt": "2026-08-19T09:05:29.403Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:125534245|n:종표 쫄깃 국수, 1.5kg, 1개",
-      "source": "toss",
-      "name": "종표 쫄깃 국수, 1.5kg, 1개",
-      "price": 6900,
-      "listPrice": 12900,
-      "observedAt": "2026-08-19T09:05:25.510Z",
-      "url": "https://toss.im/_m/rqdeeXro",
-      "image": "assets/products/0c2c46817c5052af0939.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6900,
-          "observedAt": "2026-08-19T09:05:25.510Z"
         }
       ]
     },
