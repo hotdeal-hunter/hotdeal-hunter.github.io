@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-25T03:59:28.911Z",
+  "updatedAt": "2026-09-25T04:16:14.544Z",
   "deals": [
+    {
+      "id": "toss:p:39263115|n:스테인리스 주방칼 6종, 블랙, 1세트",
+      "source": "toss",
+      "name": "스테인리스 주방칼 6종, 블랙, 1세트",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T04:10:08.804Z",
+      "url": "https://toss.im/_m/zkocgvbc",
+      "image": "assets/products/0d7aff370996d3021535.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-25T04:10:08.804Z"
+        },
+        {
+          "price": 10500,
+          "observedAt": "2026-08-20T12:28:11.710Z"
+        }
+      ]
+    },
     {
       "id": "p:9561955619|i:28534975083|v:95913684843",
       "source": "coupang",
@@ -20610,23 +20631,6 @@
         {
           "price": 1470,
           "observedAt": "2026-08-20T13:35:52.878Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:39263115|n:스테인리스 주방칼 6종 세트, 1세트",
-      "source": "toss",
-      "name": "스테인리스 주방칼 6종 세트, 1세트",
-      "price": 10500,
-      "listPrice": null,
-      "observedAt": "2026-08-20T12:28:11.710Z",
-      "url": "https://toss.im/_m/zkocgvbc",
-      "image": "assets/products/b81a8891c31b2d327f33.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10500,
-          "observedAt": "2026-08-20T12:28:11.710Z"
         }
       ]
     },
