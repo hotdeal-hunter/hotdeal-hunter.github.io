@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-09-25T09:16:29.282Z",
+  "updatedAt": "2026-09-25T10:07:19.062Z",
   "deals": [
+    {
+      "id": "toss:p:79891667|n:푸드공식 오리지널 어포튀각, 90g, 4개",
+      "source": "toss",
+      "name": "푸드공식 오리지널 어포튀각, 90g, 4개",
+      "price": 9400,
+      "listPrice": null,
+      "observedAt": "2026-09-25T10:01:06.744Z",
+      "url": "https://toss.shopping/_m/ZjHyElY1",
+      "image": "assets/products/ae3d69178728c329976e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9400,
+          "observedAt": "2026-09-25T10:01:06.744Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8570539610|i:24733185951|v:93604116679",
+      "source": "coupang",
+      "name": "곰도리 온열안대 오리지널 케어 플러스, 40개입, 1세트",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-09-25T09:42:30.294Z",
+      "url": "https://link.coupang.com/a/hkBICy3x7s",
+      "image": null,
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-09-25T09:42:30.294Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-25T09:41:17.425Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-23T09:21:30.822Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9046858036|i:24938167113|v:91915065709",
+      "source": "coupang",
+      "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
+      "price": 12330,
+      "listPrice": null,
+      "observedAt": "2026-09-25T09:30:48.060Z",
+      "url": "https://link.coupang.com/a/hkASLRcbC0",
+      "image": "assets/products/3a4288813d3a30962e15.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 12330,
+          "observedAt": "2026-09-25T09:30:48.060Z"
+        },
+        {
+          "price": 12330,
+          "observedAt": "2026-09-25T09:30:44.534Z"
+        },
+        {
+          "price": 12330,
+          "observedAt": "2026-09-25T02:13:38.945Z"
+        },
+        {
+          "price": 13030,
+          "observedAt": "2026-08-17T11:29:05.118Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81048649|n:럽센트 스크럽 워시 플라워마켓, 화이트 튤립향, 500ml, 2개",
       "source": "toss",
@@ -507,27 +578,6 @@
         {
           "price": 9050,
           "observedAt": "2026-09-25T00:44:17.307Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9046858036|i:24938167113|v:91915065709",
-      "source": "coupang",
-      "name": "코카콜라 제로 제로 무라벨, 370ml, 18개",
-      "price": 12330,
-      "listPrice": 15517,
-      "observedAt": "2026-09-25T02:13:38.945Z",
-      "url": "https://link.coupang.com/a/hj5DYxOeYK",
-      "image": "assets/products/3a4288813d3a30962e15.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12330,
-          "observedAt": "2026-09-25T02:13:38.945Z"
-        },
-        {
-          "price": 13030,
-          "observedAt": "2026-08-17T11:29:05.118Z"
         }
       ]
     },
@@ -2294,23 +2344,6 @@
         {
           "price": 7870,
           "observedAt": "2026-09-23T09:35:31.826Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8570539610|i:24733185951|v:93604116679",
-      "source": "coupang",
-      "name": "곰도리 온열안대 오리지널 케어 플러스, 40개입, 1세트",
-      "price": 5900,
-      "listPrice": 8466,
-      "observedAt": "2026-09-23T09:21:30.822Z",
-      "url": "https://link.coupang.com/a/hhgpyboLXU",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5900,
-          "observedAt": "2026-09-23T09:21:30.822Z"
         }
       ]
     },
