@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-25T23:57:15.734Z",
+  "updatedAt": "2026-09-26T00:42:28.719Z",
   "deals": [
+    {
+      "id": "p:8884723311|i:25934022210|v:91539399249",
+      "source": "coupang",
+      "name": "아로셀 시카 리페어 판테놀 마스크, 7개입, 1개",
+      "price": 13520,
+      "listPrice": 18649,
+      "observedAt": "2026-09-26T00:42:18.108Z",
+      "url": "https://link.coupang.com/a/hlD1fSeLBI",
+      "image": "assets/products/5907c9786964a367e336.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13520,
+          "observedAt": "2026-09-26T00:42:18.108Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2666326575|n:농협 햇 수미 감자 대, 10kg, 1박스",
       "source": "toss",
