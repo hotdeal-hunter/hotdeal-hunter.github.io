@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T04:36:29.264Z",
+  "updatedAt": "2026-09-26T05:00:03.205Z",
   "deals": [
+    {
+      "id": "toss:p:2095154841|n:욜로 두바이 쫀득 쿠키, 40g, 10개",
+      "source": "toss",
+      "name": "욜로 두바이 쫀득 쿠키, 40g, 10개",
+      "price": 19800,
+      "listPrice": 29900,
+      "observedAt": "2026-09-26T04:54:03.837Z",
+      "url": "https://toss.shopping/_m/9SzAzyTq",
+      "image": "assets/products/5b2d3f48aa77d75b364f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19800,
+          "observedAt": "2026-09-26T04:54:03.837Z"
+        }
+      ]
+    },
     {
       "id": "p:6568173877|i:14733344818|v:87612478192",
       "source": "coupang",
