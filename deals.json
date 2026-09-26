@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-26T05:46:42.399Z",
+  "updatedAt": "2026-09-26T06:04:24.672Z",
   "deals": [
+    {
+      "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
+      "source": "toss",
+      "name": "농심 신라면, 120g, 20개",
+      "price": 15257,
+      "listPrice": null,
+      "observedAt": "2026-09-26T06:04:20.362Z",
+      "url": "https://toss.im/_m/LeSZNvc8",
+      "image": "assets/products/3d72729ead1090320bc7.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 15257,
+          "observedAt": "2026-09-26T06:04:20.362Z"
+        },
+        {
+          "price": 18800,
+          "observedAt": "2026-09-15T12:33:33.180Z"
+        },
+        {
+          "price": 18800,
+          "observedAt": "2026-09-15T12:32:14.360Z"
+        },
+        {
+          "price": 18800,
+          "observedAt": "2026-09-07T06:12:33.330Z"
+        },
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:43:30.951Z"
+        },
+        {
+          "price": 14454,
+          "observedAt": "2026-09-06T00:40:51.970Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:114466221|n:오쿡 닭가슴살 소시지 핫바 6종, 70g, 12개",
       "source": "toss",
@@ -7311,39 +7348,6 @@
         {
           "price": 1990,
           "observedAt": "2026-09-11T23:01:50.697Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
-      "source": "toss",
-      "name": "농심 신라면, 120g, 20개",
-      "price": 18800,
-      "listPrice": 50000,
-      "observedAt": "2026-09-15T12:33:33.180Z",
-      "url": "https://toss.im/_m/LeSZNvc8",
-      "image": "assets/products/3d72729ead1090320bc7.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 18800,
-          "observedAt": "2026-09-15T12:33:33.180Z"
-        },
-        {
-          "price": 18800,
-          "observedAt": "2026-09-15T12:32:14.360Z"
-        },
-        {
-          "price": 18800,
-          "observedAt": "2026-09-07T06:12:33.330Z"
-        },
-        {
-          "price": 14454,
-          "observedAt": "2026-09-06T00:43:30.951Z"
-        },
-        {
-          "price": 14454,
-          "observedAt": "2026-09-06T00:40:51.970Z"
         }
       ]
     },
