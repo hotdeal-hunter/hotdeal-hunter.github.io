@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T07:32:42.236Z",
+  "updatedAt": "2026-09-26T07:48:03.105Z",
   "deals": [
+    {
+      "id": "p:312729338|i:20835481700|v:88374261792",
+      "source": "coupang",
+      "name": "아우라 드라이 섬유유연시트 스윗만다린 앤 피오니향 본품, 120개입, 1개",
+      "price": 9900,
+      "listPrice": 12200,
+      "observedAt": "2026-09-26T07:47:53.380Z",
+      "url": "https://link.coupang.com/a/hl8qRc0c5k",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T07:47:53.380Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
       "source": "toss",
