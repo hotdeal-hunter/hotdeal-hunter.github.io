@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T05:00:03.205Z",
+  "updatedAt": "2026-09-26T05:33:28.801Z",
   "deals": [
+    {
+      "id": "p:8840029817|i:26014126121|v:5463903504",
+      "source": "coupang",
+      "name": "닥터스베스트 비타민 D3 5000IU 베지 소프트젤, 180정, 1개, 180정 × 1개",
+      "price": 9850,
+      "listPrice": 15010,
+      "observedAt": "2026-09-26T05:27:53.983Z",
+      "url": "https://link.coupang.com/a/hlYqCq7zqu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9850,
+          "observedAt": "2026-09-26T05:27:53.983Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2095154841|n:욜로 두바이 쫀득 쿠키, 40g, 10개",
       "source": "toss",
@@ -2009,7 +2026,7 @@
       "listPrice": 13189,
       "observedAt": "2026-09-24T13:24:21.192Z",
       "url": "https://link.coupang.com/a/hjcFvu39si",
-      "image": null,
+      "image": "assets/products/f339a7ed3f76e3189b5e.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -2278,7 +2295,7 @@
       "listPrice": 145000,
       "observedAt": "2026-09-24T07:39:10.106Z",
       "url": "https://link.coupang.com/a/hiNZ8oZ8Dc",
-      "image": null,
+      "image": "assets/products/624dfe485057d459ef3b.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -2693,7 +2710,7 @@
       "listPrice": 40853,
       "observedAt": "2026-09-24T04:11:54.900Z",
       "url": "https://link.coupang.com/a/hizbS7TbEW",
-      "image": null,
+      "image": "assets/products/3937ea88942e48eb528c.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
