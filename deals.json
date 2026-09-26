@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T11:40:07.291Z",
+  "updatedAt": "2026-09-26T12:10:42.946Z",
   "deals": [
+    {
+      "id": "toss:p:2656659211|n:슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
+      "source": "toss",
+      "name": "슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T12:04:37.013Z",
+      "url": "https://toss.shopping/_m/vElRFs6w",
+      "image": "assets/products/d5765acdcfe98fcdf997.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-26T12:04:37.013Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1013827523|n:큰나무 이탈리아 엠머밀 파로, 1kg, 2개",
       "source": "toss",
@@ -819,7 +836,7 @@
       "listPrice": 13005,
       "observedAt": "2026-09-25T23:41:38.912Z",
       "url": "https://link.coupang.com/a/hlzGxa1vxI",
-      "image": null,
+      "image": "assets/products/265a86d789913cf81570.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
