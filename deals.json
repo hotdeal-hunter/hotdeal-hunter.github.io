@@ -1,20 +1,45 @@
 {
-  "updatedAt": "2026-09-26T22:26:57.461Z",
+  "updatedAt": "2026-09-26T22:35:28.671Z",
   "deals": [
     {
       "id": "p:8834374881|i:26562435238|v:93536114273",
       "source": "coupang",
-      "name": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개, 350ml × 48개",
+      "name": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개",
       "price": 19090,
-      "listPrice": 47800,
-      "observedAt": "2026-09-26T22:20:57.516Z",
-      "url": "https://link.coupang.com/a/hm8O3fnMEC",
+      "listPrice": null,
+      "observedAt": "2026-09-26T22:30:56.087Z",
+      "url": "https://link.coupang.com/a/hm9xfmbVh6",
       "image": "assets/products/9945062924c06382e145.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "3회 가격 기록",
       "history": [
         {
           "price": 19090,
+          "observedAt": "2026-09-26T22:30:56.087Z"
+        },
+        {
+          "price": 19090,
+          "observedAt": "2026-09-26T22:30:52.304Z"
+        },
+        {
+          "price": 19090,
           "observedAt": "2026-09-26T22:20:57.516Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8888782843|i:25736437266|v:92724938461",
+      "source": "coupang",
+      "name": "바겐슈타이거 인덕션 IH 미니팟 양수냄비, 14cm, 혼합색상, 1개",
+      "price": 10370,
+      "listPrice": 14585,
+      "observedAt": "2026-09-26T22:28:17.986Z",
+      "url": "https://link.coupang.com/a/hm9lzFyd8C",
+      "image": "assets/products/071f3f2cf7ac52206ea3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10370,
+          "observedAt": "2026-09-26T22:28:17.986Z"
         }
       ]
     },
