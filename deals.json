@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T10:06:42.202Z",
+  "updatedAt": "2026-09-26T10:11:39.536Z",
   "deals": [
+    {
+      "id": "toss:p:178618335|n:익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+      "source": "toss",
+      "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+      "price": 11890,
+      "listPrice": 35000,
+      "observedAt": "2026-09-26T10:11:29.453Z",
+      "url": "https://toss.shopping/_m/tP3lViEk",
+      "image": "assets/products/a9906cd07cfda11cfd17.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11890,
+          "observedAt": "2026-09-26T10:11:29.453Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1985151433|n:이디야커피 스페셜 골드블렌드 리치크레마 커피믹스, 11g, 200개입, 1개",
       "source": "toss",
