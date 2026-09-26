@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-26T08:39:29.320Z",
+  "updatedAt": "2026-09-26T09:06:28.452Z",
   "deals": [
+    {
+      "id": "toss:p:132270599|n:푸드앳홈 냉동 생선까스, 1kg, 1팩",
+      "source": "toss",
+      "name": "푸드앳홈 냉동 생선까스, 1kg, 1팩",
+      "price": 7700,
+      "listPrice": null,
+      "observedAt": "2026-09-26T09:01:53.714Z",
+      "url": "https://toss.shopping/_m/5aQv0LSe",
+      "image": "assets/products/8e6b907f960ebda43a0c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7700,
+          "observedAt": "2026-09-26T09:01:53.714Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2649198561|n:가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
+      "source": "toss",
+      "name": "가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T09:00:33.095Z",
+      "url": "https://toss.shopping/_m/jNxc33sx",
+      "image": "assets/products/5183deb81f16bc49a437.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-26T09:00:33.095Z"
+        }
+      ]
+    },
     {
       "id": "p:8618102551|i:25094157596|v:92097823912",
       "source": "coupang",
