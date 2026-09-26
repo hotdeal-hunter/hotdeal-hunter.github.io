@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-26T13:14:30.133Z",
+  "updatedAt": "2026-09-26T22:10:13.147Z",
   "deals": [
+    {
+      "id": "p:7030965798|i:17351389402|v:84521724056",
+      "source": "coupang",
+      "name": "키즈웰 밀크 브레드 24p, 768g, 1개, 768g × 1개",
+      "price": 7780,
+      "listPrice": 13331,
+      "observedAt": "2026-09-26T22:05:33.958Z",
+      "url": "https://link.coupang.com/a/hm7IQROeB3",
+      "image": "assets/products/9f60ba012bef9a808e5b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7780,
+          "observedAt": "2026-09-26T22:05:33.958Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7234890895|i:18631933209|v:79330982955",
+      "source": "coupang",
+      "name": "어메이징오트 언스위트, 190ml, 24개",
+      "price": 10510,
+      "listPrice": 13510,
+      "observedAt": "2026-09-26T22:04:12.707Z",
+      "url": "https://link.coupang.com/a/hm7CQ1E8Zw",
+      "image": "assets/products/96797932b385eaf3c0f2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10510,
+          "observedAt": "2026-09-26T22:04:12.707Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2653247417|n:낫포유 남성용 발색립밤 압구정밤, 코랄, 4.8g, 1개",
       "source": "toss",
