@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-26T00:42:28.719Z",
+  "updatedAt": "2026-09-26T01:59:29.132Z",
   "deals": [
+    {
+      "id": "p:7493107191|i:19597292509|v:87090084593",
+      "source": "coupang",
+      "name": "아띠래빗 유아 논슬립 길이조절 옷걸이, 샌드베이지, 20개",
+      "price": 7900,
+      "listPrice": 10263,
+      "observedAt": "2026-09-26T01:53:55.578Z",
+      "url": "https://link.coupang.com/a/hlI8APVpK0",
+      "image": "assets/products/fe3b4db66f2acb0aeaa9.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-26T01:53:55.578Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-08-30T01:47:39.888Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "source": "toss",
+      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-26T00:46:06.861Z",
+      "url": "https://toss.im/_m/P84FeeS4",
+      "image": "assets/products/b34973f870709e2f0d21.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-26T00:46:06.861Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:23:20.865Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:20:57.968Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-21T05:19:35.171Z"
+        }
+      ]
+    },
     {
       "id": "p:8884723311|i:25934022210|v:91539399249",
       "source": "coupang",
@@ -3116,31 +3166,6 @@
         {
           "price": 15610,
           "observedAt": "2026-09-23T01:55:53.377Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "source": "toss",
-      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "price": 8330,
-      "listPrice": null,
-      "observedAt": "2026-09-23T01:23:20.865Z",
-      "url": "https://toss.im/_m/P84FeeS4",
-      "image": "assets/products/b34973f870709e2f0d21.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:23:20.865Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:20:57.968Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-21T05:19:35.171Z"
         }
       ]
     },
@@ -14840,23 +14865,6 @@
         {
           "price": 23800,
           "observedAt": "2026-08-28T06:57:10.069Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7493107191|i:19597292509|v:87090084593",
-      "source": "coupang",
-      "name": "아띠래빗 유아 논슬립 길이조절 옷걸이, 샌드베이지, 20개",
-      "price": 7900,
-      "listPrice": 16200,
-      "observedAt": "2026-08-30T01:47:39.888Z",
-      "url": "https://link.coupang.com/a/gCUhD2ZNca",
-      "image": "assets/products/fe3b4db66f2acb0aeaa9.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-08-30T01:47:39.888Z"
         }
       ]
     },
