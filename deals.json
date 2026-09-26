@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-26T01:59:29.132Z",
+  "updatedAt": "2026-09-26T02:07:57.042Z",
   "deals": [
+    {
+      "id": "p:6016665188|i:1089457190|v:84585470110",
+      "source": "coupang",
+      "name": "청우식품 쫀득초코칩, 240g, 5개",
+      "price": 9620,
+      "listPrice": 12989,
+      "observedAt": "2026-09-26T02:04:27.317Z",
+      "url": "https://link.coupang.com/a/hlJTfeXiXQ",
+      "image": "assets/products/e75f2ac1c785cd509c93.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9620,
+          "observedAt": "2026-09-26T02:04:27.317Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2653123937|n:프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+      "source": "toss",
+      "name": "프로프룻 국내산 햇배, 대과, 개별망포장, 5kg, 1박스",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-26T02:03:21.143Z",
+      "url": "https://toss.im/_m/FiJjtq3h",
+      "image": "assets/products/83ce4e130683ae6db3a3.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-26T02:03:21.143Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-26T02:01:57.289Z"
+        },
+        {
+          "price": 15800,
+          "observedAt": "2026-09-15T10:14:00.177Z"
+        }
+      ]
+    },
     {
       "id": "p:7493107191|i:19597292509|v:87090084593",
       "source": "coupang",
@@ -7184,23 +7226,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-15T10:46:36.244Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2653123937|n:햇배, 대과, 개별망포장, 5kg, 1박스",
-      "source": "toss",
-      "name": "햇배, 대과, 개별망포장, 5kg, 1박스",
-      "price": 15800,
-      "listPrice": null,
-      "observedAt": "2026-09-15T10:14:00.177Z",
-      "url": "https://toss.im/_m/FiJjtq3h",
-      "image": "assets/products/b4fbfc0970ad48cd3f5b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15800,
-          "observedAt": "2026-09-15T10:14:00.177Z"
         }
       ]
     },
