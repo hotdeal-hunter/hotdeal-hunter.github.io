@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-26T10:11:39.536Z",
+  "updatedAt": "2026-09-26T11:14:16.651Z",
   "deals": [
+    {
+      "id": "p:7110158461|i:17772503642|v:84936688334",
+      "source": "coupang",
+      "name": "바겐슈타이거 스텐 304 양면 도마, 혼합색상, 1개",
+      "price": 18860,
+      "listPrice": 28031,
+      "observedAt": "2026-09-26T11:08:16.078Z",
+      "url": "https://link.coupang.com/a/hmmKEaGNi0",
+      "image": "assets/products/5594220c537f75c3dc39.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18860,
+          "observedAt": "2026-09-26T11:08:16.078Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2649198561|n:가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
+      "source": "toss",
+      "name": "가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T11:01:23.244Z",
+      "url": "https://toss.shopping/_m/jNxc33sx",
+      "image": "assets/products/5183deb81f16bc49a437.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-26T11:01:23.244Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-09-26T09:00:33.095Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:178618335|n:익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
       "source": "toss",
@@ -115,23 +153,6 @@
         {
           "price": 7700,
           "observedAt": "2026-09-26T09:01:53.714Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2649198561|n:가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
-      "source": "toss",
-      "name": "가정용 샤인머스켓, 6-8수, 망고향, 3kg, 1개",
-      "price": 11900,
-      "listPrice": null,
-      "observedAt": "2026-09-26T09:00:33.095Z",
-      "url": "https://toss.shopping/_m/jNxc33sx",
-      "image": "assets/products/5183deb81f16bc49a437.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-09-26T09:00:33.095Z"
         }
       ]
     },
