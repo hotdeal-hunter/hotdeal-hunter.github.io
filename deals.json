@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T03:35:28.780Z",
+  "updatedAt": "2026-09-26T03:44:11.794Z",
   "deals": [
+    {
+      "id": "p:8321734081|i:17990858859|v:95195593632",
+      "source": "coupang",
+      "name": "닥터스 베스트 킬레이트 고흡수성 마그네슘 미네랄100mg, 240정, 3개",
+      "price": 55590,
+      "listPrice": 66958,
+      "observedAt": "2026-09-26T03:39:18.528Z",
+      "url": "https://link.coupang.com/a/hlQFuJr8eW",
+      "image": "assets/products/a5406f0bb7b800e8e87f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 55590,
+          "observedAt": "2026-09-26T03:39:18.528Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
       "source": "toss",
