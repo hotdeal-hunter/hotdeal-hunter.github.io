@@ -1,6 +1,362 @@
 {
-  "updatedAt": "2026-09-26T22:35:28.671Z",
+  "updatedAt": "2026-09-26T23:13:20.626Z",
   "deals": [
+    {
+      "id": "toss:p:1194983393|n:노르디쿡 ih 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
+      "source": "toss",
+      "name": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:08:42.460Z",
+      "url": "https://toss.im/_m/rdDiuHmw",
+      "image": "assets/products/c04321e4b2cd283ea7a1.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-26T23:08:42.460Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-26T23:00:18.380Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-25T23:00:31.345Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-24T23:01:10.084Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T23:05:22.753Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T23:01:39.129Z"
+        },
+        {
+          "price": 11100,
+          "observedAt": "2026-08-21T07:42:12.773Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9702276704|i:29024346338|v:81222380675",
+      "source": "coupang",
+      "name": "농심 신라면 10개 120g + 짜파게티 10개 140g 세트, 1세트",
+      "price": 13140,
+      "listPrice": 16850,
+      "observedAt": "2026-09-26T23:07:15.409Z",
+      "url": "https://link.coupang.com/a/hnb8a92ka4",
+      "image": "assets/products/5a0d8296953d932a4cc2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13140,
+          "observedAt": "2026-09-26T23:07:15.409Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "source": "toss",
+      "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
+      "price": 6490,
+      "listPrice": 28000,
+      "observedAt": "2026-09-26T23:02:34.722Z",
+      "url": "https://toss.im/_m/TeIxfZQf",
+      "image": "assets/products/47d14ec0d7ef6b4bcfcf.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6490,
+          "observedAt": "2026-09-26T23:02:34.722Z"
+        },
+        {
+          "price": 6490,
+          "observedAt": "2026-09-25T06:04:50.178Z"
+        },
+        {
+          "price": 6490,
+          "observedAt": "2026-09-25T06:03:40.973Z"
+        },
+        {
+          "price": 6490,
+          "observedAt": "2026-09-22T08:33:35.991Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": 30000,
+      "observedAt": "2026-09-26T23:02:34.608Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T23:02:34.608Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T23:00:18.541Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T03:34:51.230Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T03:34:51.134Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T23:01:12.353Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T12:54:50.229Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T07:42:47.996Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1992400491|n:에센스웨어 pd pps gan c타입 25w 초고속 충전기 c to c 60w 1m 케이블 세트, 화이트, 1세트",
+      "source": "toss",
+      "name": "에센스웨어 PD PPS GaN C타입 25W 초고속 충전기 C to C 60W 1M 케이블 세트, 화이트, 1세트",
+      "price": 3430,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:01:30.742Z",
+      "url": "https://toss.shopping/_m/xv7FGyrs",
+      "image": "assets/products/ce360d7b13085f2606bb.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 3430,
+          "observedAt": "2026-09-26T23:01:30.742Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-26T23:01:30.552Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-24T23:24:41.843Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-24T23:24:41.714Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-24T23:23:17.778Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "source": "toss",
+      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:00:18.461Z",
+      "url": "https://toss.im/_m/jRG6sksj",
+      "image": "assets/products/bc77e3a6b57560eff14f.png",
+      "insight": "18회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-26T23:00:18.461Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-25T23:00:31.430Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T23:01:10.169Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-24T03:20:12.096Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:05:22.842Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-23T23:01:39.216Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:16:32.701Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:04:54.169Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:04:54.016Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T23:01:05.849Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-22T07:16:44.547Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:13:46.419Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T23:01:12.091Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-21T00:16:27.916Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T01:29:14.698Z"
+        },
+        {
+          "price": 10800,
+          "observedAt": "2026-08-19T00:39:11.374Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T08:16:13.284Z"
+        },
+        {
+          "price": 9400,
+          "observedAt": "2026-08-18T05:58:19.506Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
+      "source": "toss",
+      "name": "호정가 우리쌀약과, 1kg, 1세트",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:00:18.279Z",
+      "url": "https://toss.im/_m/vv0QMhAd",
+      "image": "assets/products/6025ddd810b8dfabebf6.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T23:00:18.279Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-25T23:00:31.503Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:11:38.165Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:11:38.024Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:07:02.332Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:05:25.727Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:04:00.862Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:04:00.773Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T01:41:54.360Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T01:11:30.043Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "source": "toss",
+      "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:00:18.147Z",
+      "url": "https://toss.im/_m/pLNdrABC",
+      "image": "assets/products/57e14cfe40df7194a575.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T23:00:18.147Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-25T23:00:31.198Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-24T23:01:09.928Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-23T23:05:22.585Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-23T23:01:38.947Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-22T23:02:16.264Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-22T23:02:16.178Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T23:02:24.369Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T23:01:12.793Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-21T07:36:25.208Z"
+        }
+      ]
+    },
     {
       "id": "p:8834374881|i:26562435238|v:93536114273",
       "source": "coupang",
@@ -705,43 +1061,6 @@
       ]
     },
     {
-      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "source": "toss",
-      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-26T03:34:51.230Z",
-      "url": "https://toss.im/_m/tevYh07h",
-      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-26T03:34:51.230Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-26T03:34:51.134Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T23:01:12.353Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T12:54:50.229Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T07:42:47.996Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T06:36:05.468Z"
-        }
-      ]
-    },
-    {
       "id": "p:8382552974|i:24516783956|v:92419089407",
       "source": "coupang",
       "name": "일리 카페라떼 스틱 커피믹스, 8개입, 13.5g, 2개",
@@ -1174,169 +1493,6 @@
       ]
     },
     {
-      "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
-      "source": "toss",
-      "name": "호정가 우리쌀약과, 1kg, 1세트",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:00:31.503Z",
-      "url": "https://toss.im/_m/vv0QMhAd",
-      "image": "assets/products/6025ddd810b8dfabebf6.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-25T23:00:31.503Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:11:38.165Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:11:38.024Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:07:02.332Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:05:25.727Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:04:00.862Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:04:00.773Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T01:41:54.360Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T01:11:30.043Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:55063889|n:광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "source": "toss",
-      "name": "광천김 고소한 아몬드를 넣은 김자반, 40g, 10봉",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:00:31.430Z",
-      "url": "https://toss.im/_m/jRG6sksj",
-      "image": "assets/products/bc77e3a6b57560eff14f.png",
-      "insight": "17회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-25T23:00:31.430Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T23:01:10.169Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-24T03:20:12.096Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:05:22.842Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-23T23:01:39.216Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:16:32.701Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:04:54.169Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:04:54.016Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T23:01:05.849Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-22T07:16:44.547Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:13:46.419Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T23:01:12.091Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-21T00:16:27.916Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-01T01:29:14.698Z"
-        },
-        {
-          "price": 10800,
-          "observedAt": "2026-08-19T00:39:11.374Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T08:16:13.284Z"
-        },
-        {
-          "price": 9400,
-          "observedAt": "2026-08-18T05:58:19.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1194983393|n:노르디쿡 ih 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
-      "source": "toss",
-      "name": "노르디쿡 IH 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
-      "price": 8330,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:00:31.345Z",
-      "url": "https://toss.im/_m/rdDiuHmw",
-      "image": "assets/products/c04321e4b2cd283ea7a1.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-25T23:00:31.345Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-24T23:01:10.084Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T23:05:22.753Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T23:01:39.129Z"
-        },
-        {
-          "price": 11100,
-          "observedAt": "2026-08-21T07:42:12.773Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:2665148497|n:그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
       "source": "toss",
       "name": "그린올린 경기미, 2026년산, 상등급, 3kg, 1개",
@@ -1398,55 +1554,6 @@
         {
           "price": 8000,
           "observedAt": "2026-09-20T23:31:59.946Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:135010245|n:미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
-      "source": "toss",
-      "name": "미미네 오리지널 국물떡볶이, 오리지널, 570g, 4봉",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:00:31.198Z",
-      "url": "https://toss.im/_m/pLNdrABC",
-      "image": "assets/products/57e14cfe40df7194a575.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-25T23:00:31.198Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-24T23:01:09.928Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-23T23:05:22.585Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-23T23:01:38.947Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-22T23:02:16.264Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-22T23:02:16.178Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-21T23:02:24.369Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-21T23:01:12.793Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-21T07:36:25.208Z"
         }
       ]
     },
@@ -1950,31 +2057,6 @@
       ]
     },
     {
-      "id": "toss:p:2656615963|n:한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
-      "source": "toss",
-      "name": "한예지 클린터치 위생롤백, 중형, 25x35cm, 500매, 2팩",
-      "price": 6490,
-      "listPrice": null,
-      "observedAt": "2026-09-25T06:04:50.178Z",
-      "url": "https://toss.im/_m/TeIxfZQf",
-      "image": "assets/products/47d14ec0d7ef6b4bcfcf.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6490,
-          "observedAt": "2026-09-25T06:04:50.178Z"
-        },
-        {
-          "price": 6490,
-          "observedAt": "2026-09-25T06:03:40.973Z"
-        },
-        {
-          "price": 6490,
-          "observedAt": "2026-09-22T08:33:35.991Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:2653132393|n:한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
       "source": "toss",
       "name": "한예지 클린터치 위생백, 중형, 25x35cm, 100매, 3개",
@@ -2358,31 +2440,6 @@
         {
           "price": 5990,
           "observedAt": "2026-08-26T01:17:40.907Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1992400491|n:에센스웨어 pd pps gan c타입 25w 초고속 충전기 c to c 60w 1m 케이블 세트, 화이트, 1세트",
-      "source": "toss",
-      "name": "에센스웨어 PD PPS GaN C타입 25W 초고속 충전기 C to C 60W 1M 케이블 세트, 화이트, 1세트",
-      "price": 3430,
-      "listPrice": null,
-      "observedAt": "2026-09-24T23:24:41.843Z",
-      "url": "https://toss.shopping/_m/xv7FGyrs",
-      "image": "assets/products/ce360d7b13085f2606bb.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 3430,
-          "observedAt": "2026-09-24T23:24:41.843Z"
-        },
-        {
-          "price": 3430,
-          "observedAt": "2026-09-24T23:24:41.714Z"
-        },
-        {
-          "price": 3430,
-          "observedAt": "2026-09-24T23:23:17.778Z"
         }
       ]
     },
