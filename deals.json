@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T08:31:13.554Z",
+  "updatedAt": "2026-09-26T08:39:29.320Z",
   "deals": [
+    {
+      "id": "p:8618102551|i:25094157596|v:92097823912",
+      "source": "coupang",
+      "name": "친수 스위트 칠리소스, 295g, 2개",
+      "price": 2980,
+      "listPrice": 8000,
+      "observedAt": "2026-09-26T08:33:38.844Z",
+      "url": "https://link.coupang.com/a/hmbHANouvA",
+      "image": "assets/products/04b3a17b19cb64d20287.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2980,
+          "observedAt": "2026-09-26T08:33:38.844Z"
+        }
+      ]
+    },
     {
       "id": "p:7975533842|i:22107095268|v:85322267051",
       "source": "coupang",
