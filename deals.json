@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T23:21:42.989Z",
+  "updatedAt": "2026-09-26T23:37:02.833Z",
   "deals": [
+    {
+      "id": "toss:p:311454531|n:헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
+      "source": "toss",
+      "name": "헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:36:58.249Z",
+      "url": "https://toss.shopping/_m/b7Owbrnt",
+      "image": "assets/products/48d61a81d3884179df9d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T23:36:58.249Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
       "source": "toss",
