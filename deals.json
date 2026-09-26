@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T06:04:24.672Z",
+  "updatedAt": "2026-09-26T06:33:32.495Z",
   "deals": [
+    {
+      "id": "p:5220501375|i:20064500680|v:87160414594",
+      "source": "coupang",
+      "name": "리템 하이브 데스크오거나이저, 화이트, 2개",
+      "price": 8750,
+      "listPrice": 20500,
+      "observedAt": "2026-09-26T06:27:33.295Z",
+      "url": "https://link.coupang.com/a/hl2GVxhOLs",
+      "image": "assets/products/758083da8f69c75d64a3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8750,
+          "observedAt": "2026-09-26T06:27:33.295Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1315696129|n:농심 신라면, 120g, 20개",
       "source": "toss",
