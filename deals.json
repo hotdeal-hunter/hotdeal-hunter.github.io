@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T02:16:29.290Z",
+  "updatedAt": "2026-09-26T02:31:29.415Z",
   "deals": [
+    {
+      "id": "p:6667507282|i:15327936575|v:82548243631",
+      "source": "coupang",
+      "name": "프로월드컵 키즈 하프타임 축구화, blue, 210",
+      "price": 11130,
+      "listPrice": 15900,
+      "observedAt": "2026-09-26T02:25:51.266Z",
+      "url": "https://link.coupang.com/a/hlLp3PFtKe",
+      "image": "assets/products/ebd2879e4896f0aab8a8.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11130,
+          "observedAt": "2026-09-26T02:25:51.266Z"
+        }
+      ]
+    },
     {
       "id": "p:6016665188|i:1089457190|v:84585470110",
       "source": "coupang",
