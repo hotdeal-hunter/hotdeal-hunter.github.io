@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-09-26T23:13:20.626Z",
+  "updatedAt": "2026-09-26T23:21:42.989Z",
   "deals": [
+    {
+      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
+      "price": 5950,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:13:37.286Z",
+      "url": "https://toss.im/_m/P0Ennavs",
+      "image": "assets/products/b58e6e575fa11fc98721.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-09-26T23:13:37.286Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-26T23:13:37.113Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-26T12:10:56.583Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-25T23:22:49.589Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-25T23:00:30.898Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-23T01:55:59.192Z"
+        },
+        {
+          "price": 1488,
+          "observedAt": "2026-09-19T02:50:20.064Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-19T02:41:26.792Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2663111019|n:수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
+      "price": 4620,
+      "listPrice": null,
+      "observedAt": "2026-09-26T23:13:37.204Z",
+      "url": "https://toss.im/_m/znDmc6Ge",
+      "image": "assets/products/9b7ff4bd9cfbec15fbd2.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 4620,
+          "observedAt": "2026-09-26T23:13:37.204Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-26T23:13:37.032Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-25T23:22:49.498Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-25T23:00:30.831Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-14T23:21:26.283Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-14T23:00:31.014Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-14T07:28:31.092Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1194983393|n:노르디쿡 ih 무쇠팬 28cm, 1개 + 뒤집개, 1개, 1세트",
       "source": "toss",
@@ -481,43 +567,6 @@
         {
           "price": 10200,
           "observedAt": "2026-09-26T12:17:54.830Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
-      "price": 5950,
-      "listPrice": 39600,
-      "observedAt": "2026-09-26T12:10:56.583Z",
-      "url": "https://toss.im/_m/P0Ennavs",
-      "image": "assets/products/b58e6e575fa11fc98721.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 5950,
-          "observedAt": "2026-09-26T12:10:56.583Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-25T23:22:49.589Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-25T23:00:30.898Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-23T01:55:59.192Z"
-        },
-        {
-          "price": 1488,
-          "observedAt": "2026-09-19T02:50:20.064Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-19T02:41:26.792Z"
         }
       ]
     },
@@ -1411,39 +1460,6 @@
         {
           "price": 7000,
           "observedAt": "2026-09-19T01:10:50.869Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2663111019|n:수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 쉰내제거 딥클린 세탁세제, 코튼캔디, 2.5L, 4개",
-      "price": 4620,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:22:49.498Z",
-      "url": "https://toss.im/_m/znDmc6Ge",
-      "image": "assets/products/9b7ff4bd9cfbec15fbd2.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 4620,
-          "observedAt": "2026-09-25T23:22:49.498Z"
-        },
-        {
-          "price": 4620,
-          "observedAt": "2026-09-25T23:00:30.831Z"
-        },
-        {
-          "price": 4620,
-          "observedAt": "2026-09-14T23:21:26.283Z"
-        },
-        {
-          "price": 4620,
-          "observedAt": "2026-09-14T23:00:31.014Z"
-        },
-        {
-          "price": 4620,
-          "observedAt": "2026-09-14T07:28:31.092Z"
         }
       ]
     },
