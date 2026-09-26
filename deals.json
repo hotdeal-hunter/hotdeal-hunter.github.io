@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T12:29:29.213Z",
+  "updatedAt": "2026-09-26T13:14:30.133Z",
   "deals": [
+    {
+      "id": "toss:p:2653247417|n:낫포유 남성용 발색립밤 압구정밤, 코랄, 4.8g, 1개",
+      "source": "toss",
+      "name": "낫포유 남성용 발색립밤 압구정밤, 코랄, 4.8g, 1개",
+      "price": 3800,
+      "listPrice": null,
+      "observedAt": "2026-09-26T13:09:01.929Z",
+      "url": "https://toss.shopping/_m/t46dKz6l",
+      "image": "assets/products/51c2d941c2b17da5cdb5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3800,
+          "observedAt": "2026-09-26T13:09:01.929Z"
+        }
+      ]
+    },
     {
       "id": "p:8072147308|i:22727359162|v:86342058030",
       "source": "coupang",
