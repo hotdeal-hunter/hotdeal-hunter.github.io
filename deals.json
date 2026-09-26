@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-26T03:46:45.083Z",
+  "updatedAt": "2026-09-26T04:36:29.264Z",
   "deals": [
+    {
+      "id": "p:6568173877|i:14733344818|v:87612478192",
+      "source": "coupang",
+      "name": "에스앤비골든 카레 순한맛, 220g, 2개, 220g × 2개",
+      "price": 4980,
+      "listPrice": 6700,
+      "observedAt": "2026-09-26T04:34:13.901Z",
+      "url": "https://link.coupang.com/a/hlUAQC7AM8",
+      "image": "assets/products/d940ea9d573542663335.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4980,
+          "observedAt": "2026-09-26T04:34:13.901Z"
+        },
+        {
+          "price": 4980,
+          "observedAt": "2026-09-24T06:51:24.911Z"
+        },
+        {
+          "price": 4980,
+          "observedAt": "2026-09-24T06:38:06.633Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:827994525|n:전라도식 알타리 총각김치, 2kg, 1박스",
+      "source": "toss",
+      "name": "전라도식 알타리 총각김치, 2kg, 1박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T04:31:58.544Z",
+      "url": "https://toss.im/_m/tgUYSune",
+      "image": "assets/products/d352befd6322c1fd8b74.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T04:31:58.544Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T04:30:37.050Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-25T11:06:49.835Z"
+        }
+      ]
+    },
     {
       "id": "p:8321734081|i:17990858859|v:95195593632",
       "source": "coupang",
@@ -2335,27 +2385,6 @@
         {
           "price": 4980,
           "observedAt": "2026-09-24T06:38:06.852Z"
-        }
-      ]
-    },
-    {
-      "id": "p:6568173877|i:14733344818|v:87612478192",
-      "source": "coupang",
-      "name": "에스앤비골든 카레 순한맛, 220g, 2개",
-      "price": 4980,
-      "listPrice": null,
-      "observedAt": "2026-09-24T06:51:24.911Z",
-      "url": "https://link.coupang.com/a/hiKAyXV1iK",
-      "image": "assets/products/d940ea9d573542663335.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4980,
-          "observedAt": "2026-09-24T06:51:24.911Z"
-        },
-        {
-          "price": 4980,
-          "observedAt": "2026-09-24T06:38:06.633Z"
         }
       ]
     },
@@ -18099,23 +18128,6 @@
         {
           "price": 9820,
           "observedAt": "2026-08-25T11:18:47.176Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:827994525|n:별미촌 알타리 총각김치, 2kg, 1박스",
-      "source": "toss",
-      "name": "별미촌 알타리 총각김치, 2kg, 1박스",
-      "price": 9900,
-      "listPrice": 18900,
-      "observedAt": "2026-08-25T11:06:49.835Z",
-      "url": "https://toss.im/_m/tgUYSune",
-      "image": "assets/products/3bf0cc468458bf70fb7a.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-25T11:06:49.835Z"
         }
       ]
     },
