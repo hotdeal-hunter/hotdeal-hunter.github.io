@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-26T03:00:28.405Z",
+  "updatedAt": "2026-09-26T03:18:09.635Z",
   "deals": [
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 7400,
+      "listPrice": 20000,
+      "observedAt": "2026-09-26T03:14:39.720Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-26T03:14:39.720Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-22T23:01:06.152Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.628Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.539Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T06:47:15.452Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:02:53.879Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:01:44.315Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120338941|n:채선당 굴림만두전골, 790g, 2개",
+      "source": "toss",
+      "name": "채선당 굴림만두전골, 790g, 2개",
+      "price": 21900,
+      "listPrice": null,
+      "observedAt": "2026-09-26T03:12:15.194Z",
+      "url": "https://toss.shopping/_m/PMTqG2Ff",
+      "image": "assets/products/016a908e11f2410f4b52.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-09-26T03:12:15.194Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665137575|n:nucle 팅글탱글 pd 20w 고속 충전기 + 60w c to c 초고속 케이블, 오렌지, 1m, 1세트",
       "source": "toss",
@@ -3397,51 +3463,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-22T23:18:53.525Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 7400,
-      "listPrice": null,
-      "observedAt": "2026-09-22T23:01:06.152Z",
-      "url": "https://toss.im/_m/FfYhvmlm",
-      "image": "assets/products/0aec288a2657b25b3611.jpg",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-22T23:01:06.152Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-20T11:11:52.628Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-20T11:11:52.539Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T06:47:15.452Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:02:53.879Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:01:44.315Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.637Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.313Z"
         }
       ]
     },
