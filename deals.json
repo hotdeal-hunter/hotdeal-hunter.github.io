@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-26T03:18:09.635Z",
+  "updatedAt": "2026-09-26T03:35:28.780Z",
   "deals": [
+    {
+      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "source": "toss",
+      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-26T03:34:51.230Z",
+      "url": "https://toss.im/_m/tevYh07h",
+      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T03:34:51.230Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T03:34:51.134Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T23:01:12.353Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T12:54:50.229Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T07:42:47.996Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T06:36:05.468Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8382552974|i:24516783956|v:92419089407",
+      "source": "coupang",
+      "name": "일리 카페라떼 스틱 커피믹스, 8개입, 13.5g, 2개",
+      "price": 7280,
+      "listPrice": null,
+      "observedAt": "2026-09-26T03:30:02.098Z",
+      "url": "https://link.coupang.com/a/hlP0pFMuMC",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7280,
+          "observedAt": "2026-09-26T03:30:02.098Z"
+        },
+        {
+          "price": 7280,
+          "observedAt": "2026-09-26T03:29:58.239Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
@@ -4228,35 +4286,6 @@
         {
           "price": 9780,
           "observedAt": "2026-09-21T23:57:40.093Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "source": "toss",
-      "name": "일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T23:01:12.353Z",
-      "url": "https://toss.im/_m/tevYh07h",
-      "image": "assets/products/932ecb9ccc2cbdde8403.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T23:01:12.353Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T12:54:50.229Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T07:42:47.996Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T06:36:05.468Z"
         }
       ]
     },
