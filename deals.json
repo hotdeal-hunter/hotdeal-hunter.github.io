@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T12:18:04.763Z",
+  "updatedAt": "2026-09-26T12:29:29.213Z",
   "deals": [
+    {
+      "id": "p:8072147308|i:22727359162|v:86342058030",
+      "source": "coupang",
+      "name": "미미네 오리지널 국물떡볶이 (밀떡) (냉동), 570g, 4개, 570g × 4개",
+      "price": 13420,
+      "listPrice": 20960,
+      "observedAt": "2026-09-26T12:23:57.908Z",
+      "url": "https://link.coupang.com/a/hmr923V4P6",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13420,
+          "observedAt": "2026-09-26T12:23:57.908Z"
+        }
+      ]
+    },
     {
       "id": "p:538043|i:20934646414|v:5218737748",
       "source": "coupang",
