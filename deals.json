@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T02:31:29.415Z",
+  "updatedAt": "2026-09-26T03:00:28.405Z",
   "deals": [
+    {
+      "id": "toss:p:2665137575|n:nucle 팅글탱글 pd 20w 고속 충전기 + 60w c to c 초고속 케이블, 오렌지, 1m, 1세트",
+      "source": "toss",
+      "name": "Nucle 팅글탱글 PD 20W 고속 충전기 + 60W C to C 초고속 케이블, 오렌지, 1m, 1세트",
+      "price": 6900,
+      "listPrice": 29900,
+      "observedAt": "2026-09-26T02:54:39.432Z",
+      "url": "https://toss.shopping/_m/tnzua2WA",
+      "image": "assets/products/d75da78bf18037d4ec53.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-26T02:54:39.432Z"
+        }
+      ]
+    },
     {
       "id": "p:6667507282|i:15327936575|v:82548243631",
       "source": "coupang",
