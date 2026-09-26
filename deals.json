@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T11:14:16.651Z",
+  "updatedAt": "2026-09-26T11:40:07.291Z",
   "deals": [
+    {
+      "id": "toss:p:1013827523|n:큰나무 이탈리아 엠머밀 파로, 1kg, 2개",
+      "source": "toss",
+      "name": "큰나무 이탈리아 엠머밀 파로, 1kg, 2개",
+      "price": 13900,
+      "listPrice": 60000,
+      "observedAt": "2026-09-26T11:34:07.253Z",
+      "url": "https://toss.shopping/_m/RLuPbK66",
+      "image": "assets/products/72723baff2c2f5de1840.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-26T11:34:07.253Z"
+        }
+      ]
+    },
     {
       "id": "p:7110158461|i:17772503642|v:84936688334",
       "source": "coupang",
