@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-26T12:10:42.946Z",
+  "updatedAt": "2026-09-26T12:18:04.763Z",
   "deals": [
+    {
+      "id": "p:538043|i:20934646414|v:5218737748",
+      "source": "coupang",
+      "name": "소낙스 더 뷰 에탄올 워셔액, 2L, 2개",
+      "price": 10200,
+      "listPrice": 11982,
+      "observedAt": "2026-09-26T12:17:54.830Z",
+      "url": "https://link.coupang.com/a/hmrJd9pehg",
+      "image": "assets/products/18ca8a11826f9053e2be.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10200,
+          "observedAt": "2026-09-26T12:17:54.830Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
+      "price": 5950,
+      "listPrice": 39600,
+      "observedAt": "2026-09-26T12:10:56.583Z",
+      "url": "https://toss.im/_m/P0Ennavs",
+      "image": "assets/products/b58e6e575fa11fc98721.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-09-26T12:10:56.583Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-25T23:22:49.589Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-25T23:00:30.898Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-23T01:55:59.192Z"
+        },
+        {
+          "price": 1488,
+          "observedAt": "2026-09-19T02:50:20.064Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-09-19T02:41:26.792Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2656659211|n:슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
       "source": "toss",
@@ -928,39 +982,6 @@
         {
           "price": 7000,
           "observedAt": "2026-09-19T01:10:50.869Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2669711247|n:수뜰리에 고농축 주방세제, 레몬버베너향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 고농축 주방세제, 레몬버베너향, 2.5L, 4개",
-      "price": 5950,
-      "listPrice": null,
-      "observedAt": "2026-09-25T23:22:49.589Z",
-      "url": "https://toss.im/_m/P0Ennavs",
-      "image": "assets/products/b58e6e575fa11fc98721.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 5950,
-          "observedAt": "2026-09-25T23:22:49.589Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-25T23:00:30.898Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-23T01:55:59.192Z"
-        },
-        {
-          "price": 1488,
-          "observedAt": "2026-09-19T02:50:20.064Z"
-        },
-        {
-          "price": 5950,
-          "observedAt": "2026-09-19T02:41:26.792Z"
         }
       ]
     },
