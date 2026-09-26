@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-26T22:18:28.530Z",
+  "updatedAt": "2026-09-26T22:26:57.461Z",
   "deals": [
+    {
+      "id": "p:8834374881|i:26562435238|v:93536114273",
+      "source": "coupang",
+      "name": "슈가로로 애사비 스파클링 파인애플, 350ml, 48개, 350ml × 48개",
+      "price": 19090,
+      "listPrice": 47800,
+      "observedAt": "2026-09-26T22:20:57.516Z",
+      "url": "https://link.coupang.com/a/hm8O3fnMEC",
+      "image": "assets/products/9945062924c06382e145.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19090,
+          "observedAt": "2026-09-26T22:20:57.516Z"
+        }
+      ]
+    },
     {
       "id": "p:7030965798|i:17351389402|v:84521724056",
       "source": "coupang",
