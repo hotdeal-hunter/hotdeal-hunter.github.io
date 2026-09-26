@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-26T09:15:01.043Z",
+  "updatedAt": "2026-09-26T09:57:05.963Z",
   "deals": [
+    {
+      "id": "p:8464788459|i:24490724304|v:92788092654",
+      "source": "coupang",
+      "name": "허브앤리빙 홈 디퓨저, 밤쉘, 520ml, 2개",
+      "price": 15080,
+      "listPrice": 17817,
+      "observedAt": "2026-09-26T09:51:05.928Z",
+      "url": "https://link.coupang.com/a/hmheKrzFrE",
+      "image": "assets/products/965d692124ac4b096ffb.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15080,
+          "observedAt": "2026-09-26T09:51:05.928Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
+      "source": "toss",
+      "name": "한우 사골 도가니탕, 500g, 5팩",
+      "price": 8990,
+      "listPrice": 19000,
+      "observedAt": "2026-09-26T09:33:44.851Z",
+      "url": "https://toss.im/_m/vjQb5olm",
+      "image": "assets/products/00ee6ceac2c77c4531a9.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-09-26T09:33:44.851Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-21T23:01:11.969Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-20T23:08:23.652Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-19T23:00:53.937Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-19T02:45:39.728Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T23:00:42.241Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T03:13:31.372Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-09-18T02:10:46.178Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:132270599|n:푸드앳홈 냉동 생선까스, 1kg, 1팩",
       "source": "toss",
@@ -4596,47 +4658,6 @@
         {
           "price": 9780,
           "observedAt": "2026-09-21T23:57:40.093Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
-      "source": "toss",
-      "name": "한우 사골 도가니탕, 500g, 5팩",
-      "price": 8990,
-      "listPrice": null,
-      "observedAt": "2026-09-21T23:01:11.969Z",
-      "url": "https://toss.im/_m/vjQb5olm",
-      "image": "assets/products/00ee6ceac2c77c4531a9.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 8990,
-          "observedAt": "2026-09-21T23:01:11.969Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-20T23:08:23.652Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-19T23:00:53.937Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-19T02:45:39.728Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T23:00:42.241Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T03:13:31.372Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-09-18T02:10:46.178Z"
         }
       ]
     },
