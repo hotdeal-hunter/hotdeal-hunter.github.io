@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-27T00:47:20.621Z",
+  "updatedAt": "2026-09-27T01:01:34.511Z",
   "deals": [
+    {
+      "id": "p:9536213705|i:22524815698|v:91575579364",
+      "source": "coupang",
+      "name": "믈레코비타 3.5퍼센트 멸균우유, 1L, 12개",
+      "price": 19800,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:01:30.187Z",
+      "url": "https://link.coupang.com/a/hnkil7gkxM",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19800,
+          "observedAt": "2026-09-27T01:01:30.187Z"
+        },
+        {
+          "price": 19800,
+          "observedAt": "2026-09-27T01:01:26.613Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
       "source": "toss",
