@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T23:02:25.053Z",
+  "updatedAt": "2026-09-27T23:05:03.015Z",
   "deals": [
+    {
+      "id": "p:9454421878|i:27003751039|v:89676367991",
+      "source": "coupang",
+      "name": "락앤락 인디고 글라스, 6개, 320ml",
+      "price": 8690,
+      "listPrice": 19500,
+      "observedAt": "2026-09-27T23:02:39.225Z",
+      "url": "https://link.coupang.com/a/hoQHPFj27w",
+      "image": "assets/products/f442aaa13a0e037ea63b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8690,
+          "observedAt": "2026-09-27T23:02:39.225Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637387849|n:일양약품 우리가족 멀티비타민, 사과맛, 60개, 2개",
       "source": "toss",
