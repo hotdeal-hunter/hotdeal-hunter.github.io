@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T06:06:29.276Z",
+  "updatedAt": "2026-09-27T06:35:29.535Z",
   "deals": [
+    {
+      "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
+      "source": "toss",
+      "name": "해표 순알콩 양조간장, 840ml, 4개",
+      "price": 7300,
+      "listPrice": 34000,
+      "observedAt": "2026-09-27T06:29:52.112Z",
+      "url": "https://toss.im/_m/j7q5s78s",
+      "image": "assets/products/1487860b7418b7059833.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7300,
+          "observedAt": "2026-09-27T06:29:52.112Z"
+        },
+        {
+          "price": 7300,
+          "observedAt": "2026-09-14T10:24:49.881Z"
+        },
+        {
+          "price": 7300,
+          "observedAt": "2026-09-14T08:38:28.946Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
@@ -8659,27 +8684,6 @@
         {
           "price": 27900,
           "observedAt": "2026-08-26T01:05:37.397Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
-      "source": "toss",
-      "name": "해표 순알콩 양조간장, 840ml, 4개",
-      "price": 7300,
-      "listPrice": null,
-      "observedAt": "2026-09-14T10:24:49.881Z",
-      "url": "https://toss.im/_m/j7q5s78s",
-      "image": "assets/products/1487860b7418b7059833.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7300,
-          "observedAt": "2026-09-14T10:24:49.881Z"
-        },
-        {
-          "price": 7300,
-          "observedAt": "2026-09-14T08:38:28.946Z"
         }
       ]
     },
