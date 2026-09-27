@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T11:39:47.233Z",
+  "updatedAt": "2026-09-27T12:11:29.108Z",
   "deals": [
+    {
+      "id": "p:161772702|i:329029103|v:3806948177",
+      "source": "coupang",
+      "name": "조아캠프 마운트침낭 후드 + 수납가방 세트, 카키, 1개",
+      "price": 10740,
+      "listPrice": 17783,
+      "observedAt": "2026-09-27T12:05:42.100Z",
+      "url": "https://link.coupang.com/a/hn5K9jyzdY",
+      "image": "assets/products/a7e039bdda03a7010865.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10740,
+          "observedAt": "2026-09-27T12:05:42.100Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:112061285|n:맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
       "source": "toss",
