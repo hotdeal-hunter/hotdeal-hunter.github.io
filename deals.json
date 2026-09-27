@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T03:20:28.923Z",
+  "updatedAt": "2026-09-27T03:32:29.043Z",
   "deals": [
+    {
+      "id": "p:9528381425|i:28694389124|v:95635633065",
+      "source": "coupang",
+      "name": "CJ제일제당 습 나쵸콤보 + 치폴레 소스 세트, 93g, 1세트",
+      "price": 1920,
+      "listPrice": 3000,
+      "observedAt": "2026-09-27T03:26:29.588Z",
+      "url": "https://link.coupang.com/a/hnuEKBKaom",
+      "image": "assets/products/3768902447cbd0eb4e58.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1920,
+          "observedAt": "2026-09-27T03:26:29.588Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
       "source": "toss",
