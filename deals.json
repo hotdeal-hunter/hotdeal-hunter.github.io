@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T11:20:18.615Z",
+  "updatedAt": "2026-09-27T11:37:13.382Z",
   "deals": [
+    {
+      "id": "toss:p:81997867|n:레이데이 비타민c 에너지 앰플, 13ml, 5개",
+      "source": "toss",
+      "name": "레이데이 비타민C 에너지 앰플, 13ml, 5개",
+      "price": 8450,
+      "listPrice": null,
+      "observedAt": "2026-09-27T11:31:00.464Z",
+      "url": "https://toss.shopping/_m/JasY9Z1l",
+      "image": "assets/products/21f0fdac81e57843eb63.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8450,
+          "observedAt": "2026-09-27T11:31:00.464Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
       "source": "toss",
