@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T09:59:18.476Z",
+  "updatedAt": "2026-09-27T10:36:29.303Z",
   "deals": [
+    {
+      "id": "toss:p:2673719857|n:더빠삭 오리지널 순살치킨 대용량, 1kg, 1개",
+      "source": "toss",
+      "name": "더빠삭 오리지널 순살치킨 대용량, 1kg, 1개",
+      "price": 13600,
+      "listPrice": null,
+      "observedAt": "2026-09-27T10:30:53.642Z",
+      "url": "https://toss.shopping/_m/D5JODCM",
+      "image": "assets/products/c3af1ccd905a59a89cbd.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13600,
+          "observedAt": "2026-09-27T10:30:53.642Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:162558055|n:쥬비스가 만든 카테킨 450mg, 60정, 3박스",
       "source": "toss",
