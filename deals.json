@@ -1,6 +1,55 @@
 {
-  "updatedAt": "2026-09-27T11:10:28.587Z",
+  "updatedAt": "2026-09-27T11:20:18.615Z",
   "deals": [
+    {
+      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
+      "source": "toss",
+      "name": "한돈 스테이크, 600g, 1팩",
+      "price": 8900,
+      "listPrice": 22000,
+      "observedAt": "2026-09-27T11:14:11.905Z",
+      "url": "https://toss.im/_m/zJJcTll3",
+      "image": "assets/products/350bffb92c5b7c7806b6.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T11:14:11.905Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-17T12:04:25.372Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.883Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.741Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.759Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.598Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T23:00:18.417Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T05:09:35.902Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T04:54:09.707Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2674360725|n:포켓몬카드 30th 셀러브레이션 카드, 랜덤 수록, 6장, 1팩",
       "source": "toss",
@@ -7556,51 +7605,6 @@
         {
           "price": 26900,
           "observedAt": "2026-09-17T12:17:49.434Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
-      "source": "toss",
-      "name": "한돈 스테이크, 600g, 1팩",
-      "price": 5900,
-      "listPrice": null,
-      "observedAt": "2026-09-17T12:04:25.372Z",
-      "url": "https://toss.im/_m/zJJcTll3",
-      "image": "assets/products/350bffb92c5b7c7806b6.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 5900,
-          "observedAt": "2026-09-17T12:04:25.372Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.883Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.741Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.759Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.598Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T23:00:18.417Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T05:09:35.902Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T04:54:09.707Z"
         }
       ]
     },
