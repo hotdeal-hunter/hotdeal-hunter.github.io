@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-27T01:18:15.509Z",
+  "updatedAt": "2026-09-27T01:30:30.095Z",
   "deals": [
+    {
+      "id": "p:9511470201|i:28344293692|v:95296497853",
+      "source": "coupang",
+      "name": "동화약품 소다활 제로 탄산음료 매실맛, 500ml, 24개",
+      "price": 11880,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:25:51.568Z",
+      "url": "https://link.coupang.com/a/hnl2gLtF36",
+      "image": "assets/products/22f25741a64b20191bf5.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11880,
+          "observedAt": "2026-09-27T01:25:51.568Z"
+        },
+        {
+          "price": 11880,
+          "observedAt": "2026-09-27T01:25:47.744Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9736121001|i:29137505138|v:95329792928",
+      "source": "coupang",
+      "name": "샤오커오라 비타팝스캔디 12가지맛 믹스, 500g, 1개, 500g × 1개",
+      "price": 9000,
+      "listPrice": 14223,
+      "observedAt": "2026-09-27T01:24:19.781Z",
+      "url": "https://link.coupang.com/a/hnlVuIvX1U",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9000,
+          "observedAt": "2026-09-27T01:24:19.781Z"
+        }
+      ]
+    },
     {
       "id": "p:7030965798|i:17351389402|v:84521724056",
       "source": "coupang",
