@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T04:47:31.971Z",
+  "updatedAt": "2026-09-27T05:22:35.151Z",
   "deals": [
+    {
+      "id": "p:6717918150|i:15617540650|v:82835358724",
+      "source": "coupang",
+      "name": "신지모루 갤럭시 아이폰 맥세이프 M 에어클로 베이직 마그네틱 휴대폰 케이스, 아이폰 XS MAX",
+      "price": 7900,
+      "listPrice": 11900,
+      "observedAt": "2026-09-27T05:22:24.874Z",
+      "url": "https://link.coupang.com/a/hnCWmgKGKi",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-27T05:22:24.874Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2245080951|n:메르헨트 퍼퓸 바디로션, 호텔 딥 우드향, 1000ml, 2개",
       "source": "toss",
