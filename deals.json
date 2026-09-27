@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T10:46:29.488Z",
+  "updatedAt": "2026-09-27T10:55:02.680Z",
   "deals": [
+    {
+      "id": "toss:p:2669828037|n:포켓몬 카드 tcg 메가 확장팩, 30th celebration, 1팩",
+      "source": "toss",
+      "name": "포켓몬 카드 TCG 메가 확장팩, 30th CELEBRATION, 1팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T10:49:05.907Z",
+      "url": "https://toss.shopping/_m/VA9AuYKu",
+      "image": "assets/products/2a98a6d3b8b47e17b9db.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-27T10:49:05.907Z"
+        }
+      ]
+    },
     {
       "id": "p:5385077983|i:8015320702|v:75304078235",
       "source": "coupang",
