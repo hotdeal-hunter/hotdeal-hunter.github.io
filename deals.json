@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-27T03:32:29.043Z",
+  "updatedAt": "2026-09-27T04:29:29.455Z",
   "deals": [
+    {
+      "id": "p:7710644779|i:25099577352|v:94483427546",
+      "source": "coupang",
+      "name": "닥터유 단백질칩 버터구이오징어맛, 60g, 24개, 60g × 24개",
+      "price": 20990,
+      "listPrice": 26570,
+      "observedAt": "2026-09-27T04:23:33.620Z",
+      "url": "https://link.coupang.com/a/hnyJCiDzOu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20990,
+          "observedAt": "2026-09-27T04:23:33.620Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656659211|n:슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
+      "source": "toss",
+      "name": "슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T04:21:18.954Z",
+      "url": "https://toss.shopping/_m/vElRFs6w",
+      "image": "assets/products/d5765acdcfe98fcdf997.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T04:21:18.954Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-26T12:04:37.013Z"
+        }
+      ]
+    },
     {
       "id": "p:9528381425|i:28694389124|v:95635633065",
       "source": "coupang",
@@ -886,23 +924,6 @@
         {
           "price": 10200,
           "observedAt": "2026-09-26T12:17:54.830Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2656659211|n:슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
-      "source": "toss",
-      "name": "슈베스 위드코튼 유기농 순면커버 생리대, 오버나이트, 8개입, 8팩",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-26T12:04:37.013Z",
-      "url": "https://toss.shopping/_m/vElRFs6w",
-      "image": "assets/products/d5765acdcfe98fcdf997.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-26T12:04:37.013Z"
         }
       ]
     },
