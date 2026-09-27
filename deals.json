@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T01:30:30.095Z",
+  "updatedAt": "2026-09-27T01:39:08.616Z",
   "deals": [
+    {
+      "id": "p:6121527|i:26003655647|v:95980204798",
+      "source": "coupang",
+      "name": "더페이스샵 보들보들 때필링, 300ml, 2개",
+      "price": 10800,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:35:39.947Z",
+      "url": "https://link.coupang.com/a/hnmJICarNk",
+      "image": "assets/products/9f7a018161489e3f0c8a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10800,
+          "observedAt": "2026-09-27T01:35:39.947Z"
+        }
+      ]
+    },
     {
       "id": "p:9511470201|i:28344293692|v:95296497853",
       "source": "coupang",
