@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-27T07:42:00.290Z",
+  "updatedAt": "2026-09-27T08:29:29.416Z",
   "deals": [
+    {
+      "id": "toss:p:80754669|n:일동후디스 하이뮨 프로틴밸런스 액티브 딸기, 250ml, 18개",
+      "source": "toss",
+      "name": "일동후디스 하이뮨 프로틴밸런스 액티브 딸기, 250ml, 18개",
+      "price": 21912,
+      "listPrice": null,
+      "observedAt": "2026-09-27T08:23:54.278Z",
+      "url": "https://toss.im/_m/bryLn1Vq",
+      "image": "assets/products/5af01702370b02099e29.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 21912,
+          "observedAt": "2026-09-27T08:23:54.278Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-13T23:51:04.240Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:178618335|n:익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+      "source": "toss",
+      "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T08:13:27.300Z",
+      "url": "https://toss.shopping/_m/tP3lViEk",
+      "image": "assets/products/a9906cd07cfda11cfd17.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-27T08:13:27.300Z"
+        },
+        {
+          "price": 11890,
+          "observedAt": "2026-09-26T10:11:29.453Z"
+        }
+      ]
+    },
     {
       "id": "p:8609013279|i:25050832627|v:3034627820",
       "source": "coupang",
@@ -64,7 +106,7 @@
       "listPrice": 7336,
       "observedAt": "2026-09-27T06:55:33.373Z",
       "url": "https://link.coupang.com/a/hnJA1B97O8",
-      "image": null,
+      "image": "assets/products/aff75d5f734a543abdba.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1234,23 +1276,6 @@
         {
           "price": 11900,
           "observedAt": "2026-09-26T09:00:33.095Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:178618335|n:익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
-      "source": "toss",
-      "name": "익스트림 단백질 20g 슬림쉐이크, 더블초코, 45g, 7포, 1세트",
-      "price": 11890,
-      "listPrice": 35000,
-      "observedAt": "2026-09-26T10:11:29.453Z",
-      "url": "https://toss.shopping/_m/tP3lViEk",
-      "image": "assets/products/a9906cd07cfda11cfd17.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11890,
-          "observedAt": "2026-09-26T10:11:29.453Z"
         }
       ]
     },
@@ -8878,23 +8903,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-14T05:54:15.022Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:80754669|n:일동후디스 하이뮨 프로틴밸런스 액티브 딸기, 250ml, 18개",
-      "source": "toss",
-      "name": "일동후디스 하이뮨 프로틴밸런스 액티브 딸기, 250ml, 18개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:51:04.240Z",
-      "url": "https://toss.im/_m/bryLn1Vq",
-      "image": "assets/products/5af01702370b02099e29.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-13T23:51:04.240Z"
         }
       ]
     },
