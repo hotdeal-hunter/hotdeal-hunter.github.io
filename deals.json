@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T01:56:14.613Z",
+  "updatedAt": "2026-09-27T02:08:12.392Z",
   "deals": [
+    {
+      "id": "p:9513656158|i:28352624734|v:95304734037",
+      "source": "coupang",
+      "name": "활명수 편안활 스트롱 까스활 농축액, 15g, 24개, 15g × 24개",
+      "price": 10780,
+      "listPrice": 15400,
+      "observedAt": "2026-09-27T02:08:02.376Z",
+      "url": "https://link.coupang.com/a/hno29Mt1Fc",
+      "image": "assets/products/8a0c78c0035205357cb9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10780,
+          "observedAt": "2026-09-27T02:08:02.376Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654309301|n:제주 극조생 감귤, 대과, 5kg, 1박스",
       "source": "toss",
