@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-27T01:09:29.181Z",
+  "updatedAt": "2026-09-27T01:18:15.509Z",
   "deals": [
+    {
+      "id": "p:7030965798|i:17351389402|v:84521724056",
+      "source": "coupang",
+      "name": "키즈웰 밀크 브레드 24p, 768g, 1개",
+      "price": 7780,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:15:56.586Z",
+      "url": "https://link.coupang.com/a/hnlkkQfCEu",
+      "image": "assets/products/9f60ba012bef9a808e5b.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7780,
+          "observedAt": "2026-09-27T01:15:56.586Z"
+        },
+        {
+          "price": 7780,
+          "observedAt": "2026-09-27T01:15:52.850Z"
+        },
+        {
+          "price": 7780,
+          "observedAt": "2026-09-26T22:05:33.958Z"
+        }
+      ]
+    },
     {
       "id": "p:8379829212|i:24214993428|v:91232348637",
       "source": "coupang",
@@ -629,23 +654,6 @@
         {
           "price": 10370,
           "observedAt": "2026-09-26T22:28:17.986Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7030965798|i:17351389402|v:84521724056",
-      "source": "coupang",
-      "name": "키즈웰 밀크 브레드 24p, 768g, 1개, 768g × 1개",
-      "price": 7780,
-      "listPrice": 13331,
-      "observedAt": "2026-09-26T22:05:33.958Z",
-      "url": "https://link.coupang.com/a/hm7IQROeB3",
-      "image": "assets/products/9f60ba012bef9a808e5b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7780,
-          "observedAt": "2026-09-26T22:05:33.958Z"
         }
       ]
     },
