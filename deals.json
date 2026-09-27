@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-27T04:29:29.455Z",
+  "updatedAt": "2026-09-27T04:47:31.971Z",
   "deals": [
+    {
+      "id": "toss:p:2245080951|n:메르헨트 퍼퓸 바디로션, 호텔 딥 우드향, 1000ml, 2개",
+      "source": "toss",
+      "name": "메르헨트 퍼퓸 바디로션, 호텔 딥 우드향, 1000ml, 2개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T04:42:41.206Z",
+      "url": "https://toss.shopping/_m/LwK8NGQy",
+      "image": "assets/products/ffc722a645f3add9017c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T04:42:41.206Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T04:41:19.836Z"
+        }
+      ]
+    },
     {
       "id": "p:7710644779|i:25099577352|v:94483427546",
       "source": "coupang",
