@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T08:29:29.416Z",
+  "updatedAt": "2026-09-27T08:51:29.562Z",
   "deals": [
+    {
+      "id": "p:9711973763|i:23804197823|v:85574305199",
+      "source": "coupang",
+      "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
+      "price": 7950,
+      "listPrice": 10380,
+      "observedAt": "2026-09-27T08:45:57.604Z",
+      "url": "https://link.coupang.com/a/hnRubaKWiq",
+      "image": "assets/products/f75ddd1599cff367c64f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7950,
+          "observedAt": "2026-09-27T08:45:57.604Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80754669|n:일동후디스 하이뮨 프로틴밸런스 액티브 딸기, 250ml, 18개",
       "source": "toss",
@@ -268,7 +285,7 @@
       "listPrice": 11900,
       "observedAt": "2026-09-27T05:22:24.874Z",
       "url": "https://link.coupang.com/a/hnCWmgKGKi",
-      "image": null,
+      "image": "assets/products/90ed2e014692e1297164.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -306,7 +323,7 @@
       "listPrice": 26570,
       "observedAt": "2026-09-27T04:23:33.620Z",
       "url": "https://link.coupang.com/a/hnyJCiDzOu",
-      "image": null,
+      "image": "assets/products/aee43d81d346d26c0d51.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -508,7 +525,7 @@
       "listPrice": 14223,
       "observedAt": "2026-09-27T01:24:19.781Z",
       "url": "https://link.coupang.com/a/hnlVuIvX1U",
-      "image": null,
+      "image": "assets/products/8e5d1639d24fe1c3f115.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -18442,23 +18459,6 @@
         {
           "price": 10990,
           "observedAt": "2026-08-26T11:39:08.826Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7353339051|i:23804197823|v:85574305199",
-      "source": "coupang",
-      "name": "액츠 퍼펙트 실내건조 일반용 프레시 플로럴향 액상세제 본품, 3.2L, 1개",
-      "price": 7950,
-      "listPrice": 17900,
-      "observedAt": "2026-08-26T11:27:08.912Z",
-      "url": "https://link.coupang.com/a/gwV40oOTSe",
-      "image": "assets/products/b3d160266b6ed2205080.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7950,
-          "observedAt": "2026-08-26T11:27:08.912Z"
         }
       ]
     },
