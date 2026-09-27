@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-09-27T13:04:43.257Z",
+  "updatedAt": "2026-09-27T22:09:05.831Z",
   "deals": [
+    {
+      "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
+      "source": "toss",
+      "name": "호정가 우리쌀약과, 1kg, 1세트",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T22:04:30.803Z",
+      "url": "https://toss.im/_m/vv0QMhAd",
+      "image": "assets/products/6025ddd810b8dfabebf6.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T22:04:30.803Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-26T23:00:18.279Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-25T23:00:31.503Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:11:38.165Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:11:38.024Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-24T23:07:02.332Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:05:25.727Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:04:00.862Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-23T23:04:00.773Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T01:41:54.360Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-21T01:11:30.043Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6395389697|i:12107900018|v:3086574774",
+      "source": "coupang",
+      "name": "나우푸드 아연 50mg, 250정, 1개",
+      "price": 4190,
+      "listPrice": 11459,
+      "observedAt": "2026-09-27T22:03:03.669Z",
+      "url": "https://link.coupang.com/a/hoMrNuV8yy",
+      "image": "assets/products/3b1879503b473bc577b9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4190,
+          "observedAt": "2026-09-27T22:03:03.669Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
+      "source": "toss",
+      "name": "한돈 스테이크, 600g, 1팩",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-27T22:00:45.814Z",
+      "url": "https://toss.im/_m/zJJcTll3",
+      "image": "assets/products/350bffb92c5b7c7806b6.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-27T22:00:45.814Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T11:14:11.905Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-17T12:04:25.372Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.883Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.741Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.759Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.598Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T23:00:18.417Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T05:09:35.902Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T04:54:09.707Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2656650559|n:스킨푸드 캐롯 카로틴 카밍 워터 패드, 브라이트닝 라이스, 60입, 1개",
+      "source": "toss",
+      "name": "스킨푸드 캐롯 카로틴 카밍 워터 패드, 브라이트닝 라이스, 60입, 1개",
+      "price": 9800,
+      "listPrice": null,
+      "observedAt": "2026-09-27T13:14:23.146Z",
+      "url": "https://toss.shopping/_m/dR0Okj4r",
+      "image": "assets/products/d174cde7b28810df250c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9800,
+          "observedAt": "2026-09-27T13:14:23.146Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
       "source": "toss",
@@ -87,55 +231,6 @@
         {
           "price": 8450,
           "observedAt": "2026-09-27T11:31:00.464Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
-      "source": "toss",
-      "name": "한돈 스테이크, 600g, 1팩",
-      "price": 8900,
-      "listPrice": 22000,
-      "observedAt": "2026-09-27T11:14:11.905Z",
-      "url": "https://toss.im/_m/zJJcTll3",
-      "image": "assets/products/350bffb92c5b7c7806b6.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T11:14:11.905Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-17T12:04:25.372Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.883Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.741Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.759Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.598Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T23:00:18.417Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T05:09:35.902Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T04:54:09.707Z"
         }
       ]
     },
@@ -1253,59 +1348,6 @@
         {
           "price": 9400,
           "observedAt": "2026-08-18T05:58:19.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
-      "source": "toss",
-      "name": "호정가 우리쌀약과, 1kg, 1세트",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-26T23:00:18.279Z",
-      "url": "https://toss.im/_m/vv0QMhAd",
-      "image": "assets/products/6025ddd810b8dfabebf6.png",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-26T23:00:18.279Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-25T23:00:31.503Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:11:38.165Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:11:38.024Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-24T23:07:02.332Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:05:25.727Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:04:00.862Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-23T23:04:00.773Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T01:41:54.360Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-21T01:11:30.043Z"
         }
       ]
     },
