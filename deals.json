@@ -1,6 +1,61 @@
 {
-  "updatedAt": "2026-09-27T07:08:28.765Z",
+  "updatedAt": "2026-09-27T07:25:09.199Z",
   "deals": [
+    {
+      "id": "p:8609013279|i:25050832627|v:3034627820",
+      "source": "coupang",
+      "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
+      "price": 5820,
+      "listPrice": 8124,
+      "observedAt": "2026-09-27T07:21:38.236Z",
+      "url": "https://link.coupang.com/a/hnLszWKYge",
+      "image": "assets/products/937b1a2015914622033b.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5820,
+          "observedAt": "2026-09-27T07:21:38.236Z"
+        },
+        {
+          "price": 5650,
+          "observedAt": "2026-08-20T01:19:32.048Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8204162643|i:14212971549|v:70180815818",
+      "source": "coupang",
+      "name": "세노비스 트리플러스 3in1 프리미엄 멀티비타민, 100정, 1개",
+      "price": 26920,
+      "listPrice": 34288,
+      "observedAt": "2026-09-27T07:20:28.258Z",
+      "url": "https://link.coupang.com/a/hnLnpAfj76",
+      "image": "assets/products/f0de4ad613832ed3d6c2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 26920,
+          "observedAt": "2026-09-27T07:20:28.258Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2463369123|n:산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+      "source": "toss",
+      "name": "산들내음 산림방사 유정란, 난각번호 1번, 60구, 1박스",
+      "price": 22900,
+      "listPrice": 56900,
+      "observedAt": "2026-09-27T07:19:05.568Z",
+      "url": "https://toss.shopping/_m/tX3UAhW1",
+      "image": "assets/products/ab1787485b448ba06330.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22900,
+          "observedAt": "2026-09-27T07:19:05.568Z"
+        }
+      ]
+    },
     {
       "id": "p:7239236782|i:19859831173|v:3001304648",
       "source": "coupang",
@@ -22678,23 +22733,6 @@
         {
           "price": 7220,
           "observedAt": "2026-08-20T01:44:42.548Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8609013279|i:25050832627|v:3034627820",
-      "source": "coupang",
-      "name": "크리넥스 코튼처럼 부드러운 프리미엄 미니티슈 카카오프렌즈, 230매입, 6개",
-      "price": 5650,
-      "listPrice": 8212,
-      "observedAt": "2026-08-20T01:19:32.048Z",
-      "url": "https://link.coupang.com/a/gmhes5Brhs",
-      "image": "assets/products/937b1a2015914622033b.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5650,
-          "observedAt": "2026-08-20T01:19:32.048Z"
         }
       ]
     },
