@@ -1,6 +1,148 @@
 {
-  "updatedAt": "2026-09-27T23:33:18.416Z",
+  "updatedAt": "2026-09-27T23:56:28.492Z",
   "deals": [
+    {
+      "id": "p:8379829212|i:24214993428|v:91232348637",
+      "source": "coupang",
+      "name": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품 - 시트섬유유연제",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:54:43.569Z",
+      "url": "https://link.coupang.com/a/hoUqxeOss8",
+      "image": null,
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:54:43.569Z"
+        },
+        {
+          "price": 8770,
+          "observedAt": "2026-09-27T01:07:47.255Z"
+        },
+        {
+          "price": 8770,
+          "observedAt": "2026-09-27T01:07:43.454Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7312955518|i:18738787893|v:82811551454",
+      "source": "coupang",
+      "name": "파이렉스 내열강화유리 계량컵 - 계량/타이머",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:54:43.321Z",
+      "url": "https://link.coupang.com/a/hoUqwuge8y",
+      "image": "assets/products/831a2d937d895a0f08bb.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:54:43.321Z"
+        },
+        {
+          "price": 6840,
+          "observedAt": "2026-09-27T22:11:39.287Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
+      "source": "toss",
+      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:52:25.182Z",
+      "url": "https://toss.shopping/_m/F0g4PD5v",
+      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:52:25.182Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:11:21.315Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6395389697|i:12107900018|v:3086574774",
+      "source": "coupang",
+      "name": "나우푸드 아연 50mg, 250정, 1개 - 아연",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:52:22.532Z",
+      "url": "https://link.coupang.com/a/hoUf7WTPdQ",
+      "image": "assets/products/3b1879503b473bc577b9.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:52:22.532Z"
+        },
+        {
+          "price": 4190,
+          "observedAt": "2026-09-27T22:03:03.669Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:51:02.817Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:51:02.817Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:50:58.863Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:51:02.720Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
       "source": "toss",
@@ -55,48 +197,6 @@
         {
           "price": 5900,
           "observedAt": "2026-09-07T04:54:09.707Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": null,
-      "observedAt": "2026-09-27T23:21:02.870Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
-      "source": "toss",
-      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-27T23:11:21.315Z",
-      "url": "https://toss.shopping/_m/F0g4PD5v",
-      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-27T23:11:21.315Z"
         }
       ]
     },
@@ -753,40 +853,6 @@
         {
           "price": 9900,
           "observedAt": "2026-09-21T07:36:25.208Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7312955518|i:18738787893|v:82811551454",
-      "source": "coupang",
-      "name": "파이렉스 내열강화유리 계량컵, 투명, 1L, 1개",
-      "price": 6840,
-      "listPrice": 10283,
-      "observedAt": "2026-09-27T22:11:39.287Z",
-      "url": "https://link.coupang.com/a/hoM3R7oZVY",
-      "image": "assets/products/831a2d937d895a0f08bb.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6840,
-          "observedAt": "2026-09-27T22:11:39.287Z"
-        }
-      ]
-    },
-    {
-      "id": "p:6395389697|i:12107900018|v:3086574774",
-      "source": "coupang",
-      "name": "나우푸드 아연 50mg, 250정, 1개",
-      "price": 4190,
-      "listPrice": 11459,
-      "observedAt": "2026-09-27T22:03:03.669Z",
-      "url": "https://link.coupang.com/a/hoMrNuV8yy",
-      "image": "assets/products/3b1879503b473bc577b9.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4190,
-          "observedAt": "2026-09-27T22:03:03.669Z"
         }
       ]
     },
@@ -1544,27 +1610,6 @@
         {
           "price": 7780,
           "observedAt": "2026-09-26T22:05:33.958Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8379829212|i:24214993428|v:91232348637",
-      "source": "coupang",
-      "name": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품",
-      "price": 8770,
-      "listPrice": null,
-      "observedAt": "2026-09-27T01:07:47.255Z",
-      "url": "https://link.coupang.com/a/hnkKclvX7Q",
-      "image": null,
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8770,
-          "observedAt": "2026-09-27T01:07:47.255Z"
-        },
-        {
-          "price": 8770,
-          "observedAt": "2026-09-27T01:07:43.454Z"
         }
       ]
     },
@@ -22064,23 +22109,6 @@
         {
           "price": 9950,
           "observedAt": "2026-08-21T09:01:49.394Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
-      "source": "toss",
-      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-08-21T08:17:55.264Z",
-      "url": "https://toss.im/_m/FFTuiMaC",
-      "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-08-21T08:17:55.264Z"
         }
       ]
     },
