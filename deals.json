@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-27T06:35:29.535Z",
+  "updatedAt": "2026-09-27T07:00:14.371Z",
   "deals": [
+    {
+      "id": "p:7239236782|i:19859831173|v:3001304648",
+      "source": "coupang",
+      "name": "유로푸드 유기농 레몬주스, 500ml, 1개, 500ml × 1개",
+      "price": 5600,
+      "listPrice": 7336,
+      "observedAt": "2026-09-27T06:55:33.373Z",
+      "url": "https://link.coupang.com/a/hnJA1B97O8",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5600,
+          "observedAt": "2026-09-27T06:55:33.373Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "source": "toss",
+      "name": "해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T06:54:17.606Z",
+      "url": "https://toss.im/_m/DtcXQVMk",
+      "image": "assets/products/64f5d227308e69cafccd.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-09-27T06:54:17.606Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T13:04:39.773Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T13:04:39.422Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-09-03T07:24:18.301Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2637616933|n:해표 순알콩 양조간장, 840ml, 4개",
       "source": "toss",
@@ -13230,31 +13276,6 @@
         {
           "price": 16900,
           "observedAt": "2026-09-03T03:34:42.195Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:231470105|n:해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
-      "source": "toss",
-      "name": "해담별 제주 흑돼지 왕구이, 1.2kg, 2개",
-      "price": 15900,
-      "listPrice": null,
-      "observedAt": "2026-09-03T13:04:39.773Z",
-      "url": "https://toss.im/_m/DtcXQVMk",
-      "image": "assets/products/64f5d227308e69cafccd.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-09-03T13:04:39.773Z"
-        },
-        {
-          "price": 15900,
-          "observedAt": "2026-09-03T13:04:39.422Z"
-        },
-        {
-          "price": 15900,
-          "observedAt": "2026-09-03T07:24:18.301Z"
         }
       ]
     },
