@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-27T12:11:29.108Z",
+  "updatedAt": "2026-09-27T13:04:43.257Z",
   "deals": [
+    {
+      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
+      "source": "toss",
+      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T12:58:26.442Z",
+      "url": "https://toss.shopping/_m/BVRBLjF",
+      "image": "assets/products/6a1152e505bd07748e18.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-27T12:58:26.442Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:162558055|n:쥬비스가 만든 카테킨 450mg, 60정, 3박스",
+      "source": "toss",
+      "name": "쥬비스가 만든 카테킨 450mg, 60정, 3박스",
+      "price": 33900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T12:28:07.953Z",
+      "url": "https://toss.shopping/_m/BwWlDTw9",
+      "image": "assets/products/ecd7e3015024ad696345.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 33900,
+          "observedAt": "2026-09-27T12:28:07.953Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-09-27T09:54:29.601Z"
+        }
+      ]
+    },
     {
       "id": "p:161772702|i:329029103|v:3806948177",
       "source": "coupang",
@@ -166,23 +204,6 @@
         {
           "price": 13600,
           "observedAt": "2026-09-27T10:30:53.642Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:162558055|n:쥬비스가 만든 카테킨 450mg, 60정, 3박스",
-      "source": "toss",
-      "name": "쥬비스가 만든 카테킨 450mg, 60정, 3박스",
-      "price": 33900,
-      "listPrice": 126000,
-      "observedAt": "2026-09-27T09:54:29.601Z",
-      "url": "https://toss.shopping/_m/BwWlDTw9",
-      "image": "assets/products/ecd7e3015024ad696345.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 33900,
-          "observedAt": "2026-09-27T09:54:29.601Z"
         }
       ]
     },
