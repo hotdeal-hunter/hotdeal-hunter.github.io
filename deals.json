@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T02:08:12.392Z",
+  "updatedAt": "2026-09-27T03:07:28.838Z",
   "deals": [
+    {
+      "id": "p:8122953264|i:23050039300|v:90083731830",
+      "source": "coupang",
+      "name": "릴리바이레드 스윗 라이어 밀키 틴트, 02 로즈 커스터드인 척, 1개",
+      "price": 5680,
+      "listPrice": 8547,
+      "observedAt": "2026-09-27T03:01:34.117Z",
+      "url": "https://link.coupang.com/a/hnsSj3ZRo4",
+      "image": "assets/products/053ff60dce52b7c6f65b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5680,
+          "observedAt": "2026-09-27T03:01:34.117Z"
+        }
+      ]
+    },
     {
       "id": "p:9513656158|i:28352624734|v:95304734037",
       "source": "coupang",
