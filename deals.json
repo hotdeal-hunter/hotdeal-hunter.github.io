@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T22:09:05.831Z",
+  "updatedAt": "2026-09-27T22:17:28.802Z",
   "deals": [
+    {
+      "id": "p:7312955518|i:18738787893|v:82811551454",
+      "source": "coupang",
+      "name": "파이렉스 내열강화유리 계량컵, 투명, 1L, 1개",
+      "price": 6840,
+      "listPrice": 10283,
+      "observedAt": "2026-09-27T22:11:39.287Z",
+      "url": "https://link.coupang.com/a/hoM3R7oZVY",
+      "image": "assets/products/831a2d937d895a0f08bb.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6840,
+          "observedAt": "2026-09-27T22:11:39.287Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81432625|n:호정가 우리쌀약과, 1kg, 1세트",
       "source": "toss",
