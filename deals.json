@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-27T01:01:34.511Z",
+  "updatedAt": "2026-09-27T01:09:29.181Z",
   "deals": [
+    {
+      "id": "p:8379829212|i:24214993428|v:91232348637",
+      "source": "coupang",
+      "name": "르샤트라1802 건조기 시트 섬유유연제 클린코튼향 본품",
+      "price": 8770,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:07:47.255Z",
+      "url": "https://link.coupang.com/a/hnkKclvX7Q",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8770,
+          "observedAt": "2026-09-27T01:07:47.255Z"
+        },
+        {
+          "price": 8770,
+          "observedAt": "2026-09-27T01:07:43.454Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8565597490|i:26135701996|v:93170616538",
+      "source": "coupang",
+      "name": "한채원 밥대신 43 칼로리 현미 곤약 즉석밥, 110g, 10개",
+      "price": 12600,
+      "listPrice": 16320,
+      "observedAt": "2026-09-27T01:02:46.529Z",
+      "url": "https://link.coupang.com/a/hnknZYvHYi",
+      "image": "assets/products/02b6a4ab5c763cb8e31e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12600,
+          "observedAt": "2026-09-27T01:02:46.529Z"
+        }
+      ]
+    },
     {
       "id": "p:9536213705|i:22524815698|v:91575579364",
       "source": "coupang",
