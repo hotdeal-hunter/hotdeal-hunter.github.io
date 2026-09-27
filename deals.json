@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T01:39:08.616Z",
+  "updatedAt": "2026-09-27T01:47:29.142Z",
   "deals": [
+    {
+      "id": "toss:p:2654309301|n:제주 극조생 감귤, 대과, 5kg, 1박스",
+      "source": "toss",
+      "name": "제주 극조생 감귤, 대과, 5kg, 1박스",
+      "price": 9999,
+      "listPrice": null,
+      "observedAt": "2026-09-27T01:46:33.099Z",
+      "url": "https://toss.shopping/_m/XFIj2gM",
+      "image": "assets/products/a86bab6f70603bc8b6de.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9999,
+          "observedAt": "2026-09-27T01:46:33.099Z"
+        }
+      ]
+    },
     {
       "id": "p:6121527|i:26003655647|v:95980204798",
       "source": "coupang",
