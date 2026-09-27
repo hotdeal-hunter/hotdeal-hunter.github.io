@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T10:36:29.303Z",
+  "updatedAt": "2026-09-27T10:46:29.488Z",
   "deals": [
+    {
+      "id": "p:5385077983|i:8015320702|v:75304078235",
+      "source": "coupang",
+      "name": "미니오이, 10입(200 g), 1개, 10입(200 g) × 1개",
+      "price": 4290,
+      "listPrice": 5807,
+      "observedAt": "2026-09-27T10:46:01.033Z",
+      "url": "https://link.coupang.com/a/hnZ36l8T3Q",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4290,
+          "observedAt": "2026-09-27T10:46:01.033Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2673719857|n:더빠삭 오리지널 순살치킨 대용량, 1kg, 1개",
       "source": "toss",
