@@ -1,6 +1,88 @@
 {
-  "updatedAt": "2026-09-27T23:13:29.278Z",
+  "updatedAt": "2026-09-27T23:22:12.156Z",
   "deals": [
+    {
+      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
+      "source": "toss",
+      "name": "한돈 스테이크, 600g, 1팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:21:02.968Z",
+      "url": "https://toss.im/_m/zJJcTll3",
+      "image": "assets/products/350bffb92c5b7c7806b6.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.968Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-27T22:00:45.814Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T11:14:11.905Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-17T12:04:25.372Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.883Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-12T03:27:58.741Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.759Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-08T12:11:13.598Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T23:00:18.417Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T05:09:35.902Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-09-07T04:54:09.707Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:21:02.870Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
       "source": "toss",
@@ -522,27 +604,6 @@
       ]
     },
     {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 1398,
-      "listPrice": null,
-      "observedAt": "2026-09-27T22:57:33.554Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1966034077|n:모노케어 3구개별 안전커버 멀티탭, 화이트, 1.5m, 1개",
       "source": "toss",
       "name": "모노케어 3구개별 안전커버 멀티탭, 화이트, 1.5m, 1개",
@@ -726,59 +787,6 @@
         {
           "price": 4190,
           "observedAt": "2026-09-27T22:03:03.669Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:848507297|n:한돈 스테이크, 600g, 1팩",
-      "source": "toss",
-      "name": "한돈 스테이크, 600g, 1팩",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-27T22:00:45.814Z",
-      "url": "https://toss.im/_m/zJJcTll3",
-      "image": "assets/products/350bffb92c5b7c7806b6.png",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-27T22:00:45.814Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T11:14:11.905Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-17T12:04:25.372Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.883Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-12T03:27:58.741Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.759Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-08T12:11:13.598Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T23:00:18.417Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T05:09:35.902Z"
-        },
-        {
-          "price": 5900,
-          "observedAt": "2026-09-07T04:54:09.707Z"
         }
       ]
     },
