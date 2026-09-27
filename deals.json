@@ -1,6 +1,97 @@
 {
-  "updatedAt": "2026-09-27T05:22:35.151Z",
+  "updatedAt": "2026-09-27T06:06:29.276Z",
   "deals": [
+    {
+      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
+      "source": "toss",
+      "name": "스파클 생수, 무라벨, 2L, 24개",
+      "price": 7400,
+      "listPrice": null,
+      "observedAt": "2026-09-27T06:00:58.023Z",
+      "url": "https://toss.im/_m/FfYhvmlm",
+      "image": "assets/products/0aec288a2657b25b3611.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 7400,
+          "observedAt": "2026-09-27T06:00:58.023Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-26T03:14:39.720Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-22T23:01:06.152Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.628Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-20T11:11:52.539Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T06:47:15.452Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:02:53.879Z"
+        },
+        {
+          "price": 7400,
+          "observedAt": "2026-09-18T03:01:44.315Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.637Z"
+        },
+        {
+          "price": 8990,
+          "observedAt": "2026-08-25T06:08:24.313Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
+      "source": "toss",
+      "name": "에브리워터 무라벨, 500ml, 40개",
+      "price": 4400,
+      "listPrice": null,
+      "observedAt": "2026-09-27T06:00:57.905Z",
+      "url": "https://toss.shopping/_m/l15lbhSg",
+      "image": "assets/products/a11cd6225dc9d4a79a58.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4400,
+          "observedAt": "2026-09-27T06:00:57.905Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-25T08:13:43.802Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1357055202|i:19233180759|v:86349648813",
+      "source": "coupang",
+      "name": "비비고 김치볶음, 80g, 10개",
+      "price": 11350,
+      "listPrice": 17049,
+      "observedAt": "2026-09-27T06:00:54.230Z",
+      "url": "https://link.coupang.com/a/hnFGSGCaKO",
+      "image": "assets/products/7b3f2cfe9f0f42c90a10.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11350,
+          "observedAt": "2026-09-27T06:00:54.230Z"
+        }
+      ]
+    },
     {
       "id": "p:6717918150|i:15617540650|v:82835358724",
       "source": "coupang",
@@ -1509,55 +1600,6 @@
       ]
     },
     {
-      "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
-      "source": "toss",
-      "name": "스파클 생수, 무라벨, 2L, 24개",
-      "price": 7400,
-      "listPrice": 20000,
-      "observedAt": "2026-09-26T03:14:39.720Z",
-      "url": "https://toss.im/_m/FfYhvmlm",
-      "image": "assets/products/0aec288a2657b25b3611.jpg",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 7400,
-          "observedAt": "2026-09-26T03:14:39.720Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-22T23:01:06.152Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-20T11:11:52.628Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-20T11:11:52.539Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T06:47:15.452Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:02:53.879Z"
-        },
-        {
-          "price": 7400,
-          "observedAt": "2026-09-18T03:01:44.315Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.637Z"
-        },
-        {
-          "price": 8990,
-          "observedAt": "2026-08-25T06:08:24.313Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:120338941|n:채선당 굴림만두전골, 790g, 2개",
       "source": "toss",
       "name": "채선당 굴림만두전골, 790g, 2개",
@@ -2250,23 +2292,6 @@
         {
           "price": 13190,
           "observedAt": "2026-09-25T08:40:37.294Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
-      "source": "toss",
-      "name": "에브리워터 무라벨, 500ml, 40개",
-      "price": 4400,
-      "listPrice": null,
-      "observedAt": "2026-09-25T08:13:43.802Z",
-      "url": "https://toss.shopping/_m/l15lbhSg",
-      "image": "assets/products/a11cd6225dc9d4a79a58.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4400,
-          "observedAt": "2026-09-25T08:13:43.802Z"
         }
       ]
     },
