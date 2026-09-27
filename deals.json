@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-27T23:05:03.015Z",
+  "updatedAt": "2026-09-27T23:13:29.278Z",
   "deals": [
+    {
+      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
+      "source": "toss",
+      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T23:11:21.315Z",
+      "url": "https://toss.shopping/_m/F0g4PD5v",
+      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:11:21.315Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7007366750|i:25186340985|v:93128247579",
+      "source": "coupang",
+      "name": "모모야 고추기름 라유 2병세트 타베루라유 110g, 110g, 2개",
+      "price": 7200,
+      "listPrice": 9088,
+      "observedAt": "2026-09-27T23:05:14.456Z",
+      "url": "https://link.coupang.com/a/hoQTh69Vro",
+      "image": "assets/products/3a00d40b7b6d8e9afc18.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7200,
+          "observedAt": "2026-09-27T23:05:14.456Z"
+        }
+      ]
+    },
     {
       "id": "p:9454421878|i:27003751039|v:89676367991",
       "source": "coupang",
