@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-27T03:07:28.838Z",
+  "updatedAt": "2026-09-27T03:20:28.923Z",
   "deals": [
+    {
+      "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
+      "source": "toss",
+      "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20매, 20봉",
+      "price": 13500,
+      "listPrice": 42000,
+      "observedAt": "2026-09-27T03:14:45.607Z",
+      "url": "https://toss.im/_m/rwfbIBNa",
+      "image": "assets/products/a9b5ea6fb4a167b661de.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-27T03:14:45.607Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-25T00:30:50.740Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-25T00:30:50.641Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-24T23:47:29.598Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-24T23:46:13.201Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-09-15T01:01:00.166Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:311454531|n:헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
+      "source": "toss",
+      "name": "헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T03:11:18.985Z",
+      "url": "https://toss.shopping/_m/b7Owbrnt",
+      "image": "assets/products/48d61a81d3884179df9d.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T03:11:18.985Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-26T23:36:58.249Z"
+        }
+      ]
+    },
     {
       "id": "p:8122953264|i:23050039300|v:90083731830",
       "source": "coupang",
@@ -259,23 +317,6 @@
         {
           "price": 10400,
           "observedAt": "2026-09-05T23:35:44.010Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:311454531|n:헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
-      "source": "toss",
-      "name": "헬로바이오 혈당엔 바나바 유산균, 250mg, 30캡슐, 3박스",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-26T23:36:58.249Z",
-      "url": "https://toss.shopping/_m/b7Owbrnt",
-      "image": "assets/products/48d61a81d3884179df9d.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-26T23:36:58.249Z"
         }
       ]
     },
@@ -2638,39 +2679,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-25T00:30:46.967Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:684427777|n:삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
-      "source": "toss",
-      "name": "삼육김 쌈싸먹는김 들기름 곱창김, 11g, 20개",
-      "price": 13500,
-      "listPrice": null,
-      "observedAt": "2026-09-25T00:30:50.740Z",
-      "url": "https://toss.im/_m/rwfbIBNa",
-      "image": "assets/products/87af2e5fd07aa8325dea.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 13500,
-          "observedAt": "2026-09-25T00:30:50.740Z"
-        },
-        {
-          "price": 13500,
-          "observedAt": "2026-09-25T00:30:50.641Z"
-        },
-        {
-          "price": 13500,
-          "observedAt": "2026-09-24T23:47:29.598Z"
-        },
-        {
-          "price": 13500,
-          "observedAt": "2026-09-24T23:46:13.201Z"
-        },
-        {
-          "price": 13500,
-          "observedAt": "2026-09-15T01:01:00.166Z"
         }
       ]
     },
