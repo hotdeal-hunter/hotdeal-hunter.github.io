@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T10:55:02.680Z",
+  "updatedAt": "2026-09-27T11:10:28.587Z",
   "deals": [
+    {
+      "id": "toss:p:2674360725|n:포켓몬카드 30th 셀러브레이션 카드, 랜덤 수록, 6장, 1팩",
+      "source": "toss",
+      "name": "포켓몬카드 30th 셀러브레이션 카드, 랜덤 수록, 6장, 1팩",
+      "price": 12990,
+      "listPrice": null,
+      "observedAt": "2026-09-27T11:04:39.453Z",
+      "url": "https://toss.shopping/_m/F5joL02v",
+      "image": "assets/products/e12bab4386a2b6180ff6.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12990,
+          "observedAt": "2026-09-27T11:04:39.453Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2669828037|n:포켓몬 카드 tcg 메가 확장팩, 30th celebration, 1팩",
       "source": "toss",
