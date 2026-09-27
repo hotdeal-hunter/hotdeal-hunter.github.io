@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-27T00:00:44.740Z",
+  "updatedAt": "2026-09-27T00:47:20.621Z",
   "deals": [
+    {
+      "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "source": "toss",
+      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-27T00:42:30.467Z",
+      "url": "https://toss.shopping/_m/tNq5YXWj",
+      "image": "assets/products/5d1cd607d23bc995858a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:42:30.467Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:41:09.338Z"
+        }
+      ]
+    },
     {
       "id": "p:9555798032|i:28513534475|v:77454334383",
       "source": "coupang",
