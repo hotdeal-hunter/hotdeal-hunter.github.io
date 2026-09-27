@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-27T11:37:13.382Z",
+  "updatedAt": "2026-09-27T11:39:47.233Z",
   "deals": [
+    {
+      "id": "toss:p:112061285|n:맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
+      "source": "toss",
+      "name": "맘스럽 아토워시 프렌치 라벤더 캡슐세제 파우치형, 8g, 200개입, 1개",
+      "price": 5740,
+      "listPrice": 19900,
+      "observedAt": "2026-09-27T11:37:25.686Z",
+      "url": "https://toss.shopping/_m/vv2VY767",
+      "image": "assets/products/c18ae841d4bfdc0f7216.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5740,
+          "observedAt": "2026-09-27T11:37:25.686Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:81997867|n:레이데이 비타민c 에너지 앰플, 13ml, 5개",
       "source": "toss",
