@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-27T08:51:29.562Z",
+  "updatedAt": "2026-09-27T09:56:42.725Z",
   "deals": [
+    {
+      "id": "toss:p:162558055|n:쥬비스가 만든 카테킨 450mg, 60정, 3박스",
+      "source": "toss",
+      "name": "쥬비스가 만든 카테킨 450mg, 60정, 3박스",
+      "price": 33900,
+      "listPrice": 126000,
+      "observedAt": "2026-09-27T09:54:29.601Z",
+      "url": "https://toss.shopping/_m/BwWlDTw9",
+      "image": "assets/products/ecd7e3015024ad696345.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 33900,
+          "observedAt": "2026-09-27T09:54:29.601Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:135091649|n:심플 화이트 보관함, 20개",
+      "source": "toss",
+      "name": "심플 화이트 보관함, 20개",
+      "price": 11500,
+      "listPrice": null,
+      "observedAt": "2026-09-27T09:50:53.530Z",
+      "url": "https://toss.im/_m/NxRo9dVD",
+      "image": "assets/products/7d7409d3b884b625fd99.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 11500,
+          "observedAt": "2026-09-27T09:50:53.530Z"
+        },
+        {
+          "price": 11510,
+          "observedAt": "2026-08-29T07:13:44.243Z"
+        },
+        {
+          "price": 11510,
+          "observedAt": "2026-08-29T07:12:00.469Z"
+        }
+      ]
+    },
     {
       "id": "p:9711973763|i:23804197823|v:85574305199",
       "source": "coupang",
@@ -16376,27 +16418,6 @@
         {
           "price": 11790,
           "observedAt": "2026-08-29T08:16:49.991Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:135091649|n:심플 화이트 보관함, 20개",
-      "source": "toss",
-      "name": "심플 화이트 보관함, 20개",
-      "price": 11510,
-      "listPrice": null,
-      "observedAt": "2026-08-29T07:13:44.243Z",
-      "url": "https://toss.im/_m/NxRo9dVD",
-      "image": "assets/products/7d7409d3b884b625fd99.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11510,
-          "observedAt": "2026-08-29T07:13:44.243Z"
-        },
-        {
-          "price": 11510,
-          "observedAt": "2026-08-29T07:12:00.469Z"
         }
       ]
     },
