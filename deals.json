@@ -1,6 +1,191 @@
 {
-  "updatedAt": "2026-09-28T13:00:50.856Z",
+  "updatedAt": "2026-09-28T22:29:14.235Z",
   "deals": [
+    {
+      "id": "toss:p:2665164743|n:윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+      "source": "toss",
+      "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+      "price": 8000,
+      "listPrice": 28000,
+      "observedAt": "2026-09-28T22:23:06.674Z",
+      "url": "https://toss.shopping/_m/jGGcZuXt",
+      "image": "assets/products/b320b88f3a6d42939969.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-28T22:23:06.674Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "source": "toss",
+      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "price": 5990,
+      "listPrice": 17900,
+      "observedAt": "2026-09-28T22:23:06.457Z",
+      "url": "https://toss.shopping/_m/Nw5J94Is",
+      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-28T22:23:06.457Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664783623|n:포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
+      "source": "toss",
+      "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
+      "price": 8658,
+      "listPrice": 22600,
+      "observedAt": "2026-09-28T22:23:06.233Z",
+      "url": "https://toss.shopping/_m/z1zvJrer",
+      "image": "assets/products/64c1ffd6b369d926ca65.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8658,
+          "observedAt": "2026-09-28T22:23:06.233Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664055709|n:이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7p, 1세트",
+      "source": "toss",
+      "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
+      "price": 7590,
+      "listPrice": 28400,
+      "observedAt": "2026-09-28T22:21:54.809Z",
+      "url": "https://toss.shopping/_m/tr7PXTz3",
+      "image": "assets/products/879a30b64de06479c646.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7590,
+          "observedAt": "2026-09-28T22:21:54.809Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
+      "price": 4620,
+      "listPrice": 39600,
+      "observedAt": "2026-09-28T22:21:54.501Z",
+      "url": "https://toss.shopping/_m/lkS95wo2",
+      "image": "assets/products/ea4d719167c87f3f161f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4620,
+          "observedAt": "2026-09-28T22:21:54.501Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": 15900,
+      "observedAt": "2026-09-28T22:21:54.415Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T22:21:54.415Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "source": "toss",
+      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "price": 10990,
+      "listPrice": 46900,
+      "observedAt": "2026-09-28T22:21:54.286Z",
+      "url": "https://toss.shopping/_m/rhwPv1Zk",
+      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T22:21:54.286Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T01:20:56.920Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": 14900,
+      "observedAt": "2026-09-28T22:21:53.838Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
+      "source": "toss",
+      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+      "price": 4990,
+      "listPrice": 16000,
+      "observedAt": "2026-09-28T22:21:53.597Z",
+      "url": "https://toss.shopping/_m/F0g4PD5v",
+      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.597Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:52:25.182Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:11:21.315Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
       "source": "toss",
@@ -922,27 +1107,6 @@
       ]
     },
     {
-      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "source": "toss",
-      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "price": 10990,
-      "listPrice": null,
-      "observedAt": "2026-09-28T01:20:56.920Z",
-      "url": "https://toss.shopping/_m/rhwPv1Zk",
-      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T01:20:56.920Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T00:50:40.699Z"
-        }
-      ]
-    },
-    {
       "id": "p:9731914115|i:29122408348|v:80803192255",
       "source": "coupang",
       "name": "프로그 팔목긴 위생장갑, 50개입, 1개",
@@ -1091,27 +1255,6 @@
       ]
     },
     {
-      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
-      "source": "toss",
-      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-09-27T23:52:25.182Z",
-      "url": "https://toss.shopping/_m/F0g4PD5v",
-      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-27T23:52:25.182Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-27T23:11:21.315Z"
-        }
-      ]
-    },
-    {
       "id": "p:6395389697|i:12107900018|v:3086574774",
       "source": "coupang",
       "name": "나우푸드 아연 50mg, 250정, 1개 - 아연",
@@ -1129,35 +1272,6 @@
         {
           "price": 4190,
           "observedAt": "2026-09-27T22:03:03.669Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": null,
-      "observedAt": "2026-09-27T23:51:02.720Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:51:02.720Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
         }
       ]
     },
