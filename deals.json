@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T07:13:42.765Z",
+  "updatedAt": "2026-09-28T07:45:29.348Z",
   "deals": [
+    {
+      "id": "p:7992079901|i:11652049882|v:78926482958",
+      "source": "coupang",
+      "name": "데니그리스 유기농 사과 식초, 1L, 1개, 1L × 1개",
+      "price": 7840,
+      "listPrice": 10622,
+      "observedAt": "2026-09-28T07:39:41.236Z",
+      "url": "https://link.coupang.com/a/hprEARjh0K",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7840,
+          "observedAt": "2026-09-28T07:39:41.236Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:116216265|n:애슐리 시그니처 큐브 스테이크 소스포함, 200g, 4팩",
+      "source": "toss",
+      "name": "애슐리 시그니처 큐브 스테이크 소스포함, 200g, 4팩",
+      "price": 29900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T07:33:49.812Z",
+      "url": "https://toss.shopping/_m/ZKcpzJB8",
+      "image": "assets/products/64adb1be0be029640271.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29900,
+          "observedAt": "2026-09-28T07:33:49.812Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2663836061|n:촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
       "source": "toss",
