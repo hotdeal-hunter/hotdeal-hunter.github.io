@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T04:12:16.786Z",
+  "updatedAt": "2026-09-28T04:20:28.715Z",
   "deals": [
+    {
+      "id": "p:8279872054|i:27357154921|v:94181876181",
+      "source": "coupang",
+      "name": "펩시 제로슈거 라임향, 250ml, 30개",
+      "price": 13600,
+      "listPrice": 16970,
+      "observedAt": "2026-09-28T04:12:28.274Z",
+      "url": "https://link.coupang.com/a/hpcQuSryQ8",
+      "image": "assets/products/ed27524963a2defa3751.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13600,
+          "observedAt": "2026-09-28T04:12:28.274Z"
+        }
+      ]
+    },
     {
       "id": "p:9395708044|i:27904109929|v:94842575984",
       "source": "coupang",
