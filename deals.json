@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T01:11:27.043Z",
+  "updatedAt": "2026-09-28T01:19:29.366Z",
   "deals": [
+    {
+      "id": "p:9731914115|i:29122408348|v:80803192255",
+      "source": "coupang",
+      "name": "프로그 팔목긴 위생장갑, 50개입, 1개",
+      "price": 3990,
+      "listPrice": 8500,
+      "observedAt": "2026-09-28T01:18:42.546Z",
+      "url": "https://link.coupang.com/a/ho0qDdVRYG",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3990,
+          "observedAt": "2026-09-28T01:18:42.546Z"
+        }
+      ]
+    },
+    {
+      "id": "p:330434508|i:432580521|v:4066625049",
+      "source": "coupang",
+      "name": "나인웨어 올디너리 테이블 시리즈 브런치 세트 4p, 빈티지그레이, 트레이 + 스프컵 + 소스볼 + 사각접시, 1세트",
+      "price": 6990,
+      "listPrice": 12822,
+      "observedAt": "2026-09-28T01:13:49.789Z",
+      "url": "https://link.coupang.com/a/hoZ41q2DMO",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T01:13:49.789Z"
+        }
+      ]
+    },
     {
       "id": "p:9334833111|i:27679495344|v:94641509023",
       "source": "coupang",
