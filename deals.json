@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T10:42:23.811Z",
+  "updatedAt": "2026-09-28T11:06:05.152Z",
   "deals": [
+    {
+      "id": "p:8243614342|i:24834368217|v:93487936572",
+      "source": "coupang",
+      "name": "맥스봉 오리지널 15p, 525g, 1개, 525g × 1개",
+      "price": 5480,
+      "listPrice": 7100,
+      "observedAt": "2026-09-28T11:05:54.025Z",
+      "url": "https://link.coupang.com/a/hpGoeAMcVM",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5480,
+          "observedAt": "2026-09-28T11:05:54.025Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
       "source": "toss",
