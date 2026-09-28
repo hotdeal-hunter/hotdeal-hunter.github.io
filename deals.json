@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T05:09:14.563Z",
+  "updatedAt": "2026-09-28T05:24:29.234Z",
   "deals": [
+    {
+      "id": "p:49569|i:5791426|v:82573544326",
+      "source": "coupang",
+      "name": "서강 크리밀 연유, 500g, 2개",
+      "price": 7020,
+      "listPrice": 10000,
+      "observedAt": "2026-09-28T05:18:40.299Z",
+      "url": "https://link.coupang.com/a/hphzOlOtsP",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7020,
+          "observedAt": "2026-09-28T05:18:40.299Z"
+        }
+      ]
+    },
     {
       "id": "p:9699430550|i:28237980487|v:95617809973",
       "source": "coupang",
