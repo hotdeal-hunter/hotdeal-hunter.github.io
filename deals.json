@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T10:33:30.220Z",
+  "updatedAt": "2026-09-28T10:42:23.811Z",
   "deals": [
+    {
+      "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "source": "toss",
+      "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T10:33:50.547Z",
+      "url": "https://toss.shopping/_m/z0PdxZui",
+      "image": "assets/products/2b253bf03f90430c1d78.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T10:33:50.547Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2571175119|n:수뜰리에 섬유유연제 소프트 비누향, 2.5l, 4개",
       "source": "toss",
