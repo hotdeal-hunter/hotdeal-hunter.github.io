@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-09-28T10:20:29.628Z",
+  "updatedAt": "2026-09-28T10:33:30.220Z",
   "deals": [
+    {
+      "id": "toss:p:2571175119|n:수뜰리에 섬유유연제 소프트 비누향, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 섬유유연제 소프트 비누향, 2.5L, 4개",
+      "price": 8900,
+      "listPrice": 39600,
+      "observedAt": "2026-09-28T10:27:45.885Z",
+      "url": "https://toss.im/_m/R3iKgdir",
+      "image": "assets/products/7e42f2509e4c06dee277.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T10:27:45.885Z"
+        },
+        {
+          "price": 8390,
+          "observedAt": "2026-09-18T05:59:49.735Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-31T09:22:08.357Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-25T23:01:08.663Z"
+        },
+        {
+          "price": 4590,
+          "observedAt": "2026-08-24T07:42:24.734Z"
+        }
+      ]
+    },
     {
       "id": "p:9057383530|i:25190333018|v:91899401612",
       "source": "coupang",
@@ -8555,35 +8588,6 @@
         {
           "price": 9490,
           "observedAt": "2026-09-18T07:20:51.363Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2571175119|n:수뜰리에 소프트 섬유유연제 비누향, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 소프트 섬유유연제 비누향, 2.5L, 4개",
-      "price": 8390,
-      "listPrice": 39600,
-      "observedAt": "2026-09-18T05:59:49.735Z",
-      "url": "https://toss.im/_m/R3iKgdir",
-      "image": "assets/products/0a841bfcd52cf5873c1b.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 8390,
-          "observedAt": "2026-09-18T05:59:49.735Z"
-        },
-        {
-          "price": 4590,
-          "observedAt": "2026-08-31T09:22:08.357Z"
-        },
-        {
-          "price": 4590,
-          "observedAt": "2026-08-25T23:01:08.663Z"
-        },
-        {
-          "price": 4590,
-          "observedAt": "2026-08-24T07:42:24.734Z"
         }
       ]
     },
