@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-28T03:15:24.640Z",
+  "updatedAt": "2026-09-28T03:53:10.445Z",
   "deals": [
+    {
+      "id": "p:66934000|i:224760773|v:3546165547",
+      "source": "coupang",
+      "name": "종근당 황제 침향단 + 쇼핑백, 112.5g, 1개, 112.5g × 1개",
+      "price": 19860,
+      "listPrice": 31703,
+      "observedAt": "2026-09-28T03:52:59.594Z",
+      "url": "https://link.coupang.com/a/hpbsckL4Xk",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19860,
+          "observedAt": "2026-09-28T03:52:59.594Z"
+        },
+        {
+          "price": 19860,
+          "observedAt": "2026-09-28T03:52:59.354Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
       "source": "toss",
