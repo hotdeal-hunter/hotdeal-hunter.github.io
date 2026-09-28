@@ -1,6 +1,116 @@
 {
-  "updatedAt": "2026-09-28T01:28:08.188Z",
+  "updatedAt": "2026-09-28T01:54:22.791Z",
   "deals": [
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-28T01:50:39.749Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/b06505bacecca338e1df.jpg",
+      "insight": "19회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:50:39.749Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.475Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.344Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:48:07.271Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-05T23:01:20.837Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:36.181Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:31.729Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.784Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.186Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:00:34.250Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:36.534Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:32.486Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:00:24.828Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:28.567Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:25.053Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
+    {
+      "id": "p:4946372|i:94557369|v:93129154684",
+      "source": "coupang",
+      "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
+      "price": 4500,
+      "listPrice": 8092,
+      "observedAt": "2026-09-28T01:43:24.018Z",
+      "url": "https://link.coupang.com/a/ho2b1VzJSe",
+      "image": "assets/products/691de5b366fb903bd7ae.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-09-28T01:43:24.018Z"
+        },
+        {
+          "price": 4500,
+          "observedAt": "2026-09-28T00:38:28.216Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
       "source": "toss",
@@ -87,23 +197,6 @@
         {
           "price": 2500,
           "observedAt": "2026-09-28T00:50:36.644Z"
-        }
-      ]
-    },
-    {
-      "id": "p:4946372|i:94557369|v:93129154684",
-      "source": "coupang",
-      "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
-      "price": 4500,
-      "listPrice": null,
-      "observedAt": "2026-09-28T00:38:28.216Z",
-      "url": "https://link.coupang.com/a/hoXylRbmy4",
-      "image": "assets/products/691de5b366fb903bd7ae.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4500,
-          "observedAt": "2026-09-28T00:38:28.216Z"
         }
       ]
     },
@@ -12908,79 +13001,6 @@
         {
           "price": 5420,
           "observedAt": "2026-08-18T00:28:38.848Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30cm, 30M, 30롤, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-09-05T23:01:20.837Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/07215730e99ad2c00f8c.jpg",
-      "insight": "15회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-05T23:01:20.837Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:36.181Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:31.729Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.784Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.186Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:00:34.250Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:36.534Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:32.486Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:00:24.828Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:28.567Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:25.053Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:17:08.569Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:15:37.099Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
         }
       ]
     },
