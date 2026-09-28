@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T06:29:11.725Z",
+  "updatedAt": "2026-09-28T07:13:42.765Z",
   "deals": [
+    {
+      "id": "toss:p:2663836061|n:촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
+      "source": "toss",
+      "name": "촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
+      "price": 6900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T07:07:47.705Z",
+      "url": "https://toss.im/_m/BER4zQ6w",
+      "image": "assets/products/15b445b710bec9940331.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-28T07:07:47.705Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
       "source": "toss",
