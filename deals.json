@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T08:49:55.667Z",
+  "updatedAt": "2026-09-28T08:58:42.888Z",
   "deals": [
+    {
+      "id": "p:7784271976|i:21045267208|v:88107885741",
+      "source": "coupang",
+      "name": "무연골 돌돌말이 대패삼겹살 (냉동), 1kg, 1개",
+      "price": 8530,
+      "listPrice": 11453,
+      "observedAt": "2026-09-28T08:54:59.893Z",
+      "url": "https://link.coupang.com/a/hpw2gctLeS",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8530,
+          "observedAt": "2026-09-28T08:54:59.893Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9559625896|i:28557835606|v:95502497421",
+      "source": "coupang",
+      "name": "해태제과 오예스 미니 크림소다맛, 192g, 2개",
+      "price": 3750,
+      "listPrice": 5000,
+      "observedAt": "2026-09-28T08:50:08.550Z",
+      "url": "https://link.coupang.com/a/hpwGKDQhCC",
+      "image": "assets/products/6eebd8b475fef32e8353.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3750,
+          "observedAt": "2026-09-28T08:50:08.550Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:188398915|n:가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
       "source": "toss",
@@ -5668,23 +5702,6 @@
         {
           "price": 17490,
           "observedAt": "2026-09-23T05:22:46.308Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9559625896|i:28557835668|v:95502497433",
-      "source": "coupang",
-      "name": "해태제과 오예스 미니 크림소다맛, 192g, 3개",
-      "price": 6660,
-      "listPrice": 9520,
-      "observedAt": "2026-09-23T04:48:36.718Z",
-      "url": "https://link.coupang.com/a/hgWUqW5xdY",
-      "image": "assets/products/9b84810f41dfaba155e9.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6660,
-          "observedAt": "2026-09-23T04:48:36.718Z"
         }
       ]
     },
