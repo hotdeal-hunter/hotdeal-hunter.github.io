@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T00:13:43.539Z",
+  "updatedAt": "2026-09-28T00:44:29.003Z",
   "deals": [
+    {
+      "id": "p:4946372|i:94557369|v:93129154684",
+      "source": "coupang",
+      "name": "에뛰드하우스 립 앤 아이 리무버, 250ml, 1개",
+      "price": 4500,
+      "listPrice": null,
+      "observedAt": "2026-09-28T00:38:28.216Z",
+      "url": "https://link.coupang.com/a/hoXylRbmy4",
+      "image": "assets/products/691de5b366fb903bd7ae.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-09-28T00:38:28.216Z"
+        }
+      ]
+    },
     {
       "id": "p:9371774|i:22420087522|v:88377301407",
       "source": "coupang",
