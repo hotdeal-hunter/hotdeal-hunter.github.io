@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T04:29:05.145Z",
+  "updatedAt": "2026-09-28T05:09:14.563Z",
   "deals": [
+    {
+      "id": "p:9699430550|i:28237980487|v:95617809973",
+      "source": "coupang",
+      "name": "샤오커오라 민트향 비타민C 과일 12종 믹스 무설탕 사탕 캔디, 100g, 3개, 100g × 3개",
+      "price": 6150,
+      "listPrice": 18000,
+      "observedAt": "2026-09-28T05:09:04.476Z",
+      "url": "https://link.coupang.com/a/hpgThS5tjU",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6150,
+          "observedAt": "2026-09-28T05:09:04.476Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2570944735|n:불도깨비 칠리 치즈스틱, 500g, 1개",
+      "source": "toss",
+      "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
+      "price": 9900,
+      "listPrice": 21900,
+      "observedAt": "2026-09-28T04:51:21.422Z",
+      "url": "https://toss.shopping/_m/JQJbIt5h",
+      "image": "assets/products/34722ab5a76a22f5f028.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-28T04:51:21.422Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
       "source": "toss",
@@ -101,7 +135,7 @@
       "listPrice": 7584,
       "observedAt": "2026-09-28T03:56:45.107Z",
       "url": "https://link.coupang.com/a/hpbIQ4ZK0W",
-      "image": null,
+      "image": "assets/products/378d8450a9eb0e1b4aec.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
