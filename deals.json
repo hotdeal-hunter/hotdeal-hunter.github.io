@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T03:53:10.445Z",
+  "updatedAt": "2026-09-28T04:02:29.015Z",
   "deals": [
+    {
+      "id": "p:8449462511|i:26680448791|v:93604299284",
+      "source": "coupang",
+      "name": "밸러니티 대마종자유 1000 32.1g, 30정, 1개",
+      "price": 2420,
+      "listPrice": 7584,
+      "observedAt": "2026-09-28T03:56:45.107Z",
+      "url": "https://link.coupang.com/a/hpbIQ4ZK0W",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2420,
+          "observedAt": "2026-09-28T03:56:45.107Z"
+        }
+      ]
+    },
     {
       "id": "p:66934000|i:224760773|v:3546165547",
       "source": "coupang",
