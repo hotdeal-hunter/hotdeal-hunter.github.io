@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T23:07:15.646Z",
+  "updatedAt": "2026-09-28T23:15:29.454Z",
   "deals": [
+    {
+      "id": "p:7124855|i:20282421923|v:3046762303",
+      "source": "coupang",
+      "name": "엠앤엠즈 밀크 픽앤믹스 초콜릿, 337.5g, 1개",
+      "price": 8290,
+      "listPrice": null,
+      "observedAt": "2026-09-28T23:07:34.279Z",
+      "url": "https://link.coupang.com/a/hqvXEXEvJs",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8290,
+          "observedAt": "2026-09-28T23:07:34.279Z"
+        }
+      ]
+    },
     {
       "id": "p:9461068804|i:28152417442|v:95107729196",
       "source": "coupang",
