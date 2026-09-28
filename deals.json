@@ -1,41 +1,70 @@
 {
-  "updatedAt": "2026-09-28T02:28:56.042Z",
+  "updatedAt": "2026-09-28T03:06:29.120Z",
   "deals": [
     {
-      "id": "p:6740510187|i:16117366204|v:84723556698",
-      "source": "coupang",
-      "name": "한촌 설렁탕집 설렁탕, 500g, 4개, 500g × 4개",
-      "price": 13320,
-      "listPrice": 25120,
-      "observedAt": "2026-09-28T02:28:45.810Z",
-      "url": "https://link.coupang.com/a/ho5q1wJqgK",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
+      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-28T03:04:28.462Z",
+      "url": "https://toss.shopping/_m/bZVuf1xj",
+      "image": "assets/products/dee271090cbaa57b791d.png",
+      "insight": "2회 가격 기록",
       "history": [
         {
-          "price": 13320,
-          "observedAt": "2026-09-28T02:28:45.810Z"
+          "price": 6930,
+          "observedAt": "2026-09-28T03:04:28.462Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T02:32:33.556Z"
         }
       ]
     },
     {
-      "id": "p:7219263002|i:18869397508|v:85998196144",
+      "id": "p:6762965882|i:19233778452|v:86350234199",
       "source": "coupang",
-      "name": "피니시 린스에이드 식기세척기 헹굼보조제, 400ml, 5개",
-      "price": 21750,
-      "listPrice": 44500,
-      "observedAt": "2026-09-28T02:13:22.624Z",
-      "url": "https://link.coupang.com/a/ho4kP7xEHY",
-      "image": "assets/products/3bbb98c4f526375828d7.png",
-      "insight": "2회 가격 기록",
+      "name": "풀무원 가락 유부우동 2인분, 425.2g, 2개",
+      "price": 9340,
+      "listPrice": 14960,
+      "observedAt": "2026-09-28T03:00:42.451Z",
+      "url": "https://link.coupang.com/a/ho7IxCaqOW",
+      "image": "assets/products/9fa9e9ab81991a9160c0.png",
+      "insight": "가격 기록을 시작한 상품",
       "history": [
         {
-          "price": 21750,
-          "observedAt": "2026-09-28T02:13:22.624Z"
+          "price": 9340,
+          "observedAt": "2026-09-28T03:00:42.451Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 8900,
+      "listPrice": 20000,
+      "observedAt": "2026-09-28T02:32:33.834Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T02:32:33.834Z"
         },
         {
-          "price": 21750,
-          "observedAt": "2026-09-28T02:13:22.117Z"
+          "price": 8900,
+          "observedAt": "2026-09-27T23:51:02.817Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:50:58.863Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
         }
       ]
     },
@@ -44,12 +73,16 @@
       "source": "toss",
       "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-28T01:50:39.749Z",
+      "listPrice": 37900,
+      "observedAt": "2026-09-28T02:32:33.377Z",
       "url": "https://toss.im/_m/bEhSQcFD",
       "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "19회 가격 기록",
+      "insight": "20회 가격 기록",
       "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T02:32:33.377Z"
+        },
         {
           "price": 12800,
           "observedAt": "2026-09-28T01:50:39.749Z"
@@ -125,6 +158,44 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6740510187|i:16117366204|v:84723556698",
+      "source": "coupang",
+      "name": "한촌 설렁탕집 설렁탕, 500g, 4개, 500g × 4개",
+      "price": 13320,
+      "listPrice": 25120,
+      "observedAt": "2026-09-28T02:28:45.810Z",
+      "url": "https://link.coupang.com/a/ho5q1wJqgK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13320,
+          "observedAt": "2026-09-28T02:28:45.810Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7219263002|i:18869397508|v:85998196144",
+      "source": "coupang",
+      "name": "피니시 린스에이드 식기세척기 헹굼보조제, 400ml, 5개",
+      "price": 21750,
+      "listPrice": 44500,
+      "observedAt": "2026-09-28T02:13:22.624Z",
+      "url": "https://link.coupang.com/a/ho4kP7xEHY",
+      "image": "assets/products/3bbb98c4f526375828d7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 21750,
+          "observedAt": "2026-09-28T02:13:22.624Z"
+        },
+        {
+          "price": 21750,
+          "observedAt": "2026-09-28T02:13:22.117Z"
         }
       ]
     },
@@ -229,7 +300,7 @@
       "listPrice": 14900,
       "observedAt": "2026-09-28T00:50:36.644Z",
       "url": "https://link.coupang.com/a/hoYp9kmhVI",
-      "image": null,
+      "image": "assets/products/c8850fb647934039e32e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -357,31 +428,6 @@
         {
           "price": 4190,
           "observedAt": "2026-09-27T22:03:03.669Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
-      "source": "toss",
-      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-27T23:51:02.817Z",
-      "url": "https://toss.im/_m/FFTuiMaC",
-      "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:51:02.817Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:50:58.863Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-21T08:17:55.264Z"
         }
       ]
     },
