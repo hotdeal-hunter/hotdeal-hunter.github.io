@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-27T23:56:28.492Z",
+  "updatedAt": "2026-09-28T00:05:06.023Z",
   "deals": [
+    {
+      "id": "p:9371774|i:22420087522|v:88377301407",
+      "source": "coupang",
+      "name": "코카콜라 오리지널, 350ml, 24개",
+      "price": 18100,
+      "listPrice": 22517,
+      "observedAt": "2026-09-28T00:00:22.413Z",
+      "url": "https://link.coupang.com/a/hoUPyUn57A",
+      "image": "assets/products/7e1fbd14675706c66c4a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18100,
+          "observedAt": "2026-09-28T00:00:22.413Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9278310757|i:27467644678|v:94657114523",
+      "source": "coupang",
+      "name": "바삭칩 바삭팝콘 스팸맛, 2개, 55g",
+      "price": 2000,
+      "listPrice": 5479,
+      "observedAt": "2026-09-27T23:56:39.334Z",
+      "url": "https://link.coupang.com/a/hoUy6J4xAO",
+      "image": "assets/products/e3e64b8f9415b00e09e5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2000,
+          "observedAt": "2026-09-27T23:56:39.334Z"
+        }
+      ]
+    },
     {
       "id": "p:8379829212|i:24214993428|v:91232348637",
       "source": "coupang",
