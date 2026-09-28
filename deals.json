@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T05:24:29.234Z",
+  "updatedAt": "2026-09-28T05:41:24.887Z",
   "deals": [
+    {
+      "id": "toss:p:80867579|n:메르헨트 퍼퓸 샴푸, 화이트머스크, 1l, 2개",
+      "source": "toss",
+      "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
+      "price": 6230,
+      "listPrice": null,
+      "observedAt": "2026-09-28T05:35:11.485Z",
+      "url": "https://toss.shopping/_m/LmqxoDHC",
+      "image": "assets/products/2140840422c0ec59d550.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6230,
+          "observedAt": "2026-09-28T05:35:11.485Z"
+        }
+      ]
+    },
     {
       "id": "p:49569|i:5791426|v:82573544326",
       "source": "coupang",
