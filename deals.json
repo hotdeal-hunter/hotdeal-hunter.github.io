@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T05:44:01.533Z",
+  "updatedAt": "2026-09-28T06:10:05.068Z",
   "deals": [
+    {
+      "id": "p:5643862234|i:14221657683|v:90940652166",
+      "source": "coupang",
+      "name": "서울우유 동물성 생크림 500g, 500ml, 1개",
+      "price": 8470,
+      "listPrice": 14396,
+      "observedAt": "2026-09-28T06:04:01.126Z",
+      "url": "https://link.coupang.com/a/hpkOIR7ebA",
+      "image": "assets/products/6fd1cee0f0a242dc9619.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8470,
+          "observedAt": "2026-09-28T06:04:01.126Z"
+        }
+      ]
+    },
     {
       "id": "p:8659825390|i:29104825636|v:96059967897",
       "source": "coupang",
