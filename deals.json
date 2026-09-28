@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-28T01:54:22.791Z",
+  "updatedAt": "2026-09-28T02:28:56.042Z",
   "deals": [
+    {
+      "id": "p:6740510187|i:16117366204|v:84723556698",
+      "source": "coupang",
+      "name": "한촌 설렁탕집 설렁탕, 500g, 4개, 500g × 4개",
+      "price": 13320,
+      "listPrice": 25120,
+      "observedAt": "2026-09-28T02:28:45.810Z",
+      "url": "https://link.coupang.com/a/ho5q1wJqgK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13320,
+          "observedAt": "2026-09-28T02:28:45.810Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7219263002|i:18869397508|v:85998196144",
+      "source": "coupang",
+      "name": "피니시 린스에이드 식기세척기 헹굼보조제, 400ml, 5개",
+      "price": 21750,
+      "listPrice": 44500,
+      "observedAt": "2026-09-28T02:13:22.624Z",
+      "url": "https://link.coupang.com/a/ho4kP7xEHY",
+      "image": "assets/products/3bbb98c4f526375828d7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 21750,
+          "observedAt": "2026-09-28T02:13:22.624Z"
+        },
+        {
+          "price": 21750,
+          "observedAt": "2026-09-28T02:13:22.117Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "source": "toss",
