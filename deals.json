@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T05:41:24.887Z",
+  "updatedAt": "2026-09-28T05:44:01.533Z",
   "deals": [
+    {
+      "id": "p:8659825390|i:29104825636|v:96059967897",
+      "source": "coupang",
+      "name": "Qicco 침대 매트리스 무음 포켓스프링 바닥 매트리스, 슈퍼싱글, 20cm, 중간",
+      "price": 24800,
+      "listPrice": 66050,
+      "observedAt": "2026-09-28T05:41:39.584Z",
+      "url": "https://link.coupang.com/a/hpjdELOUSq",
+      "image": "assets/products/9ccfbeb54d8b2565ed7b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24800,
+          "observedAt": "2026-09-28T05:41:39.584Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80867579|n:메르헨트 퍼퓸 샴푸, 화이트머스크, 1l, 2개",
       "source": "toss",
