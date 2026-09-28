@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T11:06:05.152Z",
+  "updatedAt": "2026-09-28T11:15:42.672Z",
   "deals": [
+    {
+      "id": "toss:p:2653195997|n:클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml",
+      "source": "toss",
+      "name": "클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml",
+      "price": 5200,
+      "listPrice": null,
+      "observedAt": "2026-09-28T11:09:46.200Z",
+      "url": "https://toss.shopping/_m/1tUNCGFe",
+      "image": "assets/products/46ae3eaecaa0ba3c7bf1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5200,
+          "observedAt": "2026-09-28T11:09:46.200Z"
+        }
+      ]
+    },
     {
       "id": "p:8243614342|i:24834368217|v:93487936572",
       "source": "coupang",
