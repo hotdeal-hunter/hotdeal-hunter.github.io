@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T00:44:29.003Z",
+  "updatedAt": "2026-09-28T00:56:28.967Z",
   "deals": [
+    {
+      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "source": "toss",
+      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "price": 10990,
+      "listPrice": null,
+      "observedAt": "2026-09-28T00:50:40.699Z",
+      "url": "https://toss.shopping/_m/rhwPv1Zk",
+      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
+    {
+      "id": "p:106013|i:204898|v:95582734655",
+      "source": "coupang",
+      "name": "크라운 빅파이 딸기, 324g, 1개",
+      "price": 2500,
+      "listPrice": 14900,
+      "observedAt": "2026-09-28T00:50:36.644Z",
+      "url": "https://link.coupang.com/a/hoYp9kmhVI",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2500,
+          "observedAt": "2026-09-28T00:50:36.644Z"
+        }
+      ]
+    },
     {
       "id": "p:4946372|i:94557369|v:93129154684",
       "source": "coupang",
