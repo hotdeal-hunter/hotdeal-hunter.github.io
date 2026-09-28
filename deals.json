@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T08:38:28.615Z",
+  "updatedAt": "2026-09-28T08:47:21.043Z",
   "deals": [
+    {
+      "id": "p:9141351668|i:28072505597|v:94549477757",
+      "source": "coupang",
+      "name": "클룹 애사비소다 매실 제로 탄산음료, 250ml, 24개, 250ml × 24개",
+      "price": 10460,
+      "listPrice": 14940,
+      "observedAt": "2026-09-28T08:43:35.067Z",
+      "url": "https://link.coupang.com/a/hpwdGRln8S",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10460,
+          "observedAt": "2026-09-28T08:43:35.067Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2652880927|n:썬키스트 오렌지 소다, 190ml, 30개",
       "source": "toss",
