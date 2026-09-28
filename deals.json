@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-28T08:30:21.017Z",
+  "updatedAt": "2026-09-28T08:38:28.615Z",
   "deals": [
+    {
+      "id": "toss:p:2652880927|n:썬키스트 오렌지 소다, 190ml, 30개",
+      "source": "toss",
+      "name": "썬키스트 오렌지 소다, 190ml, 30개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T08:37:51.473Z",
+      "url": "https://toss.shopping/_m/jgGwERrw",
+      "image": "assets/products/4ba02d27fbc601037144.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T08:37:51.473Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8645973267|i:25101462819|v:92104395211",
+      "source": "coupang",
+      "name": "아임비타 멀티비타민 아르기닌샷 14회분, 434g, 2개, 434g × 2개",
+      "price": 25550,
+      "listPrice": 35152,
+      "observedAt": "2026-09-28T08:30:33.448Z",
+      "url": "https://link.coupang.com/a/hpvhYlZcGG",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25550,
+          "observedAt": "2026-09-28T08:30:33.448Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:188398915|n:가성비가브랜드다 이염방지 세탁시트, 200매, 1개",
       "source": "toss",
