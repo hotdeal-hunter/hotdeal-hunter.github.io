@@ -1,6 +1,64 @@
 {
-  "updatedAt": "2026-09-28T06:10:05.068Z",
+  "updatedAt": "2026-09-28T06:29:11.725Z",
   "deals": [
+    {
+      "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "source": "toss",
+      "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
+      "price": 8422,
+      "listPrice": 19900,
+      "observedAt": "2026-09-28T06:23:08.882Z",
+      "url": "https://toss.im/_m/x6Wm3art",
+      "image": "assets/products/7d2c7b9eb83f25f7426e.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 8422,
+          "observedAt": "2026-09-28T06:23:08.882Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-22T07:16:44.448Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T23:23:16.444Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:36:07.276Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:18.282Z"
+        },
+        {
+          "price": 8422,
+          "observedAt": "2026-09-21T02:34:15.253Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80867579|n:메르헨트 퍼퓸 샴푸, 화이트머스크, 1l, 2개",
+      "source": "toss",
+      "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
+      "price": 6230,
+      "listPrice": null,
+      "observedAt": "2026-09-28T06:16:14.490Z",
+      "url": "https://toss.shopping/_m/LmqxoDHC",
+      "image": "assets/products/2140840422c0ec59d550.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6230,
+          "observedAt": "2026-09-28T06:16:14.490Z"
+        },
+        {
+          "price": 6230,
+          "observedAt": "2026-09-28T05:35:11.485Z"
+        }
+      ]
+    },
     {
       "id": "p:5643862234|i:14221657683|v:90940652166",
       "source": "coupang",
@@ -32,23 +90,6 @@
         {
           "price": 24800,
           "observedAt": "2026-09-28T05:41:39.584Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:80867579|n:메르헨트 퍼퓸 샴푸, 화이트머스크, 1l, 2개",
-      "source": "toss",
-      "name": "메르헨트 퍼퓸 샴푸, 화이트머스크, 1L, 2개",
-      "price": 6230,
-      "listPrice": null,
-      "observedAt": "2026-09-28T05:35:11.485Z",
-      "url": "https://toss.shopping/_m/LmqxoDHC",
-      "image": "assets/products/2140840422c0ec59d550.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6230,
-          "observedAt": "2026-09-28T05:35:11.485Z"
         }
       ]
     },
@@ -6269,39 +6310,6 @@
         {
           "price": 38900,
           "observedAt": "2026-09-13T06:53:20.872Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:849904573|n:떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
-      "source": "toss",
-      "name": "떴닭 에어프라이어 치킨 자이언트 통다리, 1.3kg, 1개",
-      "price": 8422,
-      "listPrice": null,
-      "observedAt": "2026-09-22T07:16:44.448Z",
-      "url": "https://toss.im/_m/x6Wm3art",
-      "image": "assets/products/7d2c7b9eb83f25f7426e.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 8422,
-          "observedAt": "2026-09-22T07:16:44.448Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T23:23:16.444Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:36:07.276Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:34:18.282Z"
-        },
-        {
-          "price": 8422,
-          "observedAt": "2026-09-21T02:34:15.253Z"
         }
       ]
     },
