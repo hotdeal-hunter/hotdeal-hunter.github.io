@@ -1,17 +1,99 @@
 {
-  "updatedAt": "2026-09-28T11:15:42.672Z",
+  "updatedAt": "2026-09-28T12:07:42.962Z",
   "deals": [
     {
-      "id": "toss:p:2653195997|n:클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml",
+      "id": "p:191600841|i:20794510069|v:87864008974",
+      "source": "coupang",
+      "name": "오리온 태양의 맛 썬, 30g, 15개, 30g × 15개",
+      "price": 7800,
+      "listPrice": 10376,
+      "observedAt": "2026-09-28T12:02:58.887Z",
+      "url": "https://link.coupang.com/a/hpKs9pz2iW",
+      "image": "assets/products/cff3775271b70722580c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7800,
+          "observedAt": "2026-09-28T12:02:58.887Z"
+        },
+        {
+          "price": 7800,
+          "observedAt": "2026-09-28T11:18:21.798Z"
+        },
+        {
+          "price": 7800,
+          "observedAt": "2026-09-23T10:40:47.520Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
       "source": "toss",
-      "name": "클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml",
+      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T12:01:39.153Z",
+      "url": "https://toss.im/_m/TTnDCfvt",
+      "image": "assets/products/c533851cfff4da7eb835.jpg",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-09-28T12:01:39.153Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-28T12:01:38.879Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-26T07:49:20.350Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-26T07:32:03.587Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:39.854Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T13:04:39.506Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:37:32.496Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-09-03T02:05:38.482Z"
+        },
+        {
+          "price": 2558,
+          "observedAt": "2026-08-25T08:06:31.599Z"
+        },
+        {
+          "price": 17910,
+          "observedAt": "2026-08-25T08:04:58.416Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2653195997|n:클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml, 1개",
+      "source": "toss",
+      "name": "클리덤 저분자 콜라겐 탱글 립세럼, 플럼핑크+밀키블루, 3.8ml, 1개",
       "price": 5200,
       "listPrice": null,
-      "observedAt": "2026-09-28T11:09:46.200Z",
+      "observedAt": "2026-09-28T11:27:45.203Z",
       "url": "https://toss.shopping/_m/1tUNCGFe",
-      "image": "assets/products/46ae3eaecaa0ba3c7bf1.jpg",
-      "insight": "가격 기록을 시작한 상품",
+      "image": "assets/products/818f8730a81a368e0207.jpg",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 5200,
+          "observedAt": "2026-09-28T11:27:45.203Z"
+        },
         {
           "price": 5200,
           "observedAt": "2026-09-28T11:09:46.200Z"
@@ -3224,51 +3306,6 @@
       ]
     },
     {
-      "id": "toss:p:2129165057|n:임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "source": "toss",
-      "name": "임성근의 한끗다른 특 토종순대국, 600g, 7팩",
-      "price": 16900,
-      "listPrice": null,
-      "observedAt": "2026-09-26T07:49:20.350Z",
-      "url": "https://toss.im/_m/TTnDCfvt",
-      "image": "assets/products/c533851cfff4da7eb835.jpg",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 16900,
-          "observedAt": "2026-09-26T07:49:20.350Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-26T07:32:03.587Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T13:04:39.854Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T13:04:39.506Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T02:37:32.496Z"
-        },
-        {
-          "price": 16900,
-          "observedAt": "2026-09-03T02:05:38.482Z"
-        },
-        {
-          "price": 2558,
-          "observedAt": "2026-08-25T08:06:31.599Z"
-        },
-        {
-          "price": 17910,
-          "observedAt": "2026-08-25T08:04:58.416Z"
-        }
-      ]
-    },
-    {
       "id": "p:312729338|i:20835481700|v:88374261792",
       "source": "coupang",
       "name": "아우라 드라이 섬유유연시트 스윗만다린 앤 피오니향 본품, 120개입, 1개",
@@ -5563,23 +5600,6 @@
         {
           "price": 11875,
           "observedAt": "2026-09-23T07:33:27.194Z"
-        }
-      ]
-    },
-    {
-      "id": "p:191600841|i:20794510069|v:87864008974",
-      "source": "coupang",
-      "name": "오리온 태양의 맛 썬, 30g, 15개",
-      "price": 7800,
-      "listPrice": 10376,
-      "observedAt": "2026-09-23T10:40:47.520Z",
-      "url": "https://link.coupang.com/a/hhl4NOlj2a",
-      "image": "assets/products/cff3775271b70722580c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7800,
-          "observedAt": "2026-09-23T10:40:47.520Z"
         }
       ]
     },
