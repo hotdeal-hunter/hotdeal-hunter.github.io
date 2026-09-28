@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-28T12:07:42.962Z",
+  "updatedAt": "2026-09-28T13:00:50.856Z",
   "deals": [
+    {
+      "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
+      "source": "toss",
+      "name": "땡큐파머스 구운란, 대란, 30구, 1개",
+      "price": 11400,
+      "listPrice": 18400,
+      "observedAt": "2026-09-28T13:00:40.778Z",
+      "url": "https://toss.im/_m/3yqtMAAy",
+      "image": "assets/products/84828823dcccb9f632e7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11400,
+          "observedAt": "2026-09-28T13:00:40.778Z"
+        },
+        {
+          "price": 12400,
+          "observedAt": "2026-09-02T11:03:27.714Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
+      "source": "toss",
+      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-28T12:13:56.555Z",
+      "url": "https://toss.shopping/_m/BVRBLjF",
+      "image": "assets/products/6a1152e505bd07748e18.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T12:13:56.555Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-27T12:58:26.442Z"
+        }
+      ]
+    },
     {
       "id": "p:191600841|i:20794510069|v:87864008974",
       "source": "coupang",
@@ -365,7 +407,7 @@
       "listPrice": 10622,
       "observedAt": "2026-09-28T07:39:41.236Z",
       "url": "https://link.coupang.com/a/hprEARjh0K",
-      "image": null,
+      "image": "assets/products/b52466473b48649f67f2.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -1846,23 +1888,6 @@
         {
           "price": 9800,
           "observedAt": "2026-09-27T13:14:23.146Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
-      "source": "toss",
-      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-09-27T12:58:26.442Z",
-      "url": "https://toss.shopping/_m/BVRBLjF",
-      "image": "assets/products/6a1152e505bd07748e18.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-27T12:58:26.442Z"
         }
       ]
     },
@@ -15060,23 +15085,6 @@
         {
           "price": 8520,
           "observedAt": "2026-08-26T06:11:07.177Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
-      "source": "toss",
-      "name": "땡큐파머스 구운란, 대란, 30구, 1개",
-      "price": 12400,
-      "listPrice": 18400,
-      "observedAt": "2026-09-02T11:03:27.714Z",
-      "url": "https://toss.im/_m/3yqtMAAy",
-      "image": "assets/products/84828823dcccb9f632e7.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12400,
-          "observedAt": "2026-09-02T11:03:27.714Z"
         }
       ]
     },
