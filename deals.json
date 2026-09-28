@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T01:05:17.149Z",
+  "updatedAt": "2026-09-28T01:11:27.043Z",
   "deals": [
+    {
+      "id": "p:9334833111|i:27679495344|v:94641509023",
+      "source": "coupang",
+      "name": "마이노멀 밀가루 ZERO 두부면, 180g, 5개, 180g × 5개",
+      "price": 8790,
+      "listPrice": 13856,
+      "observedAt": "2026-09-28T01:11:16.746Z",
+      "url": "https://link.coupang.com/a/hoZTIhkKGq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8790,
+          "observedAt": "2026-09-28T01:11:16.746Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
       "source": "toss",
