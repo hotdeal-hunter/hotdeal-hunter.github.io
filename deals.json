@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-28T04:02:29.015Z",
+  "updatedAt": "2026-09-28T04:12:16.786Z",
   "deals": [
+    {
+      "id": "p:9395708044|i:27904109929|v:94842575984",
+      "source": "coupang",
+      "name": "배홍동 막국수 114g, 12개",
+      "price": 7170,
+      "listPrice": 9558,
+      "observedAt": "2026-09-28T04:07:35.458Z",
+      "url": "https://link.coupang.com/a/hpcuSnzTOu",
+      "image": "assets/products/e20e2979c610ad815896.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7170,
+          "observedAt": "2026-09-28T04:07:35.458Z"
+        },
+        {
+          "price": 9000,
+          "observedAt": "2026-08-27T11:33:33.260Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:569928231|n:쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+      "source": "toss",
+      "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
+      "price": 8200,
+      "listPrice": 25000,
+      "observedAt": "2026-09-28T04:06:13.779Z",
+      "url": "https://toss.im/_m/vVSo4OLu",
+      "image": "assets/products/79b17ee8fb4e4361cdea.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8200,
+          "observedAt": "2026-09-28T04:06:13.779Z"
+        },
+        {
+          "price": 7080,
+          "observedAt": "2026-08-30T03:06:06.574Z"
+        },
+        {
+          "price": 7080,
+          "observedAt": "2026-08-23T05:09:35.455Z"
+        },
+        {
+          "price": 7080,
+          "observedAt": "2026-08-23T05:07:50.821Z"
+        }
+      ]
+    },
     {
       "id": "p:8449462511|i:26680448791|v:93604299284",
       "source": "coupang",
@@ -16623,31 +16673,6 @@
       ]
     },
     {
-      "id": "toss:p:569928231|n:쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-      "source": "toss",
-      "name": "쏘울너츠 100% 땅콩버터, 크런치 500g 1개 + 스무스 500g 1개, 2개",
-      "price": 7080,
-      "listPrice": 25000,
-      "observedAt": "2026-08-30T03:06:06.574Z",
-      "url": "https://toss.im/_m/vVSo4OLu",
-      "image": "assets/products/79b17ee8fb4e4361cdea.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 7080,
-          "observedAt": "2026-08-30T03:06:06.574Z"
-        },
-        {
-          "price": 7080,
-          "observedAt": "2026-08-23T05:09:35.455Z"
-        },
-        {
-          "price": 7080,
-          "observedAt": "2026-08-23T05:07:50.821Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:282537003|n:산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
       "source": "toss",
       "name": "산과들에 원데이발란스그린 하루견과, 20g, 50봉, 1세트",
@@ -18415,23 +18440,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-27T11:54:19.642Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9395708044|i:27904109929|v:94842575984",
-      "source": "coupang",
-      "name": "배홍동 막국수 114g, 12개",
-      "price": 9000,
-      "listPrice": 11909,
-      "observedAt": "2026-08-27T11:33:33.260Z",
-      "url": "https://link.coupang.com/a/gyBrqoaKhE",
-      "image": "assets/products/e20e2979c610ad815896.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9000,
-          "observedAt": "2026-08-27T11:33:33.260Z"
         }
       ]
     },
