@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T09:09:29.216Z",
+  "updatedAt": "2026-09-28T09:19:14.707Z",
   "deals": [
+    {
+      "id": "p:14567|i:9838085|v:3014347196",
+      "source": "coupang",
+      "name": "잘풀리는집 천연펄프 롤키친타올, 6롤, 7개",
+      "price": 15120,
+      "listPrice": 24690,
+      "observedAt": "2026-09-28T09:13:11.261Z",
+      "url": "https://link.coupang.com/a/hpykQ2f1FY",
+      "image": "assets/products/ff4df95cd07b53911ae0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15120,
+          "observedAt": "2026-09-28T09:13:11.261Z"
+        }
+      ]
+    },
     {
       "id": "p:7784271976|i:21045267208|v:88107885741",
       "source": "coupang",
