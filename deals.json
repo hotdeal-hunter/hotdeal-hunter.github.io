@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T09:19:14.707Z",
+  "updatedAt": "2026-09-28T10:03:29.351Z",
   "deals": [
+    {
+      "id": "toss:p:2667950123|n:일양약품 눈건강 루테인 골드, 30캡슐, 6개",
+      "source": "toss",
+      "name": "일양약품 눈건강 루테인 골드, 30캡슐, 6개",
+      "price": 17800,
+      "listPrice": 297000,
+      "observedAt": "2026-09-28T09:57:51.470Z",
+      "url": "https://toss.shopping/_m/Xji8Q4J",
+      "image": "assets/products/11b2f37b2040dbcfc694.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17800,
+          "observedAt": "2026-09-28T09:57:51.470Z"
+        }
+      ]
+    },
     {
       "id": "p:14567|i:9838085|v:3014347196",
       "source": "coupang",
