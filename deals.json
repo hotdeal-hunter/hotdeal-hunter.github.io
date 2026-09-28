@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-28T01:19:29.366Z",
+  "updatedAt": "2026-09-28T01:28:08.188Z",
   "deals": [
+    {
+      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "source": "toss",
+      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "price": 10990,
+      "listPrice": null,
+      "observedAt": "2026-09-28T01:20:56.920Z",
+      "url": "https://toss.shopping/_m/rhwPv1Zk",
+      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T01:20:56.920Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
     {
       "id": "p:9731914115|i:29122408348|v:80803192255",
       "source": "coupang",
@@ -49,23 +70,6 @@
         {
           "price": 8790,
           "observedAt": "2026-09-28T01:11:16.746Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "source": "toss",
-      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "price": 10990,
-      "listPrice": null,
-      "observedAt": "2026-09-28T00:50:40.699Z",
-      "url": "https://toss.shopping/_m/rhwPv1Zk",
-      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T00:50:40.699Z"
         }
       ]
     },
