@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T23:27:49.759Z",
+  "updatedAt": "2026-09-29T23:37:40.324Z",
   "deals": [
+    {
+      "id": "p:7866106965|i:24719078857|v:91502661164",
+      "source": "coupang",
+      "name": "일본 목캔디 용각산 목사탕, 88g, 6개",
+      "price": 11640,
+      "listPrice": 15960,
+      "observedAt": "2026-09-29T23:37:24.128Z",
+      "url": "https://link.coupang.com/a/hscZRTufIG",
+      "image": "assets/products/601f1d3c78d5f9444acd.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11640,
+          "observedAt": "2026-09-29T23:37:24.128Z"
+        }
+      ]
+    },
     {
       "id": "p:4760848047|i:27983627350|v:94941356254",
       "source": "coupang",
@@ -4260,7 +4277,7 @@
       "listPrice": 12200,
       "observedAt": "2026-09-26T07:47:53.380Z",
       "url": "https://link.coupang.com/a/hl8qRc0c5k",
-      "image": null,
+      "image": "assets/products/c56087d1da4b6008b32a.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -4381,7 +4398,7 @@
       "listPrice": 15010,
       "observedAt": "2026-09-26T05:27:53.983Z",
       "url": "https://link.coupang.com/a/hlYqCq7zqu",
-      "image": null,
+      "image": "assets/products/053333b0343cd6c30462.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -4457,7 +4474,7 @@
       "listPrice": null,
       "observedAt": "2026-09-26T03:30:02.098Z",
       "url": "https://link.coupang.com/a/hlP0pFMuMC",
-      "image": null,
+      "image": "assets/products/812516e385bd0071f04e.png",
       "insight": "2회 가격 기록",
       "history": [
         {
@@ -4950,7 +4967,7 @@
       "listPrice": null,
       "observedAt": "2026-09-25T09:42:30.294Z",
       "url": "https://link.coupang.com/a/hkBICy3x7s",
-      "image": null,
+      "image": "assets/products/87361077831d68b6c066.jpg",
       "insight": "3회 가격 기록",
       "history": [
         {
