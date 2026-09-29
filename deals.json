@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-29T07:30:05.919Z",
+  "updatedAt": "2026-09-29T08:01:11.243Z",
   "deals": [
+    {
+      "id": "p:7188663369|i:18218232008|v:85585803475",
+      "source": "coupang",
+      "name": "프리넥 무선 온열 목 어깨 승모근 안마기, MD-889",
+      "price": 20390,
+      "listPrice": null,
+      "observedAt": "2026-09-29T08:00:58.857Z",
+      "url": "https://link.coupang.com/a/hq74YI5zLo",
+      "image": "assets/products/c8b1912d7ce6536b1485.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 20390,
+          "observedAt": "2026-09-29T08:00:58.857Z"
+        },
+        {
+          "price": 20390,
+          "observedAt": "2026-09-29T08:00:54.833Z"
+        }
+      ]
+    },
     {
       "id": "p:8384504681|i:27040730363|v:94009192006",
       "source": "coupang",
