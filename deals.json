@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T22:44:54.876Z",
+  "updatedAt": "2026-09-29T22:47:39.485Z",
   "deals": [
+    {
+      "id": "p:8059892463|i:22636647643|v:89677679983",
+      "source": "coupang",
+      "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 18g, 1개",
+      "price": 4250,
+      "listPrice": 8181,
+      "observedAt": "2026-09-29T22:47:23.007Z",
+      "url": "https://link.coupang.com/a/hr9qfTPTXg",
+      "image": "assets/products/c1644ec8f4533f8e7341.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4250,
+          "observedAt": "2026-09-29T22:47:23.007Z"
+        }
+      ]
+    },
     {
       "id": "p:6170885342|i:19568487768|v:92845960871",
       "source": "coupang",
@@ -17151,23 +17168,6 @@
         {
           "price": 6800,
           "observedAt": "2026-08-30T23:19:42.317Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8059892463|i:22636647644|v:89677679993",
-      "source": "coupang",
-      "name": "에뛰드 NEW 마이 래쉬 세럼 속눈썹 영양제, 9g, 1개",
-      "price": 2600,
-      "listPrice": 6458,
-      "observedAt": "2026-08-30T23:12:15.636Z",
-      "url": "https://link.coupang.com/a/gEn5aa7MZM",
-      "image": "assets/products/0efd880018d56fecf051.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 2600,
-          "observedAt": "2026-08-30T23:12:15.636Z"
         }
       ]
     },
