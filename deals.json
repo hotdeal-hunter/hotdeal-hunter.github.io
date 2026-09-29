@@ -1,6 +1,122 @@
 {
-  "updatedAt": "2026-09-29T04:18:56.858Z",
+  "updatedAt": "2026-09-29T05:40:26.387Z",
   "deals": [
+    {
+      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "source": "toss",
+      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "price": 6930,
+      "listPrice": 17900,
+      "observedAt": "2026-09-29T05:40:07.583Z",
+      "url": "https://toss.im/_m/jetxq8h8",
+      "image": "assets/products/035b44bcf34eaef152f6.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T05:40:07.583Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-22T23:01:05.969Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-22T07:16:44.649Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T23:01:12.264Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T06:01:24.860Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "source": "toss",
+      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-29T05:37:50.277Z",
+      "url": "https://toss.shopping/_m/Nw5J94Is",
+      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:50.277Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:46.374Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-28T22:23:06.457Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "source": "toss",
+      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-09-29T05:22:31.544Z",
+      "url": "https://toss.im/_m/NJ8THqjn",
+      "image": "assets/products/33ee5587280f52967854.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-09-29T05:22:31.544Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-24T04:13:22.913Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-24T04:13:22.805Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T05:14:53.938Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-23T03:53:54.828Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7689459535|i:23703359331|v:90775018693",
+      "source": "coupang",
+      "name": "파이어립 화재집압 소방패치 콘센트형, 1개, 레드",
+      "price": 4400,
+      "listPrice": 6687,
+      "observedAt": "2026-09-29T05:17:43.286Z",
+      "url": "https://link.coupang.com/a/hqWpD5l540",
+      "image": "assets/products/5a16827f743475f4b962.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4400,
+          "observedAt": "2026-09-29T05:17:43.286Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-24T03:16:35.224Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-24T03:16:31.513Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2250848331|n:애슐리 볶음밥 3종, 통새우 230g 2개 + 스크램블&게살 230g 2개 + 버터와규 230g 2개, 1세트",
       "source": "toss",
@@ -397,23 +513,6 @@
         {
           "price": 8000,
           "observedAt": "2026-09-28T22:23:06.674Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "source": "toss",
-      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "price": 5990,
-      "listPrice": 17900,
-      "observedAt": "2026-09-28T22:23:06.457Z",
-      "url": "https://toss.shopping/_m/Nw5J94Is",
-      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-28T22:23:06.457Z"
         }
       ]
     },
@@ -5623,35 +5722,6 @@
       ]
     },
     {
-      "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "source": "toss",
-      "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
-      "price": 19900,
-      "listPrice": null,
-      "observedAt": "2026-09-24T04:13:22.913Z",
-      "url": "https://toss.im/_m/NJ8THqjn",
-      "image": "assets/products/33ee5587280f52967854.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-09-24T04:13:22.913Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-24T04:13:22.805Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-23T05:14:53.938Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-23T03:53:54.828Z"
-        }
-      ]
-    },
-    {
       "id": "p:8296710271|i:23930765582|v:91089112047",
       "source": "coupang",
       "name": "한일의료기 프리미엄 카본 탄소 전기매트 HLD-BB220S(24), 애쉬그레이, 싱글(100 × 180 cm)",
@@ -5682,27 +5752,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-24T03:55:20.770Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7689459535|i:23703359331|v:90775018693",
-      "source": "coupang",
-      "name": "파이어립 화재집압 소방패치 콘센트형",
-      "price": 4400,
-      "listPrice": null,
-      "observedAt": "2026-09-24T03:16:35.224Z",
-      "url": "https://link.coupang.com/a/hiveKidqQS",
-      "image": "assets/products/5a16827f743475f4b962.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4400,
-          "observedAt": "2026-09-24T03:16:35.224Z"
-        },
-        {
-          "price": 4400,
-          "observedAt": "2026-09-24T03:16:31.513Z"
         }
       ]
     },
@@ -6516,35 +6565,6 @@
         {
           "price": 19900,
           "observedAt": "2026-09-22T23:18:53.525Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "source": "toss",
-      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-09-22T23:01:05.969Z",
-      "url": "https://toss.im/_m/jetxq8h8",
-      "image": "assets/products/035b44bcf34eaef152f6.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-09-22T23:01:05.969Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-22T07:16:44.649Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-21T23:01:12.264Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-21T06:01:24.860Z"
         }
       ]
     },
