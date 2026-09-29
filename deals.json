@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T07:07:18.065Z",
+  "updatedAt": "2026-09-29T07:30:05.919Z",
   "deals": [
+    {
+      "id": "p:8384504681|i:27040730363|v:94009192006",
+      "source": "coupang",
+      "name": "배냇밀 이유식 완료기, 100g, 2개, 혼합맛(소고기/콜리플라워)",
+      "price": 3200,
+      "listPrice": 6260,
+      "observedAt": "2026-09-29T07:29:49.352Z",
+      "url": "https://link.coupang.com/a/hq5QVnlU4G",
+      "image": "assets/products/4e1122cb3c0181b7a7ca.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3200,
+          "observedAt": "2026-09-29T07:29:49.352Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:176610049|n:네모라인 엠보극세사 경추베개솜, 화이트, 40x60cm, 2개",
       "source": "toss",
