@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T12:07:39.161Z",
+  "updatedAt": "2026-09-29T12:11:35.672Z",
   "deals": [
+    {
+      "id": "toss:p:2654021521|n:과일꾼 제주 극조생 감귤, 로얄과, 5kg, 1박스",
+      "source": "toss",
+      "name": "과일꾼 제주 극조생 감귤, 로얄과, 5kg, 1박스",
+      "price": 11900,
+      "listPrice": 52900,
+      "observedAt": "2026-09-29T12:11:18.440Z",
+      "url": "https://toss.shopping/_m/rQidt8x3",
+      "image": "assets/products/569d5b97222962f6160a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-29T12:11:18.440Z"
+        }
+      ]
+    },
     {
       "id": "p:8342356907|i:26867729429|v:93837359544",
       "source": "coupang",
