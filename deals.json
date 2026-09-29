@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-29T11:15:23.562Z",
+  "updatedAt": "2026-09-29T12:07:39.161Z",
   "deals": [
+    {
+      "id": "p:8342356907|i:26867729429|v:93837359544",
+      "source": "coupang",
+      "name": "멘소래담 립 퐁듀, 누드베이지, 3,2g, 3개",
+      "price": 12160,
+      "listPrice": null,
+      "observedAt": "2026-09-29T12:07:28.297Z",
+      "url": "https://link.coupang.com/a/hrpG4hHBpk",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12160,
+          "observedAt": "2026-09-29T12:07:28.297Z"
+        },
+        {
+          "price": 12160,
+          "observedAt": "2026-09-29T12:07:24.083Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2673889403|n:삼다 제주 간고등어 특대, 150g, 10마리, 1개",
+      "source": "toss",
+      "name": "삼다 제주 간고등어 특대, 150g, 10마리, 1개",
+      "price": 27200,
+      "listPrice": null,
+      "observedAt": "2026-09-29T12:07:28.216Z",
+      "url": "https://toss.shopping/_m/bj7kSvtc",
+      "image": "assets/products/436e55880fd6d90782f1.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 27200,
+          "observedAt": "2026-09-29T12:07:28.216Z"
+        },
+        {
+          "price": 27200,
+          "observedAt": "2026-09-29T10:44:00.580Z"
+        }
+      ]
+    },
     {
       "id": "p:8308560895|i:26313439477|v:93290941179",
       "source": "coupang",
@@ -40,23 +82,6 @@
         {
           "price": 4400,
           "observedAt": "2026-09-25T08:13:43.802Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2673889403|n:삼다 제주 간고등어 특대, 150g, 10마리, 1개",
-      "source": "toss",
-      "name": "삼다 제주 간고등어 특대, 150g, 10마리, 1개",
-      "price": 27200,
-      "listPrice": null,
-      "observedAt": "2026-09-29T10:44:00.580Z",
-      "url": "https://toss.shopping/_m/bj7kSvtc",
-      "image": "assets/products/436e55880fd6d90782f1.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 27200,
-          "observedAt": "2026-09-29T10:44:00.580Z"
         }
       ]
     },
