@@ -1,20 +1,94 @@
 {
-  "updatedAt": "2026-09-29T23:06:03.317Z",
+  "updatedAt": "2026-09-29T23:27:49.759Z",
   "deals": [
     {
-      "id": "p:7164345502|i:17686805619|v:80519514876",
+      "id": "p:4760848047|i:27983627350|v:94941356254",
       "source": "coupang",
-      "name": "세타필 모이스춰라이징 로션, 591ml, 1개",
-      "price": 9490,
-      "listPrice": null,
-      "observedAt": "2026-09-29T23:05:50.839Z",
-      "url": "https://link.coupang.com/a/hsaJ3OKPLM",
-      "image": "assets/products/775acc894d7eff9d2b70.jpg",
+      "name": "퀘이커 마시는 오트밀 그레인 서리태 낱봉팩, 1kg, 1세트",
+      "price": 13210,
+      "listPrice": 21656,
+      "observedAt": "2026-09-29T23:27:33.156Z",
+      "url": "https://link.coupang.com/a/hscieldrR6",
+      "image": "assets/products/d7a6018d00c07eb50c03.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
-          "price": 9490,
-          "observedAt": "2026-09-29T23:05:50.839Z"
+          "price": 13210,
+          "observedAt": "2026-09-29T23:27:33.156Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-29T23:15:41.156Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T23:15:41.156Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T22:22:58.545Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T22:58:58.259Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T02:32:33.834Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:51:02.817Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:50:58.863Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
+      "source": "toss",
+      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-29T23:15:41.059Z",
+      "url": "https://toss.shopping/_m/F0g4PD5v",
+      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T23:15:41.059Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.062Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.597Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:52:25.182Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-27T23:11:21.315Z"
         }
       ]
     },
@@ -24,11 +98,15 @@
       "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "price": 12800,
       "listPrice": null,
-      "observedAt": "2026-09-29T23:03:31.314Z",
+      "observedAt": "2026-09-29T23:15:40.894Z",
       "url": "https://toss.im/_m/bEhSQcFD",
       "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "25회 가격 기록",
+      "insight": "26회 가격 기록",
       "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:15:40.894Z"
+        },
         {
           "price": 12800,
           "observedAt": "2026-09-29T23:03:31.314Z"
@@ -128,6 +206,23 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7164345502|i:17686805619|v:80519514876",
+      "source": "coupang",
+      "name": "세타필 모이스춰라이징 로션, 591ml, 1개",
+      "price": 9490,
+      "listPrice": null,
+      "observedAt": "2026-09-29T23:05:50.839Z",
+      "url": "https://link.coupang.com/a/hsaJ3OKPLM",
+      "image": "assets/products/775acc894d7eff9d2b70.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-09-29T23:05:50.839Z"
         }
       ]
     },
@@ -291,35 +386,6 @@
       ]
     },
     {
-      "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
-      "source": "toss",
-      "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
-      "price": 4990,
-      "listPrice": 16000,
-      "observedAt": "2026-09-29T22:22:59.062Z",
-      "url": "https://toss.shopping/_m/F0g4PD5v",
-      "image": "assets/products/d9a36516ff9b9ef6af5f.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.062Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.597Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-27T23:52:25.182Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-27T23:11:21.315Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:818096509|n:팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
       "source": "toss",
       "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
@@ -350,43 +416,6 @@
         {
           "price": 3490,
           "observedAt": "2026-09-29T22:22:58.645Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
-      "source": "toss",
-      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-      "price": 8900,
-      "listPrice": 20000,
-      "observedAt": "2026-09-29T22:22:58.545Z",
-      "url": "https://toss.im/_m/FFTuiMaC",
-      "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-29T22:22:58.545Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T22:58:58.259Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T02:32:33.834Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:51:02.817Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:50:58.863Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-21T08:17:55.264Z"
         }
       ]
     },
