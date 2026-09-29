@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-29T12:11:35.672Z",
+  "updatedAt": "2026-09-29T12:43:47.337Z",
   "deals": [
+    {
+      "id": "p:7908090529|i:21692611376|v:88742361766",
+      "source": "coupang",
+      "name": "산토리 일본 교토 후쿠주엔 녹차 이에몬 2L 6개, 2L, 6개",
+      "price": 14860,
+      "listPrice": 24780,
+      "observedAt": "2026-09-29T12:43:31.211Z",
+      "url": "https://link.coupang.com/a/hrsgM6cFzM",
+      "image": "assets/products/2fefe1cb43461273c8d3.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14860,
+          "observedAt": "2026-09-29T12:43:31.211Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "source": "toss",
+      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-09-29T12:17:43.147Z",
+      "url": "https://toss.im/_m/H8jMugyo",
+      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-09-29T12:17:43.147Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-09-22T06:17:10.529Z"
+        },
+        {
+          "price": 11498,
+          "observedAt": "2026-09-15T04:08:55.141Z"
+        },
+        {
+          "price": 11300,
+          "observedAt": "2026-09-07T09:46:05.792Z"
+        },
+        {
+          "price": 12988,
+          "observedAt": "2026-08-31T10:22:40.217Z"
+        },
+        {
+          "price": 11780,
+          "observedAt": "2026-08-24T05:32:01.644Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2654021521|n:과일꾼 제주 극조생 감귤, 로얄과, 5kg, 1박스",
       "source": "toss",
@@ -7323,39 +7377,6 @@
         {
           "price": 8770,
           "observedAt": "2026-09-22T06:24:16.558Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:57080321|n:동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "source": "toss",
-      "name": "동아오츠카 나랑드사이다 제로, 오리지널, 345ml, 24개",
-      "price": 11900,
-      "listPrice": 16500,
-      "observedAt": "2026-09-22T06:17:10.529Z",
-      "url": "https://toss.im/_m/H8jMugyo",
-      "image": "assets/products/8f27e3688f64bbc0822e.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-09-22T06:17:10.529Z"
-        },
-        {
-          "price": 11498,
-          "observedAt": "2026-09-15T04:08:55.141Z"
-        },
-        {
-          "price": 11300,
-          "observedAt": "2026-09-07T09:46:05.792Z"
-        },
-        {
-          "price": 12988,
-          "observedAt": "2026-08-31T10:22:40.217Z"
-        },
-        {
-          "price": 11780,
-          "observedAt": "2026-08-24T05:32:01.644Z"
         }
       ]
     },
