@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-09-29T08:15:56.222Z",
+  "updatedAt": "2026-09-29T09:13:00.274Z",
   "deals": [
+    {
+      "id": "p:1333426|i:11131043391|v:85321895440",
+      "source": "coupang",
+      "name": "올리타리아 발사믹식초 5그레이프, 250ml, 2개, 250ml × 2개",
+      "price": 25450,
+      "listPrice": 37169,
+      "observedAt": "2026-09-29T09:12:44.166Z",
+      "url": "https://link.coupang.com/a/hrdcTjbdDg",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25450,
+          "observedAt": "2026-09-29T09:12:44.166Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "source": "toss",
+      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-09-29T08:42:19.555Z",
+      "url": "https://toss.im/_m/jetxq8h8",
+      "image": "assets/products/035b44bcf34eaef152f6.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T08:42:19.555Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T05:40:07.583Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-22T23:01:05.969Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-22T07:16:44.649Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T23:01:12.264Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-21T06:01:24.860Z"
+        }
+      ]
+    },
     {
       "id": "p:9410616536|i:27660907934|v:94623206101",
       "source": "coupang",
@@ -188,39 +242,6 @@
         {
           "price": 17800,
           "observedAt": "2026-09-29T06:05:18.094Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2666234777|n:탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "source": "toss",
-      "name": "탑프룻 망고젤리, 망고맛, 320g, 3개",
-      "price": 6930,
-      "listPrice": 17900,
-      "observedAt": "2026-09-29T05:40:07.583Z",
-      "url": "https://toss.im/_m/jetxq8h8",
-      "image": "assets/products/035b44bcf34eaef152f6.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T05:40:07.583Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-22T23:01:05.969Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-22T07:16:44.649Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-21T23:01:12.264Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-21T06:01:24.860Z"
         }
       ]
     },
