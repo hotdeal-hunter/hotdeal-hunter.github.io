@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-29T06:05:34.125Z",
+  "updatedAt": "2026-09-29T06:18:55.450Z",
   "deals": [
+    {
+      "id": "p:9409744445|i:27966962148|v:-",
+      "source": "coupang",
+      "name": "오뚜기 진밀면 135g, 24개",
+      "price": 14380,
+      "listPrice": 31800,
+      "observedAt": "2026-09-29T06:18:39.539Z",
+      "url": "https://link.coupang.com/a/hq0LCSrPwq",
+      "image": "assets/products/525d57c34afc66c85af0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14380,
+          "observedAt": "2026-09-29T06:18:39.539Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9716584978|i:18936462844|v:90096337916",
+      "source": "coupang",
+      "name": "만전김 두번 구운 김밥김 10p, 25g, 2개",
+      "price": 4300,
+      "listPrice": 8000,
+      "observedAt": "2026-09-29T06:18:39.222Z",
+      "url": "https://link.coupang.com/a/hq0LBR6CSO",
+      "image": "assets/products/756152442f32742922f0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4300,
+          "observedAt": "2026-09-29T06:18:39.222Z"
+        }
+      ]
+    },
     {
       "id": "p:6279754572|i:12888646494|v:80153748585",
       "source": "coupang",
