@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-29T10:44:26.124Z",
+  "updatedAt": "2026-09-29T11:15:23.562Z",
   "deals": [
+    {
+      "id": "p:8308560895|i:26313439477|v:93290941179",
+      "source": "coupang",
+      "name": "아라리 변색에 강한 맥세이프 범퍼 듀플M 아머 휴대폰 케이스, 아이폰17 프로 맥스",
+      "price": 7950,
+      "listPrice": 15900,
+      "observedAt": "2026-09-29T11:15:07.613Z",
+      "url": "https://link.coupang.com/a/hrlW9AWjlY",
+      "image": "assets/products/8ceb7a54dae0b5e17123.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7950,
+          "observedAt": "2026-09-29T11:15:07.613Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
+      "source": "toss",
+      "name": "에브리워터 무라벨, 500ml, 40개",
+      "price": 7980,
+      "listPrice": 19800,
+      "observedAt": "2026-09-29T11:05:42.448Z",
+      "url": "https://toss.shopping/_m/l15lbhSg",
+      "image": "assets/products/a11cd6225dc9d4a79a58.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7980,
+          "observedAt": "2026-09-29T11:05:42.448Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-27T06:00:57.905Z"
+        },
+        {
+          "price": 4400,
+          "observedAt": "2026-09-25T08:13:43.802Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2673889403|n:삼다 제주 간고등어 특대, 150g, 10마리, 1개",
       "source": "toss",
@@ -2916,27 +2958,6 @@
         {
           "price": 8990,
           "observedAt": "2026-08-25T06:08:24.313Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:56391485|n:에브리워터 무라벨, 500ml, 40개",
-      "source": "toss",
-      "name": "에브리워터 무라벨, 500ml, 40개",
-      "price": 4400,
-      "listPrice": null,
-      "observedAt": "2026-09-27T06:00:57.905Z",
-      "url": "https://toss.shopping/_m/l15lbhSg",
-      "image": "assets/products/a11cd6225dc9d4a79a58.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4400,
-          "observedAt": "2026-09-27T06:00:57.905Z"
-        },
-        {
-          "price": 4400,
-          "observedAt": "2026-09-25T08:13:43.802Z"
         }
       ]
     },
