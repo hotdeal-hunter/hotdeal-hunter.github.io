@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-29T01:26:43.701Z",
+  "updatedAt": "2026-09-29T01:43:31.735Z",
   "deals": [
+    {
+      "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
+      "source": "toss",
+      "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-09-29T01:43:24.650Z",
+      "url": "https://toss.im/_m/ZdJxPbYt",
+      "image": "assets/products/d8a86814404ead5048b8.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-29T01:43:24.650Z"
+        },
+        {
+          "price": 11800,
+          "observedAt": "2026-09-12T04:52:23.396Z"
+        },
+        {
+          "price": 12990,
+          "observedAt": "2026-08-30T07:30:34.071Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
       "source": "toss",
@@ -42,7 +67,7 @@
       "listPrice": 36582,
       "observedAt": "2026-09-29T01:01:47.875Z",
       "url": "https://link.coupang.com/a/hqD7KBo9TM",
-      "image": null,
+      "image": "assets/products/cde8af6cdc80aba84a3f.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -11216,27 +11241,6 @@
         {
           "price": 7300,
           "observedAt": "2026-09-12T05:00:27.946Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
-      "source": "toss",
-      "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
-      "price": 11800,
-      "listPrice": 16900,
-      "observedAt": "2026-09-12T04:52:23.396Z",
-      "url": "https://toss.im/_m/ZdJxPbYt",
-      "image": "assets/products/d8a86814404ead5048b8.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11800,
-          "observedAt": "2026-09-12T04:52:23.396Z"
-        },
-        {
-          "price": 12990,
-          "observedAt": "2026-08-30T07:30:34.071Z"
         }
       ]
     },
