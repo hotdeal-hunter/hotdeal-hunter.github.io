@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T09:13:00.274Z",
+  "updatedAt": "2026-09-29T09:39:10.337Z",
   "deals": [
+    {
+      "id": "toss:p:151812257|n:익스트림 듀얼 아르기닌 플러스, 120정, 1개",
+      "source": "toss",
+      "name": "익스트림 듀얼 아르기닌 플러스, 120정, 1개",
+      "price": 9900,
+      "listPrice": 30000,
+      "observedAt": "2026-09-29T09:38:54.532Z",
+      "url": "https://toss.shopping/_m/Ldqpfrqr",
+      "image": "assets/products/3887f78ed5bc2fdf4df7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-09-29T09:38:54.532Z"
+        }
+      ]
+    },
     {
       "id": "p:1333426|i:11131043391|v:85321895440",
       "source": "coupang",
