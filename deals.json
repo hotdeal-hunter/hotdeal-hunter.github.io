@@ -1,6 +1,136 @@
 {
-  "updatedAt": "2026-09-29T22:50:21.963Z",
+  "updatedAt": "2026-09-29T23:06:03.317Z",
   "deals": [
+    {
+      "id": "p:7164345502|i:17686805619|v:80519514876",
+      "source": "coupang",
+      "name": "세타필 모이스춰라이징 로션, 591ml, 1개",
+      "price": 9490,
+      "listPrice": null,
+      "observedAt": "2026-09-29T23:05:50.839Z",
+      "url": "https://link.coupang.com/a/hsaJ3OKPLM",
+      "image": "assets/products/775acc894d7eff9d2b70.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-09-29T23:05:50.839Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-09-29T23:03:31.314Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/b06505bacecca338e1df.jpg",
+      "insight": "25회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.314Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.159Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T22:22:58.341Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.253Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.112Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T02:32:33.377Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:50:39.749Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.475Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.344Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:48:07.271Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-05T23:01:20.837Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:36.181Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:31.729Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.784Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.186Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:00:34.250Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:36.534Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:32.486Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:00:24.828Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:28.567Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:25.053Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
     {
       "id": "p:6850999015|i:15596618659|v:70038298470",
       "source": "coupang",
@@ -257,111 +387,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-21T08:17:55.264Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "price": 12800,
-      "listPrice": 37900,
-      "observedAt": "2026-09-29T22:22:58.341Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "23회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T22:22:58.341Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.253Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.112Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T02:32:33.377Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:50:39.749Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.475Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.344Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:48:07.271Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-05T23:01:20.837Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:36.181Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:31.729Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.784Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.186Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:00:34.250Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:36.534Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:32.486Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:00:24.828Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:28.567Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:25.053Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:17:08.569Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:15:37.099Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
         }
       ]
     },
