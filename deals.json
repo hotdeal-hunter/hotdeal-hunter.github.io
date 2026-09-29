@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-28T23:24:03.444Z",
+  "updatedAt": "2026-09-29T00:06:28.976Z",
   "deals": [
+    {
+      "id": "p:9299295836|i:28799818552|v:95695459946",
+      "source": "coupang",
+      "name": "IMINT 에스프레소 무설탕 자일리톨 커피 캔디, 32g, 3개, 32g × 3개",
+      "price": 11400,
+      "listPrice": 15212,
+      "observedAt": "2026-09-29T00:00:31.976Z",
+      "url": "https://link.coupang.com/a/hqzKjlJiyy",
+      "image": "assets/products/6f437c0664bbad547149.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11400,
+          "observedAt": "2026-09-29T00:00:31.976Z"
+        }
+      ]
+    },
     {
       "id": "p:7124855|i:20282421923|v:3046762303",
       "source": "coupang",
