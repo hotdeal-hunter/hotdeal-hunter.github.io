@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T01:43:31.735Z",
+  "updatedAt": "2026-09-29T03:07:51.795Z",
   "deals": [
+    {
+      "id": "toss:p:25715003|n:가쯔 프리미엄 대용량 욕실청소 변기세정제, 50g, 40개, 1박스",
+      "source": "toss",
+      "name": "가쯔 프리미엄 대용량 욕실청소 변기세정제, 50g, 40개, 1박스",
+      "price": 6900,
+      "listPrice": null,
+      "observedAt": "2026-09-29T03:07:24.082Z",
+      "url": "https://toss.shopping/_m/TJIQw3Dd",
+      "image": "assets/products/46e61f2d295f1dc64eee.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-09-29T03:07:24.082Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
       "source": "toss",
