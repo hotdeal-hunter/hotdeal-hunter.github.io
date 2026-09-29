@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-09-29T09:39:10.337Z",
+  "updatedAt": "2026-09-29T10:44:26.124Z",
   "deals": [
+    {
+      "id": "toss:p:2673889403|n:삼다 제주 간고등어 특대, 150g, 10마리, 1개",
+      "source": "toss",
+      "name": "삼다 제주 간고등어 특대, 150g, 10마리, 1개",
+      "price": 27200,
+      "listPrice": null,
+      "observedAt": "2026-09-29T10:44:00.580Z",
+      "url": "https://toss.shopping/_m/bj7kSvtc",
+      "image": "assets/products/436e55880fd6d90782f1.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27200,
+          "observedAt": "2026-09-29T10:44:00.580Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "source": "toss",
+      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-09-29T10:16:58.327Z",
+      "url": "https://toss.shopping/_m/Nw5J94Is",
+      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T10:16:58.327Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:50.277Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:46.374Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-28T22:23:06.457Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:151812257|n:익스트림 듀얼 아르기닌 플러스, 120정, 1개",
       "source": "toss",
@@ -26,7 +72,7 @@
       "listPrice": 37169,
       "observedAt": "2026-09-29T09:12:44.166Z",
       "url": "https://link.coupang.com/a/hrdcTjbdDg",
-      "image": null,
+      "image": "assets/products/faa28e5085c3c4c0c631.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -263,31 +309,6 @@
       ]
     },
     {
-      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "source": "toss",
-      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-29T05:37:50.277Z",
-      "url": "https://toss.shopping/_m/Nw5J94Is",
-      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-29T05:37:50.277Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-29T05:37:46.374Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-28T22:23:06.457Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1291096703|n:토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
       "source": "toss",
       "name": "토브리빙 질레트 호환용 면도날 프로글라이드 5중, 블랙, 36개입 + 스윙면도기, 1개",
@@ -432,7 +453,7 @@
       "listPrice": 28818,
       "observedAt": "2026-09-29T03:48:50.360Z",
       "url": "https://link.coupang.com/a/hqP3QrHqBU",
-      "image": null,
+      "image": "assets/products/843883ce4eefa343828e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -685,7 +706,7 @@
       "listPrice": 15531,
       "observedAt": "2026-09-28T23:01:12.448Z",
       "url": "https://link.coupang.com/a/hqvvsJ3ANU",
-      "image": null,
+      "image": "assets/products/cd9fa4311867330ba478.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -993,7 +1014,7 @@
       "listPrice": 7100,
       "observedAt": "2026-09-28T11:05:54.025Z",
       "url": "https://link.coupang.com/a/hpGoeAMcVM",
-      "image": null,
+      "image": "assets/products/852daaa34007c6a7b96e.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
