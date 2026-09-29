@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-09-29T08:01:11.243Z",
+  "updatedAt": "2026-09-29T08:15:56.222Z",
   "deals": [
+    {
+      "id": "p:9410616536|i:27660907934|v:94623206101",
+      "source": "coupang",
+      "name": "너즈 구미 클러스터 베리베리, 226g, 4개",
+      "price": 14710,
+      "listPrice": 19800,
+      "observedAt": "2026-09-29T08:15:39.409Z",
+      "url": "https://link.coupang.com/a/hq870ldRZI",
+      "image": "assets/products/11e6e253143258a22e8d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14710,
+          "observedAt": "2026-09-29T08:15:39.409Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665164743|n:윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+      "source": "toss",
+      "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
+      "price": 8000,
+      "listPrice": null,
+      "observedAt": "2026-09-29T08:11:00.810Z",
+      "url": "https://toss.shopping/_m/jGGcZuXt",
+      "image": "assets/products/b320b88f3a6d42939969.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8000,
+          "observedAt": "2026-09-29T08:11:00.810Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-29T08:10:56.827Z"
+        },
+        {
+          "price": 8000,
+          "observedAt": "2026-09-28T22:23:06.674Z"
+        }
+      ]
+    },
     {
       "id": "p:7188663369|i:18218232008|v:85585803475",
       "source": "coupang",
@@ -644,23 +686,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-21T08:17:55.264Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665164743|n:윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
-      "source": "toss",
-      "name": "윌로펫 말랑육즙 강아지 소프트사료, 면역/항산화, 1.2kg, 1개",
-      "price": 8000,
-      "listPrice": 28000,
-      "observedAt": "2026-09-28T22:23:06.674Z",
-      "url": "https://toss.shopping/_m/jGGcZuXt",
-      "image": "assets/products/b320b88f3a6d42939969.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8000,
-          "observedAt": "2026-09-28T22:23:06.674Z"
         }
       ]
     },
