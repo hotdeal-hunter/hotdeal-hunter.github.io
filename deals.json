@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T03:38:11.757Z",
+  "updatedAt": "2026-09-29T03:49:06.264Z",
   "deals": [
+    {
+      "id": "p:7749071357|i:22585607120|v:88114168354",
+      "source": "coupang",
+      "name": "매일두유 고단백 플레인, 950ml, 10개, 950ml × 10개",
+      "price": 20100,
+      "listPrice": 28818,
+      "observedAt": "2026-09-29T03:48:50.360Z",
+      "url": "https://link.coupang.com/a/hqP3QrHqBU",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20100,
+          "observedAt": "2026-09-29T03:48:50.360Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2529789655|n:농부의 정육점 국내산 한돈 냉동 목뼈등뼈, 4kg, 1개",
       "source": "toss",
