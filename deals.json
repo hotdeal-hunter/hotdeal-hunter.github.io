@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-29T06:21:30.667Z",
+  "updatedAt": "2026-09-29T06:43:22.861Z",
   "deals": [
+    {
+      "id": "toss:p:2664055709|n:이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7p, 1세트",
+      "source": "toss",
+      "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
+      "price": 7590,
+      "listPrice": null,
+      "observedAt": "2026-09-29T06:43:01.099Z",
+      "url": "https://toss.shopping/_m/tr7PXTz3",
+      "image": "assets/products/879a30b64de06479c646.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7590,
+          "observedAt": "2026-09-29T06:43:01.099Z"
+        },
+        {
+          "price": 7590,
+          "observedAt": "2026-09-28T22:21:54.809Z"
+        }
+      ]
+    },
     {
       "id": "p:9409744445|i:27966962148|v:-",
       "source": "coupang",
@@ -581,23 +602,6 @@
         {
           "price": 8658,
           "observedAt": "2026-09-28T22:23:06.233Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664055709|n:이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7p, 1세트",
-      "source": "toss",
-      "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
-      "price": 7590,
-      "listPrice": 28400,
-      "observedAt": "2026-09-28T22:21:54.809Z",
-      "url": "https://toss.shopping/_m/tr7PXTz3",
-      "image": "assets/products/879a30b64de06479c646.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7590,
-          "observedAt": "2026-09-28T22:21:54.809Z"
         }
       ]
     },
