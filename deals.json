@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-29T22:29:12.146Z",
+  "updatedAt": "2026-09-29T22:44:54.876Z",
   "deals": [
+    {
+      "id": "p:6170885342|i:19568487768|v:92845960871",
+      "source": "coupang",
+      "name": "덴마크 목장 유기농 주스 사과 푸룬, 120ml, 32개",
+      "price": 10300,
+      "listPrice": 15339,
+      "observedAt": "2026-09-29T22:44:38.369Z",
+      "url": "https://link.coupang.com/a/hr9d6kKCPI",
+      "image": "assets/products/2d99ecff20f39a55d639.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10300,
+          "observedAt": "2026-09-29T22:44:38.369Z"
+        }
+      ]
+    },
     {
       "id": "p:2345531475|i:23821333217|v:90122835013",
       "source": "coupang",
