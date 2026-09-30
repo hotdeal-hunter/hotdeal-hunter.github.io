@@ -1,17 +1,38 @@
 {
-  "updatedAt": "2026-09-30T07:47:54.655Z",
+  "updatedAt": "2026-09-30T07:50:41.469Z",
   "deals": [
+    {
+      "id": "toss:p:2663112557|n:리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
+      "source": "toss",
+      "name": "리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
+      "price": 9800,
+      "listPrice": 25900,
+      "observedAt": "2026-09-30T07:50:24.560Z",
+      "url": "https://toss.shopping/_m/1j9GzKw4",
+      "image": "assets/products/c4e61501544c7cd3df00.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9800,
+          "observedAt": "2026-09-30T07:50:24.560Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2564026953|n:셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
       "source": "toss",
       "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
       "price": 17900,
       "listPrice": null,
-      "observedAt": "2026-09-30T07:47:30.173Z",
+      "observedAt": "2026-09-30T07:49:17.437Z",
       "url": "https://toss.shopping/_m/RJ1GG92w",
       "image": "assets/products/f67a9a7e6c1b4d1d027d.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-30T07:49:17.437Z"
+        },
         {
           "price": 17900,
           "observedAt": "2026-09-30T07:47:30.173Z"
