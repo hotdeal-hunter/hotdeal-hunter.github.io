@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T07:07:34.214Z",
+  "updatedAt": "2026-09-30T07:11:31.812Z",
   "deals": [
+    {
+      "id": "toss:p:2655844873|n:애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
+      "source": "toss",
+      "name": "애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
+      "price": 19990,
+      "listPrice": null,
+      "observedAt": "2026-09-30T07:11:22.185Z",
+      "url": "https://toss.shopping/_m/bZIcipXA",
+      "image": "assets/products/75464789e4d68a0712b7.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19990,
+          "observedAt": "2026-09-30T07:11:22.185Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1646773443|n:대용량 우거지 감자탕, 3kg, 1개",
       "source": "toss",
