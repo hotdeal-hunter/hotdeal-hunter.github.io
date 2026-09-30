@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T01:31:40.783Z",
+  "updatedAt": "2026-09-30T01:37:59.297Z",
   "deals": [
+    {
+      "id": "toss:p:784374695|n:맛팜 옛고을 찰순대, 400g, 1개 + 푸짐한 내장 모둠, 500g, 1개",
+      "source": "toss",
+      "name": "맛팜 옛고을 찰순대, 400g, 1개 + 푸짐한 내장 모둠, 500g, 1개",
+      "price": 7900,
+      "listPrice": 19500,
+      "observedAt": "2026-09-30T01:37:42.553Z",
+      "url": "https://toss.shopping/_m/z3qd79dr",
+      "image": "assets/products/5b9713d068e3da6212fe.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-09-30T01:37:42.553Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:178349681|n:elle 스와로브스키 이터너티 반지, 빈티지로즈, 10호, 1개",
       "source": "toss",
