@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T03:02:30.312Z",
+  "updatedAt": "2026-09-30T03:25:20.693Z",
   "deals": [
+    {
+      "id": "toss:p:2667642479|n:탐나유 햇밤 알밤, 2kg, 1개",
+      "source": "toss",
+      "name": "탐나유 햇밤 알밤, 2kg, 1개",
+      "price": 11800,
+      "listPrice": 29900,
+      "observedAt": "2026-09-30T03:25:04.121Z",
+      "url": "https://toss.shopping/_m/XJwpC27g",
+      "image": "assets/products/b1b316c03e6645552c56.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11800,
+          "observedAt": "2026-09-30T03:25:04.121Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:178349693|n:elle 스와로브스키 이터너티 반지, 루비, 12호, 1개",
       "source": "toss",
