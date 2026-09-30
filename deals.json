@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T07:11:31.812Z",
+  "updatedAt": "2026-09-30T07:15:26.717Z",
   "deals": [
+    {
+      "id": "p:8118562896|i:20579876506|v:73592303305",
+      "source": "coupang",
+      "name": "비비고 한식간장김자반, 50g, 2개, 50g × 2개",
+      "price": 3540,
+      "listPrice": 5352,
+      "observedAt": "2026-09-30T07:15:09.900Z",
+      "url": "https://link.coupang.com/a/hsJH1MuJZ6",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3540,
+          "observedAt": "2026-09-30T07:15:09.900Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2655844873|n:애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
       "source": "toss",
