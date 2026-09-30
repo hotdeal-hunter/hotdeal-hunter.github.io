@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T23:26:39.836Z",
+  "updatedAt": "2026-09-30T23:37:38.876Z",
   "deals": [
+    {
+      "id": "p:7370280531|i:19010646294|v:92807981138",
+      "source": "coupang",
+      "name": "첫맛 캡사이신 매운맛소스, 550g, 1개, 550g × 1개",
+      "price": 3600,
+      "listPrice": 6485,
+      "observedAt": "2026-09-30T23:37:22.276Z",
+      "url": "https://link.coupang.com/a/htRTL8yK7g",
+      "image": "assets/products/76d3ec48bd117c7c86fd.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3600,
+          "observedAt": "2026-09-30T23:37:22.276Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
       "source": "toss",
