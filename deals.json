@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T13:11:24.327Z",
+  "updatedAt": "2026-09-30T22:07:57.110Z",
   "deals": [
+    {
+      "id": "p:7608026410|i:20142293071|v:87235677465",
+      "source": "coupang",
+      "name": "릴팡 뽀로로잡스 입체 편한 어린이 스푼 + 포크 + 케이스 세트 PR5980, 혼합색상, 1세트",
+      "price": 5640,
+      "listPrice": 9729,
+      "observedAt": "2026-09-30T22:07:40.451Z",
+      "url": "https://link.coupang.com/a/htLumixmeq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5640,
+          "observedAt": "2026-09-30T22:07:40.451Z"
+        }
+      ]
+    },
     {
       "id": "p:8620374179|i:25745060047|v:92733431934",
       "source": "coupang",
