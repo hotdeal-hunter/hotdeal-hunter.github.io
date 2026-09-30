@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T12:43:55.915Z",
+  "updatedAt": "2026-09-30T13:11:24.327Z",
   "deals": [
+    {
+      "id": "p:8620374179|i:25745060047|v:92733431934",
+      "source": "coupang",
+      "name": "아임리얼 100 망고, 730ml, 5개",
+      "price": 13470,
+      "listPrice": 18300,
+      "observedAt": "2026-09-30T13:11:07.866Z",
+      "url": "https://link.coupang.com/a/hs8898r38e",
+      "image": "assets/products/accdc2730a3d0c0e16a7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13470,
+          "observedAt": "2026-09-30T13:11:07.866Z"
+        }
+      ]
+    },
     {
       "id": "p:6149164689|i:18478541834|v:79129483573",
       "source": "coupang",
