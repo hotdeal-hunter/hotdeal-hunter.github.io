@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T04:06:08.454Z",
+  "updatedAt": "2026-09-30T04:50:07.088Z",
   "deals": [
+    {
+      "id": "p:8490857533|i:14008710397|v:81257320465",
+      "source": "coupang",
+      "name": "바자르 호텔면 수피마 100수 모네 피그먼트 순면베개커버, 네이비 × 50 x 70 cm × 1개",
+      "price": 12620,
+      "listPrice": 19655,
+      "observedAt": "2026-09-30T04:49:50.559Z",
+      "url": "https://link.coupang.com/a/hszkaspFCu",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12620,
+          "observedAt": "2026-09-30T04:49:50.559Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
       "source": "toss",
