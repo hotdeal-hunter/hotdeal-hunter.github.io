@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T23:47:30.780Z",
+  "updatedAt": "2026-09-30T23:51:27.987Z",
   "deals": [
+    {
+      "id": "p:6147184542|i:22069539084|v:89116643648",
+      "source": "coupang",
+      "name": "쉐푸드 등심 통 돈까스 (냉동), 300g, 2개",
+      "price": 9480,
+      "listPrice": 12842,
+      "observedAt": "2026-09-30T23:51:11.360Z",
+      "url": "https://link.coupang.com/a/htSSZJNdwi",
+      "image": "assets/products/d7979b1c1e30a2ce4b76.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9480,
+          "observedAt": "2026-09-30T23:51:11.360Z"
+        }
+      ]
+    },
     {
       "id": "p:7063519752|i:18036369067|v:85190811225",
       "source": "coupang",
