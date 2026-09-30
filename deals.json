@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T12:41:13.243Z",
+  "updatedAt": "2026-09-30T12:43:55.915Z",
   "deals": [
+    {
+      "id": "p:6149164689|i:18478541834|v:79129483573",
+      "source": "coupang",
+      "name": "그래놀라하우스 오리지널 리필용, 500g, 1개",
+      "price": 12870,
+      "listPrice": 18000,
+      "observedAt": "2026-09-30T12:43:39.406Z",
+      "url": "https://link.coupang.com/a/hs7brcrfOe",
+      "image": "assets/products/2e1b18cf5fa4f43b88e4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12870,
+          "observedAt": "2026-09-30T12:43:39.406Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
       "source": "toss",
@@ -903,7 +920,7 @@
       "listPrice": 26469,
       "observedAt": "2026-09-30T00:10:49.280Z",
       "url": "https://link.coupang.com/a/hsfnV6wU3M",
-      "image": null,
+      "image": "assets/products/64039b2368d2d956dd59.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
