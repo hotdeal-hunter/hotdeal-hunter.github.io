@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T07:50:41.469Z",
+  "updatedAt": "2026-09-30T08:06:24.261Z",
   "deals": [
+    {
+      "id": "p:7958952834|i:22001254866|v:89048780448",
+      "source": "coupang",
+      "name": "풀무원 평양왕만두 (냉동), 490g, 6개",
+      "price": 16140,
+      "listPrice": 32940,
+      "observedAt": "2026-09-30T08:06:07.830Z",
+      "url": "https://link.coupang.com/a/hsNlPXuZNY",
+      "image": "assets/products/3793f8de00fc985919de.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16140,
+          "observedAt": "2026-09-30T08:06:07.830Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2663112557|n:리벤스 잘 닦이는 살균 행주 티슈, 60매, 10팩",
       "source": "toss",
