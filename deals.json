@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T22:07:57.110Z",
+  "updatedAt": "2026-09-30T22:11:52.087Z",
   "deals": [
+    {
+      "id": "p:7674477942|i:24637952487|v:87560951772",
+      "source": "coupang",
+      "name": "비트 캡슐 실내건조 캡슐세제 그린 플로럴향, 42개입, 1개, 42개입 × 1개",
+      "price": 10240,
+      "listPrice": 15586,
+      "observedAt": "2026-09-30T22:11:35.319Z",
+      "url": "https://link.coupang.com/a/htLLHGiznw",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10240,
+          "observedAt": "2026-09-30T22:11:35.319Z"
+        }
+      ]
+    },
     {
       "id": "p:7608026410|i:20142293071|v:87235677465",
       "source": "coupang",
