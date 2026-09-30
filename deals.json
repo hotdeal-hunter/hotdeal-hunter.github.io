@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T04:52:40.921Z",
+  "updatedAt": "2026-09-30T06:17:04.634Z",
   "deals": [
+    {
+      "id": "p:17583799|i:70534879|v:3114085281",
+      "source": "coupang",
+      "name": "더자리 항균 마이크로 누빔 베개커버, 밀키그레이, 40 x 60 cm, 2개",
+      "price": 3850,
+      "listPrice": 6864,
+      "observedAt": "2026-09-30T06:16:47.345Z",
+      "url": "https://link.coupang.com/a/hsFxnZamqG",
+      "image": "assets/products/7a1962fae81a4b79fd46.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3850,
+          "observedAt": "2026-09-30T06:16:47.345Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:58729029|n:썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
       "source": "toss",
