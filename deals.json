@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-09-30T03:52:50.246Z",
+  "updatedAt": "2026-09-30T04:06:08.454Z",
   "deals": [
+    {
+      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "source": "toss",
+      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
+      "price": 12900,
+      "listPrice": 72000,
+      "observedAt": "2026-09-30T04:05:52.011Z",
+      "url": "https://toss.im/_m/ZrIsv8H9",
+      "image": "assets/products/78c2eeff10fd43a50c99.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-09-30T04:05:52.011Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-17T09:35:38.701Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T03:20:50.121Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:28:37.768Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:28:37.284Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.664Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-16T01:25:45.561Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:14:50.518Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T06:07:49.286Z"
+        },
+        {
+          "price": 7700,
+          "observedAt": "2026-09-15T05:46:15.255Z"
+        }
+      ]
+    },
     {
       "id": "p:8933299132|i:26116232685|v:93096747965",
       "source": "coupang",
@@ -9906,55 +9959,6 @@
         {
           "price": 17700,
           "observedAt": "2026-09-17T10:23:22.366Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2648903889|n:ahc 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "source": "toss",
-      "name": "AHC 프리미어 앰플 인 아이크림 코어리프팅, 12ml, 6개",
-      "price": 7700,
-      "listPrice": null,
-      "observedAt": "2026-09-17T09:35:38.701Z",
-      "url": "https://toss.im/_m/ZrIsv8H9",
-      "image": "assets/products/78c2eeff10fd43a50c99.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 7700,
-          "observedAt": "2026-09-17T09:35:38.701Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T03:20:50.121Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:28:37.768Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:28:37.284Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:25:45.664Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-16T01:25:45.561Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:14:50.518Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T06:07:49.286Z"
-        },
-        {
-          "price": 7700,
-          "observedAt": "2026-09-15T05:46:15.255Z"
         }
       ]
     },
