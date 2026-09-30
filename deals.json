@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T22:37:09.469Z",
+  "updatedAt": "2026-09-30T22:39:45.641Z",
   "deals": [
+    {
+      "id": "p:269241262|i:19224750859|v:86341422428",
+      "source": "coupang",
+      "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 2세트",
+      "price": 10980,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:38:31.366Z",
+      "url": "https://link.coupang.com/a/htNG2010Gy",
+      "image": "assets/products/b0efaed1f6061a345487.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10980,
+          "observedAt": "2026-09-30T22:38:31.366Z"
+        }
+      ]
+    },
     {
       "id": "p:6715674951|i:15606370288|v:82824617677",
       "source": "coupang",
