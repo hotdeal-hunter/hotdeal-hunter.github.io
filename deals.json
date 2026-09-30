@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-30T02:55:41.489Z",
+  "updatedAt": "2026-09-30T02:58:27.698Z",
   "deals": [
+    {
+      "id": "toss:p:2675956079|n:리셀 100 샤워기, 1개 + 필터, 3개",
+      "source": "toss",
+      "name": "리셀 100 샤워기, 1개 + 필터, 3개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T02:56:57.430Z",
+      "url": "https://toss.shopping/_m/bQ72EcGu",
+      "image": "assets/products/e5cba42b755d5251eb27.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T02:56:57.430Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T02:56:57.338Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T02:56:57.197Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T01:24:31.046Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T01:24:30.898Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T00:15:57.240Z"
+        }
+      ]
+    },
     {
       "id": "p:2268823461|i:3890396499|v:71875022091",
       "source": "coupang",
@@ -236,31 +273,6 @@
         {
           "price": 16055,
           "observedAt": "2026-09-30T01:31:28.328Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2675956079|n:리셀 100 샤워기, 1개 + 필터, 3개",
-      "source": "toss",
-      "name": "리셀 100 샤워기, 1개 + 필터, 3개",
-      "price": 3900,
-      "listPrice": null,
-      "observedAt": "2026-09-30T01:24:31.046Z",
-      "url": "https://toss.shopping/_m/bQ72EcGu",
-      "image": "assets/products/e5cba42b755d5251eb27.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 3900,
-          "observedAt": "2026-09-30T01:24:31.046Z"
-        },
-        {
-          "price": 3900,
-          "observedAt": "2026-09-30T01:24:30.898Z"
-        },
-        {
-          "price": 3900,
-          "observedAt": "2026-09-30T00:15:57.240Z"
         }
       ]
     },
