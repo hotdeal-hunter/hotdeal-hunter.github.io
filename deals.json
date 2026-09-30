@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T03:25:20.693Z",
+  "updatedAt": "2026-09-30T03:52:50.246Z",
   "deals": [
+    {
+      "id": "p:8933299132|i:26116232685|v:93096747965",
+      "source": "coupang",
+      "name": "의식 동원 닷컴 마지탕 (마라탄) 88g × 12식 글루텐 프리 사츠마 고구마 사용, 12개, 12개",
+      "price": 19340,
+      "listPrice": 25690,
+      "observedAt": "2026-09-30T03:52:33.702Z",
+      "url": "https://link.coupang.com/a/hsvenvCnoy",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19340,
+          "observedAt": "2026-09-30T03:52:33.702Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2667642479|n:탐나유 햇밤 알밤, 2kg, 1개",
       "source": "toss",
