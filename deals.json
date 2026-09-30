@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-09-30T12:13:23.588Z",
+  "updatedAt": "2026-09-30T12:17:16.972Z",
   "deals": [
+    {
+      "id": "toss:p:2455012609|n:한입과득 청송 홍로 사과, 가정용, 2kg, 1박스",
+      "source": "toss",
+      "name": "한입과득 청송 홍로 사과, 가정용, 2kg, 1박스",
+      "price": 8300,
+      "listPrice": 28900,
+      "observedAt": "2026-09-30T12:17:00.658Z",
+      "url": "https://toss.im/_m/LPYKdjXA",
+      "image": "assets/products/1c9ad537b610528a569f.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8300,
+          "observedAt": "2026-09-30T12:17:00.658Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-09-12T11:51:06.474Z"
+        }
+      ]
+    },
     {
       "id": "p:6820439614|i:16163725765|v:-",
       "source": "coupang",
@@ -12202,23 +12223,6 @@
         {
           "price": 10900,
           "observedAt": "2026-09-12T12:09:43.057Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2455012609|n:한입과득 청송 홍로 사과 가정용, 2kg, 1박스",
-      "source": "toss",
-      "name": "한입과득 청송 홍로 사과 가정용, 2kg, 1박스",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-09-12T11:51:06.474Z",
-      "url": "https://toss.im/_m/LPYKdjXA",
-      "image": "assets/products/1bb7ca17372bc1536943.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-09-12T11:51:06.474Z"
         }
       ]
     },
