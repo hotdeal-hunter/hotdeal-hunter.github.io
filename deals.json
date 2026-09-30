@@ -1,108 +1,24 @@
 {
-  "updatedAt": "2026-09-30T22:57:46.575Z",
+  "updatedAt": "2026-09-30T23:11:19.377Z",
   "deals": [
     {
-      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
       "source": "toss",
-      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "price": 8330,
+      "name": "미트프로젝트 스위트 BBQ 폭립, 500g, 2개",
+      "price": 14900,
       "listPrice": null,
-      "observedAt": "2026-09-30T22:57:25.195Z",
-      "url": "https://toss.im/_m/P84FeeS4",
-      "image": "assets/products/b34973f870709e2f0d21.jpg",
-      "insight": "6회 가격 기록",
+      "observedAt": "2026-09-30T23:11:09.794Z",
+      "url": "https://toss.im/_m/RjJpnG0r",
+      "image": "assets/products/72917235723d25723e44.png",
+      "insight": "2회 가격 기록",
       "history": [
         {
-          "price": 8330,
-          "observedAt": "2026-09-30T22:57:25.195Z"
+          "price": 14900,
+          "observedAt": "2026-09-30T23:11:09.794Z"
         },
         {
-          "price": 8330,
-          "observedAt": "2026-09-27T22:22:20.878Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-26T00:46:06.861Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:23:20.865Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:20:57.968Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-21T05:19:35.171Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7426622216|i:22489696009|v:86351916632",
-      "source": "coupang",
-      "name": "웅진빅토리아 썸머스노우 탄산음료, 500ml, 20개",
-      "price": 7560,
-      "listPrice": null,
-      "observedAt": "2026-09-30T22:53:29.163Z",
-      "url": "https://link.coupang.com/a/htOLkQ7WZE",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7560,
-          "observedAt": "2026-09-30T22:53:29.163Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9716584488|i:46054185|v:3392895232",
-      "source": "coupang",
-      "name": "롯데제과 아몬드초코볼, 46g, 10개",
-      "price": 13600,
-      "listPrice": null,
-      "observedAt": "2026-09-30T22:46:01.309Z",
-      "url": "https://link.coupang.com/a/htOegzcLWm",
-      "image": "assets/products/146456b34c2f1f610644.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13600,
-          "observedAt": "2026-09-30T22:46:01.309Z"
-        }
-      ]
-    },
-    {
-      "id": "p:269241262|i:19224750859|v:86341422428",
-      "source": "coupang",
-      "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 2세트",
-      "price": 10980,
-      "listPrice": null,
-      "observedAt": "2026-09-30T22:38:31.366Z",
-      "url": "https://link.coupang.com/a/htNG2010Gy",
-      "image": "assets/products/b0efaed1f6061a345487.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10980,
-          "observedAt": "2026-09-30T22:38:31.366Z"
-        }
-      ]
-    },
-    {
-      "id": "p:6715674951|i:15606370288|v:82824617677",
-      "source": "coupang",
-      "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 중(M), 3세트",
-      "price": 4280,
-      "listPrice": 6463,
-      "observedAt": "2026-09-30T22:36:53.109Z",
-      "url": "https://link.coupang.com/a/htNzMAKaJg",
-      "image": "assets/products/dbfdf48b76b6e523c6bc.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4280,
-          "observedAt": "2026-09-30T22:36:53.109Z"
+          "price": 12800,
+          "observedAt": "2026-09-01T05:18:25.852Z"
         }
       ]
     },
@@ -111,12 +27,16 @@
       "source": "toss",
       "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
       "price": 3490,
-      "listPrice": 15000,
-      "observedAt": "2026-09-30T22:22:34.894Z",
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:01:29.067Z",
       "url": "https://toss.shopping/_m/9aRkFqjx",
       "image": "assets/products/ea51eb1b628b08dbd0bb.png",
-      "insight": "2회 가격 기록",
+      "insight": "3회 가격 기록",
       "history": [
+        {
+          "price": 3490,
+          "observedAt": "2026-09-30T23:01:29.067Z"
+        },
         {
           "price": 3490,
           "observedAt": "2026-09-30T22:22:34.894Z"
@@ -132,12 +52,16 @@
       "source": "toss",
       "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
       "price": 4990,
-      "listPrice": 16000,
-      "observedAt": "2026-09-30T22:22:34.810Z",
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:01:28.982Z",
       "url": "https://toss.shopping/_m/F0g4PD5v",
       "image": "assets/products/d9a36516ff9b9ef6af5f.png",
-      "insight": "6회 가격 기록",
+      "insight": "7회 가격 기록",
       "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.982Z"
+        },
         {
           "price": 4990,
           "observedAt": "2026-09-30T22:22:34.810Z"
@@ -165,16 +89,49 @@
       ]
     },
     {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:01:28.875Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T22:22:34.622Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.151Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
       "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
       "source": "toss",
       "name": "맛꾼 메추리알 장조림, 1kg, 2개",
       "price": 8900,
-      "listPrice": 20000,
-      "observedAt": "2026-09-30T22:22:34.724Z",
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:01:28.791Z",
       "url": "https://toss.im/_m/FFTuiMaC",
       "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "9회 가격 기록",
+      "insight": "10회 가격 기록",
       "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T23:01:28.791Z"
+        },
         {
           "price": 8900,
           "observedAt": "2026-09-30T22:22:34.724Z"
@@ -214,41 +171,20 @@
       ]
     },
     {
-      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "source": "toss",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "listPrice": 14900,
-      "observedAt": "2026-09-30T22:22:34.622Z",
-      "url": "https://toss.shopping/_m/NfzD88U",
-      "image": "assets/products/0658c7fb02d89943aeae.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T22:22:34.622Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.151Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.838Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "source": "toss",
       "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
       "price": 12800,
-      "listPrice": 37900,
-      "observedAt": "2026-09-30T22:22:34.517Z",
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:01:28.641Z",
       "url": "https://toss.im/_m/bEhSQcFD",
       "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "27회 가격 기록",
+      "insight": "28회 가격 기록",
       "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-09-30T23:01:28.641Z"
+        },
         {
           "price": 12800,
           "observedAt": "2026-09-30T22:22:34.517Z"
@@ -356,6 +292,111 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "source": "toss",
+      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:57:25.195Z",
+      "url": "https://toss.im/_m/P84FeeS4",
+      "image": "assets/products/b34973f870709e2f0d21.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-30T22:57:25.195Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-27T22:22:20.878Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-26T00:46:06.861Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:23:20.865Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:20:57.968Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-21T05:19:35.171Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7426622216|i:22489696009|v:86351916632",
+      "source": "coupang",
+      "name": "웅진빅토리아 썸머스노우 탄산음료, 500ml, 20개",
+      "price": 7560,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:53:29.163Z",
+      "url": "https://link.coupang.com/a/htOLkQ7WZE",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7560,
+          "observedAt": "2026-09-30T22:53:29.163Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9716584488|i:46054185|v:3392895232",
+      "source": "coupang",
+      "name": "롯데제과 아몬드초코볼, 46g, 10개",
+      "price": 13600,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:46:01.309Z",
+      "url": "https://link.coupang.com/a/htOegzcLWm",
+      "image": "assets/products/146456b34c2f1f610644.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13600,
+          "observedAt": "2026-09-30T22:46:01.309Z"
+        }
+      ]
+    },
+    {
+      "id": "p:269241262|i:19224750859|v:86341422428",
+      "source": "coupang",
+      "name": "일가집 프리미엄 더 맛있는 김밥세트, 525g, 2세트",
+      "price": 10980,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:38:31.366Z",
+      "url": "https://link.coupang.com/a/htNG2010Gy",
+      "image": "assets/products/b0efaed1f6061a345487.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10980,
+          "observedAt": "2026-09-30T22:38:31.366Z"
+        }
+      ]
+    },
+    {
+      "id": "p:6715674951|i:15606370288|v:82824617677",
+      "source": "coupang",
+      "name": "프로그 라텍스 컴포트 고무장갑, 애쉬블루, 중(M), 3세트",
+      "price": 4280,
+      "listPrice": 6463,
+      "observedAt": "2026-09-30T22:36:53.109Z",
+      "url": "https://link.coupang.com/a/htNzMAKaJg",
+      "image": "assets/products/dbfdf48b76b6e523c6bc.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4280,
+          "observedAt": "2026-09-30T22:36:53.109Z"
         }
       ]
     },
@@ -17319,23 +17360,6 @@
         {
           "price": 63260,
           "observedAt": "2026-09-01T06:23:22.950Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 스위트 BBQ 폭립, 500g, 2개",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-01T05:18:25.852Z",
-      "url": "https://toss.im/_m/RjJpnG0r",
-      "image": "assets/products/72917235723d25723e44.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T05:18:25.852Z"
         }
       ]
     },
