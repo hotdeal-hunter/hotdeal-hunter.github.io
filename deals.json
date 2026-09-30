@@ -1,6 +1,193 @@
 {
-  "updatedAt": "2026-09-30T02:18:31.338Z",
+  "updatedAt": "2026-09-30T02:55:41.489Z",
   "deals": [
+    {
+      "id": "p:2268823461|i:3890396499|v:71875022091",
+      "source": "coupang",
+      "name": "모윰 손목 치발기 기프트팩 세트, 손목치발기 + 전용케이스, 포니 옐로우 + 별 세이지, 1세트",
+      "price": 11900,
+      "listPrice": 22869,
+      "observedAt": "2026-09-30T02:55:22.357Z",
+      "url": "https://link.coupang.com/a/hsq8ZI6LwO",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-09-30T02:55:22.357Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664783623|n:포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
+      "source": "toss",
+      "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
+      "price": 8658,
+      "listPrice": 22600,
+      "observedAt": "2026-09-30T02:32:51.575Z",
+      "url": "https://toss.shopping/_m/z1zvJrer",
+      "image": "assets/products/64c1ffd6b369d926ca65.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8658,
+          "observedAt": "2026-09-30T02:32:51.575Z"
+        },
+        {
+          "price": 8658,
+          "observedAt": "2026-09-29T06:44:41.302Z"
+        },
+        {
+          "price": 8658,
+          "observedAt": "2026-09-28T22:23:06.233Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "source": "toss",
+      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
+      "price": 5990,
+      "listPrice": 17900,
+      "observedAt": "2026-09-30T02:32:51.445Z",
+      "url": "https://toss.shopping/_m/Nw5J94Is",
+      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-09-30T02:32:51.445Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T10:16:58.327Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:50.277Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-29T05:37:46.374Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-09-28T22:23:06.457Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "source": "toss",
+      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "price": 10990,
+      "listPrice": 46900,
+      "observedAt": "2026-09-30T02:32:51.360Z",
+      "url": "https://toss.shopping/_m/rhwPv1Zk",
+      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-09-30T02:32:51.360Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T22:21:54.286Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T01:20:56.920Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
+      "price": 4620,
+      "listPrice": 39600,
+      "observedAt": "2026-09-30T02:32:51.273Z",
+      "url": "https://toss.shopping/_m/lkS95wo2",
+      "image": "assets/products/ea4d719167c87f3f161f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4620,
+          "observedAt": "2026-09-30T02:32:51.273Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-28T22:21:54.501Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2664055709|n:이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7p, 1세트",
+      "source": "toss",
+      "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
+      "price": 7590,
+      "listPrice": 28400,
+      "observedAt": "2026-09-30T02:32:51.146Z",
+      "url": "https://toss.shopping/_m/tr7PXTz3",
+      "image": "assets/products/879a30b64de06479c646.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7590,
+          "observedAt": "2026-09-30T02:32:51.146Z"
+        },
+        {
+          "price": 7590,
+          "observedAt": "2026-09-29T06:43:01.099Z"
+        },
+        {
+          "price": 7590,
+          "observedAt": "2026-09-28T22:21:54.809Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": 15900,
+      "observedAt": "2026-09-30T02:32:50.980Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-09-30T02:32:50.980Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T22:21:54.415Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:98087703|n:그릭데이 그릭요거트 시그니처, 100g, 5개",
       "source": "toss",
@@ -727,35 +914,6 @@
       ]
     },
     {
-      "id": "toss:p:2634568999|n:번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "source": "toss",
-      "name": "번개표 개별형 멀티탭, 화이트, 3구, 1.5m, 1개",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-09-29T10:16:58.327Z",
-      "url": "https://toss.shopping/_m/Nw5J94Is",
-      "image": "assets/products/61866cb99a2d0f1a4c2e.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-09-29T10:16:58.327Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-29T05:37:50.277Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-29T05:37:46.374Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-09-28T22:23:06.457Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:151812257|n:익스트림 듀얼 아르기닌 플러스, 120정, 1개",
       "source": "toss",
       "name": "익스트림 듀얼 아르기닌 플러스, 120정, 1개",
@@ -920,48 +1078,6 @@
         {
           "price": 9790,
           "observedAt": "2026-09-29T07:07:01.929Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664783623|n:포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
-      "source": "toss",
-      "name": "포케올데이 유부 두부볼 불고기 토핑, 195g, 3개",
-      "price": 8658,
-      "listPrice": null,
-      "observedAt": "2026-09-29T06:44:41.302Z",
-      "url": "https://toss.shopping/_m/z1zvJrer",
-      "image": "assets/products/64c1ffd6b369d926ca65.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 8658,
-          "observedAt": "2026-09-29T06:44:41.302Z"
-        },
-        {
-          "price": 8658,
-          "observedAt": "2026-09-28T22:23:06.233Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664055709|n:이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7p, 1세트",
-      "source": "toss",
-      "name": "이지앤프리 에어클립 프레시 밀폐용기 체험팩, 레몬, 5종, 7P, 1세트",
-      "price": 7590,
-      "listPrice": null,
-      "observedAt": "2026-09-29T06:43:01.099Z",
-      "url": "https://toss.shopping/_m/tr7PXTz3",
-      "image": "assets/products/879a30b64de06479c646.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7590,
-          "observedAt": "2026-09-29T06:43:01.099Z"
-        },
-        {
-          "price": 7590,
-          "observedAt": "2026-09-28T22:21:54.809Z"
         }
       ]
     },
@@ -1257,81 +1373,6 @@
         {
           "price": 11880,
           "observedAt": "2026-09-28T23:01:12.448Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
-      "price": 4620,
-      "listPrice": 39600,
-      "observedAt": "2026-09-28T22:21:54.501Z",
-      "url": "https://toss.shopping/_m/lkS95wo2",
-      "image": "assets/products/ea4d719167c87f3f161f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4620,
-          "observedAt": "2026-09-28T22:21:54.501Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": 15900,
-      "observedAt": "2026-09-28T22:21:54.415Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-09-28T22:21:54.415Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:51:02.720Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "source": "toss",
-      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "price": 10990,
-      "listPrice": 46900,
-      "observedAt": "2026-09-28T22:21:54.286Z",
-      "url": "https://toss.shopping/_m/rhwPv1Zk",
-      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T22:21:54.286Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T01:20:56.920Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T00:50:40.699Z"
         }
       ]
     },
