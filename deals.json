@@ -1,17 +1,42 @@
 {
-  "updatedAt": "2026-09-30T11:59:58.805Z",
+  "updatedAt": "2026-09-30T12:13:23.588Z",
   "deals": [
+    {
+      "id": "p:6820439614|i:16163725765|v:-",
+      "source": "coupang",
+      "name": "풀무원 모짜렐라 핫도그 (냉동), 80g, 9개입, 1개",
+      "price": 9540,
+      "listPrice": 16440,
+      "observedAt": "2026-09-30T12:13:07.246Z",
+      "url": "https://link.coupang.com/a/hs4Z9hrUfk",
+      "image": null,
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9540,
+          "observedAt": "2026-09-30T12:13:07.246Z"
+        },
+        {
+          "price": 9540,
+          "observedAt": "2026-09-30T08:39:07.705Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159844565|n:허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
       "source": "toss",
       "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
       "price": 13500,
       "listPrice": null,
-      "observedAt": "2026-09-30T11:59:47.859Z",
+      "observedAt": "2026-09-30T12:01:22.386Z",
       "url": "https://toss.shopping/_m/zIzqwwKo",
       "image": "assets/products/8c978eb717437dbba449.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-30T12:01:22.386Z"
+        },
         {
           "price": 13500,
           "observedAt": "2026-09-30T11:59:47.859Z"
@@ -207,23 +232,6 @@
         {
           "price": 9980,
           "observedAt": "2026-09-30T08:39:07.928Z"
-        }
-      ]
-    },
-    {
-      "id": "p:6820439614|i:16163725765|v:74297385822",
-      "source": "coupang",
-      "name": "풀무원 모짜렐라 핫도그 (냉동), 80g x 9개입 x 1개",
-      "price": 9540,
-      "listPrice": null,
-      "observedAt": "2026-09-30T08:39:07.705Z",
-      "url": "https://link.coupang.com/a/hsPH1XmypU",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9540,
-          "observedAt": "2026-09-30T08:39:07.705Z"
         }
       ]
     },
