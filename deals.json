@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T01:37:59.297Z",
+  "updatedAt": "2026-09-30T02:18:31.338Z",
   "deals": [
+    {
+      "id": "toss:p:98087703|n:그릭데이 그릭요거트 시그니처, 100g, 5개",
+      "source": "toss",
+      "name": "그릭데이 그릭요거트 시그니처, 100g, 5개",
+      "price": 14500,
+      "listPrice": null,
+      "observedAt": "2026-09-30T02:18:18.954Z",
+      "url": "https://toss.shopping/_m/dtaAu5Z4",
+      "image": "assets/products/da3418b22d875a18d60b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14500,
+          "observedAt": "2026-09-30T02:18:18.954Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:784374695|n:맛팜 옛고을 찰순대, 400g, 1개 + 푸짐한 내장 모둠, 500g, 1개",
       "source": "toss",
