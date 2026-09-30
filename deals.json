@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-09-30T23:18:59.773Z",
+  "updatedAt": "2026-09-30T23:26:39.836Z",
   "deals": [
+    {
+      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:26:16.076Z",
+      "url": "https://toss.im/_m/HRZNLYcr",
+      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-30T23:26:16.076Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-30T23:26:15.874Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T07:57:11.192Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T05:55:44.086Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T04:06:30.571Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T03:06:04.914Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
+      "source": "toss",
+      "name": "미트프로젝트 스위트 BBQ 폭립, 500g, 2개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T23:26:15.973Z",
+      "url": "https://toss.im/_m/RjJpnG0r",
+      "image": "assets/products/72917235723d25723e44.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-09-30T23:26:15.973Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-30T23:26:15.726Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-30T23:11:09.794Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-01T05:18:25.852Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2663836061|n:촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
       "source": "toss",
@@ -23,27 +89,6 @@
         {
           "price": 6900,
           "observedAt": "2026-09-28T07:07:47.705Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595534791|n:미트프로젝트 스위트 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 스위트 BBQ 폭립, 500g, 2개",
-      "price": 14900,
-      "listPrice": null,
-      "observedAt": "2026-09-30T23:11:09.794Z",
-      "url": "https://toss.im/_m/RjJpnG0r",
-      "image": "assets/products/72917235723d25723e44.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 14900,
-          "observedAt": "2026-09-30T23:11:09.794Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T05:18:25.852Z"
         }
       ]
     },
@@ -17237,35 +17282,6 @@
         {
           "price": 3730,
           "observedAt": "2026-09-01T08:01:47.919Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2595532025|n:미트프로젝트 더블 시즈닝 bbq 폭립, 500g, 2개",
-      "source": "toss",
-      "name": "미트프로젝트 더블 시즈닝 BBQ 폭립, 500g, 2개",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-09-01T07:57:11.192Z",
-      "url": "https://toss.im/_m/HRZNLYcr",
-      "image": "assets/products/a48f5e5eb6eccab1b3fa.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T07:57:11.192Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T05:55:44.086Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T04:06:30.571Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-01T03:06:04.914Z"
         }
       ]
     },
