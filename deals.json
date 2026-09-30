@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-09-30T08:39:20.234Z",
+  "updatedAt": "2026-09-30T08:53:53.434Z",
   "deals": [
+    {
+      "id": "p:7958952834|i:22001254867|v:89048780444",
+      "source": "coupang",
+      "name": "풀무원 평양왕만두 (냉동), 490g, 4개",
+      "price": 10980,
+      "listPrice": null,
+      "observedAt": "2026-09-30T08:53:40.493Z",
+      "url": "https://link.coupang.com/a/hsQKtRs1ka",
+      "image": "assets/products/89fa7ce859e5079893be.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10980,
+          "observedAt": "2026-09-30T08:53:40.493Z"
+        }
+      ]
+    },
+    {
+      "id": "p:116695595|i:4014404872|v:71998611815",
+      "source": "coupang",
+      "name": "풀무원 생가득 정선 5일장 메밀 지짐만두 (냉동), 400g, 4개입",
+      "price": 10480,
+      "listPrice": null,
+      "observedAt": "2026-09-30T08:53:40.136Z",
+      "url": "https://link.coupang.com/a/hsQKsIfD5g",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10480,
+          "observedAt": "2026-09-30T08:53:40.136Z"
+        }
+      ]
+    },
     {
       "id": "p:7600144571|i:20207104153|v:87297349979",
       "source": "coupang",
