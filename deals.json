@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T04:50:07.088Z",
+  "updatedAt": "2026-09-30T04:52:40.921Z",
   "deals": [
+    {
+      "id": "toss:p:58729029|n:썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
+      "source": "toss",
+      "name": "썬키스트 제로, 복숭아레몬소다, 190ml, 30개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T04:51:26.304Z",
+      "url": "https://toss.shopping/_m/Ppgo6tQk",
+      "image": "assets/products/4b05e5d5f109c8b1fd77.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T04:51:26.304Z"
+        }
+      ]
+    },
     {
       "id": "p:8490857533|i:14008710397|v:81257320465",
       "source": "coupang",
