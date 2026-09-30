@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T06:58:56.750Z",
+  "updatedAt": "2026-09-30T07:07:34.214Z",
   "deals": [
+    {
+      "id": "toss:p:1646773443|n:대용량 우거지 감자탕, 3kg, 1개",
+      "source": "toss",
+      "name": "대용량 우거지 감자탕, 3kg, 1개",
+      "price": 13900,
+      "listPrice": 38900,
+      "observedAt": "2026-09-30T07:07:17.464Z",
+      "url": "https://toss.shopping/_m/90mwB6l8",
+      "image": "assets/products/fc0653080fa3c3702c63.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-09-30T07:07:17.464Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1056750989|n:한우 사골 도가니탕, 500g, 5팩",
       "source": "toss",
