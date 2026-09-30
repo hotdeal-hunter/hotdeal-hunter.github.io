@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-30T08:53:53.434Z",
+  "updatedAt": "2026-09-30T09:01:36.939Z",
   "deals": [
+    {
+      "id": "toss:p:210994529|n:파이토메이드 고칼슘&비타민d 두유 검은콩, 190ml, 24개",
+      "source": "toss",
+      "name": "파이토메이드 고칼슘&비타민D 두유 검은콩, 190ml, 24개",
+      "price": 8600,
+      "listPrice": null,
+      "observedAt": "2026-09-30T09:01:12.599Z",
+      "url": "https://toss.shopping/_m/f45n8fzs",
+      "image": "assets/products/b7af77d1098141b2521c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8600,
+          "observedAt": "2026-09-30T09:01:12.599Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8708021872|i:25288252560|v:92283740245",
+      "source": "coupang",
+      "name": "브리즈문 캠핑 3중 방습 프리미엄 참나무 장작 + 우드 착화제 20g, 10kg, 1세트, 10kg × 1세트",
+      "price": 6460,
+      "listPrice": 10760,
+      "observedAt": "2026-09-30T08:58:45.129Z",
+      "url": "https://link.coupang.com/a/hsQ6YRkqHI",
+      "image": "assets/products/be0ec5793bb0f16c981a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6460,
+          "observedAt": "2026-09-30T08:58:45.129Z"
+        },
+        {
+          "price": 6460,
+          "observedAt": "2026-09-25T00:52:55.402Z"
+        }
+      ]
+    },
     {
       "id": "p:7958952834|i:22001254867|v:89048780444",
       "source": "coupang",
@@ -5904,23 +5942,6 @@
         {
           "price": 9050,
           "observedAt": "2026-09-25T00:44:17.307Z"
-        }
-      ]
-    },
-    {
-      "id": "p:8708021872|i:25288252560|v:92283740245",
-      "source": "coupang",
-      "name": "브리즈문 캠핑 3중 방습 프리미엄 참나무 장작 + 우드 착화제 20g, 10kg, 1세트",
-      "price": 6460,
-      "listPrice": 10760,
-      "observedAt": "2026-09-25T00:52:55.402Z",
-      "url": "https://link.coupang.com/a/hjZSgWkt64",
-      "image": "assets/products/be0ec5793bb0f16c981a.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6460,
-          "observedAt": "2026-09-25T00:52:55.402Z"
         }
       ]
     },
