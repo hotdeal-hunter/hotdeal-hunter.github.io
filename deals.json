@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-09-30T01:04:16.342Z",
+  "updatedAt": "2026-09-30T01:24:55.562Z",
   "deals": [
+    {
+      "id": "toss:p:2675956079|n:리셀 100 샤워기, 1개 + 필터, 3개",
+      "source": "toss",
+      "name": "리셀 100 샤워기, 1개 + 필터, 3개",
+      "price": 3900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T01:24:31.046Z",
+      "url": "https://toss.shopping/_m/bQ72EcGu",
+      "image": "assets/products/e5cba42b755d5251eb27.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T01:24:31.046Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T01:24:30.898Z"
+        },
+        {
+          "price": 3900,
+          "observedAt": "2026-09-30T00:15:57.240Z"
+        }
+      ]
+    },
     {
       "id": "p:1852130626|i:3148367280|v:71135966164",
       "source": "coupang",
@@ -36,23 +61,6 @@
         {
           "price": 16055,
           "observedAt": "2026-09-30T00:58:58.704Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2675956079|n:리셀 100 샤워기, 1개 + 필터, 3개",
-      "source": "toss",
-      "name": "리셀 100 샤워기, 1개 + 필터, 3개",
-      "price": 3900,
-      "listPrice": null,
-      "observedAt": "2026-09-30T00:15:57.240Z",
-      "url": "https://toss.shopping/_m/bQ72EcGu",
-      "image": "assets/products/e5cba42b755d5251eb27.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3900,
-          "observedAt": "2026-09-30T00:15:57.240Z"
         }
       ]
     },
