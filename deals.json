@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-09-30T12:17:16.972Z",
+  "updatedAt": "2026-09-30T12:41:13.243Z",
   "deals": [
+    {
+      "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "source": "toss",
+      "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
+      "price": 58805,
+      "listPrice": 299000,
+      "observedAt": "2026-09-30T12:40:56.963Z",
+      "url": "https://toss.im/_m/diLMIWXz",
+      "image": "assets/products/2afad42f2ff460614de6.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 58805,
+          "observedAt": "2026-09-30T12:40:56.963Z"
+        },
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T13:38:00.871Z"
+        },
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T01:03:23.820Z"
+        },
+        {
+          "price": 58805,
+          "observedAt": "2026-08-30T01:01:39.033Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2455012609|n:한입과득 청송 홍로 사과, 가정용, 2kg, 1박스",
       "source": "toss",
@@ -17882,31 +17911,6 @@
         {
           "price": 4200,
           "observedAt": "2026-08-30T22:05:13.215Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:485298597|n:종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
-      "source": "toss",
-      "name": "종근당건강 락토핏 당케어, 100포, 3개 + 락토핏 골드, 30포, 1개 + 프로메가 알티지오메가3듀얼, 15일분",
-      "price": 58805,
-      "listPrice": null,
-      "observedAt": "2026-08-30T13:38:00.871Z",
-      "url": "https://toss.im/_m/diLMIWXz",
-      "image": "assets/products/2afad42f2ff460614de6.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 58805,
-          "observedAt": "2026-08-30T13:38:00.871Z"
-        },
-        {
-          "price": 58805,
-          "observedAt": "2026-08-30T01:03:23.820Z"
-        },
-        {
-          "price": 58805,
-          "observedAt": "2026-08-30T01:01:39.033Z"
         }
       ]
     },
