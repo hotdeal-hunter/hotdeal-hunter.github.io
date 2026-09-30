@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-09-30T22:53:41.452Z",
+  "updatedAt": "2026-09-30T22:57:46.575Z",
   "deals": [
+    {
+      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "source": "toss",
+      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
+      "price": 8330,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:57:25.195Z",
+      "url": "https://toss.im/_m/P84FeeS4",
+      "image": "assets/products/b34973f870709e2f0d21.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 8330,
+          "observedAt": "2026-09-30T22:57:25.195Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-27T22:22:20.878Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-26T00:46:06.861Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:23:20.865Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-23T01:20:57.968Z"
+        },
+        {
+          "price": 8330,
+          "observedAt": "2026-09-21T05:19:35.171Z"
+        }
+      ]
+    },
     {
       "id": "p:7426622216|i:22489696009|v:86351916632",
       "source": "coupang",
@@ -3670,39 +3707,6 @@
         {
           "price": 5950,
           "observedAt": "2026-09-21T10:31:30.131Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:287180179|n:쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "source": "toss",
-      "name": "쿠잉 베이직 물티슈, 캡형, 100매, 20팩",
-      "price": 8330,
-      "listPrice": 31800,
-      "observedAt": "2026-09-27T22:22:20.878Z",
-      "url": "https://toss.im/_m/P84FeeS4",
-      "image": "assets/products/b34973f870709e2f0d21.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 8330,
-          "observedAt": "2026-09-27T22:22:20.878Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-26T00:46:06.861Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:23:20.865Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-23T01:20:57.968Z"
-        },
-        {
-          "price": 8330,
-          "observedAt": "2026-09-21T05:19:35.171Z"
         }
       ]
     },
