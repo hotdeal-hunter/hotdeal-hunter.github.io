@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-09-29T23:37:40.324Z",
+  "updatedAt": "2026-09-30T00:11:06.483Z",
   "deals": [
+    {
+      "id": "p:7164345502|i:17215242941|v:84387112171",
+      "source": "coupang",
+      "name": "세타필 모이스춰라이징 로션, 1.25L, 1개",
+      "price": 17740,
+      "listPrice": 26469,
+      "observedAt": "2026-09-30T00:10:49.280Z",
+      "url": "https://link.coupang.com/a/hsfnV6wU3M",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17740,
+          "observedAt": "2026-09-30T00:10:49.280Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T00:05:02.115Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T00:05:02.115Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T23:15:41.156Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T22:22:58.545Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T22:58:58.259Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T02:32:33.834Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:51:02.817Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:50:58.863Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
+        }
+      ]
+    },
     {
       "id": "p:7866106965|i:24719078857|v:91502661164",
       "source": "coupang",
@@ -32,47 +94,6 @@
         {
           "price": 13210,
           "observedAt": "2026-09-29T23:27:33.156Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
-      "source": "toss",
-      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-09-29T23:15:41.156Z",
-      "url": "https://toss.im/_m/FFTuiMaC",
-      "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-29T23:15:41.156Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-29T22:22:58.545Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T22:58:58.259Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T02:32:33.834Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:51:02.817Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:50:58.863Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-21T08:17:55.264Z"
         }
       ]
     },
