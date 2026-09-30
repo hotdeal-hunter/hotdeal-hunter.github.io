@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-09-30T10:01:10.362Z",
+  "updatedAt": "2026-09-30T11:59:58.805Z",
   "deals": [
+    {
+      "id": "toss:p:159844565|n:허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
+      "source": "toss",
+      "name": "허만두 잎새만두, 알찬고기 1.4kg 1봉 + 알찬김치 1.4kg 1봉, 2봉",
+      "price": 13500,
+      "listPrice": null,
+      "observedAt": "2026-09-30T11:59:47.859Z",
+      "url": "https://toss.shopping/_m/zIzqwwKo",
+      "image": "assets/products/8c978eb717437dbba449.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13500,
+          "observedAt": "2026-09-30T11:59:47.859Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:106052031|n:대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+      "source": "toss",
+      "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
+      "price": 6440,
+      "listPrice": 15000,
+      "observedAt": "2026-09-30T11:01:33.454Z",
+      "url": "https://toss.im/_m/fxLxwrf2",
+      "image": "assets/products/da0ba253a9fb7d6b7d93.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6440,
+          "observedAt": "2026-09-30T11:01:33.454Z"
+        },
+        {
+          "price": 6440,
+          "observedAt": "2026-09-22T07:33:37.173Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2655844873|n:애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
+      "source": "toss",
+      "name": "애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
+      "price": 19990,
+      "listPrice": null,
+      "observedAt": "2026-09-30T11:00:26.496Z",
+      "url": "https://toss.shopping/_m/bZIcipXA",
+      "image": "assets/products/75464789e4d68a0712b7.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19990,
+          "observedAt": "2026-09-30T11:00:26.496Z"
+        },
+        {
+          "price": 19990,
+          "observedAt": "2026-09-30T07:11:22.185Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
@@ -258,23 +317,6 @@
         {
           "price": 3540,
           "observedAt": "2026-09-30T07:15:09.900Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2655844873|n:애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
-      "source": "toss",
-      "name": "애슐리 2인 홈파티세트, 폭립 500g + 봉골레 크림 빠네 756g, 1세트",
-      "price": 19990,
-      "listPrice": null,
-      "observedAt": "2026-09-30T07:11:22.185Z",
-      "url": "https://toss.shopping/_m/bZIcipXA",
-      "image": "assets/products/75464789e4d68a0712b7.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19990,
-          "observedAt": "2026-09-30T07:11:22.185Z"
         }
       ]
     },
@@ -7977,23 +8019,6 @@
         {
           "price": 27900,
           "observedAt": "2026-09-22T08:43:05.478Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:106052031|n:대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
-      "source": "toss",
-      "name": "대한다업 순수 호박팥차, 1.5g, 100개입, 1개",
-      "price": 6440,
-      "listPrice": null,
-      "observedAt": "2026-09-22T07:33:37.173Z",
-      "url": "https://toss.im/_m/fxLxwrf2",
-      "image": "assets/products/da0ba253a9fb7d6b7d93.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6440,
-          "observedAt": "2026-09-22T07:33:37.173Z"
         }
       ]
     },
