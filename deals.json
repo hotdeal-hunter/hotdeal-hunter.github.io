@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T00:59:08.659Z",
+  "updatedAt": "2026-09-30T01:04:16.342Z",
   "deals": [
+    {
+      "id": "p:1852130626|i:3148367280|v:71135966164",
+      "source": "coupang",
+      "name": "홍영의 붉은대게 백간장, 500ml, 1개",
+      "price": 7150,
+      "listPrice": 9586,
+      "observedAt": "2026-09-30T01:03:59.721Z",
+      "url": "https://link.coupang.com/a/hsjbwxDc3E",
+      "image": "assets/products/d9346aea404a7b4744a9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7150,
+          "observedAt": "2026-09-30T01:03:59.721Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:103087713|n:elle 스와로브스키 이터너티 반지, 블랙다이아, 10호, 1개",
       "source": "toss",
