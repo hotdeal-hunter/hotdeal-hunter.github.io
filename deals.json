@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T23:37:38.876Z",
+  "updatedAt": "2026-09-30T23:47:30.780Z",
   "deals": [
+    {
+      "id": "p:7063519752|i:18036369067|v:85190811225",
+      "source": "coupang",
+      "name": "베베쿡 유아용 사르르쿵 과자, 치즈요거트맛, 23g, 2개",
+      "price": 4500,
+      "listPrice": 8400,
+      "observedAt": "2026-09-30T23:47:14.169Z",
+      "url": "https://link.coupang.com/a/htSBt6DsJM",
+      "image": "assets/products/ebde78ed37c0dc2a0844.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4500,
+          "observedAt": "2026-09-30T23:47:14.169Z"
+        }
+      ]
+    },
     {
       "id": "p:7370280531|i:19010646294|v:92807981138",
       "source": "coupang",
