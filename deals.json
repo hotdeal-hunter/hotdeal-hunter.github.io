@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-09-30T22:46:13.664Z",
+  "updatedAt": "2026-09-30T22:53:41.452Z",
   "deals": [
+    {
+      "id": "p:7426622216|i:22489696009|v:86351916632",
+      "source": "coupang",
+      "name": "웅진빅토리아 썸머스노우 탄산음료, 500ml, 20개",
+      "price": 7560,
+      "listPrice": null,
+      "observedAt": "2026-09-30T22:53:29.163Z",
+      "url": "https://link.coupang.com/a/htOLkQ7WZE",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7560,
+          "observedAt": "2026-09-30T22:53:29.163Z"
+        }
+      ]
+    },
     {
       "id": "p:9716584488|i:46054185|v:3392895232",
       "source": "coupang",
