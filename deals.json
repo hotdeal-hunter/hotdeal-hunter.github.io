@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-09-30T07:15:26.717Z",
+  "updatedAt": "2026-09-30T07:47:54.655Z",
   "deals": [
+    {
+      "id": "toss:p:2564026953|n:셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
+      "source": "toss",
+      "name": "셰프초이스 육즙가득 도톰도톰 떡갈비, 2kg, 1개",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-09-30T07:47:30.173Z",
+      "url": "https://toss.shopping/_m/RJ1GG92w",
+      "image": "assets/products/f67a9a7e6c1b4d1d027d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-09-30T07:47:30.173Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1852130626|i:3148367280|v:71135966164",
+      "source": "coupang",
+      "name": "홍영의 붉은대게 백간장, 500ml, 1개",
+      "price": 7150,
+      "listPrice": null,
+      "observedAt": "2026-09-30T07:32:07.451Z",
+      "url": "https://link.coupang.com/a/hsKVahaBsi",
+      "image": "assets/products/d9346aea404a7b4744a9.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7150,
+          "observedAt": "2026-09-30T07:32:07.451Z"
+        },
+        {
+          "price": 7150,
+          "observedAt": "2026-09-30T01:03:59.721Z"
+        }
+      ]
+    },
     {
       "id": "p:8118562896|i:20579876506|v:73592303305",
       "source": "coupang",
@@ -528,23 +566,6 @@
         {
           "price": 16055,
           "observedAt": "2026-09-30T01:31:28.328Z"
-        }
-      ]
-    },
-    {
-      "id": "p:1852130626|i:3148367280|v:71135966164",
-      "source": "coupang",
-      "name": "홍영의 붉은대게 백간장, 500ml, 1개",
-      "price": 7150,
-      "listPrice": 9586,
-      "observedAt": "2026-09-30T01:03:59.721Z",
-      "url": "https://link.coupang.com/a/hsjbwxDc3E",
-      "image": "assets/products/d9346aea404a7b4744a9.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7150,
-          "observedAt": "2026-09-30T01:03:59.721Z"
         }
       ]
     },
