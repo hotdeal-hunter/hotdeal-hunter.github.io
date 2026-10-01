@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T11:20:42.877Z",
+  "updatedAt": "2026-10-01T11:43:51.177Z",
   "deals": [
+    {
+      "id": "p:8288863602|i:-|v:87760149070",
+      "source": "coupang",
+      "name": "친수 칠리소스, 250g, 2개",
+      "price": 1980,
+      "listPrice": 6000,
+      "observedAt": "2026-10-01T11:43:39.419Z",
+      "url": "https://link.coupang.com/a/huHNDWWxwW",
+      "image": "assets/products/7c6160ca6526fb55c2fe.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 1980,
+          "observedAt": "2026-10-01T11:43:39.419Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2676870483|n:제주 극조생 감귤, 10kg, 1개",
       "source": "toss",
