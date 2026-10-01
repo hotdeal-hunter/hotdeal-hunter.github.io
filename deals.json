@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T06:59:29.807Z",
+  "updatedAt": "2026-10-01T07:08:21.482Z",
   "deals": [
+    {
+      "id": "p:8518435267|i:24662380517|v:91672793042",
+      "source": "coupang",
+      "name": "LG전자 2025 그램 17 코어Ultra5, 에센스 화이트, 256GB, 16GB, WIN11 Home, 17Z90S-GA5VK",
+      "price": 981410,
+      "listPrice": 1814183,
+      "observedAt": "2026-10-01T07:02:21.472Z",
+      "url": "https://link.coupang.com/a/hunHj2HZjo",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 981410,
+          "observedAt": "2026-10-01T07:02:21.472Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:817799143|n:종근당건강 락토핏 골드, 140포, 2개 + 증정 락토핏 골드, 30포 + 증정 아임비타 면역비타민c, 30포",
       "source": "toss",
