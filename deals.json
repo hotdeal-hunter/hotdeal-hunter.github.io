@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T10:00:43.082Z",
+  "updatedAt": "2026-10-01T10:03:32.659Z",
   "deals": [
+    {
+      "id": "p:7258319114|i:20061699037|v:79144705537",
+      "source": "coupang",
+      "name": "스키피 수퍼청크 땅콩버터, 462g, 2개, 462g × 2개",
+      "price": 9480,
+      "listPrice": 12490,
+      "observedAt": "2026-10-01T10:03:20.406Z",
+      "url": "https://link.coupang.com/a/huADbIt7Vk",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9480,
+          "observedAt": "2026-10-01T10:03:20.406Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1984918561|n:목우촌 주부9단 프랑크 소시지, 500g, 3개",
       "source": "toss",
