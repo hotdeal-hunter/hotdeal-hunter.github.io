@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T05:41:43.415Z",
+  "updatedAt": "2026-10-01T06:23:56.923Z",
   "deals": [
+    {
+      "id": "p:8283024107|i:24364094799|v:91379399350",
+      "source": "coupang",
+      "name": "리고 100% 땅콩버터 크리미, 453g, 3개",
+      "price": 14070,
+      "listPrice": 29940,
+      "observedAt": "2026-10-01T06:23:45.034Z",
+      "url": "https://link.coupang.com/a/hukWgQGPkq",
+      "image": "assets/products/668cf8178fc4e808a7ef.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14070,
+          "observedAt": "2026-10-01T06:23:45.034Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:136650593|n:지아자 산양유 헤어샴푸, 400ml, 4개",
       "source": "toss",
