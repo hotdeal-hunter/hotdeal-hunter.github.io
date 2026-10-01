@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T03:41:30.577Z",
+  "updatedAt": "2026-10-01T04:13:17.419Z",
   "deals": [
+    {
+      "id": "p:7381093676|i:14460498347|v:81703942711",
+      "source": "coupang",
+      "name": "아디다스피트니스 에센셜 무릎 보호대, M(23 x 16 x 0.5 cm), 1개, 블랙",
+      "price": 3400,
+      "listPrice": 11774,
+      "observedAt": "2026-10-01T04:07:04.034Z",
+      "url": "https://link.coupang.com/a/hubaGlAXKK",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3400,
+          "observedAt": "2026-10-01T04:07:04.034Z"
+        }
+      ]
+    },
     {
       "id": "p:167041796|i:41776351|v:3180840204",
       "source": "coupang",
