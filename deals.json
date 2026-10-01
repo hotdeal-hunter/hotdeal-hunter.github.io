@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T08:06:29.453Z",
+  "updatedAt": "2026-10-01T08:16:29.361Z",
   "deals": [
+    {
+      "id": "p:7144093223|i:101559150|v:74970025046",
+      "source": "coupang",
+      "name": "그린자이언트 니블렛 스위트콘, 340g, 5개",
+      "price": 5700,
+      "listPrice": 9016,
+      "observedAt": "2026-10-01T08:12:55.278Z",
+      "url": "https://link.coupang.com/a/husJXFlLzM",
+      "image": "assets/products/e9321149fd1e7445b333.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5700,
+          "observedAt": "2026-10-01T08:12:55.278Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2670342811|n:란센 초음파 렌즈세척기, bpl-04, 화이트, 1개",
+      "source": "toss",
+      "name": "란센 초음파 렌즈세척기, BPL-04, 화이트, 1개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-10-01T08:10:23.285Z",
+      "url": "https://toss.shopping/_m/nFnT6867",
+      "image": "assets/products/c9618449a9cd9f85bcad.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-01T08:10:23.285Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1544561987|n:더건강플러스 엑스트라버진 올리브오일, 1l, 1개",
       "source": "toss",
