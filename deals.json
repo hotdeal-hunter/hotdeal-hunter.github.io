@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T02:06:06.065Z",
+  "updatedAt": "2026-10-01T02:19:42.231Z",
   "deals": [
+    {
+      "id": "p:8631563688|i:25041770082|v:92046387075",
+      "source": "coupang",
+      "name": "마스마룰즈 남녀공용 래빗에코백 + 파우치 세트, 레오파드, 에코백(420 x 350 mm), 파우치(180 x 180 mm)",
+      "price": 27900,
+      "listPrice": 39802,
+      "observedAt": "2026-10-01T02:13:38.624Z",
+      "url": "https://link.coupang.com/a/ht239lNnYy",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27900,
+          "observedAt": "2026-10-01T02:13:38.624Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8246420807|i:5436981|v:3006828929",
+      "source": "coupang",
+      "name": "오뚜기 양조 식초, 3개, 900ml",
+      "price": 3270,
+      "listPrice": 5163,
+      "observedAt": "2026-10-01T02:12:26.386Z",
+      "url": "https://link.coupang.com/a/ht2YOIAAKq",
+      "image": "assets/products/1aed759fd0341874419a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3270,
+          "observedAt": "2026-10-01T02:12:26.386Z"
+        }
+      ]
+    },
     {
       "id": "p:9715484643|i:22604701995|v:85929843069",
       "source": "coupang",
