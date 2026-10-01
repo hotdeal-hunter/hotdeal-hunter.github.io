@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-01T09:41:19.034Z",
+  "updatedAt": "2026-10-01T10:00:43.082Z",
   "deals": [
+    {
+      "id": "toss:p:1984918561|n:목우촌 주부9단 프랑크 소시지, 500g, 3개",
+      "source": "toss",
+      "name": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
+      "price": 14500,
+      "listPrice": null,
+      "observedAt": "2026-10-01T09:54:35.939Z",
+      "url": "https://toss.shopping/_m/rNrnuxN9",
+      "image": "assets/products/fc3eeef704f4e0ee9de1.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 14500,
+          "observedAt": "2026-10-01T09:54:35.939Z"
+        },
+        {
+          "price": 14500,
+          "observedAt": "2026-10-01T09:53:24.211Z"
+        },
+        {
+          "price": 14500,
+          "observedAt": "2026-10-01T01:57:00.846Z"
+        }
+      ]
+    },
     {
       "id": "p:6492007298|i:23155177613|v:90187996198",
       "source": "coupang",
@@ -817,23 +842,6 @@
         {
           "price": 11900,
           "observedAt": "2026-10-01T01:57:05.419Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1984918561|n:목우촌 주부9단 프랑크 소시지, 500g, 3개",
-      "source": "toss",
-      "name": "목우촌 주부9단 프랑크 소시지, 500g, 3개",
-      "price": 14500,
-      "listPrice": 26940,
-      "observedAt": "2026-10-01T01:57:00.846Z",
-      "url": "https://toss.shopping/_m/rNrnuxN9",
-      "image": "assets/products/fc3eeef704f4e0ee9de1.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14500,
-          "observedAt": "2026-10-01T01:57:00.846Z"
         }
       ]
     },
