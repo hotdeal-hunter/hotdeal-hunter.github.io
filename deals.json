@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-01T23:16:29.809Z",
+  "updatedAt": "2026-10-01T23:24:42.719Z",
   "deals": [
+    {
+      "id": "toss:p:2045113675|n:호정가 하루단백질바, 25g, 20개",
+      "source": "toss",
+      "name": "호정가 하루단백질바, 25g, 20개",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-10-01T23:23:10.437Z",
+      "url": "https://toss.shopping/_m/Von43tp7",
+      "image": "assets/products/48a4849a11cfaf7bb73b.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-10-01T23:23:10.437Z"
+        },
+        {
+          "price": 7990,
+          "observedAt": "2026-10-01T23:18:02.965Z"
+        }
+      ]
+    },
     {
       "id": "p:9335287868|i:59385377|v:3093025329",
       "source": "coupang",
