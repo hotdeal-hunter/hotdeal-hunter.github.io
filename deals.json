@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T04:30:39.230Z",
+  "updatedAt": "2026-10-01T04:39:29.712Z",
   "deals": [
+    {
+      "id": "toss:p:2614414033|n:크라운제과 인기스낵모음, 12팩, 1개",
+      "source": "toss",
+      "name": "크라운제과 인기스낵모음, 12팩, 1개",
+      "price": 8990,
+      "listPrice": null,
+      "observedAt": "2026-10-01T04:31:00.766Z",
+      "url": "https://toss.shopping/_m/lsj0hrkC",
+      "image": "assets/products/8d610e9e5ccd7da1290d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8990,
+          "observedAt": "2026-10-01T04:31:00.766Z"
+        }
+      ]
+    },
     {
       "id": "p:5275674771|i:7532319398|v:87019908732",
       "source": "coupang",
@@ -1080,7 +1097,7 @@
       "listPrice": 15586,
       "observedAt": "2026-09-30T22:11:35.319Z",
       "url": "https://link.coupang.com/a/htLLHGiznw",
-      "image": null,
+      "image": "assets/products/85696dcf242e493fcee5.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
