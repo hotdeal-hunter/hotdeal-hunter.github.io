@@ -1,6 +1,80 @@
 {
-  "updatedAt": "2026-10-01T04:13:17.419Z",
+  "updatedAt": "2026-10-01T04:21:30.221Z",
   "deals": [
+    {
+      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "source": "toss",
+      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "price": 58810,
+      "listPrice": null,
+      "observedAt": "2026-10-01T04:16:02.408Z",
+      "url": "https://toss.im/_m/hoV8jeJu",
+      "image": "assets/products/422348186f9ea26bc8a0.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-10-01T04:16:02.408Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.773Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.665Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T00:38:52.789Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.953Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.764Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:42:00.956Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:48:59.194Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:36:29.604Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:81542519|n:피죤 드릴펑, 1l, 3개 + 2l, 1개",
+      "source": "toss",
+      "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
+      "price": 9900,
+      "listPrice": 25900,
+      "observedAt": "2026-10-01T04:15:54.755Z",
+      "url": "https://toss.im/_m/pZDtnKoy",
+      "image": "assets/products/a217b7fa3f93a71ecbd5.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-01T04:15:54.755Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-01T06:24:48.415Z"
+        }
+      ]
+    },
     {
       "id": "p:7381093676|i:14460498347|v:81703942711",
       "source": "coupang",
@@ -8163,55 +8237,6 @@
         {
           "price": 15610,
           "observedAt": "2026-09-23T01:55:53.377Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
-      "source": "toss",
-      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 프라이팬 24cm + 프라이팬 28cm + 볶음팬 24cm + 양수웍 28cm + 유리뚜껑 28cm, 리퍼, 1세트",
-      "price": 58810,
-      "listPrice": null,
-      "observedAt": "2026-09-23T01:23:20.773Z",
-      "url": "https://toss.im/_m/hoV8jeJu",
-      "image": "assets/products/f5b3ffa5a6bcf4c5fe29.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.773Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.665Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T00:38:52.789Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.953Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.764Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:42:00.956Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:48:59.194Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:36:29.604Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-18T02:20:20.467Z"
         }
       ]
     },
@@ -17679,23 +17704,6 @@
         {
           "price": 7900,
           "observedAt": "2026-09-01T06:53:40.082Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:81542519|n:피죤 드릴펑, 1l, 3개 + 2l, 1개",
-      "source": "toss",
-      "name": "피죤 드릴펑, 1L, 3개 + 2L, 1개",
-      "price": 9900,
-      "listPrice": 25900,
-      "observedAt": "2026-09-01T06:24:48.415Z",
-      "url": "https://toss.im/_m/pZDtnKoy",
-      "image": "assets/products/a217b7fa3f93a71ecbd5.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-01T06:24:48.415Z"
         }
       ]
     },
