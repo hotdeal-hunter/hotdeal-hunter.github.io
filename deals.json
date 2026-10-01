@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T00:15:56.986Z",
+  "updatedAt": "2026-10-01T01:04:50.091Z",
   "deals": [
+    {
+      "id": "p:6138575604|i:21002464737|v:79031340021",
+      "source": "coupang",
+      "name": "펩시 제로슈거 라임향 무라벨, 300ml, 20개",
+      "price": 11930,
+      "listPrice": 14876,
+      "observedAt": "2026-10-01T01:04:33.540Z",
+      "url": "https://link.coupang.com/a/htX74hwn9g",
+      "image": "assets/products/98c75959509e25db0f5b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11930,
+          "observedAt": "2026-10-01T01:04:33.540Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9469495085|i:28186596937|v:95141101988",
+      "source": "coupang",
+      "name": "포스트 오레오오즈 요거트큐브 시리얼, 400g, 1개",
+      "price": 5610,
+      "listPrice": 9140,
+      "observedAt": "2026-10-01T01:04:33.255Z",
+      "url": "https://link.coupang.com/a/htX72KdIOG",
+      "image": "assets/products/dc2a7f38f55acc407a27.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5610,
+          "observedAt": "2026-10-01T01:04:33.255Z"
+        }
+      ]
+    },
     {
       "id": "p:5499463307|i:8539948813|v:75827348658",
       "source": "coupang",
@@ -520,7 +554,7 @@
       "listPrice": null,
       "observedAt": "2026-09-30T22:53:29.163Z",
       "url": "https://link.coupang.com/a/htOLkQ7WZE",
-      "image": null,
+      "image": "assets/products/49196087f58c1fbb8be9.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
