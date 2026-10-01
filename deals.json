@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T02:03:24.435Z",
+  "updatedAt": "2026-10-01T02:06:06.065Z",
   "deals": [
+    {
+      "id": "p:9715484643|i:22604701995|v:85929843069",
+      "source": "coupang",
+      "name": "오뚜기3분 쇠고기 간짜장, 200g, 200ml, 5개",
+      "price": 5450,
+      "listPrice": 10900,
+      "observedAt": "2026-10-01T02:04:51.765Z",
+      "url": "https://link.coupang.com/a/ht2rf44cBo",
+      "image": "assets/products/21c435e127662dc8fa06.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5450,
+          "observedAt": "2026-10-01T02:04:51.765Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2602109709|n:산과들에 윤서의달밤, 30g, 20봉",
       "source": "toss",
