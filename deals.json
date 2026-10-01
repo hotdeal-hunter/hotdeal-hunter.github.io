@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-01T10:03:32.659Z",
+  "updatedAt": "2026-10-01T11:02:17.967Z",
   "deals": [
+    {
+      "id": "p:6330671687|i:18368002923|v:79329631986",
+      "source": "coupang",
+      "name": "어메이징오트 오리지널 혼합음료, 190ml, 24개, 190ml × 24개",
+      "price": 10610,
+      "listPrice": 13268,
+      "observedAt": "2026-10-01T10:56:05.598Z",
+      "url": "https://link.coupang.com/a/huEoUF3wWq",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10610,
+          "observedAt": "2026-10-01T10:56:05.598Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-10-01T10:26:22.211Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:26:22.211Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:20:26.314Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T02:32:29.718Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-30T02:32:50.980Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T22:21:54.415Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "p:7258319114|i:20061699037|v:79144705537",
       "source": "coupang",
@@ -750,47 +816,6 @@
         {
           "price": 4830,
           "observedAt": "2026-09-29T22:22:58.901Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": 15900,
-      "observedAt": "2026-10-01T02:32:29.718Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T02:32:29.718Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-30T02:32:50.980Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-28T22:21:54.415Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:51:02.720Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
         }
       ]
     },
@@ -3912,7 +3937,7 @@
       "listPrice": null,
       "observedAt": "2026-09-27T23:54:43.569Z",
       "url": "https://link.coupang.com/a/hoUqxeOss8",
-      "image": null,
+      "image": "assets/products/6697adb9ba51b07f34ba.png",
       "insight": "3회 가격 기록",
       "history": [
         {
