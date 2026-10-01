@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T04:21:30.221Z",
+  "updatedAt": "2026-10-01T04:30:39.230Z",
   "deals": [
+    {
+      "id": "p:5275674771|i:7532319398|v:87019908732",
+      "source": "coupang",
+      "name": "풀무원 꼬마 야채김밥 세트, 124g, 2개",
+      "price": 6080,
+      "listPrice": 7654,
+      "observedAt": "2026-10-01T04:26:46.983Z",
+      "url": "https://link.coupang.com/a/hucz2RHuRE",
+      "image": "assets/products/eeac7eb8441aadfe0d7b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6080,
+          "observedAt": "2026-10-01T04:26:46.983Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
       "source": "toss",
@@ -83,7 +100,7 @@
       "listPrice": 11774,
       "observedAt": "2026-10-01T04:07:04.034Z",
       "url": "https://link.coupang.com/a/hubaGlAXKK",
-      "image": null,
+      "image": "assets/products/34696dbf915a0c850380.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -340,7 +357,7 @@
       "listPrice": 39802,
       "observedAt": "2026-10-01T02:13:38.624Z",
       "url": "https://link.coupang.com/a/ht239lNnYy",
-      "image": null,
+      "image": "assets/products/ffb579cbb0f1757a1e84.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -497,7 +514,7 @@
       "listPrice": 3685,
       "observedAt": "2026-10-01T00:15:40.319Z",
       "url": "https://link.coupang.com/a/htUDs8pCbk",
-      "image": null,
+      "image": "assets/products/22b5ed42ed243f51755f.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
