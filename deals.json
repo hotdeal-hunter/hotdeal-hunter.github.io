@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T00:08:19.662Z",
+  "updatedAt": "2026-10-01T00:15:56.986Z",
   "deals": [
+    {
+      "id": "p:5499463307|i:8539948813|v:75827348658",
+      "source": "coupang",
+      "name": "국내산 로메인, 250g, 1개, 250g × 1개",
+      "price": 2060,
+      "listPrice": 3685,
+      "observedAt": "2026-10-01T00:15:40.319Z",
+      "url": "https://link.coupang.com/a/htUDs8pCbk",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2060,
+          "observedAt": "2026-10-01T00:15:40.319Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82831369|n:동원 덴마크 인포켓치즈 오리지널, 20g, 30개",
       "source": "toss",
