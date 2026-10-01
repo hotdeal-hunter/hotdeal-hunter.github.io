@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T08:25:21.871Z",
+  "updatedAt": "2026-10-01T09:16:28.980Z",
   "deals": [
+    {
+      "id": "toss:p:2672042123|n:제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+      "source": "toss",
+      "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+      "price": 13900,
+      "listPrice": 33000,
+      "observedAt": "2026-10-01T09:13:18.173Z",
+      "url": "https://toss.shopping/_m/VCaoR5li",
+      "image": "assets/products/6bd368a322a6dedae041.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-10-01T09:13:18.173Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8472492479|i:27376197845|v:94342087871",
+      "source": "coupang",
+      "name": "타이키 물없이 싸먹는 월남쌈 라이스페이퍼 사각 16cm, 3개, 120g",
+      "price": 2670,
+      "listPrice": 5250,
+      "observedAt": "2026-10-01T09:10:42.494Z",
+      "url": "https://link.coupang.com/a/huwRZuzUAK",
+      "image": "assets/products/ec6d7df1cb2211ed1d0e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2670,
+          "observedAt": "2026-10-01T09:10:42.494Z"
+        }
+      ]
+    },
     {
       "id": "p:7144093223|i:101559150|v:74970025046",
       "source": "coupang",
