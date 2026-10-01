@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T01:07:26.802Z",
+  "updatedAt": "2026-10-01T01:29:29.379Z",
   "deals": [
+    {
+      "id": "toss:p:2678952495|n:종근당건강 락토핏 골드, 20포, 1박스",
+      "source": "toss",
+      "name": "종근당건강 락토핏 골드, 20포, 1박스",
+      "price": 2500,
+      "listPrice": null,
+      "observedAt": "2026-10-01T01:29:04.923Z",
+      "url": "https://toss.shopping/_m/dveAoFNo",
+      "image": "assets/products/35b10fbb50c3caee3875.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 2500,
+          "observedAt": "2026-10-01T01:29:04.923Z"
+        }
+      ]
+    },
     {
       "id": "p:6138575604|i:21002464737|v:79031340021",
       "source": "coupang",
