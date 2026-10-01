@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-01T09:16:28.980Z",
+  "updatedAt": "2026-10-01T09:25:21.986Z",
   "deals": [
+    {
+      "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
+      "source": "toss",
+      "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
+      "price": 4620,
+      "listPrice": null,
+      "observedAt": "2026-10-01T09:18:05.700Z",
+      "url": "https://toss.shopping/_m/lkS95wo2",
+      "image": "assets/products/ea4d719167c87f3f161f.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4620,
+          "observedAt": "2026-10-01T09:18:05.700Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-30T02:32:51.273Z"
+        },
+        {
+          "price": 4620,
+          "observedAt": "2026-09-28T22:21:54.501Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2672042123|n:제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
       "source": "toss",
@@ -2171,27 +2196,6 @@
         {
           "price": 5990,
           "observedAt": "2026-09-28T22:23:06.457Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
-      "source": "toss",
-      "name": "수뜰리에 고농축 섬유유연제 코튼캔디, 2.5L, 4개",
-      "price": 4620,
-      "listPrice": 39600,
-      "observedAt": "2026-09-30T02:32:51.273Z",
-      "url": "https://toss.shopping/_m/lkS95wo2",
-      "image": "assets/products/ea4d719167c87f3f161f.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4620,
-          "observedAt": "2026-09-30T02:32:51.273Z"
-        },
-        {
-          "price": 4620,
-          "observedAt": "2026-09-28T22:21:54.501Z"
         }
       ]
     },
