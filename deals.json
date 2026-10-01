@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T05:24:31.091Z",
+  "updatedAt": "2026-10-01T05:33:24.209Z",
   "deals": [
+    {
+      "id": "toss:p:136650593|n:지아자 산양유 헤어샴푸, 400ml, 4개",
+      "source": "toss",
+      "name": "지아자 산양유 헤어샴푸, 400ml, 4개",
+      "price": 16065,
+      "listPrice": null,
+      "observedAt": "2026-10-01T05:31:03.109Z",
+      "url": "https://toss.shopping/_m/5HYAMGCf",
+      "image": "assets/products/95896ae89cc277b547c2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16065,
+          "observedAt": "2026-10-01T05:31:03.109Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8157269016|i:7505540780|v:86495568251",
+      "source": "coupang",
+      "name": "평창수 무라벨 생수, 2L, 12개, 2L × 12개",
+      "price": 6050,
+      "listPrice": 8363,
+      "observedAt": "2026-10-01T05:27:11.759Z",
+      "url": "https://link.coupang.com/a/hugTHAtDsi",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6050,
+          "observedAt": "2026-10-01T05:27:11.759Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2590502625|n:프로프룻 샤인머스켓, 특품, 2kg, 1박스",
       "source": "toss",
