@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-01T06:46:19.485Z",
+  "updatedAt": "2026-10-01T06:59:29.807Z",
   "deals": [
+    {
+      "id": "toss:p:817799143|n:종근당건강 락토핏 골드, 140포, 2개 + 증정 락토핏 골드, 30포 + 증정 아임비타 면역비타민c, 30포",
+      "source": "toss",
+      "name": "종근당건강 락토핏 골드, 140포, 2개 + 증정 락토핏 골드, 30포 + 증정 아임비타 면역비타민C, 30포",
+      "price": 50310,
+      "listPrice": 148400,
+      "observedAt": "2026-10-01T06:55:06.149Z",
+      "url": "https://toss.shopping/_m/vI7hXr93",
+      "image": "assets/products/c2f3e4d58cc0a2765431.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 50310,
+          "observedAt": "2026-10-01T06:55:06.149Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9052735430|i:26571358370|v:94608531027",
+      "source": "coupang",
+      "name": "카밀 핸드 앤 네일 크림 클래식, 100ml, 2개",
+      "price": 5800,
+      "listPrice": 15800,
+      "observedAt": "2026-10-01T06:53:42.788Z",
+      "url": "https://link.coupang.com/a/hum41B01tI",
+      "image": "assets/products/3ca0c8c43de73340e559.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5800,
+          "observedAt": "2026-10-01T06:53:42.788Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
       "source": "toss",
