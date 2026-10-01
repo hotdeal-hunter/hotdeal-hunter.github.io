@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-01T06:36:15.185Z",
+  "updatedAt": "2026-10-01T06:46:19.485Z",
   "deals": [
+    {
+      "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "source": "toss",
+      "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-10-01T06:40:14.312Z",
+      "url": "https://toss.im/_m/PKCsKInB",
+      "image": "assets/products/886b99b10b8c8542ea6f.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-01T06:40:14.312Z"
+        },
+        {
+          "price": 11910,
+          "observedAt": "2026-09-13T13:08:42.777Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-02T12:30:51.690Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-02T06:13:25.473Z"
+        }
+      ]
+    },
     {
       "id": "p:8832414092|i:25777647121|v:92765626992",
       "source": "coupang",
@@ -12571,31 +12600,6 @@
         {
           "price": 12900,
           "observedAt": "2026-09-07T00:37:35.367Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2196585701|n:전기구이 몸통오징어, 200g, 7-10미, 1개",
-      "source": "toss",
-      "name": "전기구이 몸통오징어, 200g, 7-10미, 1개",
-      "price": 11910,
-      "listPrice": null,
-      "observedAt": "2026-09-13T13:08:42.777Z",
-      "url": "https://toss.im/_m/PKCsKInB",
-      "image": "assets/products/886b99b10b8c8542ea6f.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 11910,
-          "observedAt": "2026-09-13T13:08:42.777Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-02T12:30:51.690Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-02T06:13:25.473Z"
         }
       ]
     },
