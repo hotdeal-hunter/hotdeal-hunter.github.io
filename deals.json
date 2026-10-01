@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T09:33:43.171Z",
+  "updatedAt": "2026-10-01T09:41:19.034Z",
   "deals": [
+    {
+      "id": "p:6492007298|i:23155177613|v:90187996198",
+      "source": "coupang",
+      "name": "피지오겔 데일리 모이스쳐 테라피 페이셜 크림, 75ml, 2개",
+      "price": 20900,
+      "listPrice": null,
+      "observedAt": "2026-10-01T09:41:11.439Z",
+      "url": "https://link.coupang.com/a/huy23iPv5g",
+      "image": "assets/products/102b735639e7a6ac5587.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20900,
+          "observedAt": "2026-10-01T09:41:11.439Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665301375|n:수뜰리에 고농축 섬유유연제 코튼캔디, 2.5l, 4개",
       "source": "toss",
