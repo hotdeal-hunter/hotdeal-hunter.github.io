@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T22:48:29.580Z",
+  "updatedAt": "2026-10-01T22:59:59.929Z",
   "deals": [
+    {
+      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-01T22:53:48.670Z",
+      "url": "https://toss.shopping/_m/DwPOKAAi",
+      "image": "assets/products/584ff1c9fc940eaeae5e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T22:53:48.670Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
       "source": "toss",
