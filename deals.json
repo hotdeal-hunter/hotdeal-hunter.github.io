@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-01T06:23:56.923Z",
+  "updatedAt": "2026-10-01T06:36:15.185Z",
   "deals": [
+    {
+      "id": "p:8832414092|i:25777647121|v:92765626992",
+      "source": "coupang",
+      "name": "주부9단 목우촌 두툼 비엔나, 700g, 2개",
+      "price": 10570,
+      "listPrice": 14690,
+      "observedAt": "2026-10-01T06:30:03.264Z",
+      "url": "https://link.coupang.com/a/hulocZS3Z6",
+      "image": "assets/products/47c8cc63a6833f6ef482.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10570,
+          "observedAt": "2026-10-01T06:30:03.264Z"
+        }
+      ]
+    },
     {
       "id": "p:8283024107|i:24364094799|v:91379399350",
       "source": "coupang",
