@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-10-01T02:37:21.690Z",
+  "updatedAt": "2026-10-01T02:58:13.512Z",
   "deals": [
+    {
+      "id": "p:9182544997|i:24630798813|v:88319153389",
+      "source": "coupang",
+      "name": "셀퓨전씨 레이저 유브이 썬스크린 SPF50+ PA++++, 50ml, 1개",
+      "price": 9250,
+      "listPrice": 14653,
+      "observedAt": "2026-10-01T02:52:03.107Z",
+      "url": "https://link.coupang.com/a/ht5Oj09bnE",
+      "image": "assets/products/664d1981fd30d70c606a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9250,
+          "observedAt": "2026-10-01T02:52:03.107Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-01T02:41:19.666Z",
+      "url": "https://toss.shopping/_m/bZVuf1xj",
+      "image": "assets/products/dee271090cbaa57b791d.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:41:19.666Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:32:29.476Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T22:22:59.245Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T04:17:17.231Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:45.154Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:44.983Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T04:20:48.080Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T03:04:28.462Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T02:32:33.556Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
       "source": "toss",
@@ -126,51 +192,6 @@
         {
           "price": 6990,
           "observedAt": "2026-09-27T22:56:11.621Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "price": 6930,
-      "listPrice": 59800,
-      "observedAt": "2026-10-01T02:32:29.476Z",
-      "url": "https://toss.shopping/_m/bZVuf1xj",
-      "image": "assets/products/dee271090cbaa57b791d.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:32:29.476Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T22:22:59.245Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T04:17:17.231Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:45.154Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:44.983Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T04:20:48.080Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T03:04:28.462Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T02:32:33.556Z"
         }
       ]
     },
