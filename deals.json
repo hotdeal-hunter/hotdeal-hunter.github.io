@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-02T06:22:03.362Z",
+  "updatedAt": "2026-10-02T07:06:44.988Z",
   "deals": [
+    {
+      "id": "p:7816416296|i:21216582248|v:82127839678",
+      "source": "coupang",
+      "name": "함소아 리포퍼 철분가득 30포 1개월분, 45g, 1개, 45g × 1개",
+      "price": 8720,
+      "listPrice": 11302,
+      "observedAt": "2026-10-02T07:02:20.372Z",
+      "url": "https://link.coupang.com/a/hv2Bilso5A",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8720,
+          "observedAt": "2026-10-02T07:02:20.372Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2194443679|n:김삼두장인 두부야채어묵바, 150g, 5봉+1봉",
+      "source": "toss",
+      "name": "김삼두장인 두부야채어묵바, 150g, 5봉+1봉",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-10-02T07:01:02.904Z",
+      "url": "https://toss.im/_m/V1XksG26",
+      "image": "assets/products/a42bf2ec6b8c7f466dde.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-02T07:01:02.904Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-08-26T08:21:19.742Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2124695733|n:양계장사람들 난각번호2번 프리미엄 유정란, 특대란, 60구, 1개",
       "source": "toss",
@@ -22651,23 +22689,6 @@
         {
           "price": 7170,
           "observedAt": "2026-08-26T08:22:58.787Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2194443679|n:김삼두장인 두부야채어묵바, 150g, 5봉",
-      "source": "toss",
-      "name": "김삼두장인 두부야채어묵바, 150g, 5봉",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-08-26T08:21:19.742Z",
-      "url": "https://toss.im/_m/V1XksG26",
-      "image": "assets/products/50ca0b627cc339e413cc.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-08-26T08:21:19.742Z"
         }
       ]
     },
