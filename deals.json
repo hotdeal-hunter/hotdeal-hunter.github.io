@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T01:48:18.542Z",
+  "updatedAt": "2026-10-02T01:56:30.876Z",
   "deals": [
+    {
+      "id": "p:9412434217|i:25858815414|v:92845149705",
+      "source": "coupang",
+      "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
+      "price": 5980,
+      "listPrice": 10277,
+      "observedAt": "2026-10-02T01:50:48.471Z",
+      "url": "https://link.coupang.com/a/hvGk1tG5Lw",
+      "image": "assets/products/cbcfa8c86b524142db5e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5980,
+          "observedAt": "2026-10-02T01:50:48.471Z"
+        }
+      ]
+    },
     {
       "id": "p:7473901049|i:19711992|v:85761974955",
       "source": "coupang",
