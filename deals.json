@@ -1,6 +1,109 @@
 {
-  "updatedAt": "2026-10-02T02:55:24.205Z",
+  "updatedAt": "2026-10-02T03:18:30.656Z",
   "deals": [
+    {
+      "id": "p:201242344|i:28019791782|v:94977018617",
+      "source": "coupang",
+      "name": "팔도 비빔장 시그니처, 310g, 2개",
+      "price": 4880,
+      "listPrice": 6819,
+      "observedAt": "2026-10-02T03:15:06.299Z",
+      "url": "https://link.coupang.com/a/hvMmu0Vgk0",
+      "image": "assets/products/6e1503621cd7f27aeebd.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4880,
+          "observedAt": "2026-10-02T03:15:06.299Z"
+        },
+        {
+          "price": 4880,
+          "observedAt": "2026-08-17T02:56:43.583Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8628890600|i:25036208996|v:90448343394",
+      "source": "coupang",
+      "name": "차오차이 짜장 혼합 5종 x 2p 세트, 180g, 1세트",
+      "price": 12810,
+      "listPrice": 16626,
+      "observedAt": "2026-10-02T03:12:29.114Z",
+      "url": "https://link.coupang.com/a/hvMaTHx9UW",
+      "image": "assets/products/ba763f2e13314f26949b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12810,
+          "observedAt": "2026-10-02T03:12:29.114Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "source": "toss",
+      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "price": 10600,
+      "listPrice": null,
+      "observedAt": "2026-10-02T02:56:52.733Z",
+      "url": "https://toss.im/_m/p8yLGlpi",
+      "image": "assets/products/d3216092f3fe5a15fb6d.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T02:56:52.733Z"
+        },
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T02:01:44.149Z"
+        },
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T02:01:43.998Z"
+        },
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T01:32:29.041Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:10:07.483Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:40.642Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:40.555Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:39.906Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-11T23:03:18.108Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-11T09:03:52.355Z"
+        },
+        {
+          "price": 12600,
+          "observedAt": "2026-09-03T08:30:05.253Z"
+        },
+        {
+          "price": 12600,
+          "observedAt": "2026-09-02T23:00:34.000Z"
+        },
+        {
+          "price": 9540,
+          "observedAt": "2026-09-02T00:14:31.346Z"
+        }
+      ]
+    },
     {
       "id": "p:2176601454|i:3703726182|v:71521824653",
       "source": "coupang",
@@ -137,67 +240,6 @@
         {
           "price": 4990,
           "observedAt": "2026-10-01T23:07:48.612Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "source": "toss",
-      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "price": 10600,
-      "listPrice": null,
-      "observedAt": "2026-10-02T02:01:44.149Z",
-      "url": "https://toss.im/_m/p8yLGlpi",
-      "image": "assets/products/d3216092f3fe5a15fb6d.png",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 10600,
-          "observedAt": "2026-10-02T02:01:44.149Z"
-        },
-        {
-          "price": 10600,
-          "observedAt": "2026-10-02T02:01:43.998Z"
-        },
-        {
-          "price": 10600,
-          "observedAt": "2026-10-02T01:32:29.041Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:10:07.483Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:40.642Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:40.555Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:39.906Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-11T23:03:18.108Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-11T09:03:52.355Z"
-        },
-        {
-          "price": 12600,
-          "observedAt": "2026-09-03T08:30:05.253Z"
-        },
-        {
-          "price": 12600,
-          "observedAt": "2026-09-02T23:00:34.000Z"
-        },
-        {
-          "price": 9540,
-          "observedAt": "2026-09-02T00:14:31.346Z"
         }
       ]
     },
@@ -28524,23 +28566,6 @@
         {
           "price": 3160,
           "observedAt": "2026-08-17T03:11:34.148Z"
-        }
-      ]
-    },
-    {
-      "id": "p:201242344|i:28019791782|v:94977018617",
-      "source": "coupang",
-      "name": "팔도 비빔장 시그니처, 310g, 2개",
-      "price": 4880,
-      "listPrice": null,
-      "observedAt": "2026-08-17T02:56:43.583Z",
-      "url": "https://link.coupang.com/a/ghps5zcJ6i",
-      "image": "assets/products/6e1503621cd7f27aeebd.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4880,
-          "observedAt": "2026-08-17T02:56:43.583Z"
         }
       ]
     },
