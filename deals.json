@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T12:28:32.893Z",
+  "updatedAt": "2026-10-02T12:45:31.070Z",
   "deals": [
+    {
+      "id": "p:7670299674|i:20459529127|v:87539374086",
+      "source": "coupang",
+      "name": "수스다 여성용 대용량 컬러 머리 고무줄 2000p + 헤어 가이드 스틱 + 이지컷 세트, 02 마카롱 컬러 혼합",
+      "price": 3740,
+      "listPrice": 9900,
+      "observedAt": "2026-10-02T12:39:37.079Z",
+      "url": "https://link.coupang.com/a/hwqHC9wdeC",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3740,
+          "observedAt": "2026-10-02T12:39:37.079Z"
+        }
+      ]
+    },
     {
       "id": "p:7074850241|i:19295909916|v:86410544505",
       "source": "coupang",
