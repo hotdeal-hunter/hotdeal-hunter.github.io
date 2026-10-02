@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-02T05:22:35.323Z",
+  "updatedAt": "2026-10-02T06:11:19.591Z",
   "deals": [
+    {
+      "id": "toss:p:2623620197|n:달콤바삭 찹쌀누룽지, 520g, 2팩",
+      "source": "toss",
+      "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T06:07:43.154Z",
+      "url": "https://toss.shopping/_m/BVjVSCl7",
+      "image": "assets/products/799a03e898b40a7343d5.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-02T06:07:43.154Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-02T02:33:20.368Z"
+        }
+      ]
+    },
+    {
+      "id": "p:8553001270|i:24792632721|v:91800462291",
+      "source": "coupang",
+      "name": "맑은물에 국산콩 맷돌촌두부, 300g, 2개, 300g × 2개",
+      "price": 3500,
+      "listPrice": 4517,
+      "observedAt": "2026-10-02T06:05:00.380Z",
+      "url": "https://link.coupang.com/a/hvYvgq1ZMO",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3500,
+          "observedAt": "2026-10-02T06:05:00.380Z"
+        }
+      ]
+    },
     {
       "id": "p:8625638821|i:26867452406|v:93837086841",
       "source": "coupang",
@@ -303,23 +341,6 @@
         {
           "price": 27300,
           "observedAt": "2026-10-02T02:55:11.975Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2623620197|n:달콤바삭 찹쌀누룽지, 520g, 2팩",
-      "source": "toss",
-      "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
-      "price": 6990,
-      "listPrice": 35960,
-      "observedAt": "2026-10-02T02:33:20.368Z",
-      "url": "https://toss.shopping/_m/BVjVSCl7",
-      "image": "assets/products/799a03e898b40a7343d5.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-10-02T02:33:20.368Z"
         }
       ]
     },
