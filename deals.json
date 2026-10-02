@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T04:33:31.192Z",
+  "updatedAt": "2026-10-02T04:44:44.253Z",
   "deals": [
+    {
+      "id": "toss:p:1121195389|n:일동후디스 하이뮨 프로틴 밸런스 음료 초코맛, 190ml, 64개",
+      "source": "toss",
+      "name": "일동후디스 하이뮨 프로틴 밸런스 음료 초코맛, 190ml, 64개",
+      "price": 37905,
+      "listPrice": null,
+      "observedAt": "2026-10-02T04:38:43.737Z",
+      "url": "https://toss.shopping/_m/LeezfSm3",
+      "image": "assets/products/9a166b3a6263b6d0d87a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 37905,
+          "observedAt": "2026-10-02T04:38:43.737Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2546242511|n:원김치 쪽파김치, 가정용, 2kg, 1개",
       "source": "toss",
