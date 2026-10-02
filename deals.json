@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-02T08:34:21.618Z",
+  "updatedAt": "2026-10-02T08:44:46.180Z",
   "deals": [
+    {
+      "id": "toss:p:166493497|n:운동화 세탁망, 40x20cm, 2개",
+      "source": "toss",
+      "name": "운동화 세탁망, 40x20cm, 2개",
+      "price": 6800,
+      "listPrice": 14000,
+      "observedAt": "2026-10-02T08:39:44.762Z",
+      "url": "https://toss.im/_m/Zxr180en",
+      "image": "assets/products/a7cebb07dab522002855.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6800,
+          "observedAt": "2026-10-02T08:39:44.762Z"
+        },
+        {
+          "price": 6800,
+          "observedAt": "2026-09-20T04:40:53.990Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2649206115|n:예진원 국내산 abc주스, 80ml, 35개",
+      "source": "toss",
+      "name": "예진원 국내산 ABC주스, 80ml, 35개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T08:38:24.433Z",
+      "url": "https://toss.shopping/_m/3z9gssag",
+      "image": "assets/products/54af6bae3871060e634a.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-10-02T08:38:24.433Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-10-02T08:38:24.337Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-10-02T05:04:47.278Z"
+        }
+      ]
+    },
     {
       "id": "p:6285183170|i:19225479144|v:-",
       "source": "coupang",
@@ -217,23 +263,6 @@
         {
           "price": 7600,
           "observedAt": "2026-10-02T01:23:19.211Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2649206115|n:예진원 국내산 abc주스, 80ml, 35개",
-      "source": "toss",
-      "name": "예진원 국내산 ABC주스, 80ml, 35개",
-      "price": 5990,
-      "listPrice": null,
-      "observedAt": "2026-10-02T05:04:47.278Z",
-      "url": "https://toss.shopping/_m/3z9gssag",
-      "image": "assets/products/54af6bae3871060e634a.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5990,
-          "observedAt": "2026-10-02T05:04:47.278Z"
         }
       ]
     },
@@ -11179,23 +11208,6 @@
         {
           "price": 5500,
           "observedAt": "2026-09-20T05:08:26.564Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:166493497|n:운동화 세탁망, 40x20cm, 2개",
-      "source": "toss",
-      "name": "운동화 세탁망, 40x20cm, 2개",
-      "price": 6800,
-      "listPrice": 13500,
-      "observedAt": "2026-09-20T04:40:53.990Z",
-      "url": "https://toss.im/_m/Zxr180en",
-      "image": "assets/products/a7cebb07dab522002855.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6800,
-          "observedAt": "2026-09-20T04:40:53.990Z"
         }
       ]
     },
