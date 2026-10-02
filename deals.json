@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-02T00:57:33.884Z",
+  "updatedAt": "2026-10-02T01:10:10.665Z",
   "deals": [
+    {
+      "id": "p:428791|i:19712038275|v:85068270630",
+      "source": "coupang",
+      "name": "청정원 고소한 마요네즈, 300g, 2개",
+      "price": 3980,
+      "listPrice": 5977,
+      "observedAt": "2026-10-02T01:09:56.086Z",
+      "url": "https://link.coupang.com/a/hvDpVDEOiW",
+      "image": "assets/products/f6912fd7932c0b756f5c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 3980,
+          "observedAt": "2026-10-02T01:09:56.086Z"
+        },
+        {
+          "price": 3910,
+          "observedAt": "2026-09-03T08:14:23.754Z"
+        }
+      ]
+    },
     {
       "id": "p:9010033984|i:26431145625|v:93406926317",
       "source": "coupang",
@@ -17367,23 +17388,6 @@
         {
           "price": 4980,
           "observedAt": "2026-09-03T08:39:26.392Z"
-        }
-      ]
-    },
-    {
-      "id": "p:428791|i:19712038275|v:85068270630",
-      "source": "coupang",
-      "name": "청정원 고소한 마요네즈, 300g, 2개",
-      "price": 3910,
-      "listPrice": 5887,
-      "observedAt": "2026-09-03T08:14:23.754Z",
-      "url": "https://link.coupang.com/a/gJZxle75SS",
-      "image": "assets/products/f6912fd7932c0b756f5c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 3910,
-          "observedAt": "2026-09-03T08:14:23.754Z"
         }
       ]
     },
