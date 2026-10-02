@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-02T03:26:28.222Z",
+  "updatedAt": "2026-10-02T03:55:31.156Z",
   "deals": [
+    {
+      "id": "toss:p:376744321|n:맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1l 1개 + 올리브그린 1l 1개 + 뚜껑, 2개",
+      "source": "toss",
+      "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
+      "price": 5950,
+      "listPrice": 18900,
+      "observedAt": "2026-10-02T03:49:26.481Z",
+      "url": "https://toss.im/_m/v8qRDimD",
+      "image": "assets/products/c6b30da6314f0201cc95.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-10-02T03:49:26.481Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-13T23:00:48.042Z"
+        },
+        {
+          "price": 3990,
+          "observedAt": "2026-09-11T09:30:20.505Z"
+        }
+      ]
+    },
     {
       "id": "p:201242344|i:28019791782|v:94977018617",
       "source": "coupang",
@@ -13320,27 +13345,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-11T10:40:38.449Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:376744321|n:맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1l 1개 + 올리브그린 1l 1개 + 뚜껑, 2개",
-      "source": "toss",
-      "name": "맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1L 1개 + 올리브그린 1L 1개 + 뚜껑, 2개",
-      "price": 3990,
-      "listPrice": null,
-      "observedAt": "2026-09-13T23:00:48.042Z",
-      "url": "https://toss.im/_m/v8qRDimD",
-      "image": "assets/products/c6b30da6314f0201cc95.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 3990,
-          "observedAt": "2026-09-13T23:00:48.042Z"
-        },
-        {
-          "price": 3990,
-          "observedAt": "2026-09-11T09:30:20.505Z"
         }
       ]
     },
