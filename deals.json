@@ -1,17 +1,330 @@
 {
-  "updatedAt": "2026-10-02T22:46:14.388Z",
+  "updatedAt": "2026-10-02T23:27:31.352Z",
   "deals": [
+    {
+      "id": "p:8591484766|i:25416330866|v:90766452855",
+      "source": "coupang",
+      "name": "갓비움 프리바이오틱스 음료, 100ml, 5개, 100ml × 5개",
+      "price": 6090,
+      "listPrice": 12232,
+      "observedAt": "2026-10-02T23:21:43.236Z",
+      "url": "https://link.coupang.com/a/hxaAw9196y",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6090,
+          "observedAt": "2026-10-02T23:21:43.236Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2601919815|n:키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
+      "source": "toss",
+      "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
+      "price": 3490,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:00:59.992Z",
+      "url": "https://toss.shopping/_m/9aRkFqjx",
+      "image": "assets/products/ea51eb1b628b08dbd0bb.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 3490,
+          "observedAt": "2026-10-02T23:00:59.992Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-10-02T23:00:59.543Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-10-01T23:01:37.254Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-10-01T22:23:02.472Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-09-30T23:01:29.067Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-09-30T22:22:34.894Z"
+        },
+        {
+          "price": 3490,
+          "observedAt": "2026-09-29T22:22:58.645Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
+      "source": "toss",
+      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:00:59.910Z",
+      "url": "https://toss.im/_m/FFTuiMaC",
+      "image": "assets/products/3759e67057e2f58df33b.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-10-02T23:00:59.910Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-10-02T23:00:59.443Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-10-01T23:01:37.152Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T23:01:28.791Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T22:22:34.724Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-30T00:05:02.115Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T23:15:41.156Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-29T22:22:58.545Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T22:58:58.259Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-28T02:32:33.834Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:51:02.817Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-27T23:50:58.863Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-21T08:17:55.264Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:00:59.822Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.822Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.336Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-01T23:01:36.965Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T22:22:34.622Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.151Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:00:59.732Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/b06505bacecca338e1df.jpg",
+      "insight": "32회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-10-02T23:00:59.732Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-02T23:00:59.229Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-01T23:01:36.872Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-01T22:23:02.335Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-30T23:01:28.641Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-30T22:22:34.517Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:15:40.894Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.314Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.159Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T22:22:58.341Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.253Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.112Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T02:32:33.377Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:50:39.749Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.475Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.344Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:48:07.271Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-05T23:01:20.837Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:36.181Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:31.729Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.784Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.186Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:00:34.250Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:36.534Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:32.486Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:00:24.828Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:28.567Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:25.053Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2613232629|n:이롬 국내산 약콩 무가당 두유, 190ml, 16개",
       "source": "toss",
       "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
       "price": 4990,
       "listPrice": null,
-      "observedAt": "2026-10-02T22:30:31.545Z",
+      "observedAt": "2026-10-02T23:00:59.633Z",
       "url": "https://toss.shopping/_m/55BOoyoo",
       "image": "assets/products/694700809d1646197182.png",
-      "insight": "3회 가격 기록",
+      "insight": "5회 가격 기록",
       "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.633Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.096Z"
+        },
         {
           "price": 4990,
           "observedAt": "2026-10-02T22:30:31.545Z"
@@ -1189,96 +1502,6 @@
       ]
     },
     {
-      "id": "toss:p:2601919815|n:키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
-      "source": "toss",
-      "name": "키핀터치 사계 매듭 듀이 글로우 틴트, 03 자두빙수, 3.2g, 1개",
-      "price": 3490,
-      "listPrice": null,
-      "observedAt": "2026-10-01T23:01:37.254Z",
-      "url": "https://toss.shopping/_m/9aRkFqjx",
-      "image": "assets/products/ea51eb1b628b08dbd0bb.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 3490,
-          "observedAt": "2026-10-01T23:01:37.254Z"
-        },
-        {
-          "price": 3490,
-          "observedAt": "2026-10-01T22:23:02.472Z"
-        },
-        {
-          "price": 3490,
-          "observedAt": "2026-09-30T23:01:29.067Z"
-        },
-        {
-          "price": 3490,
-          "observedAt": "2026-09-30T22:22:34.894Z"
-        },
-        {
-          "price": 3490,
-          "observedAt": "2026-09-29T22:22:58.645Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:48525245|n:맛꾼 메추리알 장조림, 1kg, 2개",
-      "source": "toss",
-      "name": "맛꾼 메추리알 장조림, 1kg, 2개",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-10-01T23:01:37.152Z",
-      "url": "https://toss.im/_m/FFTuiMaC",
-      "image": "assets/products/3759e67057e2f58df33b.png",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-10-01T23:01:37.152Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-30T23:01:28.791Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-30T22:22:34.724Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-30T00:05:02.115Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-29T23:15:41.156Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-29T22:22:58.545Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T22:58:58.259Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-28T02:32:33.834Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:51:02.817Z"
-        },
-        {
-          "price": 8900,
-          "observedAt": "2026-09-27T23:50:58.863Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-21T08:17:55.264Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:136353385|n:호정가 군고구마도나스, 960g, 16개입, 1개",
       "source": "toss",
       "name": "호정가 군고구마도나스, 960g, 16개입, 1개",
@@ -1320,172 +1543,6 @@
         {
           "price": 4990,
           "observedAt": "2026-09-27T23:11:21.315Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "source": "toss",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-10-01T23:01:36.965Z",
-      "url": "https://toss.shopping/_m/NfzD88U",
-      "image": "assets/products/0658c7fb02d89943aeae.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-10-01T23:01:36.965Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T23:01:28.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T22:22:34.622Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.151Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.838Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "price": 12800,
-      "listPrice": null,
-      "observedAt": "2026-10-01T23:01:36.872Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "30회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-10-01T23:01:36.872Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-01T22:23:02.335Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-30T23:01:28.641Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-30T22:22:34.517Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:15:40.894Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:03:31.314Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:03:31.159Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T22:22:58.341Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.253Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.112Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T02:32:33.377Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:50:39.749Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.475Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.344Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:48:07.271Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-05T23:01:20.837Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:36.181Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:31.729Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.784Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.186Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:00:34.250Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:36.534Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:32.486Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:00:24.828Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:28.567Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:25.053Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:17:08.569Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:15:37.099Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
         }
       ]
     },
