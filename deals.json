@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-02T08:59:30.584Z",
+  "updatedAt": "2026-10-02T09:08:33.582Z",
   "deals": [
+    {
+      "id": "p:8170691401|i:29079112397|v:96005018396",
+      "source": "coupang",
+      "name": "하이츄 슷파이츄 엄청 맛있는 레몬 맛 12개입, 55.2g, 36개",
+      "price": 6240,
+      "listPrice": 45090,
+      "observedAt": "2026-10-02T09:03:38.205Z",
+      "url": "https://link.coupang.com/a/hwbgHEebQW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6240,
+          "observedAt": "2026-10-02T09:03:38.205Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:113161755|n:미식백과 누룽지, 백미 50g 10개 + 찹쌀 50g 10개 + 오곡 50g 10개, 30개",
+      "source": "toss",
+      "name": "미식백과 누룽지, 백미 50g 10개 + 찹쌀 50g 10개 + 오곡 50g 10개, 30개",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-10-02T09:02:20.451Z",
+      "url": "https://toss.shopping/_m/TY5Ag581",
+      "image": "assets/products/54b2852ee3c760de27c1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-10-02T09:02:20.451Z"
+        }
+      ]
+    },
     {
       "id": "p:9737455892|i:18775724360|v:85907234193",
       "source": "coupang",
