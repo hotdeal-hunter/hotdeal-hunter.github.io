@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T01:18:12.374Z",
+  "updatedAt": "2026-10-02T01:23:36.168Z",
   "deals": [
+    {
+      "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
+      "source": "toss",
+      "name": "맥콜 제로슈거, 190ml, 30개",
+      "price": 7600,
+      "listPrice": null,
+      "observedAt": "2026-10-02T01:23:19.211Z",
+      "url": "https://toss.shopping/_m/pHhMAJnh",
+      "image": "assets/products/9ed236d25414ff50ab2a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T01:23:19.211Z"
+        }
+      ]
+    },
     {
       "id": "p:106265|i:11760156|v:3017850910",
       "source": "coupang",
