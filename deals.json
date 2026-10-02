@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-10-02T04:51:17.279Z",
+  "updatedAt": "2026-10-02T05:10:44.778Z",
   "deals": [
+    {
+      "id": "p:9716622836|i:24334672165|v:91350241269",
+      "source": "coupang",
+      "name": "비비드키친 저칼로리 토마토케찹, 320g, 2개",
+      "price": 4280,
+      "listPrice": 8200,
+      "observedAt": "2026-10-02T05:08:31.142Z",
+      "url": "https://link.coupang.com/a/hvUsZtSZYO",
+      "image": "assets/products/c93ddcf55d5cabdf9463.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4280,
+          "observedAt": "2026-10-02T05:08:31.142Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
+      "source": "toss",
+      "name": "맥콜 제로슈거, 190ml, 30개",
+      "price": 7600,
+      "listPrice": null,
+      "observedAt": "2026-10-02T05:06:10.010Z",
+      "url": "https://toss.shopping/_m/pHhMAJnh",
+      "image": "assets/products/9ed236d25414ff50ab2a.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T05:06:10.010Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T02:32:07.466Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T01:23:19.211Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2649206115|n:예진원 국내산 abc주스, 80ml, 35개",
+      "source": "toss",
+      "name": "예진원 국내산 ABC주스, 80ml, 35개",
+      "price": 5990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T05:04:47.278Z",
+      "url": "https://toss.shopping/_m/3z9gssag",
+      "image": "assets/products/54af6bae3871060e634a.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-10-02T05:04:47.278Z"
+        }
+      ]
+    },
     {
       "id": "p:5715184153|i:19225410847|v:86342059329",
       "source": "coupang",
@@ -286,27 +345,6 @@
         {
           "price": 9950,
           "observedAt": "2026-08-21T09:01:49.394Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
-      "source": "toss",
-      "name": "맥콜 제로슈거, 190ml, 30개",
-      "price": 7600,
-      "listPrice": 17900,
-      "observedAt": "2026-10-02T02:32:07.466Z",
-      "url": "https://toss.shopping/_m/pHhMAJnh",
-      "image": "assets/products/9ed236d25414ff50ab2a.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7600,
-          "observedAt": "2026-10-02T02:32:07.466Z"
-        },
-        {
-          "price": 7600,
-          "observedAt": "2026-10-02T01:23:19.211Z"
         }
       ]
     },
