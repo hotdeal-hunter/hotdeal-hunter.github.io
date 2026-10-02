@@ -1,6 +1,92 @@
 {
-  "updatedAt": "2026-10-02T23:27:31.352Z",
+  "updatedAt": "2026-10-02T23:37:45.342Z",
   "deals": [
+    {
+      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:31:33.695Z",
+      "url": "https://toss.shopping/_m/DwPOKAAi",
+      "image": "assets/products/584ff1c9fc940eaeae5e.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:31:33.695Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:30:19.318Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T02:33:20.301Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T22:53:48.670Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-02T23:31:33.602Z",
+      "url": "https://toss.shopping/_m/bZVuf1xj",
+      "image": "assets/products/dee271090cbaa57b791d.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:31:33.602Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:30:19.174Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:41:19.666Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:32:29.476Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T22:22:59.245Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T04:17:17.231Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:45.154Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:44.983Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T04:20:48.080Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T03:04:28.462Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T02:32:33.556Z"
+        }
+      ]
+    },
     {
       "id": "p:8591484766|i:25416330866|v:90766452855",
       "source": "coupang",
@@ -1245,27 +1331,6 @@
       ]
     },
     {
-      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "price": 6930,
-      "listPrice": 59800,
-      "observedAt": "2026-10-02T02:33:20.301Z",
-      "url": "https://toss.shopping/_m/DwPOKAAi",
-      "image": "assets/products/584ff1c9fc940eaeae5e.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T02:33:20.301Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T22:53:48.670Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:2578446565|n:맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
       "source": "toss",
       "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
@@ -2459,55 +2524,6 @@
         {
           "price": 9250,
           "observedAt": "2026-10-01T02:52:03.107Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-10-01T02:41:19.666Z",
-      "url": "https://toss.shopping/_m/bZVuf1xj",
-      "image": "assets/products/dee271090cbaa57b791d.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:41:19.666Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:32:29.476Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T22:22:59.245Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T04:17:17.231Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:45.154Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:44.983Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T04:20:48.080Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T03:04:28.462Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T02:32:33.556Z"
         }
       ]
     },
