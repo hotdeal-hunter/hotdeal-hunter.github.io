@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T00:04:54.113Z",
+  "updatedAt": "2026-10-02T00:20:29.366Z",
   "deals": [
+    {
+      "id": "p:7905263492|i:21676721207|v:88727125926",
+      "source": "coupang",
+      "name": "풀무원자연건면 로스팅 서울 라면 97g, 24개",
+      "price": 21720,
+      "listPrice": 32700,
+      "observedAt": "2026-10-02T00:14:37.446Z",
+      "url": "https://link.coupang.com/a/hvzsRL9UIe",
+      "image": "assets/products/f3fc02acd0abccece37b.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21720,
+          "observedAt": "2026-10-02T00:14:37.446Z"
+        }
+      ]
+    },
     {
       "id": "p:9715373077|i:23450167820|v:90476934370",
       "source": "coupang",
