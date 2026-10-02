@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T04:44:44.253Z",
+  "updatedAt": "2026-10-02T04:51:17.279Z",
   "deals": [
+    {
+      "id": "p:5715184153|i:19225410847|v:86342059329",
+      "source": "coupang",
+      "name": "서울우유 요구르트, 65ml, 20개입, 4세트",
+      "price": 12160,
+      "listPrice": 18240,
+      "observedAt": "2026-10-02T04:51:04.677Z",
+      "url": "https://link.coupang.com/a/hvTdJm8uGW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12160,
+          "observedAt": "2026-10-02T04:51:04.677Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1121195389|n:일동후디스 하이뮨 프로틴 밸런스 음료 초코맛, 190ml, 64개",
       "source": "toss",
