@@ -1,6 +1,60 @@
 {
-  "updatedAt": "2026-10-02T00:20:29.366Z",
+  "updatedAt": "2026-10-02T00:57:33.884Z",
   "deals": [
+    {
+      "id": "p:9010033984|i:26431145625|v:93406926317",
+      "source": "coupang",
+      "name": "모아바이오팜 당도선별 샤인머스캣, 1개, 1kg",
+      "price": 5990,
+      "listPrice": 7990,
+      "observedAt": "2026-10-02T00:57:18.585Z",
+      "url": "https://link.coupang.com/a/hvCv0mJRO8",
+      "image": "assets/products/31a84a368f14689576ce.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5990,
+          "observedAt": "2026-10-02T00:57:18.585Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
+      "source": "toss",
+      "name": "초록매실 스파클링 제로, 350ml, 20개",
+      "price": 10400,
+      "listPrice": null,
+      "observedAt": "2026-10-02T00:30:34.379Z",
+      "url": "https://toss.im/_m/rCkBInli",
+      "image": "assets/products/942f9fa00020f77531ac.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 10400,
+          "observedAt": "2026-10-02T00:30:34.379Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-26T23:41:49.359Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T13:48:22.900Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T06:27:00.505Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T05:58:22.887Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T23:35:44.010Z"
+        }
+      ]
+    },
     {
       "id": "p:7905263492|i:21676721207|v:88727125926",
       "source": "coupang",
@@ -2309,7 +2363,7 @@
       "listPrice": 5352,
       "observedAt": "2026-09-30T07:15:09.900Z",
       "url": "https://link.coupang.com/a/hsJH1MuJZ6",
-      "image": null,
+      "image": "assets/products/4ade148bf9e8d9fd14db.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -5668,39 +5722,6 @@
         {
           "price": 13930,
           "observedAt": "2026-09-27T00:00:34.827Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
-      "source": "toss",
-      "name": "초록매실 스파클링 제로, 350ml, 20개",
-      "price": 10400,
-      "listPrice": null,
-      "observedAt": "2026-09-26T23:41:49.359Z",
-      "url": "https://toss.im/_m/rCkBInli",
-      "image": "assets/products/942f9fa00020f77531ac.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 10400,
-          "observedAt": "2026-09-26T23:41:49.359Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T13:48:22.900Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T06:27:00.505Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T05:58:22.887Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-05T23:35:44.010Z"
         }
       ]
     },
