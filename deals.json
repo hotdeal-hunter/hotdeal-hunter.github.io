@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T01:37:36.702Z",
+  "updatedAt": "2026-10-02T01:40:22.827Z",
   "deals": [
+    {
+      "id": "p:7473901049|i:19711992|v:85761974955",
+      "source": "coupang",
+      "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
+      "price": 13800,
+      "listPrice": 23019,
+      "observedAt": "2026-10-02T01:39:07.601Z",
+      "url": "https://link.coupang.com/a/hvFvgsteAC",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13800,
+          "observedAt": "2026-10-02T01:39:07.601Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
       "source": "toss",
