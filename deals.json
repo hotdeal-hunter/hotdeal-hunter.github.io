@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-10-02T01:23:36.168Z",
+  "updatedAt": "2026-10-02T01:37:36.702Z",
   "deals": [
+    {
+      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "source": "toss",
+      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
+      "price": 10600,
+      "listPrice": 27900,
+      "observedAt": "2026-10-02T01:32:29.041Z",
+      "url": "https://toss.im/_m/p8yLGlpi",
+      "image": "assets/products/d3216092f3fe5a15fb6d.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T01:32:29.041Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:10:07.483Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:40.642Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:40.555Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-12T23:08:39.906Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-11T23:03:18.108Z"
+        },
+        {
+          "price": 6720,
+          "observedAt": "2026-09-11T09:03:52.355Z"
+        },
+        {
+          "price": 12600,
+          "observedAt": "2026-09-03T08:30:05.253Z"
+        },
+        {
+          "price": 12600,
+          "observedAt": "2026-09-02T23:00:34.000Z"
+        },
+        {
+          "price": 9540,
+          "observedAt": "2026-09-02T00:14:31.346Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2578446565|n:맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "source": "toss",
+      "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "price": 5950,
+      "listPrice": null,
+      "observedAt": "2026-10-02T01:31:06.373Z",
+      "url": "https://toss.shopping/_m/vLNVZJFe",
+      "image": "assets/products/1c27c80e5550a0ccc3e2.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-10-02T01:31:06.373Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
       "source": "toss",
@@ -13489,55 +13559,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-29T10:46:56.077Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "source": "toss",
-      "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
-      "price": 6720,
-      "listPrice": null,
-      "observedAt": "2026-09-12T23:10:07.483Z",
-      "url": "https://toss.im/_m/p8yLGlpi",
-      "image": "assets/products/d3216092f3fe5a15fb6d.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:10:07.483Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:40.642Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:40.555Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-12T23:08:39.906Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-11T23:03:18.108Z"
-        },
-        {
-          "price": 6720,
-          "observedAt": "2026-09-11T09:03:52.355Z"
-        },
-        {
-          "price": 12600,
-          "observedAt": "2026-09-03T08:30:05.253Z"
-        },
-        {
-          "price": 12600,
-          "observedAt": "2026-09-02T23:00:34.000Z"
-        },
-        {
-          "price": 9540,
-          "observedAt": "2026-09-02T00:14:31.346Z"
         }
       ]
     },
