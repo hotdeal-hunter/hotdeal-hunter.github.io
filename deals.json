@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T12:45:31.070Z",
+  "updatedAt": "2026-10-02T22:22:30.488Z",
   "deals": [
+    {
+      "id": "p:7144295508|i:25121968699|v:92121297871",
+      "source": "coupang",
+      "name": "청정원 쉐프의 치킨스톡, 465g, 1개",
+      "price": 4930,
+      "listPrice": 7263,
+      "observedAt": "2026-10-02T22:16:43.264Z",
+      "url": "https://link.coupang.com/a/hw5WwREDXU",
+      "image": "assets/products/63844b1dffec56735eb9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4930,
+          "observedAt": "2026-10-02T22:16:43.264Z"
+        }
+      ]
+    },
     {
       "id": "p:7670299674|i:20459529127|v:87539374086",
       "source": "coupang",
@@ -486,7 +503,7 @@
       "listPrice": 4517,
       "observedAt": "2026-10-02T06:05:00.380Z",
       "url": "https://link.coupang.com/a/hvYvgq1ZMO",
-      "image": null,
+      "image": "assets/products/186058609d153a6103d2.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -5034,7 +5051,7 @@
       "listPrice": 13856,
       "observedAt": "2026-09-28T01:11:16.746Z",
       "url": "https://link.coupang.com/a/hoZTIhkKGq",
-      "image": null,
+      "image": "assets/products/dfc1b3c90773e6423e87.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
