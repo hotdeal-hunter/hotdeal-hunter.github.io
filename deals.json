@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-02T12:08:25.077Z",
+  "updatedAt": "2026-10-02T12:20:31.092Z",
   "deals": [
+    {
+      "id": "p:7074850241|i:19295909916|v:86410544505",
+      "source": "coupang",
+      "name": "석관동 로제 떡볶이 (밀떡) (냉동), 560g, 4개",
+      "price": 14500,
+      "listPrice": 25975,
+      "observedAt": "2026-10-02T12:19:54.378Z",
+      "url": "https://link.coupang.com/a/hwpih1XYCi",
+      "image": "assets/products/71110a27aad57cba6e00.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14500,
+          "observedAt": "2026-10-02T12:19:54.378Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2568209885|n:샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
+      "source": "toss",
+      "name": "샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
+      "price": 9990,
+      "listPrice": 24900,
+      "observedAt": "2026-10-02T12:14:49.090Z",
+      "url": "https://toss.im/_m/HMFbECNa",
+      "image": "assets/products/34ccbcd4dd2b6cb8044a.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-10-02T12:14:49.090Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-09-20T23:08:23.382Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-09-19T23:00:53.691Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-09-18T23:00:42.006Z"
+        },
+        {
+          "price": 6000,
+          "observedAt": "2026-09-18T00:35:44.955Z"
+        }
+      ]
+    },
     {
       "id": "p:8769615248|i:7203130614|v:76519397582",
       "source": "coupang",
@@ -11045,35 +11095,6 @@
         {
           "price": 16900,
           "observedAt": "2026-08-24T12:50:40.048Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2568209885|n:샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
-      "source": "toss",
-      "name": "샐리의법칙 순면이좋은날 생리대, 중형, 12매, 7팩",
-      "price": 6000,
-      "listPrice": null,
-      "observedAt": "2026-09-20T23:08:23.382Z",
-      "url": "https://toss.im/_m/HMFbECNa",
-      "image": "assets/products/34ccbcd4dd2b6cb8044a.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 6000,
-          "observedAt": "2026-09-20T23:08:23.382Z"
-        },
-        {
-          "price": 6000,
-          "observedAt": "2026-09-19T23:00:53.691Z"
-        },
-        {
-          "price": 6000,
-          "observedAt": "2026-09-18T23:00:42.006Z"
-        },
-        {
-          "price": 6000,
-          "observedAt": "2026-09-18T00:35:44.955Z"
         }
       ]
     },
