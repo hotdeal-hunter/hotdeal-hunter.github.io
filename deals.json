@@ -1,6 +1,145 @@
 {
-  "updatedAt": "2026-10-02T02:07:45.261Z",
+  "updatedAt": "2026-10-02T02:55:24.205Z",
   "deals": [
+    {
+      "id": "p:2176601454|i:3703726182|v:71521824653",
+      "source": "coupang",
+      "name": "아키클래식 고스트 남녀공용 운동화 AKAHAUW09, 270",
+      "price": 27300,
+      "listPrice": 89000,
+      "observedAt": "2026-10-02T02:55:11.975Z",
+      "url": "https://link.coupang.com/a/hvKWi60Ggm",
+      "image": "assets/products/7f6e6ae533c9cf4bf341.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 27300,
+          "observedAt": "2026-10-02T02:55:11.975Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2623620197|n:달콤바삭 찹쌀누룽지, 520g, 2팩",
+      "source": "toss",
+      "name": "달콤바삭 찹쌀누룽지, 520g, 2팩",
+      "price": 6990,
+      "listPrice": 35960,
+      "observedAt": "2026-10-02T02:33:20.368Z",
+      "url": "https://toss.shopping/_m/BVjVSCl7",
+      "image": "assets/products/799a03e898b40a7343d5.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-02T02:33:20.368Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "price": 6930,
+      "listPrice": 59800,
+      "observedAt": "2026-10-02T02:33:20.301Z",
+      "url": "https://toss.shopping/_m/DwPOKAAi",
+      "image": "assets/products/584ff1c9fc940eaeae5e.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T02:33:20.301Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T22:53:48.670Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
+      "source": "toss",
+      "name": "맛팜 신 곱창볶음, 250g, 2개",
+      "price": 6600,
+      "listPrice": 24400,
+      "observedAt": "2026-10-02T02:33:20.205Z",
+      "url": "https://toss.im/_m/xlbkDScs",
+      "image": "assets/products/77f4fed315cd7aa21cd9.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-10-02T02:33:20.205Z"
+        },
+        {
+          "price": 9950,
+          "observedAt": "2026-08-21T09:01:49.394Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
+      "source": "toss",
+      "name": "맥콜 제로슈거, 190ml, 30개",
+      "price": 7600,
+      "listPrice": 17900,
+      "observedAt": "2026-10-02T02:32:07.466Z",
+      "url": "https://toss.shopping/_m/pHhMAJnh",
+      "image": "assets/products/9ed236d25414ff50ab2a.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T02:32:07.466Z"
+        },
+        {
+          "price": 7600,
+          "observedAt": "2026-10-02T01:23:19.211Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2578446565|n:맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "source": "toss",
+      "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
+      "price": 5950,
+      "listPrice": 29900,
+      "observedAt": "2026-10-02T02:32:07.370Z",
+      "url": "https://toss.shopping/_m/vLNVZJFe",
+      "image": "assets/products/1c27c80e5550a0ccc3e2.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-10-02T02:32:07.370Z"
+        },
+        {
+          "price": 5950,
+          "observedAt": "2026-10-02T01:31:06.373Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2613232629|n:이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+      "source": "toss",
+      "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
+      "price": 4990,
+      "listPrice": 16800,
+      "observedAt": "2026-10-02T02:32:07.231Z",
+      "url": "https://toss.shopping/_m/55BOoyoo",
+      "image": "assets/products/694700809d1646197182.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T02:32:07.231Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-01T23:07:48.612Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
       "source": "toss",
@@ -93,40 +232,6 @@
         {
           "price": 13800,
           "observedAt": "2026-10-02T01:39:07.601Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2578446565|n:맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-      "source": "toss",
-      "name": "맥스앤맥스 이지밀 냉동밥&국 소분 밀폐용기 세트, 아이보리, 350ml, 12개+ 올리브그린, 700ml, 8개",
-      "price": 5950,
-      "listPrice": null,
-      "observedAt": "2026-10-02T01:31:06.373Z",
-      "url": "https://toss.shopping/_m/vLNVZJFe",
-      "image": "assets/products/1c27c80e5550a0ccc3e2.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5950,
-          "observedAt": "2026-10-02T01:31:06.373Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2611770771|n:맥콜 제로슈거, 190ml, 30개",
-      "source": "toss",
-      "name": "맥콜 제로슈거, 190ml, 30개",
-      "price": 7600,
-      "listPrice": null,
-      "observedAt": "2026-10-02T01:23:19.211Z",
-      "url": "https://toss.shopping/_m/pHhMAJnh",
-      "image": "assets/products/9ed236d25414ff50ab2a.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7600,
-          "observedAt": "2026-10-02T01:23:19.211Z"
         }
       ]
     },
@@ -308,23 +413,6 @@
         {
           "price": 10040,
           "observedAt": "2026-10-01T23:11:35.881Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2613232629|n:이롬 국내산 약콩 무가당 두유, 190ml, 16개",
-      "source": "toss",
-      "name": "이롬 국내산 약콩 무가당 두유, 190ml, 16개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-10-01T23:07:48.612Z",
-      "url": "https://toss.shopping/_m/55BOoyoo",
-      "image": "assets/products/694700809d1646197182.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-10-01T23:07:48.612Z"
         }
       ]
     },
@@ -626,23 +714,6 @@
         {
           "price": 19900,
           "observedAt": "2026-08-18T01:16:41.222Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-10-01T22:53:48.670Z",
-      "url": "https://toss.shopping/_m/DwPOKAAi",
-      "image": "assets/products/584ff1c9fc940eaeae5e.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T22:53:48.670Z"
         }
       ]
     },
@@ -25445,23 +25516,6 @@
         {
           "price": 9580,
           "observedAt": "2026-08-21T07:24:45.278Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
-      "source": "toss",
-      "name": "맛팜 신 곱창볶음, 250g, 2개",
-      "price": 9950,
-      "listPrice": null,
-      "observedAt": "2026-08-21T09:01:49.394Z",
-      "url": "https://toss.im/_m/xlbkDScs",
-      "image": "assets/products/77f4fed315cd7aa21cd9.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9950,
-          "observedAt": "2026-08-21T09:01:49.394Z"
         }
       ]
     },
