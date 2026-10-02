@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-10-02T04:21:19.872Z",
+  "updatedAt": "2026-10-02T04:33:31.192Z",
   "deals": [
+    {
+      "id": "toss:p:2546242511|n:원김치 쪽파김치, 가정용, 2kg, 1개",
+      "source": "toss",
+      "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
+      "price": 9900,
+      "listPrice": 14900,
+      "observedAt": "2026-10-02T04:27:38.345Z",
+      "url": "https://toss.im/_m/1VrbHKKj",
+      "image": "assets/products/2f8f35e552695d23305a.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-02T04:27:38.345Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-20T02:35:32.363Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-12T10:12:01.930Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-10T06:01:26.620Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-03T23:00:31.441Z"
+        }
+      ]
+    },
     {
       "id": "p:986283|i:19434745915|v:3033528112",
       "source": "coupang",
@@ -11007,35 +11040,6 @@
         {
           "price": 16900,
           "observedAt": "2026-09-20T00:34:20.824Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2546242511|n:원김치 쪽파김치, 가정용, 2kg, 1개",
-      "source": "toss",
-      "name": "원김치 쪽파김치, 가정용, 2kg, 1개",
-      "price": 9900,
-      "listPrice": 14900,
-      "observedAt": "2026-09-20T02:35:32.363Z",
-      "url": "https://toss.im/_m/1VrbHKKj",
-      "image": "assets/products/2f8f35e552695d23305a.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-20T02:35:32.363Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-12T10:12:01.930Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-10T06:01:26.620Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-03T23:00:31.441Z"
         }
       ]
     },
