@@ -1,51 +1,25 @@
 {
-  "updatedAt": "2026-10-02T01:56:30.876Z",
+  "updatedAt": "2026-10-02T02:07:45.261Z",
   "deals": [
-    {
-      "id": "p:9412434217|i:25858815414|v:92845149705",
-      "source": "coupang",
-      "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
-      "price": 5980,
-      "listPrice": 10277,
-      "observedAt": "2026-10-02T01:50:48.471Z",
-      "url": "https://link.coupang.com/a/hvGk1tG5Lw",
-      "image": "assets/products/cbcfa8c86b524142db5e.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5980,
-          "observedAt": "2026-10-02T01:50:48.471Z"
-        }
-      ]
-    },
-    {
-      "id": "p:7473901049|i:19711992|v:85761974955",
-      "source": "coupang",
-      "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
-      "price": 13800,
-      "listPrice": 23019,
-      "observedAt": "2026-10-02T01:39:07.601Z",
-      "url": "https://link.coupang.com/a/hvFvgsteAC",
-      "image": null,
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13800,
-          "observedAt": "2026-10-02T01:39:07.601Z"
-        }
-      ]
-    },
     {
       "id": "toss:p:2413913575|n:널담 고단백 배꼽 베이글, 맛혼합, 10개",
       "source": "toss",
       "name": "널담 고단백 배꼽 베이글, 맛혼합, 10개",
       "price": 10600,
-      "listPrice": 27900,
-      "observedAt": "2026-10-02T01:32:29.041Z",
+      "listPrice": null,
+      "observedAt": "2026-10-02T02:01:44.149Z",
       "url": "https://toss.im/_m/p8yLGlpi",
       "image": "assets/products/d3216092f3fe5a15fb6d.png",
-      "insight": "10회 가격 기록",
+      "insight": "12회 가격 기록",
       "history": [
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T02:01:44.149Z"
+        },
+        {
+          "price": 10600,
+          "observedAt": "2026-10-02T02:01:43.998Z"
+        },
         {
           "price": 10600,
           "observedAt": "2026-10-02T01:32:29.041Z"
@@ -85,6 +59,40 @@
         {
           "price": 9540,
           "observedAt": "2026-09-02T00:14:31.346Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9412434217|i:25858815414|v:92845149705",
+      "source": "coupang",
+      "name": "크래프트 아보카도 오일 마요네즈, 2개, 354ml",
+      "price": 5980,
+      "listPrice": 10277,
+      "observedAt": "2026-10-02T01:50:48.471Z",
+      "url": "https://link.coupang.com/a/hvGk1tG5Lw",
+      "image": "assets/products/cbcfa8c86b524142db5e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5980,
+          "observedAt": "2026-10-02T01:50:48.471Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7473901049|i:19711992|v:85761974955",
+      "source": "coupang",
+      "name": "솔리몬 스퀴즈드 레몬즙, 1L, 2개, 1L × 2개",
+      "price": 13800,
+      "listPrice": 23019,
+      "observedAt": "2026-10-02T01:39:07.601Z",
+      "url": "https://link.coupang.com/a/hvFvgsteAC",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13800,
+          "observedAt": "2026-10-02T01:39:07.601Z"
         }
       ]
     },
