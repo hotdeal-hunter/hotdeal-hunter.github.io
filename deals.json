@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-02T09:16:35.061Z",
+  "updatedAt": "2026-10-02T10:21:32.016Z",
   "deals": [
+    {
+      "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
+      "source": "toss",
+      "name": "교동 버섯 들깨탕, 500g, 5개",
+      "price": 12900,
+      "listPrice": 27500,
+      "observedAt": "2026-10-02T10:15:15.716Z",
+      "url": "https://toss.im/_m/7SYzth3q",
+      "image": "assets/products/d110cbbc6cb9adbb8fe0.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-02T10:15:15.716Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-04T05:14:03.914Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:56199215|n:스파클 생수, 무라벨, 2l, 24개",
       "source": "toss",
@@ -17254,23 +17275,6 @@
         {
           "price": 5180,
           "observedAt": "2026-09-04T05:28:30.796Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
-      "source": "toss",
-      "name": "교동 버섯 들깨탕, 500g, 5개",
-      "price": 12900,
-      "listPrice": 27500,
-      "observedAt": "2026-09-04T05:14:03.914Z",
-      "url": "https://toss.im/_m/7SYzth3q",
-      "image": "assets/products/d110cbbc6cb9adbb8fe0.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-09-04T05:14:03.914Z"
         }
       ]
     },
