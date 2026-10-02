@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T03:55:31.156Z",
+  "updatedAt": "2026-10-02T04:21:19.872Z",
   "deals": [
+    {
+      "id": "p:986283|i:19434745915|v:3033528112",
+      "source": "coupang",
+      "name": "플라하반 유기농 포리지오트, 500g, 1개, 500g × 1개",
+      "price": 11990,
+      "listPrice": 14918,
+      "observedAt": "2026-10-02T04:15:02.589Z",
+      "url": "https://link.coupang.com/a/hvQD4aftgO",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11990,
+          "observedAt": "2026-10-02T04:15:02.589Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:376744321|n:맥스 앤 맥스 전자레인지 라면 용기, 아이보리 1l 1개 + 올리브그린 1l 1개 + 뚜껑, 2개",
       "source": "toss",
