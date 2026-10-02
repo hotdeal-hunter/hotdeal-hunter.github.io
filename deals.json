@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T01:12:46.168Z",
+  "updatedAt": "2026-10-02T01:18:12.374Z",
   "deals": [
+    {
+      "id": "p:106265|i:11760156|v:3017850910",
+      "source": "coupang",
+      "name": "폰즈 클리어 훼이스 스파 립 앤 아이 메이크업 리무버, 120ml, 2개",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T01:18:01.753Z",
+      "url": "https://link.coupang.com/a/hvDZNj5pcG",
+      "image": "assets/products/9247f1832084bf5492e1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-10-02T01:18:01.753Z"
+        }
+      ]
+    },
     {
       "id": "p:9171562099|i:27031173509|v:93999717143",
       "source": "coupang",
