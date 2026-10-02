@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T01:10:10.665Z",
+  "updatedAt": "2026-10-02T01:12:46.168Z",
   "deals": [
+    {
+      "id": "p:9171562099|i:27031173509|v:93999717143",
+      "source": "coupang",
+      "name": "키친아트 뉴 티타늄 코팅 프라이팬, 26cm, 1개",
+      "price": 9480,
+      "listPrice": null,
+      "observedAt": "2026-10-02T01:11:33.153Z",
+      "url": "https://link.coupang.com/a/hvDw574vGC",
+      "image": "assets/products/b8239e3ba01246ba63cf.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9480,
+          "observedAt": "2026-10-02T01:11:33.153Z"
+        }
+      ]
+    },
     {
       "id": "p:428791|i:19712038275|v:85068270630",
       "source": "coupang",
