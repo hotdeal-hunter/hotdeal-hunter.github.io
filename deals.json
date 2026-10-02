@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T07:55:44.737Z",
+  "updatedAt": "2026-10-02T07:58:28.534Z",
   "deals": [
+    {
+      "id": "p:218273168|i:675673605|v:4741345085",
+      "source": "coupang",
+      "name": "번개표 개별스위치 멀티탭 3구 WI-MC21633V, 1.5m, 화이트, 1개",
+      "price": 5810,
+      "listPrice": 11886,
+      "observedAt": "2026-10-02T07:57:12.481Z",
+      "url": "https://link.coupang.com/a/hv6wnKrYR2",
+      "image": "assets/products/a695027c7089f5fca0a9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5810,
+          "observedAt": "2026-10-02T07:57:12.481Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1121195389|n:일동후디스 하이뮨 프로틴 밸런스 음료 초코맛, 190ml, 64개",
       "source": "toss",
