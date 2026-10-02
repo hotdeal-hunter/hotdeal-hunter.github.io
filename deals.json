@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T08:47:31.426Z",
+  "updatedAt": "2026-10-02T08:59:30.584Z",
   "deals": [
+    {
+      "id": "p:9737455892|i:18775724360|v:85907234193",
+      "source": "coupang",
+      "name": "마루코메 즉석미소 미역 12식, 216g, 2개, 216g × 2개",
+      "price": 3700,
+      "listPrice": 5630,
+      "observedAt": "2026-10-02T08:53:52.392Z",
+      "url": "https://link.coupang.com/a/hwazrFhHgW",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3700,
+          "observedAt": "2026-10-02T08:53:52.392Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:166493497|n:운동화 세탁망, 40x20cm, 2개",
       "source": "toss",
