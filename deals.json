@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T07:58:28.534Z",
+  "updatedAt": "2026-10-02T08:34:21.618Z",
   "deals": [
+    {
+      "id": "p:6285183170|i:19225479144|v:-",
+      "source": "coupang",
+      "name": "종가 본연의 깊은 맛 묵은지, 900g, 2개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-10-02T08:28:04.532Z",
+      "url": "https://link.coupang.com/a/hv8I8WJ4jk",
+      "image": "assets/products/87aa764796a4f2a7495e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-10-02T08:28:04.532Z"
+        }
+      ]
+    },
     {
       "id": "p:218273168|i:675673605|v:4741345085",
       "source": "coupang",
