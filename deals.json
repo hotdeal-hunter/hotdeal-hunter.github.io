@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-02T10:21:32.016Z",
+  "updatedAt": "2026-10-02T10:57:36.663Z",
   "deals": [
+    {
+      "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
+      "source": "toss",
+      "name": "맛팜 신 곱창볶음, 250g, 2개",
+      "price": 6600,
+      "listPrice": null,
+      "observedAt": "2026-10-02T10:52:31.018Z",
+      "url": "https://toss.im/_m/xlbkDScs",
+      "image": "assets/products/77f4fed315cd7aa21cd9.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6600,
+          "observedAt": "2026-10-02T10:52:31.018Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-10-02T10:51:06.119Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-10-02T02:33:20.205Z"
+        },
+        {
+          "price": 9950,
+          "observedAt": "2026-08-21T09:01:49.394Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
       "source": "toss",
@@ -629,27 +658,6 @@
         {
           "price": 6930,
           "observedAt": "2026-10-01T22:53:48.670Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
-      "source": "toss",
-      "name": "맛팜 신 곱창볶음, 250g, 2개",
-      "price": 6600,
-      "listPrice": 24400,
-      "observedAt": "2026-10-02T02:33:20.205Z",
-      "url": "https://toss.im/_m/xlbkDScs",
-      "image": "assets/products/77f4fed315cd7aa21cd9.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6600,
-          "observedAt": "2026-10-02T02:33:20.205Z"
-        },
-        {
-          "price": 9950,
-          "observedAt": "2026-08-21T09:01:49.394Z"
         }
       ]
     },
