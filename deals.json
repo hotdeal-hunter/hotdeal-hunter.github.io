@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T05:10:44.778Z",
+  "updatedAt": "2026-10-02T05:13:30.147Z",
   "deals": [
+    {
+      "id": "p:8625638821|i:26867452406|v:93837086841",
+      "source": "coupang",
+      "name": "스타벅스 말차라테, 24g, 4개입, 3개",
+      "price": 15640,
+      "listPrice": 20390,
+      "observedAt": "2026-10-02T05:11:02.118Z",
+      "url": "https://link.coupang.com/a/hvUD8Nm5QG",
+      "image": "assets/products/b5678775a00d901a7397.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15640,
+          "observedAt": "2026-10-02T05:11:02.118Z"
+        }
+      ]
+    },
     {
       "id": "p:9716622836|i:24334672165|v:91350241269",
       "source": "coupang",
