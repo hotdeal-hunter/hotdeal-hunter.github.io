@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-02T10:57:36.663Z",
+  "updatedAt": "2026-10-02T11:57:40.393Z",
   "deals": [
+    {
+      "id": "toss:p:2673541529|n:햇 홍로사과, 5kg, 1개",
+      "source": "toss",
+      "name": "햇 홍로사과, 5kg, 1개",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-10-02T11:57:31.377Z",
+      "url": "https://toss.shopping/_m/v096x7j7",
+      "image": "assets/products/5ab4149f8f1bb55dc9de.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-10-02T11:57:31.377Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2602109709|n:산과들에 윤서의달밤, 30g, 20봉",
+      "source": "toss",
+      "name": "산과들에 윤서의달밤, 30g, 20봉",
+      "price": 11990,
+      "listPrice": null,
+      "observedAt": "2026-10-02T11:02:53.586Z",
+      "url": "https://toss.shopping/_m/dtrFrr2h",
+      "image": "assets/products/01bfe84b4d1660ed66e5.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11990,
+          "observedAt": "2026-10-02T11:02:53.586Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-10-01T01:57:05.419Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2548491491|n:맛팜 신 곱창볶음, 250g, 2개",
       "source": "toss",
@@ -2336,23 +2374,6 @@
         {
           "price": 5450,
           "observedAt": "2026-10-01T02:04:51.765Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2602109709|n:산과들에 윤서의달밤, 30g, 20봉",
-      "source": "toss",
-      "name": "산과들에 윤서의달밤, 30g, 20봉",
-      "price": 11900,
-      "listPrice": null,
-      "observedAt": "2026-10-01T01:57:05.419Z",
-      "url": "https://toss.shopping/_m/dtrFrr2h",
-      "image": "assets/products/01bfe84b4d1660ed66e5.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-10-01T01:57:05.419Z"
         }
       ]
     },
