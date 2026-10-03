@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T12:44:45.692Z",
+  "updatedAt": "2026-10-03T12:58:38.493Z",
   "deals": [
+    {
+      "id": "toss:p:1346706565|n:g7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+      "source": "toss",
+      "name": "G7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
+      "price": 9900,
+      "listPrice": 24900,
+      "observedAt": "2026-10-03T12:58:25.578Z",
+      "url": "https://toss.shopping/_m/l4YpYfWf",
+      "image": "assets/products/131cb189fc35e10e6983.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-03T12:58:25.578Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:154543465|n:애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
       "source": "toss",
