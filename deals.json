@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-10-03T10:29:31.799Z",
+  "updatedAt": "2026-10-03T11:47:01.349Z",
   "deals": [
+    {
+      "id": "toss:p:1476106895|n:블루레오 음파 전동칫솔, b200, 93g, 화이트, 1개",
+      "source": "toss",
+      "name": "블루레오 음파 전동칫솔, B200, 93g, 화이트, 1개",
+      "price": 10000,
+      "listPrice": null,
+      "observedAt": "2026-10-03T11:37:48.900Z",
+      "url": "https://toss.shopping/_m/DXdwPxyo",
+      "image": "assets/products/c17b5c72307e2051f572.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10000,
+          "observedAt": "2026-10-03T11:37:48.900Z"
+        }
+      ]
+    },
+    {
+      "id": "p:7455946633|i:27921825383|v:94880368576",
+      "source": "coupang",
+      "name": "우주쭈꾸미 볶음 (냉동), 500g, 1개, 500g × 1개",
+      "price": 7730,
+      "listPrice": 10307,
+      "observedAt": "2026-10-03T11:26:07.884Z",
+      "url": "https://link.coupang.com/a/hx0l5wj67w",
+      "image": "assets/products/2e4b04b2ee7384315e75.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7730,
+          "observedAt": "2026-10-03T11:26:07.884Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2376060177|n:맛팜 국내산 미니족, 400g, 5개",
+      "source": "toss",
+      "name": "맛팜 국내산 미니족, 400g, 5개",
+      "price": 19800,
+      "listPrice": 50000,
+      "observedAt": "2026-10-03T11:17:12.385Z",
+      "url": "https://toss.im/_m/xb2VSGGp",
+      "image": "assets/products/9d68c9c062e859a29709.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 19800,
+          "observedAt": "2026-10-03T11:17:12.385Z"
+        },
+        {
+          "price": 19800,
+          "observedAt": "2026-09-09T09:25:30.358Z"
+        },
+        {
+          "price": 19800,
+          "observedAt": "2026-09-09T09:25:29.959Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159585443|n:라라애플 배드민턴 라켓 세트, 라켓 2개 + 셔틀콕 2개 + 가방 1개, 1세트",
       "source": "toss",
@@ -15921,27 +15980,6 @@
         {
           "price": 13900,
           "observedAt": "2026-09-09T10:29:05.160Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2376060177|n:맛팜 국내산 미니족, 400g, 5개",
-      "source": "toss",
-      "name": "맛팜 국내산 미니족, 400g, 5개",
-      "price": 19800,
-      "listPrice": null,
-      "observedAt": "2026-09-09T09:25:30.358Z",
-      "url": "https://toss.im/_m/xb2VSGGp",
-      "image": "assets/products/9d68c9c062e859a29709.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 19800,
-          "observedAt": "2026-09-09T09:25:30.358Z"
-        },
-        {
-          "price": 19800,
-          "observedAt": "2026-09-09T09:25:29.959Z"
         }
       ]
     },
