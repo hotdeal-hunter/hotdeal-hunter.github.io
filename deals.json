@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-10-03T07:36:48.934Z",
+  "updatedAt": "2026-10-03T08:20:31.799Z",
   "deals": [
+    {
+      "id": "p:9716584821|i:20993574870|v:88057924482",
+      "source": "coupang",
+      "name": "바릴라 엔젤헤어 파스타면, 500g, 2개",
+      "price": 4480,
+      "listPrice": 9960,
+      "observedAt": "2026-10-03T08:14:45.855Z",
+      "url": "https://link.coupang.com/a/hxMGcVx5m8",
+      "image": "assets/products/5350bc54bb6171fc2331.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4480,
+          "observedAt": "2026-10-03T08:14:45.855Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:160967367|n:하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
+      "source": "toss",
+      "name": "하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-10-03T08:03:51.564Z",
+      "url": "https://toss.im/_m/Zcglds7m",
+      "image": "assets/products/0a331129c8d6dba464f6.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T08:03:51.564Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T08:03:51.328Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T01:22:23.288Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-13T23:51:04.412Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-09-10T09:39:28.795Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1069403087|n:농심, 신라면 10봉 + 안성탕면 5봉 + 너구리 5봉, 20봉",
+      "source": "toss",
+      "name": "농심, 신라면 10봉 + 안성탕면 5봉 + 너구리 5봉, 20봉",
+      "price": 14058,
+      "listPrice": null,
+      "observedAt": "2026-10-03T07:46:49.081Z",
+      "url": "https://toss.shopping/_m/lXF1O8kx",
+      "image": "assets/products/3bf9967958c498d71f72.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 14058,
+          "observedAt": "2026-10-03T07:46:49.081Z"
+        },
+        {
+          "price": 14058,
+          "observedAt": "2026-10-03T04:01:20.138Z"
+        }
+      ]
+    },
     {
       "id": "p:6528109188|i:17042329963|v:84217127191",
       "source": "coupang",
@@ -234,23 +305,6 @@
         {
           "price": 5450,
           "observedAt": "2026-10-03T04:24:31.010Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1069403087|n:농심, 신라면 10봉 + 안성탕면 5봉 + 너구리 5봉, 20봉",
-      "source": "toss",
-      "name": "농심, 신라면 10봉 + 안성탕면 5봉 + 너구리 5봉, 20봉",
-      "price": 14058,
-      "listPrice": null,
-      "observedAt": "2026-10-03T04:01:20.138Z",
-      "url": "https://toss.shopping/_m/lXF1O8kx",
-      "image": "assets/products/3bf9967958c498d71f72.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 14058,
-          "observedAt": "2026-10-03T04:01:20.138Z"
         }
       ]
     },
@@ -801,31 +855,6 @@
         {
           "price": 16900,
           "observedAt": "2026-10-03T01:31:01.776Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:160967367|n:하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
-      "source": "toss",
-      "name": "하이뮨 프로틴 밸런스 액티브 제로, 밤티라미수, 250ml, 18개",
-      "price": 19900,
-      "listPrice": 55800,
-      "observedAt": "2026-10-03T01:22:23.288Z",
-      "url": "https://toss.im/_m/Zcglds7m",
-      "image": "assets/products/0a331129c8d6dba464f6.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-10-03T01:22:23.288Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-13T23:51:04.412Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-09-10T09:39:28.795Z"
         }
       ]
     },
