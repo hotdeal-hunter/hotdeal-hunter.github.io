@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T10:26:46.628Z",
+  "updatedAt": "2026-10-03T10:29:31.799Z",
   "deals": [
+    {
+      "id": "toss:p:159585443|n:라라애플 배드민턴 라켓 세트, 라켓 2개 + 셔틀콕 2개 + 가방 1개, 1세트",
+      "source": "toss",
+      "name": "라라애플 배드민턴 라켓 세트, 라켓 2개 + 셔틀콕 2개 + 가방 1개, 1세트",
+      "price": 8811,
+      "listPrice": null,
+      "observedAt": "2026-10-03T10:27:10.506Z",
+      "url": "https://toss.shopping/_m/lD6WBme6",
+      "image": "assets/products/e40b82abbdd941073109.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8811,
+          "observedAt": "2026-10-03T10:27:10.506Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
       "source": "toss",
@@ -958,7 +975,7 @@
       "listPrice": 10400,
       "observedAt": "2026-10-03T01:04:37.173Z",
       "url": "https://link.coupang.com/a/hxhWpHxO3w",
-      "image": null,
+      "image": "assets/products/b9198952871e27f15987.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
