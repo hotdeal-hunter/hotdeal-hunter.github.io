@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T00:37:45.443Z",
+  "updatedAt": "2026-10-03T01:04:51.397Z",
   "deals": [
+    {
+      "id": "p:7677834548|i:28872512481|v:3000036295",
+      "source": "coupang",
+      "name": "이롬 황성주 박사의 국산콩 두유 검은콩, 190ml, 16개",
+      "price": 7480,
+      "listPrice": 10400,
+      "observedAt": "2026-10-03T01:04:37.173Z",
+      "url": "https://link.coupang.com/a/hxhWpHxO3w",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7480,
+          "observedAt": "2026-10-03T01:04:37.173Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:62791139|n:이롬 황성주박사의 과채습관, 레드, 140ml, 24개",
       "source": "toss",
@@ -24305,23 +24322,6 @@
         {
           "price": 7190,
           "observedAt": "2026-08-24T07:29:13.362Z"
-        }
-      ]
-    },
-    {
-      "id": "p:9555751633|i:28513347998|v:95462027603",
-      "source": "coupang",
-      "name": "이롬 황성주 박사의 국산콩 무가당 검은콩 고칼슘 두유, 16개, 190ml",
-      "price": 8920,
-      "listPrice": 11314,
-      "observedAt": "2026-08-24T10:35:33.497Z",
-      "url": "https://link.coupang.com/a/gtyAlHps96",
-      "image": "assets/products/aab7834592bd3fac5fe7.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8920,
-          "observedAt": "2026-08-24T10:35:33.497Z"
         }
       ]
     },
