@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T00:29:30.358Z",
+  "updatedAt": "2026-10-03T00:37:45.443Z",
   "deals": [
+    {
+      "id": "toss:p:62791139|n:이롬 황성주박사의 과채습관, 레드, 140ml, 24개",
+      "source": "toss",
+      "name": "이롬 황성주박사의 과채습관, 레드, 140ml, 24개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-10-03T00:31:05.911Z",
+      "url": "https://toss.shopping/_m/dsGAYENe",
+      "image": "assets/products/de15290442d9b1cc2496.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-03T00:31:05.911Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2475941963|n:고기중독 한입삼겹살, 500g, 4개",
       "source": "toss",
@@ -2262,7 +2279,7 @@
       "listPrice": 1814183,
       "observedAt": "2026-10-01T07:02:21.472Z",
       "url": "https://link.coupang.com/a/hunHj2HZjo",
-      "image": null,
+      "image": "assets/products/e5dbbedbaa570fa325f9.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3069,7 +3086,7 @@
       "listPrice": 9729,
       "observedAt": "2026-09-30T22:07:40.451Z",
       "url": "https://link.coupang.com/a/htLumixmeq",
-      "image": null,
+      "image": "assets/products/b89078a5210cb2d22ac0.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -3170,7 +3187,7 @@
       "listPrice": 16440,
       "observedAt": "2026-09-30T12:13:07.246Z",
       "url": "https://link.coupang.com/a/hs4Z9hrUfk",
-      "image": null,
+      "image": "assets/products/15396282fa94f77e4100.jpg",
       "insight": "2회 가격 기록",
       "history": [
         {
@@ -3313,7 +3330,7 @@
       "listPrice": null,
       "observedAt": "2026-09-30T08:53:40.136Z",
       "url": "https://link.coupang.com/a/hsQKsIfD5g",
-      "image": null,
+      "image": "assets/products/d3eb415b9623aa8179c0.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
