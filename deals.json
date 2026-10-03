@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T00:12:30.058Z",
+  "updatedAt": "2026-10-03T00:29:30.358Z",
   "deals": [
+    {
+      "id": "toss:p:2475941963|n:고기중독 한입삼겹살, 500g, 4개",
+      "source": "toss",
+      "name": "고기중독 한입삼겹살, 500g, 4개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-10-03T00:23:53.469Z",
+      "url": "https://toss.shopping/_m/1xZE0UNp",
+      "image": "assets/products/83f810410a8ef1f54e17.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T00:23:53.469Z"
+        }
+      ]
+    },
     {
       "id": "p:9715402881|i:21425997614|v:94055339352",
       "source": "coupang",
