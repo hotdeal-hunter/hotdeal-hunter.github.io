@@ -1,6 +1,96 @@
 {
-  "updatedAt": "2026-10-03T09:18:31.054Z",
+  "updatedAt": "2026-10-03T10:26:46.628Z",
   "deals": [
+    {
+      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "source": "toss",
+      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "price": 58810,
+      "listPrice": null,
+      "observedAt": "2026-10-03T10:20:59.120Z",
+      "url": "https://toss.im/_m/hoV8jeJu",
+      "image": "assets/products/422348186f9ea26bc8a0.png",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T10:20:59.120Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T10:20:58.952Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T03:39:30.145Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-01T04:16:02.408Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.773Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.665Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T00:38:52.789Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.953Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.764Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:42:00.956Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:48:59.194Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:36:29.604Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2475941963|n:고기중독 한입삼겹살, 500g, 4개",
+      "source": "toss",
+      "name": "고기중독 한입삼겹살, 500g, 4개",
+      "price": 19900,
+      "listPrice": null,
+      "observedAt": "2026-10-03T09:21:18.056Z",
+      "url": "https://toss.shopping/_m/1xZE0UNp",
+      "image": "assets/products/83f810410a8ef1f54e17.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T09:21:18.056Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T03:22:09.640Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-10-03T00:23:53.469Z"
+        }
+      ]
+    },
     {
       "id": "p:36786|i:5525910|v:3006975664",
       "source": "coupang",
@@ -385,84 +475,6 @@
         {
           "price": 8360,
           "observedAt": "2026-10-03T03:50:24.129Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
-      "source": "toss",
-      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
-      "price": 58810,
-      "listPrice": null,
-      "observedAt": "2026-10-03T03:39:30.145Z",
-      "url": "https://toss.im/_m/hoV8jeJu",
-      "image": "assets/products/422348186f9ea26bc8a0.png",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 58810,
-          "observedAt": "2026-10-03T03:39:30.145Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-10-01T04:16:02.408Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.773Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.665Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T00:38:52.789Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.953Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.764Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:42:00.956Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:48:59.194Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:36:29.604Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-18T02:20:20.467Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2475941963|n:고기중독 한입삼겹살, 500g, 4개",
-      "source": "toss",
-      "name": "고기중독 한입삼겹살, 500g, 4개",
-      "price": 19900,
-      "listPrice": 59000,
-      "observedAt": "2026-10-03T03:22:09.640Z",
-      "url": "https://toss.shopping/_m/1xZE0UNp",
-      "image": "assets/products/83f810410a8ef1f54e17.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 19900,
-          "observedAt": "2026-10-03T03:22:09.640Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-10-03T00:23:53.469Z"
         }
       ]
     },
