@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-03T07:00:32.590Z",
+  "updatedAt": "2026-10-03T07:36:48.934Z",
   "deals": [
+    {
+      "id": "p:6528109188|i:17042329963|v:84217127191",
+      "source": "coupang",
+      "name": "광천김 참 김자반, 70g, 8개",
+      "price": 16900,
+      "listPrice": 25900,
+      "observedAt": "2026-10-03T07:36:35.967Z",
+      "url": "https://link.coupang.com/a/hxJW7VCaOG",
+      "image": "assets/products/825cabb2477c3b53ead9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-10-03T07:36:35.967Z"
+        }
+      ]
+    },
+    {
+      "id": "p:1361118931|i:28103927259|v:95060007506",
+      "source": "coupang",
+      "name": "동원 통그릴 후랑크, 240g, 4개, 240g × 4개",
+      "price": 9980,
+      "listPrice": 15300,
+      "observedAt": "2026-10-03T07:07:04.019Z",
+      "url": "https://link.coupang.com/a/hxHQhm0HD2",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9980,
+          "observedAt": "2026-10-03T07:07:04.019Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2272559683|n:바른 돼지국밥, 500g, 5개",
       "source": "toss",
