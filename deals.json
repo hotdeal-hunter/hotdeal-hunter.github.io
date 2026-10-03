@@ -1,6 +1,31 @@
 {
-  "updatedAt": "2026-10-03T11:47:01.349Z",
+  "updatedAt": "2026-10-03T12:44:45.692Z",
   "deals": [
+    {
+      "id": "toss:p:154543465|n:애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
+      "source": "toss",
+      "name": "애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-10-03T12:38:15.660Z",
+      "url": "https://toss.im/_m/fig9cBdd",
+      "image": "assets/products/317dfb7695b6ff2d3016.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-03T12:38:15.660Z"
+        },
+        {
+          "price": 1241,
+          "observedAt": "2026-08-24T08:33:07.065Z"
+        },
+        {
+          "price": 12410,
+          "observedAt": "2026-08-24T08:33:06.801Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1476106895|n:블루레오 음파 전동칫솔, b200, 93g, 화이트, 1개",
       "source": "toss",
@@ -24830,27 +24855,6 @@
         {
           "price": 16900,
           "observedAt": "2026-08-24T08:50:48.997Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:154543465|n:애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
-      "source": "toss",
-      "name": "애슐리 주먹밥, 김치콘치즈 100g 5개 + 데리참치마요 100g 5개, 10개",
-      "price": 1241,
-      "listPrice": null,
-      "observedAt": "2026-08-24T08:33:07.065Z",
-      "url": "https://toss.im/_m/fig9cBdd",
-      "image": "assets/products/317dfb7695b6ff2d3016.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 1241,
-          "observedAt": "2026-08-24T08:33:07.065Z"
-        },
-        {
-          "price": 12410,
-          "observedAt": "2026-08-24T08:33:06.801Z"
         }
       ]
     },
