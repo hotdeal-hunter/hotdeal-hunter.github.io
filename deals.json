@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T12:58:38.493Z",
+  "updatedAt": "2026-10-03T13:07:30.650Z",
   "deals": [
+    {
+      "id": "p:8266723561|i:23721657885|v:93734876963",
+      "source": "coupang",
+      "name": "버큇칩 매콤한맛, 280g, 2개",
+      "price": 3830,
+      "listPrice": 9120,
+      "observedAt": "2026-10-03T13:01:13.466Z",
+      "url": "https://link.coupang.com/a/hx69oF6cQS",
+      "image": "assets/products/7c6fdb2e97fce069dfbf.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3830,
+          "observedAt": "2026-10-03T13:01:13.466Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1346706565|n:g7 커피 퓨어블랙 라이트, 0.9g, 110개입, 1개",
       "source": "toss",
