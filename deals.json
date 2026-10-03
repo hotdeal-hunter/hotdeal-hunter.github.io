@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-03T00:03:53.548Z",
+  "updatedAt": "2026-10-03T00:12:30.058Z",
   "deals": [
+    {
+      "id": "p:9715402881|i:21425997614|v:94055339352",
+      "source": "coupang",
+      "name": "콘칲 군옥수수맛, 148g, 4개",
+      "price": 6160,
+      "listPrice": 12000,
+      "observedAt": "2026-10-03T00:06:28.987Z",
+      "url": "https://link.coupang.com/a/hxdMQlAO4W",
+      "image": "assets/products/9e40f518b9520a0bf50e.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6160,
+          "observedAt": "2026-10-03T00:06:28.987Z"
+        }
+      ]
+    },
     {
       "id": "p:9572210259|i:28978883362|v:-",
       "source": "coupang",
