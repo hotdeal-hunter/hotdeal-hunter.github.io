@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-02T23:37:45.342Z",
+  "updatedAt": "2026-10-03T00:03:53.548Z",
   "deals": [
+    {
+      "id": "p:9572210259|i:28978883362|v:-",
+      "source": "coupang",
+      "name": "크라운 빙수하임 중, 142g, 2개",
+      "price": 3870,
+      "listPrice": 5960,
+      "observedAt": "2026-10-03T00:03:40.414Z",
+      "url": "https://link.coupang.com/a/hxdAoCv8BU",
+      "image": "assets/products/7b4c5c51443975a77bcc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 3870,
+          "observedAt": "2026-10-03T00:03:40.414Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
       "source": "toss",
