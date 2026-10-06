@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-10-06T05:59:52.651Z",
+  "updatedAt": "2026-10-06T06:21:33.237Z",
   "deals": [
+    {
+      "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
+      "source": "toss",
+      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
+      "price": 7900,
+      "listPrice": 15800,
+      "observedAt": "2026-10-06T06:15:06.034Z",
+      "url": "https://toss.im/_m/dnx73ZKk",
+      "image": "assets/products/d7508af84470e3e37286.jpg",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-06T06:15:06.034Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-04T03:39:18.003Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-04T03:39:17.860Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-03T23:00:31.822Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-02T23:00:34.329Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-09-01T23:01:32.337Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-08-31T23:00:24.971Z"
+        },
+        {
+          "price": 5700,
+          "observedAt": "2026-08-31T03:01:28.003Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2402501507|n:남도농수산 국내산 전라도식 석박지, 5kg, 1개",
       "source": "toss",
@@ -19993,47 +20038,6 @@
         {
           "price": 17830,
           "observedAt": "2026-09-04T03:41:08.104Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
-      "source": "toss",
-      "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
-      "price": 5700,
-      "listPrice": null,
-      "observedAt": "2026-09-04T03:39:18.003Z",
-      "url": "https://toss.im/_m/dnx73ZKk",
-      "image": "assets/products/d7508af84470e3e37286.jpg",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 5700,
-          "observedAt": "2026-09-04T03:39:18.003Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-04T03:39:17.860Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-03T23:00:31.822Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-02T23:00:34.329Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-09-01T23:01:32.337Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-08-31T23:00:24.971Z"
-        },
-        {
-          "price": 5700,
-          "observedAt": "2026-08-31T03:01:28.003Z"
         }
       ]
     },
