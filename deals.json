@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T06:21:33.237Z",
+  "updatedAt": "2026-10-06T06:46:40.848Z",
   "deals": [
+    {
+      "id": "toss:p:1120477497|n:푸드앳홈 다진 마늘, 1kg, 2팩",
+      "source": "toss",
+      "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-10-06T06:35:38.316Z",
+      "url": "https://toss.shopping/_m/TleOmEXj",
+      "image": "assets/products/fc5841a9c805c4813ee9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-10-06T06:35:38.316Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
       "source": "toss",
