@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-06T08:31:34.306Z",
+  "updatedAt": "2026-10-06T11:32:05.260Z",
   "deals": [
+    {
+      "id": "toss:p:11583841|n:산해직송 국내산 전라도 파김치, 2kg, 1팩",
+      "source": "toss",
+      "name": "산해직송 국내산 전라도 파김치, 2kg, 1팩",
+      "price": 14400,
+      "listPrice": 50000,
+      "observedAt": "2026-10-06T09:48:28.653Z",
+      "url": "https://toss.shopping/_m/FQi7fL07",
+      "image": "assets/products/f4c4911e7c290ffb0313.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14400,
+          "observedAt": "2026-10-06T09:48:28.653Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "source": "toss",
+      "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "price": 9895,
+      "listPrice": null,
+      "observedAt": "2026-10-06T09:25:44.537Z",
+      "url": "https://toss.im/_m/BOjITXzi",
+      "image": "assets/products/7e62ce6ce176a8c930cd.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9895,
+          "observedAt": "2026-10-06T09:25:44.537Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-23T00:49:34.790Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:163274995|n:삼육두유 달콤한 b, 190ml, 15개입, 1박스",
       "source": "toss",
@@ -20550,23 +20588,6 @@
       ]
     },
     {
-      "id": "toss:p:11583819|n:산해직송 국내산 전라도 파김치, 1kg, 1팩",
-      "source": "toss",
-      "name": "산해직송 국내산 전라도 파김치, 1kg, 1팩",
-      "price": 10900,
-      "listPrice": 35000,
-      "observedAt": "2026-09-03T09:13:08.490Z",
-      "url": "https://toss.im/_m/1ponWBwx",
-      "image": "assets/products/417a958c0bc3dcad47cf.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-03T09:13:08.490Z"
-        }
-      ]
-    },
-    {
       "id": "p:340681830|i:19083437422|v:86205714263",
       "source": "coupang",
       "name": "랩신 센서티브 포밍 핸드워시 리필 파우더리 허브향, 200ml, 6개",
@@ -27604,23 +27625,6 @@
         {
           "price": 15660,
           "observedAt": "2026-08-23T01:59:02.753Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
-      "source": "toss",
-      "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
-      "price": 11900,
-      "listPrice": 25000,
-      "observedAt": "2026-08-23T00:49:34.790Z",
-      "url": "https://toss.im/_m/BOjITXzi",
-      "image": "assets/products/7e62ce6ce176a8c930cd.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-08-23T00:49:34.790Z"
         }
       ]
     },
