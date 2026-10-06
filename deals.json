@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T07:39:31.802Z",
+  "updatedAt": "2026-10-06T07:51:34.370Z",
   "deals": [
+    {
+      "id": "toss:p:839914271|n:청담새벽집 소불고기잡채, 500g, 4개",
+      "source": "toss",
+      "name": "청담새벽집 소불고기잡채, 500g, 4개",
+      "price": 13600,
+      "listPrice": null,
+      "observedAt": "2026-10-06T07:46:10.645Z",
+      "url": "https://toss.shopping/_m/DUYpRKCD",
+      "image": "assets/products/91f6e198b9edd1b36e2c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13600,
+          "observedAt": "2026-10-06T07:46:10.645Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:236764753|n:주방미학 심플 미니 통삼중 압력솥, 1.2l, 1개",
       "source": "toss",
