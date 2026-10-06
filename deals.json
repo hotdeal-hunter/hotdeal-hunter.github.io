@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T11:32:05.260Z",
+  "updatedAt": "2026-10-06T11:40:53.669Z",
   "deals": [
+    {
+      "id": "toss:p:1761267395|n:크리스탈 생수, 무라벨, 500ml, 100개",
+      "source": "toss",
+      "name": "크리스탈 생수, 무라벨, 500ml, 100개",
+      "price": 16400,
+      "listPrice": 50000,
+      "observedAt": "2026-10-06T11:32:23.252Z",
+      "url": "https://toss.shopping/_m/dCM3tZJt",
+      "image": "assets/products/3ce5072eadc1916c6a2b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16400,
+          "observedAt": "2026-10-06T11:32:23.252Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:11583841|n:산해직송 국내산 전라도 파김치, 2kg, 1팩",
       "source": "toss",
