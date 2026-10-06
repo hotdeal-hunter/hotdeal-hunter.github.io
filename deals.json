@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T11:40:53.669Z",
+  "updatedAt": "2026-10-06T11:51:29.756Z",
   "deals": [
+    {
+      "id": "toss:p:1741942431|n:에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
+      "source": "toss",
+      "name": "에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
+      "price": 7320,
+      "listPrice": 50000,
+      "observedAt": "2026-10-06T11:45:48.344Z",
+      "url": "https://toss.shopping/_m/Twe4NVQo",
+      "image": "assets/products/b8846f8f31e022cd70f1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7320,
+          "observedAt": "2026-10-06T11:45:48.344Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1761267395|n:크리스탈 생수, 무라벨, 500ml, 100개",
       "source": "toss",
