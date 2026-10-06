@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-06T02:38:40.810Z",
+  "updatedAt": "2026-10-06T02:47:19.421Z",
   "deals": [
+    {
+      "id": "toss:p:2571356689|n:서문시장 손맛 칼제비, 418g, 4개",
+      "source": "toss",
+      "name": "서문시장 손맛 칼제비, 418g, 4개",
+      "price": 7990,
+      "listPrice": null,
+      "observedAt": "2026-10-06T02:42:00.716Z",
+      "url": "https://toss.shopping/_m/NPKhBGvx",
+      "image": "assets/products/ec96d32819215d5292a0.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7990,
+          "observedAt": "2026-10-06T02:42:00.716Z"
+        },
+        {
+          "price": 7990,
+          "observedAt": "2026-10-06T02:40:29.421Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80836111|n:농가살리기 쑥인절미, 20g, 75개입, 1박스",
       "source": "toss",
