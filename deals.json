@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T05:07:01.840Z",
+  "updatedAt": "2026-10-06T05:59:52.651Z",
   "deals": [
+    {
+      "id": "toss:p:2402501507|n:남도농수산 국내산 전라도식 석박지, 5kg, 1개",
+      "source": "toss",
+      "name": "남도농수산 국내산 전라도식 석박지, 5kg, 1개",
+      "price": 11960,
+      "listPrice": null,
+      "observedAt": "2026-10-06T05:48:21.398Z",
+      "url": "https://toss.shopping/_m/b00m4Avo",
+      "image": "assets/products/09a1dbd4b14dd55cf1d4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11960,
+          "observedAt": "2026-10-06T05:48:21.398Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:819333921|n:데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
       "source": "toss",
