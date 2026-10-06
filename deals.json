@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-06T06:46:40.848Z",
+  "updatedAt": "2026-10-06T07:39:31.802Z",
   "deals": [
+    {
+      "id": "toss:p:236764753|n:주방미학 심플 미니 통삼중 압력솥, 1.2l, 1개",
+      "source": "toss",
+      "name": "주방미학 심플 미니 통삼중 압력솥, 1.2L, 1개",
+      "price": 29250,
+      "listPrice": 99000,
+      "observedAt": "2026-10-06T07:39:14.298Z",
+      "url": "https://toss.shopping/_m/BFZhDNos",
+      "image": "assets/products/416f94c01ef0f423f5cb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29250,
+          "observedAt": "2026-10-06T07:39:14.298Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80836111|n:농가살리기 쑥인절미, 20g, 75개입, 1박스",
+      "source": "toss",
+      "name": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
+      "price": 10900,
+      "listPrice": null,
+      "observedAt": "2026-10-06T07:25:34.747Z",
+      "url": "https://toss.shopping/_m/Nq7yEloC",
+      "image": "assets/products/a8c58ce0ece73e1a7e7c.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-10-06T07:25:34.747Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-10-06T02:38:33.271Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:299177275|n:신선하랑 냉동 삼겹살, 1kg, 2개",
+      "source": "toss",
+      "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
+      "price": 22500,
+      "listPrice": 38900,
+      "observedAt": "2026-10-06T07:15:30.069Z",
+      "url": "https://toss.shopping/_m/pQyFBvOf",
+      "image": "assets/products/33659041430b198c3beb.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 22500,
+          "observedAt": "2026-10-06T07:15:30.069Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-10-04T22:01:08.392Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-10-03T22:00:50.855Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1120477497|n:푸드앳홈 다진 마늘, 1kg, 2팩",
       "source": "toss",
@@ -215,23 +278,6 @@
         {
           "price": 7990,
           "observedAt": "2026-10-06T02:40:29.421Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:80836111|n:농가살리기 쑥인절미, 20g, 75개입, 1박스",
-      "source": "toss",
-      "name": "농가살리기 쑥인절미, 20g, 75개입, 1박스",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-10-06T02:38:33.271Z",
-      "url": "https://toss.shopping/_m/Nq7yEloC",
-      "image": "assets/products/a8c58ce0ece73e1a7e7c.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-10-06T02:38:33.271Z"
         }
       ]
     },
@@ -2208,27 +2254,6 @@
         {
           "price": 3020,
           "observedAt": "2026-10-04T22:04:02.064Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:299177275|n:신선하랑 냉동 삼겹살, 1kg, 2개",
-      "source": "toss",
-      "name": "신선하랑 냉동 삼겹살, 1kg, 2개",
-      "price": 10990,
-      "listPrice": null,
-      "observedAt": "2026-10-04T22:01:08.392Z",
-      "url": "https://toss.shopping/_m/pQyFBvOf",
-      "image": "assets/products/33659041430b198c3beb.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10990,
-          "observedAt": "2026-10-04T22:01:08.392Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-10-03T22:00:50.855Z"
         }
       ]
     },
