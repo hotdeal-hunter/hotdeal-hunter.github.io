@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-06T03:46:51.435Z",
+  "updatedAt": "2026-10-06T04:56:19.752Z",
   "deals": [
+    {
+      "id": "toss:p:819333921|n:데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
+      "source": "toss",
+      "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
+      "price": 14330,
+      "listPrice": null,
+      "observedAt": "2026-10-06T04:50:47.363Z",
+      "url": "https://toss.shopping/_m/VzjM0Uhc",
+      "image": "assets/products/ff44c31c15f398605c3d.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14330,
+          "observedAt": "2026-10-06T04:50:47.363Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1432440399|n:서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
       "source": "toss",
