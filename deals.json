@@ -1,6 +1,85 @@
 {
-  "updatedAt": "2026-10-06T02:47:19.421Z",
+  "updatedAt": "2026-10-06T03:46:51.435Z",
   "deals": [
+    {
+      "id": "toss:p:1432440399|n:서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
+      "source": "toss",
+      "name": "서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
+      "price": 32800,
+      "listPrice": null,
+      "observedAt": "2026-10-06T03:41:27.732Z",
+      "url": "https://toss.shopping/_m/DjNB5rVo",
+      "image": "assets/products/18ff73ab0aa3383918df.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T03:41:27.732Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T01:37:10.727Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-05T22:01:16.473Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "source": "toss",
+      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "price": 25832,
+      "listPrice": null,
+      "observedAt": "2026-10-06T03:41:24.011Z",
+      "url": "https://toss.shopping/_m/x59hUN2m",
+      "image": "assets/products/1a27f9b088ad56182502.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:41:24.011Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.597Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.494Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:23:44.426Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:01:16.154Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2473276087|n:할리스 블랙 아리아 아메리카노, 550ml, 24개",
+      "source": "toss",
+      "name": "할리스 블랙 아리아 아메리카노, 550ml, 24개",
+      "price": 18900,
+      "listPrice": null,
+      "observedAt": "2026-10-06T03:41:23.861Z",
+      "url": "https://toss.im/_m/RjX89I1r",
+      "image": "assets/products/e1a8fc0b7e2b2c49163d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-10-06T03:41:23.861Z"
+        },
+        {
+          "price": 19640,
+          "observedAt": "2026-08-26T11:09:15.952Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2571356689|n:서문시장 손맛 칼제비, 418g, 4개",
       "source": "toss",
@@ -57,27 +136,6 @@
         {
           "price": 5650,
           "observedAt": "2026-10-06T01:11:19.109Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1432440399|n:서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
-      "source": "toss",
-      "name": "서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
-      "price": 32800,
-      "listPrice": null,
-      "observedAt": "2026-10-06T01:37:10.727Z",
-      "url": "https://toss.shopping/_m/DjNB5rVo",
-      "image": "assets/products/18ff73ab0aa3383918df.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 32800,
-          "observedAt": "2026-10-06T01:37:10.727Z"
-        },
-        {
-          "price": 32800,
-          "observedAt": "2026-10-05T22:01:16.473Z"
         }
       ]
     },
@@ -720,27 +778,6 @@
       ]
     },
     {
-      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "source": "toss",
-      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "price": 25832,
-      "listPrice": 49100,
-      "observedAt": "2026-10-05T22:23:44.426Z",
-      "url": "https://toss.shopping/_m/x59hUN2m",
-      "image": "assets/products/1a27f9b088ad56182502.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:23:44.426Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:01:16.154Z"
-        }
-      ]
-    },
-    {
       "id": "p:7871691073|i:28771298354|v:95709126463",
       "source": "coupang",
       "name": "해태제과 오예스 미니 쿠키앤크림 12p, 192g, 1개",
@@ -1282,7 +1319,7 @@
       "listPrice": null,
       "observedAt": "2026-10-05T06:21:35.109Z",
       "url": "https://toss.shopping/_m/vsLjl7oy",
-      "image": null,
+      "image": "assets/products/9f8bd51a9002cd6b513a.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -25114,23 +25151,6 @@
         {
           "price": 10990,
           "observedAt": "2026-08-26T11:39:08.826Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2473276087|n:할리스 블랙 아리아 아메리카노, 550ml, 24개",
-      "source": "toss",
-      "name": "할리스 블랙 아리아 아메리카노, 550ml, 24개",
-      "price": 19640,
-      "listPrice": null,
-      "observedAt": "2026-08-26T11:09:15.952Z",
-      "url": "https://toss.im/_m/RjX89I1r",
-      "image": "assets/products/e1a8fc0b7e2b2c49163d.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 19640,
-          "observedAt": "2026-08-26T11:09:15.952Z"
         }
       ]
     },
