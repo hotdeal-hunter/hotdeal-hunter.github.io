@@ -1,6 +1,323 @@
 {
-  "updatedAt": "2026-10-06T11:51:29.756Z",
+  "updatedAt": "2026-10-06T22:00:53.301Z",
   "deals": [
+    {
+      "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "source": "toss",
+      "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
+      "price": 6900,
+      "listPrice": 16500,
+      "observedAt": "2026-10-06T22:00:43.055Z",
+      "url": "https://toss.im/_m/PpEXD15c",
+      "image": "assets/products/22bf18cc4dfcec812a65.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-10-06T22:00:43.055Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-02T00:50:39.082Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-08-28T13:07:38.497Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:92545497|n:대한민국농수산 뼈없는 한돈 양념갈비, 300g, 4팩",
+      "source": "toss",
+      "name": "대한민국농수산 뼈없는 한돈 양념갈비, 300g, 4팩",
+      "price": 15900,
+      "listPrice": 43000,
+      "observedAt": "2026-10-06T22:00:42.838Z",
+      "url": "https://toss.shopping/_m/h5B2cONp",
+      "image": "assets/products/3ce4e13551c2159ad631.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-10-06T22:00:42.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:536072313|n:유창원장인 속초식 명태회무침, 1kg, 1통",
+      "source": "toss",
+      "name": "유창원장인 속초식 명태회무침, 1kg, 1통",
+      "price": 11900,
+      "listPrice": 19900,
+      "observedAt": "2026-10-06T22:00:42.541Z",
+      "url": "https://toss.shopping/_m/5A9FZjPo",
+      "image": "assets/products/53c129fb41fe6b46a930.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-10-06T22:00:42.541Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
+      "source": "toss",
+      "name": "CJ제일제당 스팸 클래식, 340g, 10개",
+      "price": 35900,
+      "listPrice": null,
+      "observedAt": "2026-10-06T12:26:58.509Z",
+      "url": "https://toss.im/_m/5MTKhm5A",
+      "image": "assets/products/0b9194b363e950c76502.png",
+      "insight": "12회 가격 기록",
+      "history": [
+        {
+          "price": 35900,
+          "observedAt": "2026-10-06T12:26:58.509Z"
+        },
+        {
+          "price": 35900,
+          "observedAt": "2026-10-06T12:26:58.133Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T07:36:08.210Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T07:34:44.816Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T02:29:54.799Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T00:50:56.412Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T00:50:56.307Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T00:45:16.455Z"
+        },
+        {
+          "price": 33900,
+          "observedAt": "2026-10-05T00:42:17.835Z"
+        },
+        {
+          "price": 37000,
+          "observedAt": "2026-09-04T05:05:14.485Z"
+        },
+        {
+          "price": 36900,
+          "observedAt": "2026-09-02T10:15:43.994Z"
+        },
+        {
+          "price": 36900,
+          "observedAt": "2026-09-02T07:56:32.945Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "source": "toss",
+      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
+      "price": 58810,
+      "listPrice": null,
+      "observedAt": "2026-10-06T12:26:58.420Z",
+      "url": "https://toss.im/_m/hoV8jeJu",
+      "image": "assets/products/422348186f9ea26bc8a0.png",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 58810,
+          "observedAt": "2026-10-06T12:26:58.420Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-06T12:26:58.028Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T10:20:59.120Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T10:20:58.952Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-03T03:39:30.145Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-10-01T04:16:02.408Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.773Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T01:23:20.665Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-23T00:38:52.789Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.953Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:54:50.764Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-09-22T23:42:00.956Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:48:59.194Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-19T07:36:29.604Z"
+        },
+        {
+          "price": 58810,
+          "observedAt": "2026-08-18T02:20:20.467Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1432440399|n:서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
+      "source": "toss",
+      "name": "서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
+      "price": 32800,
+      "listPrice": null,
+      "observedAt": "2026-10-06T12:26:58.336Z",
+      "url": "https://toss.shopping/_m/DjNB5rVo",
+      "image": "assets/products/18ff73ab0aa3383918df.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T12:26:58.336Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T12:26:57.918Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T03:41:27.732Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-06T01:37:10.727Z"
+        },
+        {
+          "price": 32800,
+          "observedAt": "2026-10-05T22:01:16.473Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "source": "toss",
+      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "price": 25832,
+      "listPrice": null,
+      "observedAt": "2026-10-06T12:26:58.232Z",
+      "url": "https://toss.shopping/_m/x59hUN2m",
+      "image": "assets/products/1a27f9b088ad56182502.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T12:26:58.232Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T12:26:57.827Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:41:24.011Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.597Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.494Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:23:44.426Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:01:16.154Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:839914271|n:청담새벽집 소불고기잡채, 500g, 4개",
+      "source": "toss",
+      "name": "청담새벽집 소불고기잡채, 500g, 4개",
+      "price": 13600,
+      "listPrice": null,
+      "observedAt": "2026-10-06T12:16:16.154Z",
+      "url": "https://toss.shopping/_m/DUYpRKCD",
+      "image": "assets/products/91f6e198b9edd1b36e2c.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13600,
+          "observedAt": "2026-10-06T12:16:16.154Z"
+        },
+        {
+          "price": 13600,
+          "observedAt": "2026-10-06T07:46:10.645Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "source": "toss",
+      "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
+      "price": 9895,
+      "listPrice": 25000,
+      "observedAt": "2026-10-06T12:11:31.365Z",
+      "url": "https://toss.im/_m/BOjITXzi",
+      "image": "assets/products/7e62ce6ce176a8c930cd.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9895,
+          "observedAt": "2026-10-06T12:11:31.365Z"
+        },
+        {
+          "price": 9895,
+          "observedAt": "2026-10-06T12:09:11.843Z"
+        },
+        {
+          "price": 9895,
+          "observedAt": "2026-10-06T09:25:44.537Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-08-23T00:49:34.790Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1741942431|n:에이지랩 스네일 뮤신 브라이트닝 선크림, 70ml, 2개",
       "source": "toss",
@@ -53,27 +370,6 @@
       ]
     },
     {
-      "id": "toss:p:82760697|n:대한민국농수산 사각 옥수수술빵, 350g, 5개",
-      "source": "toss",
-      "name": "대한민국농수산 사각 옥수수술빵, 350g, 5개",
-      "price": 9895,
-      "listPrice": null,
-      "observedAt": "2026-10-06T09:25:44.537Z",
-      "url": "https://toss.im/_m/BOjITXzi",
-      "image": "assets/products/7e62ce6ce176a8c930cd.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9895,
-          "observedAt": "2026-10-06T09:25:44.537Z"
-        },
-        {
-          "price": 11900,
-          "observedAt": "2026-08-23T00:49:34.790Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:163274995|n:삼육두유 달콤한 b, 190ml, 15개입, 1박스",
       "source": "toss",
       "name": "삼육두유 달콤한 B, 190ml, 15개입, 1박스",
@@ -91,23 +387,6 @@
         {
           "price": 6700,
           "observedAt": "2026-10-06T08:25:43.714Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:839914271|n:청담새벽집 소불고기잡채, 500g, 4개",
-      "source": "toss",
-      "name": "청담새벽집 소불고기잡채, 500g, 4개",
-      "price": 13600,
-      "listPrice": null,
-      "observedAt": "2026-10-06T07:46:10.645Z",
-      "url": "https://toss.shopping/_m/DUYpRKCD",
-      "image": "assets/products/91f6e198b9edd1b36e2c.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13600,
-          "observedAt": "2026-10-06T07:46:10.645Z"
         }
       ]
     },
@@ -288,64 +567,6 @@
         {
           "price": 6990,
           "observedAt": "2026-10-06T05:01:29.436Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1432440399|n:서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
-      "source": "toss",
-      "name": "서해대통 당진해나루쌀 삼광미 특등급, 10kg, 1개",
-      "price": 32800,
-      "listPrice": null,
-      "observedAt": "2026-10-06T03:41:27.732Z",
-      "url": "https://toss.shopping/_m/DjNB5rVo",
-      "image": "assets/products/18ff73ab0aa3383918df.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 32800,
-          "observedAt": "2026-10-06T03:41:27.732Z"
-        },
-        {
-          "price": 32800,
-          "observedAt": "2026-10-06T01:37:10.727Z"
-        },
-        {
-          "price": 32800,
-          "observedAt": "2026-10-05T22:01:16.473Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "source": "toss",
-      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "price": 25832,
-      "listPrice": null,
-      "observedAt": "2026-10-06T03:41:24.011Z",
-      "url": "https://toss.shopping/_m/x59hUN2m",
-      "image": "assets/products/1a27f9b088ad56182502.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:41:24.011Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:38:57.597Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:38:57.494Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:23:44.426Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:01:16.154Z"
         }
       ]
     },
@@ -1494,59 +1715,6 @@
         {
           "price": 2960,
           "observedAt": "2026-10-05T07:40:54.633Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:77110935|n:cj제일제당 스팸 클래식, 340g, 10개",
-      "source": "toss",
-      "name": "CJ제일제당 스팸 클래식, 340g, 10개",
-      "price": 33900,
-      "listPrice": null,
-      "observedAt": "2026-10-05T07:36:08.210Z",
-      "url": "https://toss.im/_m/5MTKhm5A",
-      "image": "assets/products/0b9194b363e950c76502.png",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T07:36:08.210Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T07:34:44.816Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T02:29:54.799Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T00:50:56.412Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T00:50:56.307Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T00:45:16.455Z"
-        },
-        {
-          "price": 33900,
-          "observedAt": "2026-10-05T00:42:17.835Z"
-        },
-        {
-          "price": 37000,
-          "observedAt": "2026-09-04T05:05:14.485Z"
-        },
-        {
-          "price": 36900,
-          "observedAt": "2026-09-02T10:15:43.994Z"
-        },
-        {
-          "price": 36900,
-          "observedAt": "2026-09-02T07:56:32.945Z"
         }
       ]
     },
@@ -2937,71 +3105,6 @@
         {
           "price": 8811,
           "observedAt": "2026-10-03T10:27:10.506Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1100216383|n:테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
-      "source": "toss",
-      "name": "테팔 티타늄 인텐시브 블랙 프라이팬 5종 세트, 1세트",
-      "price": 58810,
-      "listPrice": null,
-      "observedAt": "2026-10-03T10:20:59.120Z",
-      "url": "https://toss.im/_m/hoV8jeJu",
-      "image": "assets/products/422348186f9ea26bc8a0.png",
-      "insight": "13회 가격 기록",
-      "history": [
-        {
-          "price": 58810,
-          "observedAt": "2026-10-03T10:20:59.120Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-10-03T10:20:58.952Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-10-03T03:39:30.145Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-10-01T04:16:02.408Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.773Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T01:23:20.665Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-23T00:38:52.789Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.953Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:54:50.764Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-09-22T23:42:00.956Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:48:59.194Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-19T07:36:29.604Z"
-        },
-        {
-          "price": 58810,
-          "observedAt": "2026-08-18T02:20:20.467Z"
         }
       ]
     },
@@ -21219,27 +21322,6 @@
         {
           "price": 7500,
           "observedAt": "2026-09-02T01:34:15.935Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
-      "source": "toss",
-      "name": "푸주 한돈 고추장 돼지불고기, 300g, 4개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-09-02T00:50:39.082Z",
-      "url": "https://toss.im/_m/PpEXD15c",
-      "image": "assets/products/22bf18cc4dfcec812a65.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-02T00:50:39.082Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-08-28T13:07:38.497Z"
         }
       ]
     },
