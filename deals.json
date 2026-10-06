@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T04:56:19.752Z",
+  "updatedAt": "2026-10-06T05:07:01.840Z",
   "deals": [
     {
       "id": "toss:p:819333921|n:데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
@@ -7,14 +7,35 @@
       "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
       "price": 14330,
       "listPrice": null,
-      "observedAt": "2026-10-06T04:50:47.363Z",
+      "observedAt": "2026-10-06T05:06:54.807Z",
       "url": "https://toss.shopping/_m/VzjM0Uhc",
       "image": "assets/products/ff44c31c15f398605c3d.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
         {
           "price": 14330,
+          "observedAt": "2026-10-06T05:06:54.807Z"
+        },
+        {
+          "price": 14330,
           "observedAt": "2026-10-06T04:50:47.363Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:785033169|n:곰도리 온열안대 라이트 케어 플러스, 40개입, 1개",
+      "source": "toss",
+      "name": "곰도리 온열안대 라이트 케어 플러스, 40개입, 1개",
+      "price": 6990,
+      "listPrice": 19800,
+      "observedAt": "2026-10-06T05:01:29.436Z",
+      "url": "https://toss.shopping/_m/9CYVZWl2",
+      "image": "assets/products/5180c5aee8651c908c88.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-06T05:01:29.436Z"
         }
       ]
     },
