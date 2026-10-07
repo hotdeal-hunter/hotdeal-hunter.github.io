@@ -1,6 +1,67 @@
 {
-  "updatedAt": "2026-10-07T04:21:42.326Z",
+  "updatedAt": "2026-10-07T05:10:20.084Z",
   "deals": [
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": 15900,
+      "observedAt": "2026-10-07T05:04:14.322Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "12회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-07T05:04:14.322Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-05T23:01:33.916Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-05T23:01:33.467Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:26:22.211Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:20:26.314Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T02:32:29.718Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-30T02:32:50.980Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T22:21:54.415Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2233750601|n:메이홉 바디트리머, ma-0400, 오로라 화이트, 1개",
       "source": "toss",
@@ -1252,63 +1313,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-28T02:32:33.556Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": null,
-      "observedAt": "2026-10-05T23:01:33.916Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "11회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-10-05T23:01:33.916Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-05T23:01:33.467Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T10:26:22.211Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T10:20:26.314Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T02:32:29.718Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-30T02:32:50.980Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-28T22:21:54.415Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:51:02.720Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
         }
       ]
     },
