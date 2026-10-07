@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T09:53:31.033Z",
+  "updatedAt": "2026-10-07T10:34:29.148Z",
   "deals": [
+    {
+      "id": "toss:p:132948577|n:일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 6박스",
+      "source": "toss",
+      "name": "일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 6박스",
+      "price": 22700,
+      "listPrice": 297000,
+      "observedAt": "2026-10-07T10:28:50.553Z",
+      "url": "https://toss.shopping/_m/JO13Mxpt",
+      "image": "assets/products/c5a7f10d01e4ea21df23.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 22700,
+          "observedAt": "2026-10-07T10:28:50.553Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2663836061|n:이선별 밀크카스테라, 1kg, 1박스",
       "source": "toss",
