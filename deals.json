@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-07T02:39:46.350Z",
+  "updatedAt": "2026-10-07T04:21:42.326Z",
   "deals": [
+    {
+      "id": "toss:p:2233750601|n:메이홉 바디트리머, ma-0400, 오로라 화이트, 1개",
+      "source": "toss",
+      "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
+      "price": 25260,
+      "listPrice": 69800,
+      "observedAt": "2026-10-07T04:21:31.182Z",
+      "url": "https://toss.im/_m/Di5VHKNk",
+      "image": "assets/products/418e0d583b211dd10722.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 25260,
+          "observedAt": "2026-10-07T04:21:31.182Z"
+        },
+        {
+          "price": 34800,
+          "observedAt": "2026-09-04T05:43:32.165Z"
+        },
+        {
+          "price": 33800,
+          "observedAt": "2026-08-25T09:31:04.519Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "source": "toss",
+      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
+      "price": 25832,
+      "listPrice": null,
+      "observedAt": "2026-10-07T03:29:47.198Z",
+      "url": "https://toss.shopping/_m/x59hUN2m",
+      "image": "assets/products/1a27f9b088ad56182502.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 25832,
+          "observedAt": "2026-10-07T03:29:47.198Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T12:26:58.232Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T12:26:57.827Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:41:24.011Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.597Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-06T03:38:57.494Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:23:44.426Z"
+        },
+        {
+          "price": 25832,
+          "observedAt": "2026-10-05T22:01:16.154Z"
+        }
+      ]
+    },
+    {
+      "id": "p:9648097024|i:28834917369|v:95769278925",
+      "source": "coupang",
+      "name": "에스트라 아토베리어 365 하이드로 수딩크림",
+      "price": 15780,
+      "listPrice": null,
+      "observedAt": "2026-10-07T02:41:12.426Z",
+      "url": "https://link.coupang.com/a/hD2swSDVFQ",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15780,
+          "observedAt": "2026-10-07T02:41:12.426Z"
+        }
+      ]
+    },
     {
       "id": "p:5485777387|i:8477655183|v:75765195133",
       "source": "coupang",
@@ -450,47 +537,6 @@
         {
           "price": 32800,
           "observedAt": "2026-10-05T22:01:16.473Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1366165183|n:펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "source": "toss",
-      "name": "펩시콜라 제로슈거 라임향 제로 카페인, 355ml, 48개",
-      "price": 25832,
-      "listPrice": null,
-      "observedAt": "2026-10-06T12:26:58.232Z",
-      "url": "https://toss.shopping/_m/x59hUN2m",
-      "image": "assets/products/1a27f9b088ad56182502.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T12:26:58.232Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T12:26:57.827Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:41:24.011Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:38:57.597Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-06T03:38:57.494Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:23:44.426Z"
-        },
-        {
-          "price": 25832,
-          "observedAt": "2026-10-05T22:01:16.154Z"
         }
       ]
     },
@@ -20270,27 +20316,6 @@
         {
           "price": 4500,
           "observedAt": "2026-09-04T06:22:05.902Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2233750601|n:메이홉 바디트리머, ma-0400, 오로라 화이트, 1개",
-      "source": "toss",
-      "name": "메이홉 바디트리머, MA-0400, 오로라 화이트, 1개",
-      "price": 34800,
-      "listPrice": 69800,
-      "observedAt": "2026-09-04T05:43:32.165Z",
-      "url": "https://toss.im/_m/Di5VHKNk",
-      "image": "assets/products/418e0d583b211dd10722.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 34800,
-          "observedAt": "2026-09-04T05:43:32.165Z"
-        },
-        {
-          "price": 33800,
-          "observedAt": "2026-08-25T09:31:04.519Z"
         }
       ]
     },
