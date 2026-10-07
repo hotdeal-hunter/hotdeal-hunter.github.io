@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-07T00:51:30.120Z",
+  "updatedAt": "2026-10-07T02:12:43.447Z",
   "deals": [
+    {
+      "id": "toss:p:819333921|n:데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
+      "source": "toss",
+      "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
+      "price": 16900,
+      "listPrice": null,
+      "observedAt": "2026-10-07T02:12:05.062Z",
+      "url": "https://toss.shopping/_m/VzjM0Uhc",
+      "image": "assets/products/ff44c31c15f398605c3d.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 16900,
+          "observedAt": "2026-10-07T02:12:05.062Z"
+        },
+        {
+          "price": 16900,
+          "observedAt": "2026-10-07T02:10:53.534Z"
+        },
+        {
+          "price": 14330,
+          "observedAt": "2026-10-06T05:06:54.807Z"
+        },
+        {
+          "price": 14330,
+          "observedAt": "2026-10-06T04:50:47.363Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:500921757|n:도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
+      "source": "toss",
+      "name": "도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
+      "price": 16020,
+      "listPrice": null,
+      "observedAt": "2026-10-07T01:15:33.957Z",
+      "url": "https://toss.shopping/_m/beFRGojs",
+      "image": "assets/products/053752db8a29e48779ce.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 16020,
+          "observedAt": "2026-10-07T01:15:33.957Z"
+        },
+        {
+          "price": 16020,
+          "observedAt": "2026-10-07T00:03:41.023Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:58784741|n:연세우유 저지방 우유, 190ml, 48개",
       "source": "toss",
@@ -61,23 +111,6 @@
         {
           "price": 8761,
           "observedAt": "2026-08-30T23:34:13.469Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:500921757|n:도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
-      "source": "toss",
-      "name": "도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
-      "price": 16020,
-      "listPrice": null,
-      "observedAt": "2026-10-07T00:03:41.023Z",
-      "url": "https://toss.shopping/_m/beFRGojs",
-      "image": "assets/products/053752db8a29e48779ce.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 16020,
-          "observedAt": "2026-10-07T00:03:41.023Z"
         }
       ]
     },
@@ -671,27 +704,6 @@
         {
           "price": 11960,
           "observedAt": "2026-10-06T05:48:21.398Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:819333921|n:데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
-      "source": "toss",
-      "name": "데일리룸 에센 다마스커스 5종 칼세트, 중식나이프+쉐프나이프+유틸리티 나이프+가위+집게, 1세트",
-      "price": 14330,
-      "listPrice": null,
-      "observedAt": "2026-10-06T05:06:54.807Z",
-      "url": "https://toss.shopping/_m/VzjM0Uhc",
-      "image": "assets/products/ff44c31c15f398605c3d.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 14330,
-          "observedAt": "2026-10-06T05:06:54.807Z"
-        },
-        {
-          "price": 14330,
-          "observedAt": "2026-10-06T04:50:47.363Z"
         }
       ]
     },
