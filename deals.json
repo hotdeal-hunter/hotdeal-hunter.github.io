@@ -1,6 +1,65 @@
 {
-  "updatedAt": "2026-10-07T11:32:29.831Z",
+  "updatedAt": "2026-10-07T12:27:29.681Z",
   "deals": [
+    {
+      "id": "toss:p:2385516263|n:대용량 삼겹살, 1kg, 5팩",
+      "source": "toss",
+      "name": "대용량 삼겹살, 1kg, 5팩",
+      "price": 38900,
+      "listPrice": null,
+      "observedAt": "2026-10-07T12:24:29.981Z",
+      "url": "https://toss.shopping/_m/DxeZdbjn",
+      "image": "assets/products/7442e106df063908e609.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 38900,
+          "observedAt": "2026-10-07T12:24:29.981Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:183318837|n:맛춤상회 소고기 모둠, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개, 1세트",
+      "source": "toss",
+      "name": "맛춤상회 소고기 모둠, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개, 1세트",
+      "price": 19080,
+      "listPrice": null,
+      "observedAt": "2026-10-07T12:21:59.769Z",
+      "url": "https://toss.im/_m/PNU8wtSy",
+      "image": "assets/products/60170889a418d7e03214.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 19080,
+          "observedAt": "2026-10-07T12:21:59.769Z"
+        },
+        {
+          "price": 27900,
+          "observedAt": "2026-08-30T10:24:50.704Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2663034219|n:아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
+      "source": "toss",
+      "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
+      "price": 7060,
+      "listPrice": 27800,
+      "observedAt": "2026-10-07T12:04:16.760Z",
+      "url": "https://toss.shopping/_m/nsHJJgTp",
+      "image": "assets/products/09f5ad45cbbe5056c044.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7060,
+          "observedAt": "2026-10-07T12:04:16.760Z"
+        },
+        {
+          "price": 7060,
+          "observedAt": "2026-10-07T00:15:58.043Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1375405927|n:에어보나 발터치 리모컨 선풍기, 1개",
       "source": "toss",
@@ -457,23 +516,6 @@
         {
           "price": 24900,
           "observedAt": "2026-09-05T06:42:53.189Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2663034219|n:아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
-      "source": "toss",
-      "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
-      "price": 7060,
-      "listPrice": null,
-      "observedAt": "2026-10-07T00:15:58.043Z",
-      "url": "https://toss.shopping/_m/nsHJJgTp",
-      "image": "assets/products/09f5ad45cbbe5056c044.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7060,
-          "observedAt": "2026-10-07T00:15:58.043Z"
         }
       ]
     },
@@ -22929,23 +22971,6 @@
         {
           "price": 23900,
           "observedAt": "2026-08-30T10:34:40.992Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:183318837|n:맛춤상회 소고기모듬, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개",
-      "source": "toss",
-      "name": "맛춤상회 소고기모듬, 토시살 200g 1개 + 안창살 200g 1개 + 부채살 200g 1개 + 우삼겹 200g 1개",
-      "price": 27900,
-      "listPrice": null,
-      "observedAt": "2026-08-30T10:24:50.704Z",
-      "url": "https://toss.im/_m/PNU8wtSy",
-      "image": "assets/products/dae9497ddeed4639f027.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 27900,
-          "observedAt": "2026-08-30T10:24:50.704Z"
         }
       ]
     },
