@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-07T05:13:29.914Z",
+  "updatedAt": "2026-10-07T06:26:10.789Z",
   "deals": [
+    {
+      "id": "toss:p:210965927|n:피죤 건조기시트 섬유유연제 플라워페스티벌, 120매, 2개",
+      "source": "toss",
+      "name": "피죤 건조기시트 섬유유연제 플라워페스티벌, 120매, 2개",
+      "price": 12290,
+      "listPrice": null,
+      "observedAt": "2026-10-07T06:20:11.310Z",
+      "url": "https://toss.shopping/_m/LW4ETNmd",
+      "image": "assets/products/34155908726f3ae797bb.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12290,
+          "observedAt": "2026-10-07T06:20:11.310Z"
+        },
+        {
+          "price": 12290,
+          "observedAt": "2026-10-07T06:20:08.262Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2673579997|n:네스카페 돌체구스토 커피머신 지니오 s 터치, 시나모롤 패키지, 화이트, 1개",
       "source": "toss",
