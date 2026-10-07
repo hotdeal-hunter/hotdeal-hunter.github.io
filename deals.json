@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T11:29:43.421Z",
+  "updatedAt": "2026-10-07T11:32:29.831Z",
   "deals": [
+    {
+      "id": "toss:p:1375405927|n:에어보나 발터치 리모컨 선풍기, 1개",
+      "source": "toss",
+      "name": "에어보나 발터치 리모컨 선풍기, 1개",
+      "price": 25990,
+      "listPrice": 109000,
+      "observedAt": "2026-10-07T11:32:19.283Z",
+      "url": "https://toss.shopping/_m/FvoCnN9A",
+      "image": "assets/products/8f071d9a8cdc7bf797d9.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 25990,
+          "observedAt": "2026-10-07T11:32:19.283Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:148254537|n:제스타 습기제거제, 라벤더향, 250g, 18개",
       "source": "toss",
