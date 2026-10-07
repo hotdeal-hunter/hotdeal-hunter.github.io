@@ -1,6 +1,69 @@
 {
-  "updatedAt": "2026-10-07T00:09:43.414Z",
+  "updatedAt": "2026-10-07T00:51:30.120Z",
   "deals": [
+    {
+      "id": "toss:p:58784741|n:연세우유 저지방 우유, 190ml, 48개",
+      "source": "toss",
+      "name": "연세우유 저지방 우유, 190ml, 48개",
+      "price": 24500,
+      "listPrice": null,
+      "observedAt": "2026-10-07T00:45:37.141Z",
+      "url": "https://toss.im/_m/5Gep2Dk2",
+      "image": "assets/products/7e89fb8d725fdeb53136.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 24500,
+          "observedAt": "2026-10-07T00:45:37.141Z"
+        },
+        {
+          "price": 24500,
+          "observedAt": "2026-10-07T00:45:33.397Z"
+        },
+        {
+          "price": 24900,
+          "observedAt": "2026-09-05T06:42:53.189Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2663034219|n:아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
+      "source": "toss",
+      "name": "아침에좋은빵 제로슈가 통밀식빵, 630g, 2개",
+      "price": 7060,
+      "listPrice": null,
+      "observedAt": "2026-10-07T00:15:58.043Z",
+      "url": "https://toss.shopping/_m/nsHJJgTp",
+      "image": "assets/products/09f5ad45cbbe5056c044.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7060,
+          "observedAt": "2026-10-07T00:15:58.043Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1934776539|n:아침에 좋은빵 통밀식빵, 630g, 2개",
+      "source": "toss",
+      "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
+      "price": 6860,
+      "listPrice": null,
+      "observedAt": "2026-10-07T00:15:57.940Z",
+      "url": "https://toss.im/_m/LMuYGM2c",
+      "image": "assets/products/1f84bb8ffdaa5b7278f0.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 6860,
+          "observedAt": "2026-10-07T00:15:57.940Z"
+        },
+        {
+          "price": 8761,
+          "observedAt": "2026-08-30T23:34:13.469Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:500921757|n:도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
       "source": "toss",
@@ -20131,23 +20194,6 @@
       ]
     },
     {
-      "id": "toss:p:58784741|n:연세우유 멸균우유, 저지방, 190ml, 48개",
-      "source": "toss",
-      "name": "연세우유 멸균우유, 저지방, 190ml, 48개",
-      "price": 24900,
-      "listPrice": 43800,
-      "observedAt": "2026-09-05T06:42:53.189Z",
-      "url": "https://toss.im/_m/5Gep2Dk2",
-      "image": "assets/products/94f9dc4d9b1a77e4366d.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 24900,
-          "observedAt": "2026-09-05T06:42:53.189Z"
-        }
-      ]
-    },
-    {
       "id": "p:9117867464|i:25589732514|v:92580550549",
       "source": "coupang",
       "name": "써모스 뉴 데일리 원터치 텀블러, 페일그레이(PGY), 500ml, 1개",
@@ -22382,23 +22428,6 @@
         {
           "price": 3190,
           "observedAt": "2026-08-31T00:55:51.319Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1934776539|n:아침에 좋은빵 백프로 통밀식빵, 630g, 2개",
-      "source": "toss",
-      "name": "아침에 좋은빵 백프로 통밀식빵, 630g, 2개",
-      "price": 8761,
-      "listPrice": null,
-      "observedAt": "2026-08-30T23:34:13.469Z",
-      "url": "https://toss.im/_m/LMuYGM2c",
-      "image": "assets/products/9ee181c9af81dac0b263.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8761,
-          "observedAt": "2026-08-30T23:34:13.469Z"
         }
       ]
     },
