@@ -1,6 +1,102 @@
 {
-  "updatedAt": "2026-10-06T22:00:53.301Z",
+  "updatedAt": "2026-10-07T00:09:43.414Z",
   "deals": [
+    {
+      "id": "toss:p:500921757|n:도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
+      "source": "toss",
+      "name": "도시목장 에이징 구운란, 대란, 무염, 60구, 1세트",
+      "price": 16020,
+      "listPrice": null,
+      "observedAt": "2026-10-07T00:03:41.023Z",
+      "url": "https://toss.shopping/_m/beFRGojs",
+      "image": "assets/products/053752db8a29e48779ce.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16020,
+          "observedAt": "2026-10-07T00:03:41.023Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:818096509|n:팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+      "source": "toss",
+      "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
+      "price": 4830,
+      "listPrice": 29900,
+      "observedAt": "2026-10-06T23:02:22.081Z",
+      "url": "https://toss.shopping/_m/HBjn5azy",
+      "image": "assets/products/1d5096604d5274d014eb.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 4830,
+          "observedAt": "2026-10-06T23:02:22.081Z"
+        },
+        {
+          "price": 4830,
+          "observedAt": "2026-10-01T02:32:29.925Z"
+        },
+        {
+          "price": 4830,
+          "observedAt": "2026-09-29T22:22:58.901Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1120477497|n:푸드앳홈 다진 마늘, 1kg, 2팩",
+      "source": "toss",
+      "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
+      "price": 12825,
+      "listPrice": 24500,
+      "observedAt": "2026-10-06T23:02:21.985Z",
+      "url": "https://toss.shopping/_m/TleOmEXj",
+      "image": "assets/products/fc5841a9c805c4813ee9.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 12825,
+          "observedAt": "2026-10-06T23:02:21.985Z"
+        },
+        {
+          "price": 11900,
+          "observedAt": "2026-10-06T06:35:38.316Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
+      "source": "toss",
+      "name": "슬림떡볶이 로제맛, 230g, 4개",
+      "price": 5530,
+      "listPrice": 15600,
+      "observedAt": "2026-10-06T23:02:21.848Z",
+      "url": "https://toss.shopping/_m/lFXmeS8w",
+      "image": "assets/products/a1a565f2490c3a2c0450.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 5530,
+          "observedAt": "2026-10-06T23:02:21.848Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:34.337Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:33.820Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-04T22:22:49.526Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-01T22:42:41.402Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:8834733|n:푸주 한돈 고추장 돼지불고기, 300g, 4개",
       "source": "toss",
@@ -454,23 +550,6 @@
       ]
     },
     {
-      "id": "toss:p:1120477497|n:푸드앳홈 다진 마늘, 1kg, 2팩",
-      "source": "toss",
-      "name": "푸드앳홈 다진 마늘, 1kg, 2팩",
-      "price": 11900,
-      "listPrice": null,
-      "observedAt": "2026-10-06T06:35:38.316Z",
-      "url": "https://toss.shopping/_m/TleOmEXj",
-      "image": "assets/products/fc5841a9c805c4813ee9.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11900,
-          "observedAt": "2026-10-06T06:35:38.316Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:307316887|n:파이토메이드 고칼슘&비타민d 두유 21곡 미숫가루, 190ml, 24개",
       "source": "toss",
       "name": "파이토메이드 고칼슘&비타민D 두유 21곡 미숫가루, 190ml, 24개",
@@ -831,35 +910,6 @@
         {
           "price": 6520,
           "observedAt": "2026-10-05T23:35:18.587Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
-      "source": "toss",
-      "name": "슬림떡볶이 로제맛, 230g, 4개",
-      "price": 5530,
-      "listPrice": null,
-      "observedAt": "2026-10-05T23:01:34.337Z",
-      "url": "https://toss.shopping/_m/lFXmeS8w",
-      "image": "assets/products/a1a565f2490c3a2c0450.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:34.337Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:33.820Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-04T22:22:49.526Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-01T22:42:41.402Z"
         }
       ]
     },
@@ -5724,27 +5774,6 @@
         {
           "price": 6230,
           "observedAt": "2026-09-28T05:35:11.485Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:818096509|n:팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
-      "source": "toss",
-      "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
-      "price": 4830,
-      "listPrice": 29900,
-      "observedAt": "2026-10-01T02:32:29.925Z",
-      "url": "https://toss.shopping/_m/HBjn5azy",
-      "image": "assets/products/1d5096604d5274d014eb.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4830,
-          "observedAt": "2026-10-01T02:32:29.925Z"
-        },
-        {
-          "price": 4830,
-          "observedAt": "2026-09-29T22:22:58.901Z"
         }
       ]
     },
