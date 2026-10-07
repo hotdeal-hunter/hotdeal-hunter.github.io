@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T06:26:10.789Z",
+  "updatedAt": "2026-10-07T07:06:29.784Z",
   "deals": [
+    {
+      "id": "toss:p:2374238197|n:국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
+      "source": "toss",
+      "name": "국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
+      "price": 16800,
+      "listPrice": null,
+      "observedAt": "2026-10-07T07:00:54.380Z",
+      "url": "https://toss.shopping/_m/1ToDvmNu",
+      "image": "assets/products/bb308bfc90c901027027.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16800,
+          "observedAt": "2026-10-07T07:00:54.380Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:210965927|n:피죤 건조기시트 섬유유연제 플라워페스티벌, 120매, 2개",
       "source": "toss",
