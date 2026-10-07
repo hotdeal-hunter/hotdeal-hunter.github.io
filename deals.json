@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-07T10:34:29.148Z",
+  "updatedAt": "2026-10-07T11:29:43.421Z",
   "deals": [
+    {
+      "id": "toss:p:148254537|n:제스타 습기제거제, 라벤더향, 250g, 18개",
+      "source": "toss",
+      "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
+      "price": 10600,
+      "listPrice": null,
+      "observedAt": "2026-10-07T11:23:57.357Z",
+      "url": "https://toss.im/_m/tulJIVG9",
+      "image": "assets/products/1ef56422c3093547f6a7.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 10600,
+          "observedAt": "2026-10-07T11:23:57.357Z"
+        },
+        {
+          "price": 13500,
+          "observedAt": "2026-08-25T07:01:40.158Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:132948577|n:일양약품 굿모닝 간건강 밀크씨슬, 800mg, 30정, 6박스",
       "source": "toss",
@@ -26415,23 +26436,6 @@
         {
           "price": 12900,
           "observedAt": "2026-08-25T07:20:56.285Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:148254537|n:제스타 습기제거제, 라벤더향, 250g, 18개",
-      "source": "toss",
-      "name": "제스타 습기제거제, 라벤더향, 250g, 18개",
-      "price": 13500,
-      "listPrice": 23000,
-      "observedAt": "2026-08-25T07:01:40.158Z",
-      "url": "https://toss.im/_m/tulJIVG9",
-      "image": "assets/products/1ef56422c3093547f6a7.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13500,
-          "observedAt": "2026-08-25T07:01:40.158Z"
         }
       ]
     },
