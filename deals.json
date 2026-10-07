@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T07:06:29.784Z",
+  "updatedAt": "2026-10-07T07:43:28.816Z",
   "deals": [
+    {
+      "id": "toss:p:1746025151|n:푸드앳홈 백명란젓, 파지, 1kg, 1개",
+      "source": "toss",
+      "name": "푸드앳홈 백명란젓, 파지, 1kg, 1개",
+      "price": 14900,
+      "listPrice": 36900,
+      "observedAt": "2026-10-07T07:37:21.102Z",
+      "url": "https://toss.shopping/_m/loOIiLxx",
+      "image": "assets/products/41fd091042f119b3aa57.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-10-07T07:37:21.102Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2374238197|n:국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
       "source": "toss",
