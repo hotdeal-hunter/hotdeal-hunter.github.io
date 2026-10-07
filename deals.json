@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T08:23:29.259Z",
+  "updatedAt": "2026-10-07T08:36:42.983Z",
   "deals": [
+    {
+      "id": "toss:p:2004145293|n:썬키스트 사과주스, 1.35l, 12개",
+      "source": "toss",
+      "name": "썬키스트 사과주스, 1.35L, 12개",
+      "price": 11300,
+      "listPrice": null,
+      "observedAt": "2026-10-07T08:30:51.733Z",
+      "url": "https://toss.shopping/_m/j0HRW95B",
+      "image": "assets/products/198c7f68c50389779fdf.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11300,
+          "observedAt": "2026-10-07T08:30:51.733Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2374238197|n:국내산 활 흰다리새우 횟감가능, 1kg, 1박스",
       "source": "toss",
