@@ -1,6 +1,128 @@
 {
-  "updatedAt": "2026-10-07T12:36:29.847Z",
+  "updatedAt": "2026-10-07T22:00:53.041Z",
   "deals": [
+    {
+      "id": "toss:p:2672593045|n:clear 한장씩 쏙쏙 뽑히는 키친타올, 100매, 3겹, 12팩",
+      "source": "toss",
+      "name": "Clear 한장씩 쏙쏙 뽑히는 키친타올, 100매, 3겹, 12팩",
+      "price": 5650,
+      "listPrice": 14900,
+      "observedAt": "2026-10-07T22:00:42.568Z",
+      "url": "https://toss.shopping/_m/FNVEkE8x",
+      "image": "assets/products/6de63647188b7e1b9dd0.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5650,
+          "observedAt": "2026-10-07T22:00:42.568Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:80606383|n:세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "source": "toss",
+      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
+      "price": 9290,
+      "listPrice": 21600,
+      "observedAt": "2026-10-07T22:00:42.430Z",
+      "url": "https://toss.shopping/_m/9HqPa5V9",
+      "image": "assets/products/d6207341a39e07d7b92d.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9290,
+          "observedAt": "2026-10-07T22:00:42.430Z"
+        },
+        {
+          "price": 11875,
+          "observedAt": "2026-09-23T10:50:33.547Z"
+        },
+        {
+          "price": 11875,
+          "observedAt": "2026-09-23T07:33:27.194Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2292249023|n:플리다스 고양이 두부모래, 오리지널, 7l, 6개, 1개",
+      "source": "toss",
+      "name": "플리다스 고양이 두부모래, 오리지널, 7L, 6개, 1개",
+      "price": 13060,
+      "listPrice": 49900,
+      "observedAt": "2026-10-07T22:00:42.248Z",
+      "url": "https://toss.shopping/_m/ZwMQS4Is",
+      "image": "assets/products/b9e73d3c71407a318ae9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 13060,
+          "observedAt": "2026-10-07T22:00:42.248Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:694902823|n:한돈 뒷고기, 1+등급, 500g, 2개",
+      "source": "toss",
+      "name": "한돈 뒷고기, 1+등급, 500g, 2개",
+      "price": 8900,
+      "listPrice": 40000,
+      "observedAt": "2026-10-07T22:00:42.034Z",
+      "url": "https://toss.shopping/_m/b5e4K3Ep",
+      "image": "assets/products/fdc02c5c07a6301ec2b8.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-10-07T22:00:42.034Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "source": "toss",
+      "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
+      "price": 3430,
+      "listPrice": 39000,
+      "observedAt": "2026-10-07T22:00:41.893Z",
+      "url": "https://toss.im/_m/dHXkxgCa",
+      "image": "assets/products/b441af85588e7b8ec990.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 3430,
+          "observedAt": "2026-10-07T22:00:41.893Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-10T23:01:21.456Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-08T23:01:44.057Z"
+        },
+        {
+          "price": 3430,
+          "observedAt": "2026-09-08T00:14:01.098Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2663836021|n:제스프리 썬골드키위, 점보, 20과, 3.1kg, 1박스",
+      "source": "toss",
+      "name": "제스프리 썬골드키위, 점보, 20과, 3.1kg, 1박스",
+      "price": 18900,
+      "listPrice": 40900,
+      "observedAt": "2026-10-07T22:00:41.464Z",
+      "url": "https://toss.shopping/_m/74uSlLTl",
+      "image": "assets/products/23ce24dda10e0632299c.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18900,
+          "observedAt": "2026-10-07T22:00:41.464Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2385516263|n:대용량 삼겹살, 1kg, 5팩",
       "source": "toss",
@@ -12809,27 +12931,6 @@
       ]
     },
     {
-      "id": "toss:p:80606383|n:세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
-      "source": "toss",
-      "name": "세상편한 뱃살 하이웨스트 팬티, 혼합 5종, 1세트",
-      "price": 11875,
-      "listPrice": null,
-      "observedAt": "2026-09-23T10:50:33.547Z",
-      "url": "https://toss.shopping/_m/9HqPa5V9",
-      "image": "assets/products/d6207341a39e07d7b92d.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11875,
-          "observedAt": "2026-09-23T10:50:33.547Z"
-        },
-        {
-          "price": 11875,
-          "observedAt": "2026-09-23T07:33:27.194Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:100264313|n:사조참치, 마일드참치, 85g, 8개",
       "source": "toss",
       "name": "사조참치, 마일드참치, 85g, 8개",
@@ -18079,31 +18180,6 @@
         {
           "price": 6090,
           "observedAt": "2026-09-08T02:34:16.539Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:187995733|n:쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
-      "source": "toss",
-      "name": "쉬젤 뉴트로 혼합 믹싱볼 세트, 채반 24cm+쌀함박 26cm+믹싱볼 28cm, 1세트",
-      "price": 3430,
-      "listPrice": null,
-      "observedAt": "2026-09-10T23:01:21.456Z",
-      "url": "https://toss.im/_m/dHXkxgCa",
-      "image": "assets/products/b441af85588e7b8ec990.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 3430,
-          "observedAt": "2026-09-10T23:01:21.456Z"
-        },
-        {
-          "price": 3430,
-          "observedAt": "2026-09-08T23:01:44.057Z"
-        },
-        {
-          "price": 3430,
-          "observedAt": "2026-09-08T00:14:01.098Z"
         }
       ]
     },
