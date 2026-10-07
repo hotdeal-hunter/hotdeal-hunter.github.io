@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-07T02:27:22.946Z",
+  "updatedAt": "2026-10-07T02:39:46.350Z",
   "deals": [
+    {
+      "id": "p:5485777387|i:8477655183|v:75765195133",
+      "source": "coupang",
+      "name": "디톡톡 히팅푸드 뱅쇼 만들기 재료 키트, 2세트",
+      "price": 4100,
+      "listPrice": 15900,
+      "observedAt": "2026-10-07T02:39:25.226Z",
+      "url": "https://link.coupang.com/a/hD2kCcPl5U",
+      "image": "assets/products/376191777e4df0d80b2f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4100,
+          "observedAt": "2026-10-07T02:39:25.226Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:116628903|n:유리아 포레스티 땅콩버터, 260g, 2개",
       "source": "toss",
@@ -2451,7 +2468,7 @@
       "listPrice": 18000,
       "observedAt": "2026-10-04T23:16:00.870Z",
       "url": "https://link.coupang.com/a/hAtZjKdQXY",
-      "image": null,
+      "image": "assets/products/fd985710cd2e4a76a59c.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -2668,7 +2685,7 @@
       "listPrice": 5391,
       "observedAt": "2026-10-04T22:04:02.064Z",
       "url": "https://link.coupang.com/a/hAoQoK6hlk",
-      "image": null,
+      "image": "assets/products/320e9e40b57e768d9d9d.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
@@ -13875,7 +13892,7 @@
       "listPrice": 15297,
       "observedAt": "2026-09-21T11:53:32.938Z",
       "url": "https://link.coupang.com/a/hd7s3IlNkq",
-      "image": null,
+      "image": "assets/products/6cad993c3164114219d1.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
