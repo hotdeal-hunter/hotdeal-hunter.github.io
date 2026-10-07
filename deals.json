@@ -1,6 +1,35 @@
 {
-  "updatedAt": "2026-10-07T08:36:42.983Z",
+  "updatedAt": "2026-10-07T09:53:31.033Z",
   "deals": [
+    {
+      "id": "toss:p:2663836061|n:이선별 밀크카스테라, 1kg, 1박스",
+      "source": "toss",
+      "name": "이선별 밀크카스테라, 1kg, 1박스",
+      "price": 6900,
+      "listPrice": 31900,
+      "observedAt": "2026-10-07T09:53:19.722Z",
+      "url": "https://toss.im/_m/BER4zQ6w",
+      "image": "assets/products/fbd4488a18b2eaa338da.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 6900,
+          "observedAt": "2026-10-07T09:53:19.722Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-09-30T23:18:35.948Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-09-30T23:17:24.431Z"
+        },
+        {
+          "price": 6900,
+          "observedAt": "2026-09-28T07:07:47.705Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2004145293|n:썬키스트 사과주스, 1.35l, 12개",
       "source": "toss",
@@ -6271,31 +6300,6 @@
         {
           "price": 12800,
           "observedAt": "2026-09-01T05:18:25.852Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2663836061|n:촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
-      "source": "toss",
-      "name": "촉촉한 한입 밀크카스테라 우유케이크 대용량 개별포장, 1kg, 28개, 1팩",
-      "price": 6900,
-      "listPrice": null,
-      "observedAt": "2026-09-30T23:18:35.948Z",
-      "url": "https://toss.im/_m/BER4zQ6w",
-      "image": "assets/products/15b445b710bec9940331.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 6900,
-          "observedAt": "2026-09-30T23:18:35.948Z"
-        },
-        {
-          "price": 6900,
-          "observedAt": "2026-09-30T23:17:24.431Z"
-        },
-        {
-          "price": 6900,
-          "observedAt": "2026-09-28T07:07:47.705Z"
         }
       ]
     },
