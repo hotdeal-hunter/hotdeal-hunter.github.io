@@ -1,6 +1,57 @@
 {
-  "updatedAt": "2026-10-08T07:49:43.631Z",
+  "updatedAt": "2026-10-08T08:35:19.559Z",
   "deals": [
+    {
+      "id": "toss:p:83311585|n:맘스터치 시그니처 순살치킨, 1kg, 2개",
+      "source": "toss",
+      "name": "맘스터치 시그니처 순살치킨, 1kg, 2개",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T08:30:37.404Z",
+      "url": "https://toss.shopping/_m/FwNlLo76",
+      "image": "assets/products/ba1c45e02e722f0d7268.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-10-08T08:30:37.404Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:197978515|n:바이마르 솥뚜껑 세라믹 가마솥, 16cm, 1개",
+      "source": "toss",
+      "name": "바이마르 솥뚜껑 세라믹 가마솥, 16cm, 1개",
+      "price": 12150,
+      "listPrice": 99000,
+      "observedAt": "2026-10-08T08:29:10.958Z",
+      "url": "https://toss.shopping/_m/5eDrqpei",
+      "image": "assets/products/4e7b145167b9796a32bc.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12150,
+          "observedAt": "2026-10-08T08:29:10.958Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:97541101|n:애슐리 크리스피 소시지탱글 핫도그, 80g, 10개입, 1개",
+      "source": "toss",
+      "name": "애슐리 크리스피 소시지탱글 핫도그, 80g, 10개입, 1개",
+      "price": 9990,
+      "listPrice": null,
+      "observedAt": "2026-10-08T08:16:09.549Z",
+      "url": "https://toss.shopping/_m/lp9Y4q32",
+      "image": "assets/products/b672f3b9f4078c2e9699.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9990,
+          "observedAt": "2026-10-08T08:16:09.549Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:104117103|n:바다안 국내가공 진미채, 200g, 3개",
       "source": "toss",
