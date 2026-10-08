@@ -1,6 +1,224 @@
 {
-  "updatedAt": "2026-10-08T22:06:44.456Z",
+  "updatedAt": "2026-10-08T23:07:19.826Z",
   "deals": [
+    {
+      "id": "toss:p:116237203|n:애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
+      "source": "toss",
+      "name": "애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
+      "price": 9490,
+      "listPrice": 15990,
+      "observedAt": "2026-10-08T23:02:31.499Z",
+      "url": "https://toss.shopping/_m/z1OYa998",
+      "image": "assets/products/d947273a8cf5dca1c385.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9490,
+          "observedAt": "2026-10-08T23:02:31.499Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:650828785|n:쉬블림로브 여성 멜란지 로고 맨투맨 gw1519, free, 1개",
+      "source": "toss",
+      "name": "쉬블림로브 여성 멜란지 로고 맨투맨 GW1519, FREE, 1개",
+      "price": 7900,
+      "listPrice": 32900,
+      "observedAt": "2026-10-08T23:02:31.183Z",
+      "url": "https://toss.shopping/_m/rOvsoGe7",
+      "image": "assets/products/55f9678a25e72c53d631.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-08T23:02:31.183Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": 14900,
+      "observedAt": "2026-10-08T23:02:31.072Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "14회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-08T23:02:31.072Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-07T23:02:51.808Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:34.234Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:33.723Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.708Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.235Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T02:32:20.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.822Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.336Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-01T23:01:36.965Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T22:22:34.622Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.151Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
+      "source": "toss",
+      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
+      "price": 9900,
+      "listPrice": 24500,
+      "observedAt": "2026-10-08T23:02:30.982Z",
+      "url": "https://toss.shopping/_m/BVRBLjF",
+      "image": "assets/products/6a1152e505bd07748e18.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-08T23:02:30.982Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-10-08T00:32:31.853Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T12:13:56.555Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-27T12:58:26.442Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
+      "source": "toss",
+      "name": "슬림떡볶이 로제맛, 230g, 4개",
+      "price": 5530,
+      "listPrice": 15600,
+      "observedAt": "2026-10-08T23:02:30.845Z",
+      "url": "https://toss.shopping/_m/lFXmeS8w",
+      "image": "assets/products/a1a565f2490c3a2c0450.png",
+      "insight": "7회 가격 기록",
+      "history": [
+        {
+          "price": 5530,
+          "observedAt": "2026-10-08T23:02:30.845Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-07T23:02:51.576Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-06T23:02:21.848Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:34.337Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:33.820Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-04T22:22:49.526Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-01T22:42:41.402Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "source": "toss",
+      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T23:01:11.010Z",
+      "url": "https://toss.im/_m/3dVjSRpe",
+      "image": "assets/products/a335793bbd90c4528ea9.png",
+      "insight": "8회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-08T23:01:11.010Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-20T12:32:20.159Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-19T06:34:46.657Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:37:11.950Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:31:15.474Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-09T10:01:13.636Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-01T10:19:43.738Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-30T23:00:31.560Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:849260645|n:제주 삼다수, 라벨 랜덤, 330ml, 40개",
       "source": "toss",
@@ -667,31 +885,6 @@
       ]
     },
     {
-      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
-      "source": "toss",
-      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
-      "price": 8900,
-      "listPrice": null,
-      "observedAt": "2026-10-08T00:32:31.853Z",
-      "url": "https://toss.shopping/_m/BVRBLjF",
-      "image": "assets/products/6a1152e505bd07748e18.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-10-08T00:32:31.853Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-28T12:13:56.555Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-27T12:58:26.442Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1786993455|n:베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
       "source": "toss",
       "name": "베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
@@ -730,71 +923,6 @@
       ]
     },
     {
-      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "source": "toss",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "listPrice": 14900,
-      "observedAt": "2026-10-07T23:02:51.808Z",
-      "url": "https://toss.shopping/_m/NfzD88U",
-      "image": "assets/products/0658c7fb02d89943aeae.jpg",
-      "insight": "13회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-10-07T23:02:51.808Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:34.234Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:33.723Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.708Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.235Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T02:32:20.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.822Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.336Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-01T23:01:36.965Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T23:01:28.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T22:22:34.622Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.151Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.838Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:1934776539|n:아침에 좋은빵 통밀식빵, 630g, 2개",
       "source": "toss",
       "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
@@ -816,43 +944,6 @@
         {
           "price": 8761,
           "observedAt": "2026-08-30T23:34:13.469Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
-      "source": "toss",
-      "name": "슬림떡볶이 로제맛, 230g, 4개",
-      "price": 5530,
-      "listPrice": 15600,
-      "observedAt": "2026-10-07T23:02:51.576Z",
-      "url": "https://toss.shopping/_m/lFXmeS8w",
-      "image": "assets/products/a1a565f2490c3a2c0450.png",
-      "insight": "6회 가격 기록",
-      "history": [
-        {
-          "price": 5530,
-          "observedAt": "2026-10-07T23:02:51.576Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-06T23:02:21.848Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:34.337Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:33.820Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-04T22:22:49.526Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-01T22:42:41.402Z"
         }
       ]
     },
@@ -15247,47 +15338,6 @@
         {
           "price": 11800,
           "observedAt": "2026-09-20T12:34:37.248Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "source": "toss",
-      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "price": 6200,
-      "listPrice": null,
-      "observedAt": "2026-09-20T12:32:20.159Z",
-      "url": "https://toss.im/_m/3dVjSRpe",
-      "image": "assets/products/a335793bbd90c4528ea9.png",
-      "insight": "7회 가격 기록",
-      "history": [
-        {
-          "price": 6200,
-          "observedAt": "2026-09-20T12:32:20.159Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-19T06:34:46.657Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:37:11.950Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:31:15.474Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-09T10:01:13.636Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-01T10:19:43.738Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-08-30T23:00:31.560Z"
         }
       ]
     },
