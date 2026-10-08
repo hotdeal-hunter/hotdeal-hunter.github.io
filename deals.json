@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-08T11:03:42.915Z",
+  "updatedAt": "2026-10-08T11:53:59.666Z",
   "deals": [
+    {
+      "id": "toss:p:455897377|n:선비찬 사골부대찌개, 600g, 3개",
+      "source": "toss",
+      "name": "선비찬 사골부대찌개, 600g, 3개",
+      "price": 10800,
+      "listPrice": null,
+      "observedAt": "2026-10-08T11:53:52.676Z",
+      "url": "https://toss.im/_m/rRkNHoPo",
+      "image": "assets/products/6aa51bc28f8c577df73c.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10800,
+          "observedAt": "2026-10-08T11:53:52.676Z"
+        },
+        {
+          "price": 9170,
+          "observedAt": "2026-08-29T03:19:38.194Z"
+        },
+        {
+          "price": 9170,
+          "observedAt": "2026-08-26T23:10:19.476Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1615842945|n:숨 물걸레 청소포, 50매입, 6팩",
+      "source": "toss",
+      "name": "숨 물걸레 청소포, 50매입, 6팩",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T11:07:37.631Z",
+      "url": "https://toss.shopping/_m/v5AUkqfB",
+      "image": "assets/products/10d445b1b79b3ec24561.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-08T11:07:37.631Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-10-02T22:22:50.744Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:152922645|n:아빠표 구운계란, 중란, 30구, 2판",
       "source": "toss",
@@ -4916,23 +4962,6 @@
         {
           "price": 11000,
           "observedAt": "2026-10-01T22:21:32.943Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1615842945|n:숨 물걸레 청소포, 50매입, 6팩",
-      "source": "toss",
-      "name": "숨 물걸레 청소포, 50매입, 6팩",
-      "price": 7900,
-      "listPrice": 19900,
-      "observedAt": "2026-10-02T22:22:50.744Z",
-      "url": "https://toss.shopping/_m/v5AUkqfB",
-      "image": "assets/products/10d445b1b79b3ec24561.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-10-02T22:22:50.744Z"
         }
       ]
     },
@@ -24302,27 +24331,6 @@
         {
           "price": 10510,
           "observedAt": "2026-08-29T03:42:05.037Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:455897377|n:선비찬 사골부대찌개 얼큰고소 사골육수, 600g, 3개 + 라면사리 1봉 증정",
-      "source": "toss",
-      "name": "선비찬 사골부대찌개 얼큰고소 사골육수, 600g, 3개 + 라면사리 1봉 증정",
-      "price": 9170,
-      "listPrice": null,
-      "observedAt": "2026-08-29T03:19:38.194Z",
-      "url": "https://toss.im/_m/rRkNHoPo",
-      "image": "assets/products/e277a115ababa4105974.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9170,
-          "observedAt": "2026-08-29T03:19:38.194Z"
-        },
-        {
-          "price": 9170,
-          "observedAt": "2026-08-26T23:10:19.476Z"
         }
       ]
     },
