@@ -1,6 +1,334 @@
 {
-  "updatedAt": "2026-10-07T22:00:53.041Z",
+  "updatedAt": "2026-10-08T00:07:24.867Z",
   "deals": [
+    {
+      "id": "toss:p:1786993455|n:베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
+      "source": "toss",
+      "name": "베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
+      "price": 21900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T00:01:06.463Z",
+      "url": "https://toss.shopping/_m/Fh849dm7",
+      "image": "assets/products/3d035491b187ca4d1a37.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 21900,
+          "observedAt": "2026-10-08T00:01:06.463Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1791082995|n:할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
+      "source": "toss",
+      "name": "할리스 바닐라 딜라이트 로우슈거, 450ml, 24개",
+      "price": 24900,
+      "listPrice": null,
+      "observedAt": "2026-10-07T23:32:42.690Z",
+      "url": "https://toss.shopping/_m/d1aHomOu",
+      "image": "assets/products/3cfab1f1ba10394615d1.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 24900,
+          "observedAt": "2026-10-07T23:32:42.690Z"
+        },
+        {
+          "price": 24900,
+          "observedAt": "2026-10-07T23:31:24.776Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": 14900,
+      "observedAt": "2026-10-07T23:02:51.808Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "13회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-07T23:02:51.808Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:34.234Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:33.723Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.708Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.235Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T02:32:20.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.822Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.336Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-01T23:01:36.965Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T22:22:34.622Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.151Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1934776539|n:아침에 좋은빵 통밀식빵, 630g, 2개",
+      "source": "toss",
+      "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
+      "price": 7900,
+      "listPrice": 27800,
+      "observedAt": "2026-10-07T23:02:51.720Z",
+      "url": "https://toss.im/_m/LMuYGM2c",
+      "image": "assets/products/1f84bb8ffdaa5b7278f0.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-07T23:02:51.720Z"
+        },
+        {
+          "price": 6860,
+          "observedAt": "2026-10-07T00:15:57.940Z"
+        },
+        {
+          "price": 8761,
+          "observedAt": "2026-08-30T23:34:13.469Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
+      "source": "toss",
+      "name": "슬림떡볶이 로제맛, 230g, 4개",
+      "price": 5530,
+      "listPrice": 15600,
+      "observedAt": "2026-10-07T23:02:51.576Z",
+      "url": "https://toss.shopping/_m/lFXmeS8w",
+      "image": "assets/products/a1a565f2490c3a2c0450.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 5530,
+          "observedAt": "2026-10-07T23:02:51.576Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-06T23:02:21.848Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:34.337Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-05T23:01:33.820Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-04T22:22:49.526Z"
+        },
+        {
+          "price": 5530,
+          "observedAt": "2026-10-01T22:42:41.402Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-07T23:01:43.800Z",
+      "url": "https://toss.shopping/_m/DwPOKAAi",
+      "image": "assets/products/584ff1c9fc940eaeae5e.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:01:43.800Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:00:32.041Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:34.110Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:33.646Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:55.539Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:55.040Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T02:32:21.529Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:31:33.695Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:30:19.318Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T02:33:20.301Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T22:53:48.670Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-07T23:01:43.654Z",
+      "url": "https://toss.shopping/_m/bZVuf1xj",
+      "image": "assets/products/dee271090cbaa57b791d.png",
+      "insight": "18회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:01:43.654Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:00:31.875Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:34.020Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:33.563Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-04T22:22:49.673Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:55.439Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:54.950Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:31:33.602Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:30:19.174Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:41:19.666Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:32:29.476Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T22:22:59.245Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T04:17:17.231Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:45.154Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:44.983Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T04:20:48.080Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T03:04:28.462Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T02:32:33.556Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1453289893|n:핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
+      "source": "toss",
+      "name": "핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-10-07T22:54:25.625Z",
+      "url": "https://toss.shopping/_m/Z3tXAaXo",
+      "image": "assets/products/f196d08a22c00a3dc900.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-10-07T22:54:25.625Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-10-07T22:54:22.417Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2672593045|n:clear 한장씩 쏙쏙 뽑히는 키친타올, 100매, 3겹, 12팩",
       "source": "toss",
@@ -642,27 +970,6 @@
       ]
     },
     {
-      "id": "toss:p:1934776539|n:아침에 좋은빵 통밀식빵, 630g, 2개",
-      "source": "toss",
-      "name": "아침에 좋은빵 통밀식빵, 630g, 2개",
-      "price": 6860,
-      "listPrice": null,
-      "observedAt": "2026-10-07T00:15:57.940Z",
-      "url": "https://toss.im/_m/LMuYGM2c",
-      "image": "assets/products/1f84bb8ffdaa5b7278f0.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 6860,
-          "observedAt": "2026-10-07T00:15:57.940Z"
-        },
-        {
-          "price": 8761,
-          "observedAt": "2026-08-30T23:34:13.469Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:818096509|n:팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
       "source": "toss",
       "name": "팬톤 오픈형 블루투스 6.0 무선 이어폰, 베이지, 1개",
@@ -705,39 +1012,6 @@
         {
           "price": 11900,
           "observedAt": "2026-10-06T06:35:38.316Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2494601929|n:슬림떡볶이 로제맛, 230g, 4개",
-      "source": "toss",
-      "name": "슬림떡볶이 로제맛, 230g, 4개",
-      "price": 5530,
-      "listPrice": 15600,
-      "observedAt": "2026-10-06T23:02:21.848Z",
-      "url": "https://toss.shopping/_m/lFXmeS8w",
-      "image": "assets/products/a1a565f2490c3a2c0450.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 5530,
-          "observedAt": "2026-10-06T23:02:21.848Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:34.337Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-05T23:01:33.820Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-04T22:22:49.526Z"
-        },
-        {
-          "price": 5530,
-          "observedAt": "2026-10-01T22:42:41.402Z"
         }
       ]
     },
@@ -1492,193 +1766,6 @@
         {
           "price": 6520,
           "observedAt": "2026-10-05T23:35:18.587Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "source": "toss",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "listPrice": null,
-      "observedAt": "2026-10-05T23:01:34.234Z",
-      "url": "https://toss.shopping/_m/NfzD88U",
-      "image": "assets/products/0658c7fb02d89943aeae.jpg",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:34.234Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:33.723Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.708Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.235Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T02:32:20.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.822Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.336Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-01T23:01:36.965Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T23:01:28.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T22:22:34.622Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.151Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.838Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665316041|n:수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 데이지향, 310g, 2개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-10-05T23:01:34.110Z",
-      "url": "https://toss.shopping/_m/DwPOKAAi",
-      "image": "assets/products/584ff1c9fc940eaeae5e.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:34.110Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:33.646Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:55.539Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:55.040Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T02:32:21.529Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:31:33.695Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:30:19.318Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T02:33:20.301Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T22:53:48.670Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-10-05T23:01:34.020Z",
-      "url": "https://toss.shopping/_m/bZVuf1xj",
-      "image": "assets/products/dee271090cbaa57b791d.png",
-      "insight": "16회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:34.020Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:33.563Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-04T22:22:49.673Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:55.439Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:54.950Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:31:33.602Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:30:19.174Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:41:19.666Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:32:29.476Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T22:22:59.245Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T04:17:17.231Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:45.154Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:44.983Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T04:20:48.080Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T03:04:28.462Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T02:32:33.556Z"
         }
       ]
     },
