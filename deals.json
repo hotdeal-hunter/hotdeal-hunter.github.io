@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T01:37:30.035Z",
+  "updatedAt": "2026-10-08T01:54:29.383Z",
   "deals": [
+    {
+      "id": "toss:p:145144179|n:대상 루테인 플러스, 30캡슐, 6박스",
+      "source": "toss",
+      "name": "대상 루테인 플러스, 30캡슐, 6박스",
+      "price": 12900,
+      "listPrice": 120000,
+      "observedAt": "2026-10-08T01:48:27.479Z",
+      "url": "https://toss.shopping/_m/JGVlXhvD",
+      "image": "assets/products/9f129cd45f15a7d27847.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-08T01:48:27.479Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:145866245|n:고기중독 매운 돼지갈비찜, 800g, 2개",
       "source": "toss",
