@@ -1,6 +1,77 @@
 {
-  "updatedAt": "2026-10-08T00:07:24.867Z",
+  "updatedAt": "2026-10-08T01:37:30.035Z",
   "deals": [
+    {
+      "id": "toss:p:145866245|n:고기중독 매운 돼지갈비찜, 800g, 2개",
+      "source": "toss",
+      "name": "고기중독 매운 돼지갈비찜, 800g, 2개",
+      "price": 11600,
+      "listPrice": null,
+      "observedAt": "2026-10-08T01:31:32.533Z",
+      "url": "https://toss.shopping/_m/LB3kEWxC",
+      "image": "assets/products/78ab892584d3c3cfda3e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11600,
+          "observedAt": "2026-10-08T01:31:32.533Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1453289893|n:핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
+      "source": "toss",
+      "name": "핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
+      "price": 13900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T00:38:30.180Z",
+      "url": "https://toss.shopping/_m/Z3tXAaXo",
+      "image": "assets/products/f196d08a22c00a3dc900.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-10-08T00:38:30.180Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-10-08T00:37:19.317Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-10-07T22:54:25.625Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-10-07T22:54:22.417Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
+      "source": "toss",
+      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
+      "price": 8900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T00:32:31.853Z",
+      "url": "https://toss.shopping/_m/BVRBLjF",
+      "image": "assets/products/6a1152e505bd07748e18.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-10-08T00:32:31.853Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T12:13:56.555Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-27T12:58:26.442Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:1786993455|n:베네틴 플랜트 프로틴 쉐이크 아이솔레이트 곡물맛, 2kg, 1개",
       "source": "toss",
@@ -305,27 +376,6 @@
         {
           "price": 6930,
           "observedAt": "2026-09-28T02:32:33.556Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1453289893|n:핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
-      "source": "toss",
-      "name": "핫식스 더킹 파인버스트, 파인버스트, 355ml, 24개",
-      "price": 13900,
-      "listPrice": null,
-      "observedAt": "2026-10-07T22:54:25.625Z",
-      "url": "https://toss.shopping/_m/Z3tXAaXo",
-      "image": "assets/products/f196d08a22c00a3dc900.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 13900,
-          "observedAt": "2026-10-07T22:54:25.625Z"
-        },
-        {
-          "price": 13900,
-          "observedAt": "2026-10-07T22:54:22.417Z"
         }
       ]
     },
@@ -8191,27 +8241,6 @@
         {
           "price": 12400,
           "observedAt": "2026-09-02T11:03:27.714Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
-      "source": "toss",
-      "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-09-28T12:13:56.555Z",
-      "url": "https://toss.shopping/_m/BVRBLjF",
-      "image": "assets/products/6a1152e505bd07748e18.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-28T12:13:56.555Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-27T12:58:26.442Z"
         }
       ]
     },
