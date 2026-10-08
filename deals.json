@@ -1,6 +1,86 @@
 {
-  "updatedAt": "2026-10-08T12:56:29.018Z",
+  "updatedAt": "2026-10-08T22:06:44.456Z",
   "deals": [
+    {
+      "id": "toss:p:849260645|n:제주 삼다수, 라벨 랜덤, 330ml, 40개",
+      "source": "toss",
+      "name": "제주 삼다수, 라벨 랜덤, 330ml, 40개",
+      "price": 10500,
+      "listPrice": 33200,
+      "observedAt": "2026-10-08T22:00:32.195Z",
+      "url": "https://toss.shopping/_m/3CVDZ0ac",
+      "image": "assets/products/7d121d1110c6f97f9983.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-10-08T22:00:32.195Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:596463837|n:시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
+      "source": "toss",
+      "name": "시현푸드 마카로니 뻥튀기, 1.2kg, 1개",
+      "price": 5950,
+      "listPrice": 16600,
+      "observedAt": "2026-10-08T22:00:31.894Z",
+      "url": "https://toss.shopping/_m/5E3Ko9F9",
+      "image": "assets/products/edc14f139f8a0945ad51.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5950,
+          "observedAt": "2026-10-08T22:00:31.894Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
+      "source": "toss",
+      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
+      "price": 8900,
+      "listPrice": 25900,
+      "observedAt": "2026-10-08T22:00:31.681Z",
+      "url": "https://toss.shopping/_m/p6Anavj2",
+      "image": "assets/products/3c5ad945bcacd245ef2e.png",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 8900,
+          "observedAt": "2026-10-08T22:00:31.681Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-24T08:38:07.886Z"
+        },
+        {
+          "price": 9810,
+          "observedAt": "2026-09-24T02:49:04.170Z"
+        },
+        {
+          "price": 9810,
+          "observedAt": "2026-09-23T23:32:03.948Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1200786645|n:웅진식품 더빅토리아, 체리 500ml 20개 + 그린애플 500ml 20개, 40개",
+      "source": "toss",
+      "name": "웅진식품 더빅토리아, 체리 500ml 20개 + 그린애플 500ml 20개, 40개",
+      "price": 14600,
+      "listPrice": null,
+      "observedAt": "2026-10-08T13:19:21.044Z",
+      "url": "https://toss.shopping/_m/5JzdUGd7",
+      "image": "assets/products/ada937233d786940a96f.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14600,
+          "observedAt": "2026-10-08T13:19:21.044Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2672042123|n:제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
       "source": "toss",
@@ -8466,31 +8546,6 @@
       ]
     },
     {
-      "id": "toss:p:998054233|n:제주 삼다수, 라벨 랜덤, 2l, 12병",
-      "source": "toss",
-      "name": "제주 삼다수, 라벨 랜덤, 2L, 12병",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-29T01:43:24.650Z",
-      "url": "https://toss.im/_m/ZdJxPbYt",
-      "image": "assets/products/d8a86814404ead5048b8.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-29T01:43:24.650Z"
-        },
-        {
-          "price": 11800,
-          "observedAt": "2026-09-12T04:52:23.396Z"
-        },
-        {
-          "price": 12990,
-          "observedAt": "2026-08-30T07:30:34.071Z"
-        }
-      ]
-    },
-    {
       "id": "p:8172002171|i:23343359511|v:71094519727",
       "source": "coupang",
       "name": "스탠리 고 진공 텀블러, 블랙, 473ml, 1개",
@@ -12721,31 +12776,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-21T07:24:45.018Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:116698237|n:널담 고단백 저당 네모 바게트 5종, 2세트",
-      "source": "toss",
-      "name": "널담 고단백 저당 네모 바게트 5종, 2세트",
-      "price": 10900,
-      "listPrice": 25900,
-      "observedAt": "2026-09-24T08:38:07.886Z",
-      "url": "https://toss.shopping/_m/p6Anavj2",
-      "image": "assets/products/3c5ad945bcacd245ef2e.png",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-24T08:38:07.886Z"
-        },
-        {
-          "price": 9810,
-          "observedAt": "2026-09-24T02:49:04.170Z"
-        },
-        {
-          "price": 9810,
-          "observedAt": "2026-09-23T23:32:03.948Z"
         }
       ]
     },
