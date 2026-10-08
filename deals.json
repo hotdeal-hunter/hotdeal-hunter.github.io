@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T08:43:43.028Z",
+  "updatedAt": "2026-10-08T09:17:19.584Z",
   "deals": [
+    {
+      "id": "toss:p:168045229|n:이장네푸드 진한 들기름, 350ml, 2개",
+      "source": "toss",
+      "name": "이장네푸드 진한 들기름, 350ml, 2개",
+      "price": 12020,
+      "listPrice": 53000,
+      "observedAt": "2026-10-08T09:17:08.538Z",
+      "url": "https://toss.shopping/_m/bWQxzAaw",
+      "image": "assets/products/d5ff08686966a55e6748.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12020,
+          "observedAt": "2026-10-08T09:17:08.538Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:83311585|n:맘스터치 시그니처 순살치킨, 1kg, 2개",
       "source": "toss",
