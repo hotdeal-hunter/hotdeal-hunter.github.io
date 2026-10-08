@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-08T09:42:29.699Z",
+  "updatedAt": "2026-10-08T10:04:22.878Z",
   "deals": [
+    {
+      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "source": "toss",
+      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
+      "price": 17900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T09:59:40.658Z",
+      "url": "https://toss.im/_m/HDdsSzdC",
+      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-10-08T09:59:40.658Z"
+        },
+        {
+          "price": 21900,
+          "observedAt": "2026-10-08T09:58:14.230Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-09-20T07:06:08.843Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-09-20T03:33:21.512Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T06:06:13.349Z"
+        },
+        {
+          "price": 22900,
+          "observedAt": "2026-08-31T05:27:11.725Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2290370035|n:덴마크 테이크얼라이브 머스캣청포도+망고, 120ml, 48개",
       "source": "toss",
@@ -15247,35 +15284,6 @@
         {
           "price": 34900,
           "observedAt": "2026-09-20T08:14:50.228Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2638203821|n:할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "source": "toss",
-      "name": "할리스 시그니처 아메리카노 미니(다크), 0.9g, 130개, 2팩",
-      "price": 22900,
-      "listPrice": null,
-      "observedAt": "2026-09-20T07:06:08.843Z",
-      "url": "https://toss.im/_m/HDdsSzdC",
-      "image": "assets/products/c81c23fa5f5dac0f23a0.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 22900,
-          "observedAt": "2026-09-20T07:06:08.843Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-09-20T03:33:21.512Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T06:06:13.349Z"
-        },
-        {
-          "price": 22900,
-          "observedAt": "2026-08-31T05:27:11.725Z"
         }
       ]
     },
