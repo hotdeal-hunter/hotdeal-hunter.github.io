@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T11:53:59.666Z",
+  "updatedAt": "2026-10-08T12:27:29.995Z",
   "deals": [
+    {
+      "id": "toss:p:80827793|n:블로즈 리페어 크림, 70ml, 1개",
+      "source": "toss",
+      "name": "블로즈 리페어 크림, 70ml, 1개",
+      "price": 5800,
+      "listPrice": 35800,
+      "observedAt": "2026-10-08T12:21:26.275Z",
+      "url": "https://toss.shopping/_m/TY38uPvj",
+      "image": "assets/products/10c09dca3e1feb158141.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5800,
+          "observedAt": "2026-10-08T12:21:26.275Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:455897377|n:선비찬 사골부대찌개, 600g, 3개",
       "source": "toss",
