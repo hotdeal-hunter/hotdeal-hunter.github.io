@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T08:35:19.559Z",
+  "updatedAt": "2026-10-08T08:43:43.028Z",
   "deals": [
     {
       "id": "toss:p:83311585|n:맘스터치 시그니처 순살치킨, 1kg, 2개",
@@ -7,11 +7,15 @@
       "name": "맘스터치 시그니처 순살치킨, 1kg, 2개",
       "price": 17900,
       "listPrice": null,
-      "observedAt": "2026-10-08T08:30:37.404Z",
+      "observedAt": "2026-10-08T08:38:16.536Z",
       "url": "https://toss.shopping/_m/FwNlLo76",
       "image": "assets/products/ba1c45e02e722f0d7268.png",
-      "insight": "가격 기록을 시작한 상품",
+      "insight": "2회 가격 기록",
       "history": [
+        {
+          "price": 17900,
+          "observedAt": "2026-10-08T08:38:16.536Z"
+        },
         {
           "price": 17900,
           "observedAt": "2026-10-08T08:30:37.404Z"
