@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T04:27:29.356Z",
+  "updatedAt": "2026-10-08T05:02:32.414Z",
   "deals": [
+    {
+      "id": "toss:p:159806217|n:jhp 아르간 헤어 에센스 오일, 120ml, 2개",
+      "source": "toss",
+      "name": "JHP 아르간 헤어 에센스 오일, 120ml, 2개",
+      "price": 14580,
+      "listPrice": 60000,
+      "observedAt": "2026-10-08T05:02:00.271Z",
+      "url": "https://toss.shopping/_m/L90qmHPk",
+      "image": "assets/products/958dba791f8a96b0e6a4.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14580,
+          "observedAt": "2026-10-08T05:02:00.271Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:150744661|n:하누리 1++ 한우 소한마리모둠, 400g, 1세트",
       "source": "toss",
