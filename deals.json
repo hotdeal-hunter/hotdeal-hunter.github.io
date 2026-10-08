@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T02:41:07.746Z",
+  "updatedAt": "2026-10-08T04:27:29.356Z",
   "deals": [
+    {
+      "id": "toss:p:150744661|n:하누리 1++ 한우 소한마리모둠, 400g, 1세트",
+      "source": "toss",
+      "name": "하누리 1++ 한우 소한마리모둠, 400g, 1세트",
+      "price": 29610,
+      "listPrice": null,
+      "observedAt": "2026-10-08T04:21:23.409Z",
+      "url": "https://toss.shopping/_m/bcE2aDM",
+      "image": "assets/products/db4f6c1dce63c73a2e4e.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 29610,
+          "observedAt": "2026-10-08T04:21:23.409Z"
+        }
+      ]
+    },
     {
       "id": "p:7052832342|i:18171921831|v:85321262089",
       "source": "coupang",
