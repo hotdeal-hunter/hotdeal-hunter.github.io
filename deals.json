@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T09:17:19.584Z",
+  "updatedAt": "2026-10-08T09:42:29.699Z",
   "deals": [
+    {
+      "id": "toss:p:2290370035|n:덴마크 테이크얼라이브 머스캣청포도+망고, 120ml, 48개",
+      "source": "toss",
+      "name": "덴마크 테이크얼라이브 머스캣청포도+망고, 120ml, 48개",
+      "price": 11900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T09:36:30.073Z",
+      "url": "https://toss.shopping/_m/PBQNQhq3",
+      "image": "assets/products/4306c9b3e2ba935cba5d.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-10-08T09:36:30.073Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:168045229|n:이장네푸드 진한 들기름, 350ml, 2개",
       "source": "toss",
