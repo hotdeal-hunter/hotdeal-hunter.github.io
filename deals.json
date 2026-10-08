@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-08T12:27:29.995Z",
+  "updatedAt": "2026-10-08T12:56:29.018Z",
   "deals": [
+    {
+      "id": "toss:p:2672042123|n:제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+      "source": "toss",
+      "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
+      "price": 13900,
+      "listPrice": 33000,
+      "observedAt": "2026-10-08T12:50:22.507Z",
+      "url": "https://toss.shopping/_m/VCaoR5li",
+      "image": "assets/products/6bd368a322a6dedae041.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 13900,
+          "observedAt": "2026-10-08T12:50:22.507Z"
+        },
+        {
+          "price": 13900,
+          "observedAt": "2026-10-01T09:13:18.173Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:80827793|n:블로즈 리페어 크림, 70ml, 1개",
       "source": "toss",
@@ -6268,23 +6289,6 @@
         {
           "price": 20900,
           "observedAt": "2026-10-01T09:41:11.439Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2672042123|n:제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
-      "source": "toss",
-      "name": "제주 서귀포 감귤, 12brix 초고당도, 5kg, 1박스",
-      "price": 13900,
-      "listPrice": 33000,
-      "observedAt": "2026-10-01T09:13:18.173Z",
-      "url": "https://toss.shopping/_m/VCaoR5li",
-      "image": "assets/products/6bd368a322a6dedae041.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 13900,
-          "observedAt": "2026-10-01T09:13:18.173Z"
         }
       ]
     },
