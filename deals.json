@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T02:34:43.236Z",
+  "updatedAt": "2026-10-08T02:41:07.746Z",
   "deals": [
+    {
+      "id": "p:7052832342|i:18171921831|v:85321262089",
+      "source": "coupang",
+      "name": "롯데자일리톨 알파 오리지날, 86g, 3개, 86g × 3개",
+      "price": 6060,
+      "listPrice": 11400,
+      "observedAt": "2026-10-08T02:40:55.217Z",
+      "url": "https://link.coupang.com/a/hFHlilDG7U",
+      "image": null,
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6060,
+          "observedAt": "2026-10-08T02:40:55.217Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:130651141|n:스파클 생수 무라벨, 500ml, 40병",
       "source": "toss",
@@ -935,7 +952,7 @@
       "listPrice": null,
       "observedAt": "2026-10-07T02:41:12.426Z",
       "url": "https://link.coupang.com/a/hD2swSDVFQ",
-      "image": null,
+      "image": "assets/products/afbb65cbb1cd4e7e52e7.jpg",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
