@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-08T05:02:32.414Z",
+  "updatedAt": "2026-10-08T05:52:30.003Z",
   "deals": [
+    {
+      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+      "source": "toss",
+      "name": "풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
+      "price": 12900,
+      "listPrice": 49900,
+      "observedAt": "2026-10-08T05:46:34.281Z",
+      "url": "https://toss.im/_m/lwdjjFp8",
+      "image": "assets/products/5a739411792c67228c6a.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-08T05:46:34.281Z"
+        },
+        {
+          "price": 14900,
+          "observedAt": "2026-09-18T01:33:23.015Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T08:36:32.752Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-20T07:18:14.196Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T04:54:21.047Z"
+        },
+        {
+          "price": 11050,
+          "observedAt": "2026-08-19T03:47:12.659Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:159806217|n:jhp 아르간 헤어 에센스 오일, 120ml, 2개",
       "source": "toss",
@@ -16001,39 +16038,6 @@
         {
           "price": 8500,
           "observedAt": "2026-09-18T02:28:45.686Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
-      "source": "toss",
-      "name": "풍년보감 고려홍삼정 밸런스타임 벌크포장, 10g, 100포",
-      "price": 14900,
-      "listPrice": null,
-      "observedAt": "2026-09-18T01:33:23.015Z",
-      "url": "https://toss.im/_m/lwdjjFp8",
-      "image": "assets/products/bfcfaebcd50a913d8f80.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 14900,
-          "observedAt": "2026-09-18T01:33:23.015Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-20T08:36:32.752Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-20T07:18:14.196Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T04:54:21.047Z"
-        },
-        {
-          "price": 11050,
-          "observedAt": "2026-08-19T03:47:12.659Z"
         }
       ]
     },
