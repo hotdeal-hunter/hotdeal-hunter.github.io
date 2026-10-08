@@ -1,6 +1,205 @@
 {
-  "updatedAt": "2026-10-08T05:52:30.003Z",
+  "updatedAt": "2026-10-08T07:49:43.631Z",
   "deals": [
+    {
+      "id": "toss:p:104117103|n:바다안 국내가공 진미채, 200g, 3개",
+      "source": "toss",
+      "name": "바다안 국내가공 진미채, 200g, 3개",
+      "price": 14500,
+      "listPrice": 44700,
+      "observedAt": "2026-10-08T07:43:53.449Z",
+      "url": "https://toss.shopping/_m/d2EL16wx",
+      "image": "assets/products/fb8ff8d65dced6f38e98.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14500,
+          "observedAt": "2026-10-08T07:43:53.449Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:130651141|n:스파클 생수 무라벨, 500ml, 40병",
+      "source": "toss",
+      "name": "스파클 생수 무라벨, 500ml, 40병",
+      "price": 5900,
+      "listPrice": null,
+      "observedAt": "2026-10-08T07:17:50.932Z",
+      "url": "https://toss.shopping/_m/3ErdpAl8",
+      "image": "assets/products/51f27f91a45734edaeba.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-10-08T07:17:50.932Z"
+        },
+        {
+          "price": 5900,
+          "observedAt": "2026-10-08T02:28:56.525Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "source": "toss",
+      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
+      "price": 12800,
+      "listPrice": null,
+      "observedAt": "2026-10-08T07:10:43.501Z",
+      "url": "https://toss.im/_m/bEhSQcFD",
+      "image": "assets/products/b06505bacecca338e1df.jpg",
+      "insight": "37회 가격 기록",
+      "history": [
+        {
+          "price": 12800,
+          "observedAt": "2026-10-08T07:10:43.501Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-08T07:10:43.347Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-03T02:32:21.277Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-03T01:57:54.968Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-03T01:57:54.720Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-02T23:00:59.732Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-02T23:00:59.229Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-01T23:01:36.872Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-10-01T22:23:02.335Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-30T23:01:28.641Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-30T22:22:34.517Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:15:40.894Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.314Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T23:03:31.159Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T22:22:58.341Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.253Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-29T00:08:00.112Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T02:32:33.377Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:50:39.749Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.475Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:49:31.344Z"
+        },
+        {
+          "price": 12800,
+          "observedAt": "2026-09-28T01:48:07.271Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-05T23:01:20.837Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:36.181Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-03T23:00:31.729Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.784Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:03:01.186Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-02T23:00:34.250Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:36.534Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:01:32.486Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-01T23:00:24.828Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:28.567Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T23:00:25.053Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:17:08.569Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-08-31T00:15:37.099Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T07:07:25.146Z"
+        },
+        {
+          "price": 19900,
+          "observedAt": "2026-08-18T01:16:41.222Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:91517507|n:풍년보감 고려홍삼정 밸런스타임, 벌크포장, 10g, 100포",
       "source": "toss",
@@ -86,23 +285,6 @@
         {
           "price": 6060,
           "observedAt": "2026-10-08T02:40:55.217Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:130651141|n:스파클 생수 무라벨, 500ml, 40병",
-      "source": "toss",
-      "name": "스파클 생수 무라벨, 500ml, 40병",
-      "price": 5900,
-      "listPrice": null,
-      "observedAt": "2026-10-08T02:28:56.525Z",
-      "url": "https://toss.shopping/_m/3ErdpAl8",
-      "image": "assets/products/51f27f91a45734edaeba.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 5900,
-          "observedAt": "2026-10-08T02:28:56.525Z"
         }
       ]
     },
@@ -4368,159 +4550,6 @@
         {
           "price": 4520,
           "observedAt": "2026-10-03T03:17:45.590Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:230043017|n:한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "source": "toss",
-      "name": "한예지 가든 플라워 3겹 천연펄프 화장지, 30m, 30롤, 2팩",
-      "price": 12800,
-      "listPrice": 37900,
-      "observedAt": "2026-10-03T02:32:21.277Z",
-      "url": "https://toss.im/_m/bEhSQcFD",
-      "image": "assets/products/b06505bacecca338e1df.jpg",
-      "insight": "35회 가격 기록",
-      "history": [
-        {
-          "price": 12800,
-          "observedAt": "2026-10-03T02:32:21.277Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-03T01:57:54.968Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-03T01:57:54.720Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-02T23:00:59.732Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-02T23:00:59.229Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-01T23:01:36.872Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-10-01T22:23:02.335Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-30T23:01:28.641Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-30T22:22:34.517Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:15:40.894Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:03:31.314Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T23:03:31.159Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T22:22:58.341Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.253Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-29T00:08:00.112Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T02:32:33.377Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:50:39.749Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.475Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:49:31.344Z"
-        },
-        {
-          "price": 12800,
-          "observedAt": "2026-09-28T01:48:07.271Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-05T23:01:20.837Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:36.181Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-03T23:00:31.729Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.784Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:03:01.186Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-02T23:00:34.250Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:36.534Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:01:32.486Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-01T23:00:24.828Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:28.567Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T23:00:25.053Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:17:08.569Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-08-31T00:15:37.099Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T07:07:25.146Z"
-        },
-        {
-          "price": 19900,
-          "observedAt": "2026-08-18T01:16:41.222Z"
         }
       ]
     },
