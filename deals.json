@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-08T23:15:29.726Z",
+  "updatedAt": "2026-10-08T23:57:42.951Z",
   "deals": [
+    {
+      "id": "toss:p:842006569|n:잘풀리는집 민트 3겹 화장지, 24롤, 27m, 3팩",
+      "source": "toss",
+      "name": "잘풀리는집 민트 3겹 화장지, 24롤, 27m, 3팩",
+      "price": 18630,
+      "listPrice": null,
+      "observedAt": "2026-10-08T23:51:29.988Z",
+      "url": "https://toss.shopping/_m/TRb3nRS",
+      "image": "assets/products/0d7bdcbe9e82606ceeb1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18630,
+          "observedAt": "2026-10-08T23:51:29.988Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:116237203|n:애슐리 눈꽃치즈 순살 안동식 찜닭, 2인분, 772g, 1개",
       "source": "toss",
