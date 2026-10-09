@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T10:50:30.722Z",
+  "updatedAt": "2026-10-09T11:44:43.278Z",
   "deals": [
+    {
+      "id": "toss:p:93386105|n:대식가 일키로 얼큰술국, 1kg, 2팩",
+      "source": "toss",
+      "name": "대식가 일키로 얼큰술국, 1kg, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-10-09T11:38:20.739Z",
+      "url": "https://toss.shopping/_m/nPsV8wy8",
+      "image": "assets/products/90d73615b629574132f9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-09T11:38:20.739Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
       "source": "toss",
