@@ -1,20 +1,37 @@
 {
-  "updatedAt": "2026-10-09T11:44:43.278Z",
+  "updatedAt": "2026-10-09T12:45:14.089Z",
   "deals": [
     {
-      "id": "toss:p:93386105|n:대식가 일키로 얼큰술국, 1kg, 2팩",
+      "id": "toss:p:168907285|n:전통압착 통참기름, 350ml, 2개",
       "source": "toss",
-      "name": "대식가 일키로 얼큰술국, 1kg, 2팩",
-      "price": 12900,
-      "listPrice": null,
-      "observedAt": "2026-10-09T11:38:20.739Z",
-      "url": "https://toss.shopping/_m/nPsV8wy8",
-      "image": "assets/products/90d73615b629574132f9.png",
+      "name": "전통압착 통참기름, 350ml, 2개",
+      "price": 9900,
+      "listPrice": 48600,
+      "observedAt": "2026-10-09T12:39:01.938Z",
+      "url": "https://toss.shopping/_m/vJw6ppTa",
+      "image": "assets/products/ebbbc76e66bcbbba375e.png",
       "insight": "가격 기록을 시작한 상품",
       "history": [
         {
-          "price": 12900,
-          "observedAt": "2026-10-09T11:38:20.739Z"
+          "price": 9900,
+          "observedAt": "2026-10-09T12:39:01.938Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:62167263|n:웅진식품 하늘보리 무라벨 에코, 500ml, 20개",
+      "source": "toss",
+      "name": "웅진식품 하늘보리 무라벨 에코, 500ml, 20개",
+      "price": 10500,
+      "listPrice": null,
+      "observedAt": "2026-10-09T12:37:46.888Z",
+      "url": "https://toss.shopping/_m/XmMH5iDd",
+      "image": "assets/products/f6990027d5bab6ceda44.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10500,
+          "observedAt": "2026-10-09T12:37:46.888Z"
         }
       ]
     },
@@ -23,12 +40,16 @@
       "source": "toss",
       "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
       "price": 10990,
-      "listPrice": null,
-      "observedAt": "2026-10-09T10:50:26.213Z",
+      "listPrice": 46900,
+      "observedAt": "2026-10-09T12:16:10.083Z",
       "url": "https://toss.shopping/_m/rhwPv1Zk",
       "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
-      "insight": "6회 가격 기록",
+      "insight": "7회 가격 기록",
       "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-10-09T12:16:10.083Z"
+        },
         {
           "price": 10990,
           "observedAt": "2026-10-09T10:50:26.213Z"
@@ -52,6 +73,101 @@
         {
           "price": 10990,
           "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2564084501|n:경북 샤인머스켓, 2kg, 5수, 1박스",
+      "source": "toss",
+      "name": "경북 샤인머스켓, 2kg, 5수, 1박스",
+      "price": 8300,
+      "listPrice": null,
+      "observedAt": "2026-10-09T12:11:28.682Z",
+      "url": "https://toss.shopping/_m/XbsadfR9",
+      "image": "assets/products/f5ef7cc11277f0a47f09.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8300,
+          "observedAt": "2026-10-09T12:11:28.682Z"
+        },
+        {
+          "price": 8300,
+          "observedAt": "2026-10-09T09:16:49.505Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
+      "source": "toss",
+      "name": "초록매실 스파클링 제로, 350ml, 20개",
+      "price": 9900,
+      "listPrice": null,
+      "observedAt": "2026-10-09T12:11:28.574Z",
+      "url": "https://toss.im/_m/rCkBInli",
+      "image": "assets/products/942f9fa00020f77531ac.png",
+      "insight": "11회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T12:11:28.574Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T07:20:16.616Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:47.498Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:43.486Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T01:00:32.444Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-10-02T00:30:34.379Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-26T23:41:49.359Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T13:48:22.900Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T06:27:00.505Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T05:58:22.887Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T23:35:44.010Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:93386105|n:대식가 일키로 얼큰술국, 1kg, 2팩",
+      "source": "toss",
+      "name": "대식가 일키로 얼큰술국, 1kg, 2팩",
+      "price": 12900,
+      "listPrice": null,
+      "observedAt": "2026-10-09T11:38:20.739Z",
+      "url": "https://toss.shopping/_m/nPsV8wy8",
+      "image": "assets/products/90d73615b629574132f9.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12900,
+          "observedAt": "2026-10-09T11:38:20.739Z"
         }
       ]
     },
@@ -135,23 +251,6 @@
       ]
     },
     {
-      "id": "toss:p:2564084501|n:경북 샤인머스켓, 2kg, 5수, 1박스",
-      "source": "toss",
-      "name": "경북 샤인머스켓, 2kg, 5수, 1박스",
-      "price": 8300,
-      "listPrice": null,
-      "observedAt": "2026-10-09T09:16:49.505Z",
-      "url": "https://toss.shopping/_m/XbsadfR9",
-      "image": "assets/products/f5ef7cc11277f0a47f09.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8300,
-          "observedAt": "2026-10-09T09:16:49.505Z"
-        }
-      ]
-    },
-    {
       "id": "toss:p:116781819|n:익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
       "source": "toss",
       "name": "익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
@@ -203,59 +302,6 @@
         {
           "price": 6100,
           "observedAt": "2026-10-09T07:34:05.460Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
-      "source": "toss",
-      "name": "초록매실 스파클링 제로, 350ml, 20개",
-      "price": 9900,
-      "listPrice": 19900,
-      "observedAt": "2026-10-09T07:20:16.616Z",
-      "url": "https://toss.im/_m/rCkBInli",
-      "image": "assets/products/942f9fa00020f77531ac.png",
-      "insight": "10회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T07:20:16.616Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T03:10:47.498Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T03:10:43.486Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T01:00:32.444Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-10-02T00:30:34.379Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-26T23:41:49.359Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T13:48:22.900Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T06:27:00.505Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T05:58:22.887Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-05T23:35:44.010Z"
         }
       ]
     },
