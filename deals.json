@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T09:22:29.790Z",
+  "updatedAt": "2026-10-09T09:39:29.413Z",
   "deals": [
+    {
+      "id": "toss:p:2332128517|n:훈장골 돼지왕구이, 500g, 2팩",
+      "source": "toss",
+      "name": "훈장골 돼지왕구이, 500g, 2팩",
+      "price": 12970,
+      "listPrice": 36000,
+      "observedAt": "2026-10-09T09:33:36.884Z",
+      "url": "https://toss.shopping/_m/pgNi0sTt",
+      "image": "assets/products/303b9af95cb740e2a2e3.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 12970,
+          "observedAt": "2026-10-09T09:33:36.884Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2564084501|n:경북 샤인머스켓, 2kg, 5수, 1박스",
       "source": "toss",
