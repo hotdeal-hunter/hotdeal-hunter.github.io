@@ -1,6 +1,217 @@
 {
-  "updatedAt": "2026-10-09T12:45:14.089Z",
+  "updatedAt": "2026-10-09T23:06:29.619Z",
   "deals": [
+    {
+      "id": "toss:p:31983731|n:데이지 선풍기커버, 데이지, 3p",
+      "source": "toss",
+      "name": "데이지 선풍기커버, 데이지, 3P",
+      "price": 5900,
+      "listPrice": 19800,
+      "observedAt": "2026-10-09T23:03:02.026Z",
+      "url": "https://toss.shopping/_m/rT4Akezt",
+      "image": "assets/products/e6e3a44683b92791f628.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-10-09T23:03:02.026Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "source": "toss",
+      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "price": 8410,
+      "listPrice": 75000,
+      "observedAt": "2026-10-09T23:03:01.942Z",
+      "url": "https://toss.shopping/_m/tNq5YXWj",
+      "image": "assets/products/5d1cd607d23bc995858a.jpg",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 8410,
+          "observedAt": "2026-10-09T23:03:01.942Z"
+        },
+        {
+          "price": 7130,
+          "observedAt": "2026-10-09T10:13:31.537Z"
+        },
+        {
+          "price": 7139,
+          "observedAt": "2026-10-09T10:10:56.537Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:42:30.467Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:41:09.338Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82589973|n:농가살리기 여수 순살갈치, 150g, 10팩",
+      "source": "toss",
+      "name": "농가살리기 여수 순살갈치, 150g, 10팩",
+      "price": 29900,
+      "listPrice": 51900,
+      "observedAt": "2026-10-09T23:03:01.812Z",
+      "url": "https://toss.shopping/_m/ddpD8p0l",
+      "image": "assets/products/86c27c284c8dea13de08.png",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 29900,
+          "observedAt": "2026-10-09T23:03:01.812Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T10:06:09.905Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.615Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.519Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T01:01:55.874Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T00:01:39.727Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2305328859|n:동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
+      "source": "toss",
+      "name": "동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
+      "price": 15900,
+      "listPrice": null,
+      "observedAt": "2026-10-09T23:00:29.720Z",
+      "url": "https://toss.shopping/_m/VE3LTZQa",
+      "image": "assets/products/5f53b7ab752640369af1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 15900,
+          "observedAt": "2026-10-09T23:00:29.720Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:851774505|n:이스트밸리 트리플 슈레드 치즈, 1kg, 2개",
+      "source": "toss",
+      "name": "이스트밸리 트리플 슈레드 치즈, 1kg, 2개",
+      "price": 20260,
+      "listPrice": 50800,
+      "observedAt": "2026-10-09T22:00:43.450Z",
+      "url": "https://toss.shopping/_m/9A5FrPXa",
+      "image": "assets/products/4e79c91e4953ca599273.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 20260,
+          "observedAt": "2026-10-09T22:00:43.450Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "source": "toss",
+      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
+      "price": 4990,
+      "listPrice": 14900,
+      "observedAt": "2026-10-09T22:00:43.359Z",
+      "url": "https://toss.shopping/_m/NfzD88U",
+      "image": "assets/products/0658c7fb02d89943aeae.jpg",
+      "insight": "15회 가격 기록",
+      "history": [
+        {
+          "price": 4990,
+          "observedAt": "2026-10-09T22:00:43.359Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-08T23:02:31.072Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-07T23:02:51.808Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:34.234Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-05T23:01:33.723Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.708Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T23:00:55.235Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-03T02:32:20.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.822Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-02T23:00:59.336Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-10-01T23:01:36.965Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T23:01:28.875Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-30T22:22:34.622Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-29T22:22:59.151Z"
+        },
+        {
+          "price": 4990,
+          "observedAt": "2026-09-28T22:21:53.838Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2350118863|n:티젠 애플 사이다 비니거, 5g, 50개입, 1개",
+      "source": "toss",
+      "name": "티젠 애플 사이다 비니거, 5g, 50개입, 1개",
+      "price": 10900,
+      "listPrice": 35000,
+      "observedAt": "2026-10-09T22:00:42.979Z",
+      "url": "https://toss.shopping/_m/3sJIS5h7",
+      "image": "assets/products/fb432a2c5a1ca9d21c70.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10900,
+          "observedAt": "2026-10-09T22:00:42.979Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:168907285|n:전통압착 통참기름, 350ml, 2개",
       "source": "toss",
@@ -168,68 +379,6 @@
         {
           "price": 12900,
           "observedAt": "2026-10-09T11:38:20.739Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-      "source": "toss",
-      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-      "price": 7130,
-      "listPrice": null,
-      "observedAt": "2026-10-09T10:13:31.537Z",
-      "url": "https://toss.shopping/_m/tNq5YXWj",
-      "image": "assets/products/5d1cd607d23bc995858a.jpg",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 7130,
-          "observedAt": "2026-10-09T10:13:31.537Z"
-        },
-        {
-          "price": 7139,
-          "observedAt": "2026-10-09T10:10:56.537Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-27T00:42:30.467Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-27T00:41:09.338Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82589973|n:농가살리기 여수 순살갈치, 150g, 10팩",
-      "source": "toss",
-      "name": "농가살리기 여수 순살갈치, 150g, 10팩",
-      "price": 26000,
-      "listPrice": null,
-      "observedAt": "2026-10-09T10:06:09.905Z",
-      "url": "https://toss.shopping/_m/ddpD8p0l",
-      "image": "assets/products/86c27c284c8dea13de08.png",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T10:06:09.905Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T04:30:43.615Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T04:30:43.519Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T01:01:55.874Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T00:01:39.727Z"
         }
       ]
     },
@@ -638,75 +787,6 @@
         {
           "price": 7900,
           "observedAt": "2026-10-08T23:02:31.183Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2633495199|n:맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "source": "toss",
-      "name": "맘스럽 시그니처코튼 물티슈, 100매입, 10팩, 1개",
-      "price": 4990,
-      "listPrice": 14900,
-      "observedAt": "2026-10-08T23:02:31.072Z",
-      "url": "https://toss.shopping/_m/NfzD88U",
-      "image": "assets/products/0658c7fb02d89943aeae.jpg",
-      "insight": "14회 가격 기록",
-      "history": [
-        {
-          "price": 4990,
-          "observedAt": "2026-10-08T23:02:31.072Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-07T23:02:51.808Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:34.234Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-05T23:01:33.723Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.708Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T23:00:55.235Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-03T02:32:20.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.822Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-02T23:00:59.336Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-10-01T23:01:36.965Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T23:01:28.875Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-30T22:22:34.622Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-29T22:22:59.151Z"
-        },
-        {
-          "price": 4990,
-          "observedAt": "2026-09-28T22:21:53.838Z"
         }
       ]
     },
