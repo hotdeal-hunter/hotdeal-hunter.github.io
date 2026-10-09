@@ -1,6 +1,68 @@
 {
-  "updatedAt": "2026-10-09T09:39:29.413Z",
+  "updatedAt": "2026-10-09T10:16:43.473Z",
   "deals": [
+    {
+      "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "source": "toss",
+      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
+      "price": 7130,
+      "listPrice": null,
+      "observedAt": "2026-10-09T10:13:31.537Z",
+      "url": "https://toss.shopping/_m/tNq5YXWj",
+      "image": "assets/products/5d1cd607d23bc995858a.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 7130,
+          "observedAt": "2026-10-09T10:13:31.537Z"
+        },
+        {
+          "price": 7139,
+          "observedAt": "2026-10-09T10:10:56.537Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:42:30.467Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-27T00:41:09.338Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:82589973|n:농가살리기 여수 순살갈치, 150g, 10팩",
+      "source": "toss",
+      "name": "농가살리기 여수 순살갈치, 150g, 10팩",
+      "price": 26000,
+      "listPrice": null,
+      "observedAt": "2026-10-09T10:06:09.905Z",
+      "url": "https://toss.shopping/_m/ddpD8p0l",
+      "image": "assets/products/86c27c284c8dea13de08.png",
+      "insight": "5회 가격 기록",
+      "history": [
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T10:06:09.905Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.615Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.519Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T01:01:55.874Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T00:01:39.727Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2332128517|n:훈장골 돼지왕구이, 500g, 2팩",
       "source": "toss",
@@ -304,35 +366,6 @@
         {
           "price": 6990,
           "observedAt": "2026-09-27T22:56:11.621Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:82589973|n:농가살리기 여수 순살갈치, 150g, 10팩",
-      "source": "toss",
-      "name": "농가살리기 여수 순살갈치, 150g, 10팩",
-      "price": 26000,
-      "listPrice": null,
-      "observedAt": "2026-10-09T04:30:43.615Z",
-      "url": "https://toss.shopping/_m/ddpD8p0l",
-      "image": "assets/products/86c27c284c8dea13de08.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T04:30:43.615Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T04:30:43.519Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T01:01:55.874Z"
-        },
-        {
-          "price": 26000,
-          "observedAt": "2026-10-09T00:01:39.727Z"
         }
       ]
     },
@@ -11032,27 +11065,6 @@
         {
           "price": 19800,
           "observedAt": "2026-09-27T01:01:26.613Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-      "source": "toss",
-      "name": "아스파시아 PDRN 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-09-27T00:42:30.467Z",
-      "url": "https://toss.shopping/_m/tNq5YXWj",
-      "image": "assets/products/5d1cd607d23bc995858a.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-27T00:42:30.467Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-09-27T00:41:09.338Z"
         }
       ]
     },
