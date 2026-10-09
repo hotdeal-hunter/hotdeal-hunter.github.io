@@ -1,6 +1,93 @@
 {
-  "updatedAt": "2026-10-09T06:51:17.928Z",
+  "updatedAt": "2026-10-09T07:40:14.258Z",
   "deals": [
+    {
+      "id": "toss:p:139900159|n:달콤 바삭 오란다, 250g, 4봉",
+      "source": "toss",
+      "name": "달콤 바삭 오란다, 250g, 4봉",
+      "price": 6100,
+      "listPrice": null,
+      "observedAt": "2026-10-09T07:34:05.823Z",
+      "url": "https://toss.shopping/_m/Z6b77Qlt",
+      "image": "assets/products/98f17c6b08acf788038b.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6100,
+          "observedAt": "2026-10-09T07:34:05.823Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:139901379|n:옥수수 스토리콘, 250g, 4봉",
+      "source": "toss",
+      "name": "옥수수 스토리콘, 250g, 4봉",
+      "price": 6100,
+      "listPrice": null,
+      "observedAt": "2026-10-09T07:34:05.460Z",
+      "url": "https://toss.shopping/_m/B6KLWjIs",
+      "image": "assets/products/fd895d9cee9f0d5b04cb.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 6100,
+          "observedAt": "2026-10-09T07:34:05.460Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
+      "source": "toss",
+      "name": "초록매실 스파클링 제로, 350ml, 20개",
+      "price": 9900,
+      "listPrice": 19900,
+      "observedAt": "2026-10-09T07:20:16.616Z",
+      "url": "https://toss.im/_m/rCkBInli",
+      "image": "assets/products/942f9fa00020f77531ac.png",
+      "insight": "10회 가격 기록",
+      "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T07:20:16.616Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:47.498Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:43.486Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T01:00:32.444Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-10-02T00:30:34.379Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-26T23:41:49.359Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T13:48:22.900Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T06:27:00.505Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-06T05:58:22.887Z"
+        },
+        {
+          "price": 10400,
+          "observedAt": "2026-09-05T23:35:44.010Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2232063697|n:메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1l, 2개",
       "source": "toss",
@@ -208,55 +295,6 @@
         {
           "price": 18600,
           "observedAt": "2026-10-09T03:23:45.214Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
-      "source": "toss",
-      "name": "초록매실 스파클링 제로, 350ml, 20개",
-      "price": 9900,
-      "listPrice": null,
-      "observedAt": "2026-10-09T03:10:47.498Z",
-      "url": "https://toss.im/_m/rCkBInli",
-      "image": "assets/products/942f9fa00020f77531ac.png",
-      "insight": "9회 가격 기록",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T03:10:47.498Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T03:10:43.486Z"
-        },
-        {
-          "price": 9900,
-          "observedAt": "2026-10-09T01:00:32.444Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-10-02T00:30:34.379Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-26T23:41:49.359Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T13:48:22.900Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T06:27:00.505Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-06T05:58:22.887Z"
-        },
-        {
-          "price": 10400,
-          "observedAt": "2026-09-05T23:35:44.010Z"
         }
       ]
     },
