@@ -1,17 +1,189 @@
 {
-  "updatedAt": "2026-10-09T01:06:43.540Z",
+  "updatedAt": "2026-10-09T06:51:17.928Z",
   "deals": [
+    {
+      "id": "toss:p:2232063697|n:메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1l, 2개",
+      "source": "toss",
+      "name": "메르헨트 퍼퓸 대용량 바디워시, 피치블라썸, 1L, 2개",
+      "price": 9180,
+      "listPrice": 30000,
+      "observedAt": "2026-10-09T06:45:05.061Z",
+      "url": "https://toss.im/_m/d8IOHXFx",
+      "image": "assets/products/b5b69673fd1d132befcd.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9180,
+          "observedAt": "2026-10-09T06:45:05.061Z"
+        },
+        {
+          "price": 9500,
+          "observedAt": "2026-08-18T12:58:06.604Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
+      "source": "toss",
+      "name": "교동 버섯 들깨탕, 500g, 5개",
+      "price": 11900,
+      "listPrice": 27500,
+      "observedAt": "2026-10-09T05:52:43.623Z",
+      "url": "https://toss.im/_m/7SYzth3q",
+      "image": "assets/products/d110cbbc6cb9adbb8fe0.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-10-09T05:52:43.623Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-10-02T10:15:15.716Z"
+        },
+        {
+          "price": 12900,
+          "observedAt": "2026-09-04T05:14:03.914Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "source": "toss",
+      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
+      "price": 7900,
+      "listPrice": 33600,
+      "observedAt": "2026-10-09T04:53:19.973Z",
+      "url": "https://toss.im/_m/3dVjSRpe",
+      "image": "assets/products/a335793bbd90c4528ea9.png",
+      "insight": "9회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-09T04:53:19.973Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-10-08T23:01:11.010Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-20T12:32:20.159Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-19T06:34:46.657Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:37:11.950Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-11T03:31:15.474Z"
+        },
+        {
+          "price": 6200,
+          "observedAt": "2026-09-09T10:01:13.636Z"
+        },
+        {
+          "price": 9990,
+          "observedAt": "2026-09-01T10:19:43.738Z"
+        },
+        {
+          "price": 5990,
+          "observedAt": "2026-08-30T23:00:31.560Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
+      "source": "toss",
+      "name": "포천이동 양념LA갈비, 500g, 1팩",
+      "price": 6990,
+      "listPrice": null,
+      "observedAt": "2026-10-09T04:40:18.892Z",
+      "url": "https://toss.shopping/_m/ppD3ILvC",
+      "image": "assets/products/e27e07e3813d259155dd.png",
+      "insight": "14회 가격 기록",
+      "history": [
+        {
+          "price": 6990,
+          "observedAt": "2026-10-09T04:40:18.892Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-09T04:40:14.853Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-07T05:04:14.322Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-05T23:01:33.916Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-05T23:01:33.467Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:26:22.211Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T10:20:26.314Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-10-01T02:32:29.718Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-30T02:32:50.980Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-28T22:21:54.415Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:51:02.720Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T23:21:02.870Z"
+        },
+        {
+          "price": 1398,
+          "observedAt": "2026-09-27T22:57:33.554Z"
+        },
+        {
+          "price": 6990,
+          "observedAt": "2026-09-27T22:56:11.621Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:82589973|n:농가살리기 여수 순살갈치, 150g, 10팩",
       "source": "toss",
       "name": "농가살리기 여수 순살갈치, 150g, 10팩",
       "price": 26000,
       "listPrice": null,
-      "observedAt": "2026-10-09T01:01:55.874Z",
+      "observedAt": "2026-10-09T04:30:43.615Z",
       "url": "https://toss.shopping/_m/ddpD8p0l",
       "image": "assets/products/86c27c284c8dea13de08.png",
-      "insight": "2회 가격 기록",
+      "insight": "4회 가격 기록",
       "history": [
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.615Z"
+        },
+        {
+          "price": 26000,
+          "observedAt": "2026-10-09T04:30:43.519Z"
+        },
         {
           "price": 26000,
           "observedAt": "2026-10-09T01:01:55.874Z"
@@ -23,16 +195,41 @@
       ]
     },
     {
+      "id": "toss:p:161958505|n:던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
+      "source": "toss",
+      "name": "던킨블렌드 캡슐커피, 네스프레소 호환, 에스프레소, 20개입, 4개",
+      "price": 18600,
+      "listPrice": null,
+      "observedAt": "2026-10-09T03:23:45.214Z",
+      "url": "https://toss.shopping/_m/vJ483II",
+      "image": "assets/products/170e67cd6952620bf81a.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18600,
+          "observedAt": "2026-10-09T03:23:45.214Z"
+        }
+      ]
+    },
+    {
       "id": "toss:p:58726303|n:초록매실 스파클링 제로, 350ml, 20개",
       "source": "toss",
       "name": "초록매실 스파클링 제로, 350ml, 20개",
       "price": 9900,
       "listPrice": null,
-      "observedAt": "2026-10-09T01:00:32.444Z",
+      "observedAt": "2026-10-09T03:10:47.498Z",
       "url": "https://toss.im/_m/rCkBInli",
       "image": "assets/products/942f9fa00020f77531ac.png",
-      "insight": "7회 가격 기록",
+      "insight": "9회 가격 기록",
       "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:47.498Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T03:10:43.486Z"
+        },
         {
           "price": 9900,
           "observedAt": "2026-10-09T01:00:32.444Z"
@@ -64,16 +261,45 @@
       ]
     },
     {
+      "id": "toss:p:2236447519|n:케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "source": "toss",
+      "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
+      "price": 11670,
+      "listPrice": 54000,
+      "observedAt": "2026-10-09T02:45:06.753Z",
+      "url": "https://toss.im/_m/PUhhQqjx",
+      "image": "assets/products/864448bc5fc6a2267a7f.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11670,
+          "observedAt": "2026-10-09T02:45:06.753Z"
+        },
+        {
+          "price": 12255,
+          "observedAt": "2026-09-22T08:58:17.129Z"
+        }
+      ]
+    },
+    {
       "id": "toss:p:872710027|n:리버티 입는오버나이트, 4매, 대형, 5팩",
       "source": "toss",
       "name": "리버티 입는오버나이트, 4매, 대형, 5팩",
       "price": 9900,
       "listPrice": null,
-      "observedAt": "2026-10-09T00:05:24.389Z",
+      "observedAt": "2026-10-09T02:22:26.470Z",
       "url": "https://toss.shopping/_m/BVRBLjF",
       "image": "assets/products/6a1152e505bd07748e18.png",
-      "insight": "6회 가격 기록",
+      "insight": "8회 가격 기록",
       "history": [
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T02:22:26.470Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-10-09T02:22:26.357Z"
+        },
         {
           "price": 9900,
           "observedAt": "2026-10-09T00:05:24.389Z"
@@ -97,6 +323,44 @@
         {
           "price": 10900,
           "observedAt": "2026-09-27T12:58:26.442Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:120760913|n:퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
+      "source": "toss",
+      "name": "퍼니트 올인원 이뮨 멀티비타민, 28개입, 1박스",
+      "price": 24000,
+      "listPrice": null,
+      "observedAt": "2026-10-09T01:57:18.638Z",
+      "url": "https://toss.shopping/_m/1Ld8w4mr",
+      "image": "assets/products/33e04174ddf6df3e9045.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 24000,
+          "observedAt": "2026-10-09T01:57:18.638Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2570944735|n:불도깨비 칠리 치즈스틱, 500g, 1개",
+      "source": "toss",
+      "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
+      "price": 8300,
+      "listPrice": 21900,
+      "observedAt": "2026-10-09T01:53:36.867Z",
+      "url": "https://toss.shopping/_m/JQJbIt5h",
+      "image": "assets/products/34722ab5a76a22f5f028.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 8300,
+          "observedAt": "2026-10-09T01:53:36.867Z"
+        },
+        {
+          "price": 9900,
+          "observedAt": "2026-09-28T04:51:21.422Z"
         }
       ]
     },
@@ -258,51 +522,6 @@
         {
           "price": 5530,
           "observedAt": "2026-10-01T22:42:41.402Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2535610243|n:푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "source": "toss",
-      "name": "푸릇담 젊은농부 양배추즙, 100ml, 30팩",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-10-08T23:01:11.010Z",
-      "url": "https://toss.im/_m/3dVjSRpe",
-      "image": "assets/products/a335793bbd90c4528ea9.png",
-      "insight": "8회 가격 기록",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-10-08T23:01:11.010Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-20T12:32:20.159Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-19T06:34:46.657Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:37:11.950Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-11T03:31:15.474Z"
-        },
-        {
-          "price": 6200,
-          "observedAt": "2026-09-09T10:01:13.636Z"
-        },
-        {
-          "price": 9990,
-          "observedAt": "2026-09-01T10:19:43.738Z"
-        },
-        {
-          "price": 5990,
-          "observedAt": "2026-08-30T23:00:31.560Z"
         }
       ]
     },
@@ -1556,67 +1775,6 @@
         {
           "price": 69000,
           "observedAt": "2026-10-07T05:13:05.758Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:104449449|n:포천이동 양념la갈비, 500g, 1팩",
-      "source": "toss",
-      "name": "포천이동 양념LA갈비, 500g, 1팩",
-      "price": 6990,
-      "listPrice": 15900,
-      "observedAt": "2026-10-07T05:04:14.322Z",
-      "url": "https://toss.shopping/_m/ppD3ILvC",
-      "image": "assets/products/e27e07e3813d259155dd.png",
-      "insight": "12회 가격 기록",
-      "history": [
-        {
-          "price": 6990,
-          "observedAt": "2026-10-07T05:04:14.322Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-05T23:01:33.916Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-05T23:01:33.467Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T10:26:22.211Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T10:20:26.314Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-10-01T02:32:29.718Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-30T02:32:50.980Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-28T22:21:54.415Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:51:02.720Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T23:21:02.870Z"
-        },
-        {
-          "price": 1398,
-          "observedAt": "2026-09-27T22:57:33.554Z"
-        },
-        {
-          "price": 6990,
-          "observedAt": "2026-09-27T22:56:11.621Z"
         }
       ]
     },
@@ -5401,27 +5559,6 @@
         {
           "price": 11900,
           "observedAt": "2026-10-01T01:57:05.419Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1745965421|n:교동 버섯 들깨탕, 500g, 5개",
-      "source": "toss",
-      "name": "교동 버섯 들깨탕, 500g, 5개",
-      "price": 12900,
-      "listPrice": 27500,
-      "observedAt": "2026-10-02T10:15:15.716Z",
-      "url": "https://toss.im/_m/7SYzth3q",
-      "image": "assets/products/d110cbbc6cb9adbb8fe0.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 12900,
-          "observedAt": "2026-10-02T10:15:15.716Z"
-        },
-        {
-          "price": 12900,
-          "observedAt": "2026-09-04T05:14:03.914Z"
         }
       ]
     },
@@ -9284,23 +9421,6 @@
         {
           "price": 6150,
           "observedAt": "2026-09-28T05:09:04.476Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2570944735|n:불도깨비 칠리 치즈스틱, 500g, 1개",
-      "source": "toss",
-      "name": "불도깨비 칠리 치즈스틱, 500g, 1개",
-      "price": 9900,
-      "listPrice": 21900,
-      "observedAt": "2026-09-28T04:51:21.422Z",
-      "url": "https://toss.shopping/_m/JQJbIt5h",
-      "image": "assets/products/34722ab5a76a22f5f028.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9900,
-          "observedAt": "2026-09-28T04:51:21.422Z"
         }
       ]
     },
@@ -14392,23 +14512,6 @@
         {
           "price": 3500,
           "observedAt": "2026-09-22T09:31:20.492Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2236447519|n:케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
-      "source": "toss",
-      "name": "케라시스 두피 비듬케어 딥클린 쿨링 단백질 샴푸, 980ml, 3개",
-      "price": 12255,
-      "listPrice": 54000,
-      "observedAt": "2026-09-22T08:58:17.129Z",
-      "url": "https://toss.im/_m/PUhhQqjx",
-      "image": "assets/products/864448bc5fc6a2267a7f.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 12255,
-          "observedAt": "2026-09-22T08:58:17.129Z"
         }
       ]
     },
@@ -31453,23 +31556,6 @@
         {
           "price": 9900,
           "observedAt": "2026-08-18T12:58:06.781Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2232063697|n:메르헨트 퍼퓸 대용량 바디워시, 피치블라썸향, 1l, 2개",
-      "source": "toss",
-      "name": "메르헨트 퍼퓸 대용량 바디워시, 피치블라썸향, 1L, 2개",
-      "price": 9500,
-      "listPrice": null,
-      "observedAt": "2026-08-18T12:58:06.604Z",
-      "url": "https://toss.im/_m/d8IOHXFx",
-      "image": "assets/products/50253921fc2c2926e026.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9500,
-          "observedAt": "2026-08-18T12:58:06.604Z"
         }
       ]
     },
