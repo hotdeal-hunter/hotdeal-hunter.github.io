@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-09T07:40:14.258Z",
+  "updatedAt": "2026-10-09T09:04:29.208Z",
   "deals": [
+    {
+      "id": "toss:p:116781819|n:익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
+      "source": "toss",
+      "name": "익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
+      "price": 11500,
+      "listPrice": 35000,
+      "observedAt": "2026-10-09T09:03:58.754Z",
+      "url": "https://toss.im/_m/NTKYPy1c",
+      "image": "assets/products/c8eb2e0eb5664470e362.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 11500,
+          "observedAt": "2026-10-09T09:03:58.754Z"
+        },
+        {
+          "price": 11800,
+          "observedAt": "2026-09-11T12:41:51.058Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:139900159|n:달콤 바삭 오란다, 250g, 4봉",
       "source": "toss",
@@ -18496,23 +18517,6 @@
         {
           "price": 14900,
           "observedAt": "2026-09-12T00:07:54.019Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:116781819|n:익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
-      "source": "toss",
-      "name": "익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
-      "price": 11800,
-      "listPrice": 35000,
-      "observedAt": "2026-09-11T12:41:51.058Z",
-      "url": "https://toss.im/_m/NTKYPy1c",
-      "image": "assets/products/c8eb2e0eb5664470e362.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 11800,
-          "observedAt": "2026-09-11T12:41:51.058Z"
         }
       ]
     },
