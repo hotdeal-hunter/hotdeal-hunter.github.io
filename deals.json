@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-09T09:04:29.208Z",
+  "updatedAt": "2026-10-09T09:22:29.790Z",
   "deals": [
+    {
+      "id": "toss:p:2564084501|n:경북 샤인머스켓, 2kg, 5수, 1박스",
+      "source": "toss",
+      "name": "경북 샤인머스켓, 2kg, 5수, 1박스",
+      "price": 8300,
+      "listPrice": null,
+      "observedAt": "2026-10-09T09:16:49.505Z",
+      "url": "https://toss.shopping/_m/XbsadfR9",
+      "image": "assets/products/f5ef7cc11277f0a47f09.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 8300,
+          "observedAt": "2026-10-09T09:16:49.505Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:116781819|n:익스트림 단백질 20g 슬림쉐이크, 그레인, 45g, 7포, 1세트",
       "source": "toss",
