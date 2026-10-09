@@ -1,6 +1,43 @@
 {
-  "updatedAt": "2026-10-09T10:16:43.473Z",
+  "updatedAt": "2026-10-09T10:50:30.722Z",
   "deals": [
+    {
+      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "source": "toss",
+      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
+      "price": 10990,
+      "listPrice": null,
+      "observedAt": "2026-10-09T10:50:26.213Z",
+      "url": "https://toss.shopping/_m/rhwPv1Zk",
+      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
+      "insight": "6회 가격 기록",
+      "history": [
+        {
+          "price": 10990,
+          "observedAt": "2026-10-09T10:50:26.213Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-10-01T02:32:30.117Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-30T02:32:51.360Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T22:21:54.286Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T01:20:56.920Z"
+        },
+        {
+          "price": 10990,
+          "observedAt": "2026-09-28T00:50:40.699Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2589931335|n:아스파시아 pdrn 수분재생 미스트, 150ml, 1+1 구성, 총 2개",
       "source": "toss",
@@ -7206,39 +7243,6 @@
         {
           "price": 9250,
           "observedAt": "2026-10-01T02:52:03.107Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2664080633|n:모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "source": "toss",
-      "name": "모나리자 에코 미용티슈, 300매, 12입, 1박스",
-      "price": 10990,
-      "listPrice": 46900,
-      "observedAt": "2026-10-01T02:32:30.117Z",
-      "url": "https://toss.shopping/_m/rhwPv1Zk",
-      "image": "assets/products/4e24e1dc9e3cd960184d.jpg",
-      "insight": "5회 가격 기록",
-      "history": [
-        {
-          "price": 10990,
-          "observedAt": "2026-10-01T02:32:30.117Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-30T02:32:51.360Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T22:21:54.286Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T01:20:56.920Z"
-        },
-        {
-          "price": 10990,
-          "observedAt": "2026-09-28T00:50:40.699Z"
         }
       ]
     },
