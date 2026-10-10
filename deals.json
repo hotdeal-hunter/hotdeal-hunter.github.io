@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-10T04:25:16.933Z",
+  "updatedAt": "2026-10-10T04:56:29.464Z",
   "deals": [
+    {
+      "id": "toss:p:313905607|n:페페브루노 엑스트라버진 올리브 오일, 1l, 2개",
+      "source": "toss",
+      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 2개",
+      "price": 23900,
+      "listPrice": 70000,
+      "observedAt": "2026-10-10T04:50:47.557Z",
+      "url": "https://toss.shopping/_m/NrJM9yPz",
+      "image": "assets/products/27ab55975a6af67479fa.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 23900,
+          "observedAt": "2026-10-10T04:50:47.557Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:146793445|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, v3세트, 스탠드형, 고객직접설치, 1세트",
+      "source": "toss",
+      "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
+      "price": 242000,
+      "listPrice": 461000,
+      "observedAt": "2026-10-10T04:38:43.565Z",
+      "url": "https://toss.shopping/_m/pBvGYGEn",
+      "image": "assets/products/3394c773161df085c1c7.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 242000,
+          "observedAt": "2026-10-10T04:38:43.565Z"
+        },
+        {
+          "price": 242000,
+          "observedAt": "2026-10-10T04:37:35.464Z"
+        },
+        {
+          "price": 242000,
+          "observedAt": "2026-10-10T03:35:24.418Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2375311037|n:빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
       "source": "toss",
@@ -19,23 +61,6 @@
         {
           "price": 8900,
           "observedAt": "2026-09-11T02:53:22.275Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:146793445|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, v3세트, 스탠드형, 고객직접설치, 1세트",
-      "source": "toss",
-      "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
-      "price": 242000,
-      "listPrice": null,
-      "observedAt": "2026-10-10T03:35:24.418Z",
-      "url": "https://toss.shopping/_m/pBvGYGEn",
-      "image": "assets/products/3394c773161df085c1c7.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 242000,
-          "observedAt": "2026-10-10T03:35:24.418Z"
         }
       ]
     },
@@ -26552,35 +26577,6 @@
         {
           "price": 23465,
           "observedAt": "2026-08-18T05:23:44.077Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:101080007|n:페페브루노 엑스트라버진 올리브 오일, 1l, 1개",
-      "source": "toss",
-      "name": "페페브루노 엑스트라버진 올리브 오일, 1L, 1개",
-      "price": 12500,
-      "listPrice": null,
-      "observedAt": "2026-08-26T23:00:55.424Z",
-      "url": "https://toss.im/_m/7oEgpXOp",
-      "image": "assets/products/f39db936dcc0b95e025b.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 12500,
-          "observedAt": "2026-08-26T23:00:55.424Z"
-        },
-        {
-          "price": 12500,
-          "observedAt": "2026-08-21T23:58:53.652Z"
-        },
-        {
-          "price": 12500,
-          "observedAt": "2026-08-21T23:58:53.574Z"
-        },
-        {
-          "price": 12500,
-          "observedAt": "2026-08-19T00:26:03.809Z"
         }
       ]
     },
