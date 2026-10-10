@@ -1,6 +1,112 @@
 {
-  "updatedAt": "2026-10-10T11:45:29.452Z",
+  "updatedAt": "2026-10-10T13:21:29.282Z",
   "deals": [
+    {
+      "id": "toss:p:110393875|n:머그바 직화 오징어 삼겹살 볶음, 350g, 3개",
+      "source": "toss",
+      "name": "머그바 직화 오징어 삼겹살 볶음, 350g, 3개",
+      "price": 14900,
+      "listPrice": null,
+      "observedAt": "2026-10-10T13:15:19.527Z",
+      "url": "https://toss.shopping/_m/dht73NIt",
+      "image": "assets/products/cf03f0e2efcbca028cd1.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-10-10T13:15:19.527Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "source": "toss",
+      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
+      "price": 6930,
+      "listPrice": null,
+      "observedAt": "2026-10-10T12:04:02.541Z",
+      "url": "https://toss.shopping/_m/bZVuf1xj",
+      "image": "assets/products/dee271090cbaa57b791d.png",
+      "insight": "19회 가격 기록",
+      "history": [
+        {
+          "price": 6930,
+          "observedAt": "2026-10-10T12:04:02.541Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:01:43.654Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-07T23:00:31.875Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:34.020Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-05T23:01:33.563Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-04T22:22:49.673Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:55.439Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-03T23:00:54.950Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:31:33.602Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-02T23:30:19.174Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:41:19.666Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-10-01T02:32:29.476Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T22:22:59.245Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T04:17:17.231Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:45.154Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-29T01:20:44.983Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T04:20:48.080Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T03:04:28.462Z"
+        },
+        {
+          "price": 6930,
+          "observedAt": "2026-09-28T02:32:33.556Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:113261609|n:플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
       "source": "toss",
@@ -1978,91 +2084,6 @@
         {
           "price": 6930,
           "observedAt": "2026-10-01T22:53:48.670Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2665318515|n:수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "source": "toss",
-      "name": "수뜰리에 퍼퓸 고체 탈취제, 밤쉘향, 310g, 2개",
-      "price": 6930,
-      "listPrice": null,
-      "observedAt": "2026-10-07T23:01:43.654Z",
-      "url": "https://toss.shopping/_m/bZVuf1xj",
-      "image": "assets/products/dee271090cbaa57b791d.png",
-      "insight": "18회 가격 기록",
-      "history": [
-        {
-          "price": 6930,
-          "observedAt": "2026-10-07T23:01:43.654Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-07T23:00:31.875Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:34.020Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-05T23:01:33.563Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-04T22:22:49.673Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:55.439Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-03T23:00:54.950Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:31:33.602Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-02T23:30:19.174Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:41:19.666Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-10-01T02:32:29.476Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T22:22:59.245Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T04:17:17.231Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:45.154Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-29T01:20:44.983Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T04:20:48.080Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T03:04:28.462Z"
-        },
-        {
-          "price": 6930,
-          "observedAt": "2026-09-28T02:32:33.556Z"
         }
       ]
     },
