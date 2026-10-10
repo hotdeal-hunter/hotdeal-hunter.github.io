@@ -1,6 +1,40 @@
 {
-  "updatedAt": "2026-10-10T07:58:39.115Z",
+  "updatedAt": "2026-10-10T08:39:29.070Z",
   "deals": [
+    {
+      "id": "toss:p:805182907|n:웨이크비 콜드브루 원액 브라질 세하도, 1l, 1병",
+      "source": "toss",
+      "name": "웨이크비 콜드브루 원액 브라질 세하도, 1L, 1병",
+      "price": 5900,
+      "listPrice": 12900,
+      "observedAt": "2026-10-10T08:33:56.316Z",
+      "url": "https://toss.shopping/_m/X66keLal",
+      "image": "assets/products/2b94d35349ed61529c0f.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 5900,
+          "observedAt": "2026-10-10T08:33:56.316Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2338607205|n:뼈 없는 수비드 순살 통족발, 650g, 2개",
+      "source": "toss",
+      "name": "뼈 없는 수비드 순살 통족발, 650g, 2개",
+      "price": 18500,
+      "listPrice": null,
+      "observedAt": "2026-10-10T08:03:43.690Z",
+      "url": "https://toss.shopping/_m/LYKIRfg3",
+      "image": "assets/products/7154a2b784e8b5a91443.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 18500,
+          "observedAt": "2026-10-10T08:03:43.690Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:175262001|n:스페시핏 곰팡이 제거제 플러스, 500ml, 4개",
       "source": "toss",
@@ -20444,27 +20478,6 @@
         {
           "price": 9370,
           "observedAt": "2026-09-07T23:39:26.100Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2560758099|n:웨이크비 브라질 세하도 콜드브루, 1l, 1개",
-      "source": "toss",
-      "name": "웨이크비 브라질 세하도 콜드브루, 1L, 1개",
-      "price": 4300,
-      "listPrice": null,
-      "observedAt": "2026-09-07T23:00:18.537Z",
-      "url": "https://toss.im/_m/FZHsRc1b",
-      "image": "assets/products/17830a43486026562465.jpg",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 4300,
-          "observedAt": "2026-09-07T23:00:18.537Z"
-        },
-        {
-          "price": 4300,
-          "observedAt": "2026-09-07T08:08:03.049Z"
         }
       ]
     },
