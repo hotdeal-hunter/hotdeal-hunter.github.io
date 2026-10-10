@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-10T04:56:29.464Z",
+  "updatedAt": "2026-10-10T07:50:29.781Z",
   "deals": [
+    {
+      "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "source": "toss",
+      "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "price": 9300,
+      "listPrice": 23900,
+      "observedAt": "2026-10-10T07:44:53.642Z",
+      "url": "https://toss.shopping/_m/z0PdxZui",
+      "image": "assets/products/2b253bf03f90430c1d78.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 9300,
+          "observedAt": "2026-10-10T07:44:53.642Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T10:33:50.547Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:313905607|n:페페브루노 엑스트라버진 올리브 오일, 1l, 2개",
       "source": "toss",
@@ -9479,23 +9500,6 @@
         {
           "price": 5480,
           "observedAt": "2026-09-28T11:05:54.025Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
-      "source": "toss",
-      "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
-      "price": 10900,
-      "listPrice": null,
-      "observedAt": "2026-09-28T10:33:50.547Z",
-      "url": "https://toss.shopping/_m/z0PdxZui",
-      "image": "assets/products/2b253bf03f90430c1d78.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 10900,
-          "observedAt": "2026-09-28T10:33:50.547Z"
         }
       ]
     },
