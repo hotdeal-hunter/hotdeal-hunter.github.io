@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-10T10:08:29.741Z",
+  "updatedAt": "2026-10-10T10:31:29.915Z",
   "deals": [
+    {
+      "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+      "source": "toss",
+      "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-10-10T10:25:41.472Z",
+      "url": "https://toss.im/_m/JspXVzUl",
+      "image": "assets/products/62e5ca447be74fdb4e6b.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-10T10:25:41.472Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-11T10:08:24.740Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2338607205|n:뼈 없는 수비드 순살 통족발, 650g, 2개",
       "source": "toss",
@@ -18996,23 +19017,6 @@
         {
           "price": 14900,
           "observedAt": "2026-09-11T10:14:12.412Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
-      "source": "toss",
-      "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
-      "price": 6600,
-      "listPrice": null,
-      "observedAt": "2026-09-11T10:08:24.740Z",
-      "url": "https://toss.im/_m/JspXVzUl",
-      "image": "assets/products/62e5ca447be74fdb4e6b.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 6600,
-          "observedAt": "2026-09-11T10:08:24.740Z"
         }
       ]
     },
