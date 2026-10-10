@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-10T00:56:56.044Z",
+  "updatedAt": "2026-10-10T02:39:43.110Z",
   "deals": [
+    {
+      "id": "toss:p:740190759|n:케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 3개",
+      "source": "toss",
+      "name": "케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 3개",
+      "price": 10940,
+      "listPrice": null,
+      "observedAt": "2026-10-10T02:33:37.771Z",
+      "url": "https://toss.shopping/_m/DQtmoEKo",
+      "image": "assets/products/7b55b8ee74376859f8d4.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 10940,
+          "observedAt": "2026-10-10T02:33:37.771Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:638425999|n:올리 프리미엄 워싱소다, 3kg, 3개",
+      "source": "toss",
+      "name": "올리 프리미엄 워싱소다, 3kg, 3개",
+      "price": 9160,
+      "listPrice": null,
+      "observedAt": "2026-10-10T01:25:22.945Z",
+      "url": "https://toss.shopping/_m/5gjbeaah",
+      "image": "assets/products/dffdf998869b072d771c.jpg",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9160,
+          "observedAt": "2026-10-10T01:25:22.945Z"
+        },
+        {
+          "price": 9160,
+          "observedAt": "2026-10-10T01:25:18.007Z"
+        },
+        {
+          "price": 9160,
+          "observedAt": "2026-10-10T00:24:39.574Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:97360407|n:매콤 넓적다리, 1.25kg, 10개입, 1팩",
       "source": "toss",
@@ -36,23 +78,6 @@
         {
           "price": 7900,
           "observedAt": "2026-10-10T00:46:26.028Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:638425999|n:올리 프리미엄 워싱소다, 3kg, 3개",
-      "source": "toss",
-      "name": "올리 프리미엄 워싱소다, 3kg, 3개",
-      "price": 9160,
-      "listPrice": null,
-      "observedAt": "2026-10-10T00:24:39.574Z",
-      "url": "https://toss.shopping/_m/5gjbeaah",
-      "image": "assets/products/dffdf998869b072d771c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 9160,
-          "observedAt": "2026-10-10T00:24:39.574Z"
         }
       ]
     },
