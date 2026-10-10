@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T00:52:43.322Z",
+  "updatedAt": "2026-10-10T00:56:56.044Z",
   "deals": [
+    {
+      "id": "toss:p:97360407|n:매콤 넓적다리, 1.25kg, 10개입, 1팩",
+      "source": "toss",
+      "name": "매콤 넓적다리, 1.25kg, 10개입, 1팩",
+      "price": 16700,
+      "listPrice": 35000,
+      "observedAt": "2026-10-10T00:56:42.475Z",
+      "url": "https://toss.shopping/_m/PK1qTqQ5",
+      "image": "assets/products/1a977b232a2668976b43.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 16700,
+          "observedAt": "2026-10-10T00:56:42.475Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2612353655|n:코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
       "source": "toss",
