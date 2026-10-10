@@ -1,6 +1,48 @@
 {
-  "updatedAt": "2026-10-10T11:11:17.444Z",
+  "updatedAt": "2026-10-10T11:45:29.452Z",
   "deals": [
+    {
+      "id": "toss:p:113261609|n:플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
+      "source": "toss",
+      "name": "플로비즈 자연 커피꽃꿀 대용량꿀, 2kg, 1개",
+      "price": 14900,
+      "listPrice": 60000,
+      "observedAt": "2026-10-10T11:39:12.692Z",
+      "url": "https://toss.shopping/_m/xqCAd1ai",
+      "image": "assets/products/4af1b7e65f4be45208f0.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 14900,
+          "observedAt": "2026-10-10T11:39:12.692Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "source": "toss",
+      "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
+      "price": 9300,
+      "listPrice": null,
+      "observedAt": "2026-10-10T11:15:05.228Z",
+      "url": "https://toss.shopping/_m/z0PdxZui",
+      "image": "assets/products/2b253bf03f90430c1d78.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 9300,
+          "observedAt": "2026-10-10T11:15:05.228Z"
+        },
+        {
+          "price": 9300,
+          "observedAt": "2026-10-10T07:44:53.642Z"
+        },
+        {
+          "price": 10900,
+          "observedAt": "2026-09-28T10:33:50.547Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
       "source": "toss",
@@ -174,27 +216,6 @@
         {
           "price": 10900,
           "observedAt": "2026-10-10T07:50:50.071Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:154407785|n:맘스케이크 플랫파운드, 혼합, 50g, 20개",
-      "source": "toss",
-      "name": "맘스케이크 플랫파운드, 혼합, 50g, 20개",
-      "price": 9300,
-      "listPrice": 23900,
-      "observedAt": "2026-10-10T07:44:53.642Z",
-      "url": "https://toss.shopping/_m/z0PdxZui",
-      "image": "assets/products/2b253bf03f90430c1d78.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 9300,
-          "observedAt": "2026-10-10T07:44:53.642Z"
-        },
-        {
-          "price": 10900,
-          "observedAt": "2026-09-28T10:33:50.547Z"
         }
       ]
     },
