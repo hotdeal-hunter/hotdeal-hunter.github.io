@@ -1,6 +1,44 @@
 {
-  "updatedAt": "2026-10-09T23:27:43.677Z",
+  "updatedAt": "2026-10-10T00:52:43.322Z",
   "deals": [
+    {
+      "id": "toss:p:2612353655|n:코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
+      "source": "toss",
+      "name": "코오롱제약 올인원 하루한알 멀티비타민, 60정, 2개",
+      "price": 7900,
+      "listPrice": null,
+      "observedAt": "2026-10-10T00:46:31.168Z",
+      "url": "https://toss.shopping/_m/7FBu4aHz",
+      "image": "assets/products/813c14ad6741ef78a60d.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-10T00:46:31.168Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-10-10T00:46:26.028Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:638425999|n:올리 프리미엄 워싱소다, 3kg, 3개",
+      "source": "toss",
+      "name": "올리 프리미엄 워싱소다, 3kg, 3개",
+      "price": 9160,
+      "listPrice": null,
+      "observedAt": "2026-10-10T00:24:39.574Z",
+      "url": "https://toss.shopping/_m/5gjbeaah",
+      "image": "assets/products/dffdf998869b072d771c.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 9160,
+          "observedAt": "2026-10-10T00:24:39.574Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:97834925|n:교동 소고기 미역국, 500g, 5개",
       "source": "toss",
@@ -24286,35 +24324,6 @@
         {
           "price": 23800,
           "observedAt": "2026-08-28T06:57:10.069Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:109930009|n:코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
-      "source": "toss",
-      "name": "코오롱제약 올인원 하루한알 멀티비타민, 900mg, 60정, 4박스",
-      "price": 14560,
-      "listPrice": null,
-      "observedAt": "2026-08-30T01:14:29.634Z",
-      "url": "https://toss.im/_m/bXcVvJEp",
-      "image": "assets/products/9f935f2d533fee4735bf.png",
-      "insight": "4회 가격 기록",
-      "history": [
-        {
-          "price": 14560,
-          "observedAt": "2026-08-30T01:14:29.634Z"
-        },
-        {
-          "price": 14560,
-          "observedAt": "2026-08-30T01:14:29.547Z"
-        },
-        {
-          "price": 14560,
-          "observedAt": "2026-08-26T03:39:54.990Z"
-        },
-        {
-          "price": 14560,
-          "observedAt": "2026-08-23T10:30:28.723Z"
         }
       ]
     },
