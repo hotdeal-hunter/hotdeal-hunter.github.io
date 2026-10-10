@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-10T08:39:29.070Z",
+  "updatedAt": "2026-10-10T10:08:29.741Z",
   "deals": [
+    {
+      "id": "toss:p:2338607205|n:뼈 없는 수비드 순살 통족발, 650g, 2개",
+      "source": "toss",
+      "name": "뼈 없는 수비드 순살 통족발, 650g, 2개",
+      "price": 18500,
+      "listPrice": null,
+      "observedAt": "2026-10-10T10:04:25.414Z",
+      "url": "https://toss.shopping/_m/LYKIRfg3",
+      "image": "assets/products/7154a2b784e8b5a91443.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 18500,
+          "observedAt": "2026-10-10T10:04:25.414Z"
+        },
+        {
+          "price": 18500,
+          "observedAt": "2026-10-10T08:03:43.690Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
+      "source": "toss",
+      "name": "땡큐파머스 구운란, 대란, 30구, 1개",
+      "price": 10490,
+      "listPrice": 18400,
+      "observedAt": "2026-10-10T10:02:55.694Z",
+      "url": "https://toss.im/_m/3yqtMAAy",
+      "image": "assets/products/84828823dcccb9f632e7.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 10490,
+          "observedAt": "2026-10-10T10:02:55.694Z"
+        },
+        {
+          "price": 11400,
+          "observedAt": "2026-09-28T13:00:40.778Z"
+        },
+        {
+          "price": 12400,
+          "observedAt": "2026-09-02T11:03:27.714Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:805182907|n:웨이크비 콜드브루 원액 브라질 세하도, 1l, 1병",
       "source": "toss",
@@ -15,23 +61,6 @@
         {
           "price": 5900,
           "observedAt": "2026-10-10T08:33:56.316Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2338607205|n:뼈 없는 수비드 순살 통족발, 650g, 2개",
-      "source": "toss",
-      "name": "뼈 없는 수비드 순살 통족발, 650g, 2개",
-      "price": 18500,
-      "listPrice": null,
-      "observedAt": "2026-10-10T08:03:43.690Z",
-      "url": "https://toss.shopping/_m/LYKIRfg3",
-      "image": "assets/products/7154a2b784e8b5a91443.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 18500,
-          "observedAt": "2026-10-10T08:03:43.690Z"
         }
       ]
     },
@@ -9418,27 +9447,6 @@
         {
           "price": 11880,
           "observedAt": "2026-09-28T23:01:12.448Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:216279997|n:땡큐파머스 구운란, 대란, 30구, 1개",
-      "source": "toss",
-      "name": "땡큐파머스 구운란, 대란, 30구, 1개",
-      "price": 11400,
-      "listPrice": 18400,
-      "observedAt": "2026-09-28T13:00:40.778Z",
-      "url": "https://toss.im/_m/3yqtMAAy",
-      "image": "assets/products/84828823dcccb9f632e7.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 11400,
-          "observedAt": "2026-09-28T13:00:40.778Z"
-        },
-        {
-          "price": 12400,
-          "observedAt": "2026-09-02T11:03:27.714Z"
         }
       ]
     },
