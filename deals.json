@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-10T10:31:29.915Z",
+  "updatedAt": "2026-10-10T11:03:30.410Z",
   "deals": [
+    {
+      "id": "toss:p:10440177|n:알뜰공식 프리미엄 니트릴 장갑, 화이트, l, 100매",
+      "source": "toss",
+      "name": "알뜰공식 프리미엄 니트릴 장갑, 화이트, L, 100매",
+      "price": 4920,
+      "listPrice": null,
+      "observedAt": "2026-10-10T11:03:23.004Z",
+      "url": "https://toss.shopping/_m/pjaNuLdl",
+      "image": "assets/products/47ec0c616dbfe0ab94ff.jpg",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 4920,
+          "observedAt": "2026-10-10T11:03:23.004Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:1468493821|n:베라 무해력 4zero 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
+      "source": "toss",
+      "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
+      "price": 11900,
+      "listPrice": 38000,
+      "observedAt": "2026-10-10T10:46:09.669Z",
+      "url": "https://toss.im/_m/n3VMWEpr",
+      "image": "assets/products/0e3ff60b2de7d4b1c37e.jpg",
+      "insight": "4회 가격 기록",
+      "history": [
+        {
+          "price": 11900,
+          "observedAt": "2026-10-10T10:46:09.669Z"
+        },
+        {
+          "price": 538,
+          "observedAt": "2026-08-26T12:05:22.000Z"
+        },
+        {
+          "price": 9690,
+          "observedAt": "2026-08-26T12:03:52.485Z"
+        },
+        {
+          "price": 9690,
+          "observedAt": "2026-08-17T13:16:23.757Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
       "source": "toss",
@@ -26652,31 +26698,6 @@
         {
           "price": 9600,
           "observedAt": "2026-08-26T12:30:06.054Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1468493821|n:베라 무해력 4zero 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
-      "source": "toss",
-      "name": "베라 무해력 4ZERO 뽑아쓰는 키친타월, 3겹, 100매, 18팩",
-      "price": 538,
-      "listPrice": null,
-      "observedAt": "2026-08-26T12:05:22.000Z",
-      "url": "https://toss.im/_m/n3VMWEpr",
-      "image": "assets/products/0e3ff60b2de7d4b1c37e.jpg",
-      "insight": "3회 가격 기록",
-      "history": [
-        {
-          "price": 538,
-          "observedAt": "2026-08-26T12:05:22.000Z"
-        },
-        {
-          "price": 9690,
-          "observedAt": "2026-08-26T12:03:52.485Z"
-        },
-        {
-          "price": 9690,
-          "observedAt": "2026-08-17T13:16:23.757Z"
         }
       ]
     },
