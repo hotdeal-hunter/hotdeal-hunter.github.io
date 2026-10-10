@@ -1,6 +1,23 @@
 {
-  "updatedAt": "2026-10-10T02:39:43.110Z",
+  "updatedAt": "2026-10-10T03:35:30.047Z",
   "deals": [
+    {
+      "id": "toss:p:146793445|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, v3세트, 스탠드형, 고객직접설치, 1세트",
+      "source": "toss",
+      "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, V3세트, 스탠드형, 고객직접설치, 1세트",
+      "price": 242000,
+      "listPrice": null,
+      "observedAt": "2026-10-10T03:35:24.418Z",
+      "url": "https://toss.shopping/_m/pBvGYGEn",
+      "image": "assets/products/3394c773161df085c1c7.png",
+      "insight": "가격 기록을 시작한 상품",
+      "history": [
+        {
+          "price": 242000,
+          "observedAt": "2026-10-10T03:35:24.418Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:740190759|n:케라시스 두피 쿨링 단백질 샴푸, 지성 비듬, 980ml, 3개",
       "source": "toss",
@@ -25568,27 +25585,6 @@
         {
           "price": 5780,
           "observedAt": "2026-08-28T06:58:49.035Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:1980516141|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
-      "source": "toss",
-      "name": "와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, 클래식세트, 스탠드형, 고객직접설치, 1세트",
-      "price": 229000,
-      "listPrice": null,
-      "observedAt": "2026-08-28T06:28:10.085Z",
-      "url": "https://toss.im/_m/3jpfIPZp",
-      "image": "assets/products/34dd8f761efefd26330d.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 229000,
-          "observedAt": "2026-08-28T06:28:10.085Z"
-        },
-        {
-          "price": 229000,
-          "observedAt": "2026-08-28T06:25:14.806Z"
         }
       ]
     },
