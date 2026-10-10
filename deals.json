@@ -1,6 +1,52 @@
 {
-  "updatedAt": "2026-10-10T11:03:30.410Z",
+  "updatedAt": "2026-10-10T11:11:17.444Z",
   "deals": [
+    {
+      "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+      "source": "toss",
+      "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
+      "price": 7900,
+      "listPrice": 24000,
+      "observedAt": "2026-10-10T11:11:05.650Z",
+      "url": "https://toss.im/_m/JspXVzUl",
+      "image": "assets/products/62e5ca447be74fdb4e6b.png",
+      "insight": "3회 가격 기록",
+      "history": [
+        {
+          "price": 7900,
+          "observedAt": "2026-10-10T11:11:05.650Z"
+        },
+        {
+          "price": 7900,
+          "observedAt": "2026-10-10T10:25:41.472Z"
+        },
+        {
+          "price": 6600,
+          "observedAt": "2026-09-11T10:08:24.740Z"
+        }
+      ]
+    },
+    {
+      "id": "toss:p:2305328859|n:동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
+      "source": "toss",
+      "name": "동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
+      "price": 4920,
+      "listPrice": null,
+      "observedAt": "2026-10-10T11:04:56.054Z",
+      "url": "https://toss.shopping/_m/VE3LTZQa",
+      "image": "assets/products/5f53b7ab752640369af1.png",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 4920,
+          "observedAt": "2026-10-10T11:04:56.054Z"
+        },
+        {
+          "price": 15900,
+          "observedAt": "2026-10-09T23:00:29.720Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:10440177|n:알뜰공식 프리미엄 니트릴 장갑, 화이트, l, 100매",
       "source": "toss",
@@ -44,27 +90,6 @@
         {
           "price": 9690,
           "observedAt": "2026-08-17T13:16:23.757Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2647904929|n:배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
-      "source": "toss",
-      "name": "배스킨라빈스 망고탱고 밀키소다, 350ml, 12개",
-      "price": 7900,
-      "listPrice": null,
-      "observedAt": "2026-10-10T10:25:41.472Z",
-      "url": "https://toss.im/_m/JspXVzUl",
-      "image": "assets/products/62e5ca447be74fdb4e6b.png",
-      "insight": "2회 가격 기록",
-      "history": [
-        {
-          "price": 7900,
-          "observedAt": "2026-10-10T10:25:41.472Z"
-        },
-        {
-          "price": 6600,
-          "observedAt": "2026-09-11T10:08:24.740Z"
         }
       ]
     },
@@ -421,23 +446,6 @@
         {
           "price": 26000,
           "observedAt": "2026-10-09T00:01:39.727Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2305328859|n:동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
-      "source": "toss",
-      "name": "동원 소와나무 화이트 체다 슬라이스 치즈, 18g, 100매, 1개",
-      "price": 15900,
-      "listPrice": null,
-      "observedAt": "2026-10-09T23:00:29.720Z",
-      "url": "https://toss.shopping/_m/VE3LTZQa",
-      "image": "assets/products/5f53b7ab752640369af1.png",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 15900,
-          "observedAt": "2026-10-09T23:00:29.720Z"
         }
       ]
     },
