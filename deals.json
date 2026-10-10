@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-10T03:35:30.047Z",
+  "updatedAt": "2026-10-10T04:25:16.933Z",
   "deals": [
+    {
+      "id": "toss:p:2375311037|n:빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
+      "source": "toss",
+      "name": "빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
+      "price": 7120,
+      "listPrice": 20000,
+      "observedAt": "2026-10-10T04:19:04.037Z",
+      "url": "https://toss.im/_m/jKuiWtex",
+      "image": "assets/products/538e66636467bc76cb7c.jpg",
+      "insight": "2회 가격 기록",
+      "history": [
+        {
+          "price": 7120,
+          "observedAt": "2026-10-10T04:19:04.037Z"
+        },
+        {
+          "price": 8900,
+          "observedAt": "2026-09-11T02:53:22.275Z"
+        }
+      ]
+    },
     {
       "id": "toss:p:146793445|n:와이드뷰 와이드무빙뷰 32인치 hd 삼탠바이미 셋트, 81cm, v3세트, 스탠드형, 고객직접설치, 1세트",
       "source": "toss",
@@ -19079,23 +19100,6 @@
         {
           "price": 26900,
           "observedAt": "2026-08-18T23:01:15.128Z"
-        }
-      ]
-    },
-    {
-      "id": "toss:p:2375311037|n:빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
-      "source": "toss",
-      "name": "빌리스홈 초고농축 올인원 캡슐세제 퍼펙트 클린 라벤더, 200개, 1600g, 1팩",
-      "price": 8900,
-      "listPrice": 20000,
-      "observedAt": "2026-09-11T02:53:22.275Z",
-      "url": "https://toss.im/_m/jKuiWtex",
-      "image": "assets/products/538e66636467bc76cb7c.jpg",
-      "insight": "가격 기록을 시작한 상품",
-      "history": [
-        {
-          "price": 8900,
-          "observedAt": "2026-09-11T02:53:22.275Z"
         }
       ]
     },
